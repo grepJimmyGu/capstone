@@ -1,0 +1,1572 @@
+created_utc,id,title,author,ups,downs,num_comments,selftext,subreddit_id,is_self
+1355400514.0,14s5ij,Vårt fineste pepperkakehus,trololololol,202,14,20,,t5_2qh94,False
+1356463663.0,15fj9t,Vil du høre en vits?,kjempegreier,183,30,22,,t5_2qh94,False
+1357247906.0,15wqsc,Ser ut til at Lars Lauvik er en redditor,Arnenonym,155,14,26,,t5_2qh94,False
+1369954155.0,1fd949,Eldar Rønning..,Klimpen4prez,164,29,2,,t5_2qh94,False
+1349864280.0,118una,Aftenposten fra da Nordlandsbanen var ny,Blinkskij,129,9,21,,t5_2qh94,False
+1334742794.0,sfsh8,Oh shiiiiiiiiiiiiii,smerten,139,18,9,,t5_2qh94,False
+1367707481.0,1dpady,Jeg har startet med fildeling.,ullsokk1,135,20,9,,t5_2qh94,False
+1336019724.0,t4m0j,Har noen sett vår venn Per Kristian? Vær så snill å spre. (spesielt i Bergen),desouza3,139,24,11,,t5_2qh94,False
+1332949954.0,rho7i,"""Du er mye på den sida der. Er det sånn som artige eller no?""",Ekorn,130,18,33,,t5_2qh94,False
+1332253053.0,r531z,Kristian Valen..,jebus01,128,21,40,,t5_2qh94,False
+1370687725.0,1fx5e6,Kanskje vi skal holde oss til bokmål,Pinstripedsuit,144,34,15,,t5_2qh94,False
+1363972747.0,1at53f,Funnet på facebook-feeden min.,uvelify,117,9,13,,t5_2qh94,False
+1338670899.0,uhnhe,Youtube-kommentar win,espen_f,121,11,3,,t5_2qh94,False
+1318014925.0,l4f2d,Trøndersk paraplydrink...,ffffuuuuManChu,113,9,9,,t5_2qh94,False
+1329588016.0,pvf2t,Märtha har en forklaring!,Gavekort,111,12,6,,t5_2qh94,False
+1361732811.0,1956z2,Budstikka lar folk tagge bilder på nettsida. Dum ide.,Bogamann,103,6,15,,t5_2qh94,False
+1340709079.0,vmhd5,Xocai – en stygg historie om norsk sjokolademafia,Niqulaz,106,10,31,,t5_2qh94,False
+1367757541.0,1dq8yz,Pokemonkamp på City Syd,schnibel,110,20,7,,t5_2qh94,False
+1331193069.0,qn323,"Fant denne annonsen på nrk.no/stillinger, men den er nå tatt vekk. Antar denne stillingen ble besatt..",Antonskarp,105,8,http://www.reddit.com/r/norge/comments/qn323/fant_denne_annonsen_på_nrknostillinger_men_den_er/,,
+1360579478.0,18awvq,"Hadia Tajik: Svarer på kritikk angående ny åndsverlov. ""Fetter Anton"": knuser argumentene og forklarer hva som egentlig pågår i kulissene. Hva tenker dere om loven?",RicReddit,98,5,26,"Sitat av Fetter Anton fra kommentarfeltet på [Digi.no](http://www.digi.no/911255/en-aandsverklov-for-vaar-tid)
+
+
+&gt;Fetter Anton 1 dag siden 
+
+
+Først
+
+Det er viktig at vi får dokumentert hva du mener slik at det er mulig på et senere tidspunkt å peke på linjene i den voldsomme utvidelsen av overvåkning som har skjedd
+
+Det siste vi vil er at politikere om noen år sier at de ikke visste konsekvensene av lovene de laget.
+
+Så til noen kommentarer som det er viktig at du forstår:
+
+""Alle"" vet at DNS ikke lenger kommer til å kunne hindre bittorrent-lignende teknologi.
+
+Jeg skal forklare deg hvorfor og kanskje gi deg en forståelse for hvorfor denne typen lover er et slag i luften. Deretter vil jeg forklare hvorfor dette er destabiliserende for vårt demokrati på lengre sikt
+
+Et slag i luften:
+Det å blokkere DNS baserer seg på at man kan koble en DNS-addresse med ""dårlig"" innhold. Dette vil ikke være mulig i fremtiden. Det er en veldig viktig faktafeil i proposisjonens punkt 2.2
+
+""Selv om BitTorrent-protokollen muliggjør deling direkte mellom klientene, «magnet link» eller «distributed hash table». Felles for disse er at de kan finnes på nettsteder som fungerer som sentrale leverandører av nødvendige støttetjenester for fildeling.""
+
+Dette er IKKE RIKTIG. Det er riktig at en ""tracker"" har dette behovet
+
+Det disse systemene trenger er ett eller annet ""startpunkt"". Det er litt abstrakt
+
+Det er veldig viktig å forstå at denne startinformasjonen er så liten at den kan representeres i en mengde varianter. Alle tjenester på Internett som på en eller annen måte gir tilbake brukergenerert innhold kan brukes til dette. En av de viktigste slike tjenester er google.com selv
+
+Jeg påstår at om ikke lenge vil det komme en bittorrent-lignende variant som finner startinformasjonen sin via google.com. Når det systemet er laget så vil hele konseptet med en ""website som bryter opphavsretten"" bli meningsløst.
+
+Det vil bli slik at en kort random streng
+P2PBootstrapInfo: lliyo054vgktcczwonbvjl7xeigf2wnd3m4mupjv5dm662y8wlmqya48six8wdi7tos3a2rr67nk0jnrshhvws3cqeow5cwth2wt448bgynms6trq9s43ut5zfteun21ccprc0lwww9ntzawpu8cqckqfo3ppf47
+
+Vil være den nødvendige oppstartsinformasjonen du trenger for å koble deg opp til et P2P-nettverk
+
+Tenk på den strengen jeg skrev over og at du har kjøpt deg en ny datamaskin. Du laster ned P2P-programmet
+
+Med det jeg beskrev nå så blir hele ideen med ""website som bryter opphavsretten"" meningsløst. Det er ingen slik webside
+
+Det jeg har beskrevet over er kanskje vanskelig å forstå
+
+Stopp nå og tenk på følgende: Hva vil rettighetshaverne kunne gjøre i neste omgang for å beskytte sine rettigheter?
+
+Jeg kan gi deg svaret: I den konkrete teknologien jeg beskriver så vil de måtte be deg om å lage en ny lov som hindrer søk etter ordet P2PBootstrapInfo på google.com.
+
+Det betyr at man må slippe kravet om at en website driver med ""omfattende opphavsrettighetskrenkeser"". Man vil heller ha et begrep som handler om ""informasjon relatert til nettverk som ofte brukes til opphavsrettighetskrenkelser"". 
+
+Man må også bytte ut DNS-filtrering med en vesentlig mer avansert form for filterring kalt Deep Packet Inspection.
+
+Det er veldig liten usikkerhet rundt scenarioet jeg beskriver. Alle involverte parter vet dette. ""Alle"" skjønner at denne loven egentlig er noe som viser vei for en kamp om en ny lov som kommer til å omhandle Deep Packet Inspection, så vil man i fremtiden si at vi har DNS og IP-blokkering, så blokkering av enkeltstrømmer med data er nesten det samme.
+
+Jeg forventer
+
+I det hele tatt er det en total mangel på en spillteoretisk refleksjon i proposisjonen. Når land inkludert Norge begynner å blokkere websider så kommer teknologien til å hoppe til neste nivå (med en variant beskrevet over så du kan ha en ide). Man har da to effekter av loven:
+1. De utilsiktede effektene
+2. Den neste loven som kommer i kjølvannet av denne loven.
+
+Ingen av dine uttalelser tyder på at du har reflektert spesielt mye over dette. Den neste loven som kommer på bordet kommer til å handle om Deep Packet Inspection. Har du satt deg inn i hva DPI betyr for demokratiet i vesten og forholdet mellom individ og myndigheter? DPI kommer til å bety at så og si ALL TRAFIKK på Internett blir overvåket og klassifisert av mennesker individene i demokratiet ikke vil at skal overvåke dem. Det blir en variant av at jeg som sitter på opphavsretten til ett eller annet skal kunne be staten (via ISPene) om å gi meg lister over mennesker (via IPer) som har en assosiasjon med en type informasjon.
+
+Det er ikke vanskelig å forestille seg hvor grusomt en slik infrastruktur er når ""opphavsretten"" man filtrerer etter er rase
+
+Det går ikke an å diskutere denne proposisjonen i et vakuum når man vet at P2P-teknologien kommer til å gå rundt tiltakene i proposisjonen. Argumentasjonen som proposisjonen bruker for å godta tiltakene vil bli pekt på når neste lov kommer
+
+Det er du som kommer til å være ansvarlig for om teknologien kommer til å bli satt i produksjon eller ikke. Du må forstå at i en systemkrise så beskytter rettsinstansene våre fint lite. Rettsinstansene beskytter også fint lite mot korrupsjon blant de som gis tilgang på informasjon som ikke hadde eksistert om det ikke var for loven.
+
+Fraværet av teknologi som potensielt er undertrykkende er viktig for å beskytte demokratiet vårt. Det du trodde skulle brukes for å unngå at noen lastet ned Max Manus ulovlig vil kunne brukes til helt andre ting i fremtiden.
+
+Jeg skjønner at det er veldig veldig vanskelig å si til rettighetshavere at det ikke vil være mulig å beskytte deres verk fullgodt på Internet uten å utsette demokratiet vårt for en så stor risiko at det rett og slett kan forsvinne
+
+Det finnes ingen løsning på dette teknologikappløpet som ikke ender opp med totalovervåkning
+
+Den beste strategien er derfor følgende: Vi må bruke så lang tid som overhode mulig på å innføre overvåkningsregimer. Mens vi venter så vil samfunnets syn på opphavsretten sakte forandre seg. F.eks. film og musikkindustrien vil forandre seg ved at en del selskaper som ikke lenger har livets rett vil gå konkurs
+
+Hvis vi beveger oss fort så vil vi gå mot et overvåkningssamfunn uten like med stormskritt. 
+
+Da vil det å holde demokratier demokratiske kreve at maktpersoner blir så ærlige og pliktoppfylte som vi aldri har sett siden Jesus vandret på jorden.",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/18awvq/hadia_tajik_svarer_på_kritikk_angående_ny/
+1350427335.0,11lgpc,Netflix endelig tilgjengelig i Norge - trodde aldri jeg skulle se dette,YouHadMeAtBacon,103,11,47,,t5_2qh94,False
+1324466539.0,nl5gt,"Gratulerer til Dagbladet for den best sammensatte 
+avisframsida i 2011",11,7,http://www.reddit.com/r/norge/comments/nl5gt/gratulerer_til_dagbladet_for_den_best_sammensatte/,,,False,t5_2qh94,False
+1320344191.0,lz92p,Dataspill..,nawts,101,10,12,,t5_2qh94,False
+1359387481.0,17fkfx,Tore tar saken,64-17-5,99,9,2,,t5_2qh94,False
+1338374886.0,ubxnq,En kompis har blitt frastjålet mobilen sin. Kjenner du disse?,dnoate,97,10,50,,t5_2qh94,False
+1349888011.0,119cu2,"Stoltenberg og Giske, Giske.",Pinstripedsuit,97,10,http://www.reddit.com/r/norge/comments/119cu2/stoltenberg_og_giske_giske/,,
+1367077202.0,1d7wtt,Pån igjen,Trainbow,104,20,7,,t5_2qh94,False
+1343681964.0,xet6e,"Leger Uten Grenser har fått nok av lavkarbo, «Skal vi danse», flått og andre tullesaker. Nå starter de underskriftskampanje mot norske redaktører.",forteller,92,13,False,
+1326620399.0,ohupj,Spotify tar tak i Plumbosaken...,Tot_Neo,94,7,6,,t5_2qh94,False
+1346936189.0,zg3zo,[META] Om å poste personlig informasjon på /r/norge,Arve,92,9,24,"Nå har jeg
+
+Reddit er et nettsted med få regler, grei og enkel:
+
+&gt; Don't post personal information.
+
+Den første utdypningen til dette er også enkel å forstå: ""Ikke post facebook-profilen til vennen din"". En blogg havner stort sett i samme kategori som dette.
+
+37-åringen er _siktet_ i en straffesak
+
+Nå har ikke jeg lest gjennom hele bloggen
+
+Det er relativt i tråd med hvordan andre subreddits håndterer personlig informasjon (Hvis du poster et bilde fra facebook i /r/pics blir det for eksempel fjernet, jeg vet dette ikke er en nettavis, men hva gjelder enkeltpersoner som ikke selv søker oppmerksomheten, så har jeg til hensikt å håndheve det som om det var.
+
+Blogger, eller sannsynlig tilgjengeliggjør identiteten til siktede og dømte i straffesaker vil bli fjernet.",,False,,t5_2qh94,1346940573.0,,moderator
+1337230541.0,tr7lu,Gratulerer med dagen!,dnoate,94,8,16,,t5_2qh94,True
+1366716476.0,1cxgq8,BankId skal droppe Java,larsga,86,2,33,,t5_2qh94,False
+1370891745.0,1g2as7,"10 juni, dagen da personvernet døde.",Chlom,87,8,http://www.reddit.com/r/norge/comments/1g2as7/10_juni_dagen_da_personvernet_døde/,,
+1300134441.0,g3wml,Scumbag Erna,Agres,88,8,4,,t5_2qh94,False
+1337026498.0,tmyrw,Norge avskaffer Statskirken: Stortinget vil endre Grunnloven og fjerne kristendom som statsreligion. ,fiskfisk,83,5,37,,t5_2qh94,False
+1335616897.0,swpto,History of Norway (x-post fra r/europe),DownGoat,89,15,4,,t5_2qh94,False
+1329158797.0,pns8s,Hvordan nordmenn ser på Europa,Franki_hookah,90,9,28,,t5_2qh94,False
+1363427266.0,1aeize,Det beste er å dunke snut...,popmelt,93,16,4,,t5_2qh94,False
+1354447100.0,145bgu,Varför ska ni alltid vara bättre? //Hälsningar r/sweden,webcamdad_56,93,19,10,,t5_2qh94,False
+1360655209.0,18d8hq,Politiet rykket ut på Ås...,Jeppep,82,8,1,,t5_2qh94,False
+1358007386.0,16fvdg,"Regjeringen vil trolig utestenge nordmenn fra fildelingsnettsteder som «The Pirate Bay». Teknologirådet og IKT-Norge er svært skeptiske til planene, og betegner det som ren sensur.",forteller,86,9,http://www.reddit.com/r/norge/comments/16fvdg/regjeringen_vil_trolig_utestenge_nordmenn_fra/,,
+1364425375.0,1b53ru,Klassisk offermentalitet!,PKNormanBates,81,7,13,,t5_2qh94,False
+1356044856.0,156zm3,Kva gjer Posten/Bring i Die Hard 4.0?,kjemi-kar,80,9,11,,t5_2qh94,False
+1353920531.0,13t070,Ensom jul,anzie,78,5,37,,t5_2qh94,False
+1337798589.0,u1e50,Jeg gråter litt hver gang jeg går forbi dette på jobb...,kiMMey,78,6,16,,t5_2qh94,False
+1336463626.0,tcn83,Facebook integrering i Sverige..,Porpheus,81,10,6,,t5_2qh94,False
+1304437832.0,h37vr,Verdt et forsøk...,ScienceGoneWrong,82,7,2,,t5_2qh94,False
+1374134047.0,1ijozx,Til og med Google har skjønt at det er dyrt å kjøpe øl i Norge.,raaabs,88,16,2,,t5_2qh94,False
+1345463952.0,yip22,Postens nye el-biler,iernie,79,7,22,,t5_2qh94,False
+1373888536.0,1ic15t,BBQ-sesongen er i gang!,Bogamann,83,12,11,,t5_2qh94,False
+1367835130.0,1ds9hr,Cringe funnet utenfor Outland i Bergen,ocin78,89,21,24,,t5_2qh94,False
+1364577454.0,1b92uh,Brun og Blid og en talentløs PR-ekspert,forteller,79,6,7,,t5_2qh94,False
+1345716042.0,yot2f,Krompen med klar melding til VG,larsga,74,3,24,,t5_2qh94,False
+1323681680.0,n9idv,Hei. Oppegående redditere: Vil dere støtte Digitalt Personverns sak for å prøve DLD for retten?,Phalex,75,8,9,,t5_2qh94,False
+1368803894.0,1eis38,Gratulerer med dagen fra Finland!,C00K133,76,9,11,,t5_2qh94,False
+1335871145.0,t1doo,Alexander Dale Oen er død,Nevto,76,7,12,,t5_2qh94,False
+1315817863.0,kcwha,"Ikke glem å stemme i dag, godt valg til alle norske redditors!",mortenaa,73,7,http://www.reddit.com/r/norge/comments/kcwha/ikke_glem_å_stemme_i_dag_godt_valg_til_alle/,,
+1347021111.0,zi4al,Slik er historien forferdelig til 17 år i offentlig skole. Hver da - YouTube,Niqulaz,75,10,9,,t5_2qh94,False
+1324171648.0,ngvr8,SWAG,TheLameCat,79,10,42,,t5_2qh94,False
+1372841414.0,1hk2ja,Ordspillavdelingen i Dagbladet når nye høyder!,CorFace,77,10,10,,t5_2qh94,False
+1361793694.0,196sej,Det er dette VG-nett mener leserene vil ha.,kane_is_able,76,13,42,,t5_2qh94,False
+1352881025.0,1368le,Åfjord vinmonopol ligger i... Kamerun?,henoksen,70,3,5,,t5_2qh94,False
+1346856049.0,ze7q9,Gode oversettelser i programvare...,nycerine,69,3,7,,t5_2qh94,False
+1343048332.0,x0i1p,Drosjeregning,nawts,77,13,7,,t5_2qh94,False
+1373526568.0,1i2f2y,Om å bli overopphetet i debatter,Arve,76,9,5,"En liten påminnelse:
+
+Siden jeg startet /r/norge for litt over fem år siden, helt til den nylige diskusjonen om store kontantkjøp, hvor en av deltagerne tok helt av.
+
+Så, og ikke inneholder et saklig svar til hvem du nå enn ble så sint på, så trykk ""Cancel"" i stedet for ""Reply"".
+
+Jeg er så gammel at jeg husker no.* på nittitallet, kan de allerede lese på nettet, og at jeg ikke har noe å tilføye.    Jeg vil slippe å havne i den situasjonen igjen, og om noen har tenkt til å prøve å senke debattnivået dithen at alt innholdet i kommentarene reelt sett er ""dust"" og ""mongo"", så kommer jeg til å endre reglene her inne for å fjerne sånne kommentarer (selv om jeg strengt tatt mener at nedstemming er et bedre verktøy).
+
+",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/1i2f2y/om_å_bli_overopphetet_i_debatter/
+1360488049.0,188on4,Findus [x-post fra /r/sweden],schnibel,70,8,7,,t5_2qh94,False
+1350001465.0,11c8h9,"Kart over jordens menneskeraser, funnet i en bok på Akershus festning",Blinkskij,66,1,http://www.reddit.com/r/norge/comments/11c8h9/kart_over_jordens_menneskeraser_funnet_i_en_bok/,,
+1334482720.0,samvc,Indisk Atle antonsen (xpost fra r/funny),SirSupay,81,16,4,,t5_2qh94,False
+1368812266.0,1ej2ch,"Jeg fikk ikke 17. Mai pakken min fra mamma, så jeg måtte improvisere fram pynt og flagg",hovding,71,12,http://www.reddit.com/r/norge/comments/1ej2ch/jeg_fikk_ikke_17_mai_pakken_min_fra_mamma_så_jeg/,,
+1327375146.0,otwse,Office-promotion på Komplett,,70,8,1,,t5_2qh94,False
+1322744038.0,mw2rb,First World Problems,Kasami,70,8,14,,t5_2qh94,False
+1365150494.0,1bq0n4,"Tuva Turisthytte, Hardangervidda...",Jurge92,68,4,http://www.reddit.com/r/norge/comments/1bq0n4/tuva_turisthytte_hardangervidda/,,
+1355824882.0,151nz7,Breivik får en skuffende beskjed,jebus01,109,47,26,,t5_2qh94,False
+1343847767.0,xiqft,Fant tilbake til 1999 på min fars loft; på tide å oppdatere CVen?,homeopathetic,65,2,8,,t5_2qh94,False
+1311342641.0,iwsto,"Stor eksplosjon i Oslo, mange skadede, årsak uklar",larsga,71,43,False,
+1304022676.0,gzlei,Dagbladet kopierer seg selv,Agres,66,3,15,,t5_2qh94,False
+1335464691.0,stx9l,Justin Bieber til Norge. Reaksjonene lar ikke vente på seg.,Strid,66,9,4,,t5_2qh94,False
+1371715463.0,1gps6g,Følg opp dine folkevalgte her. holderdeord.no er din uavhengige kilde for fakta om stortingspolitikk. Vi fokuserer på faktisk stemmegivning på Stortinget og gjør det enkelt for deg å sjekke hva dine politikere stemmer i Stortingssalen og lover i partiprogram.,Gnurx,65,4,6,,t5_2qh94,False
+1352379612.0,12urvv,Politiets Fellesforbund kan dette med timing,forteller,64,4,9,,t5_2qh94,False
+1359933926.0,17u064,Nye dyrearter oppdaget,desouza3,80,22,5,,t5_2qh94,False
+1316881827.0,kq46j,Politikk i Russland,BOBossy,63,3,6,,t5_2qh94,False
+1319511959.0,lnxwv,Tusen abonnenter!,jasontang,63,5,5,,t5_2qh94,False
+1359544164.0,17k0yg,Favorittkoppen på jobb,thenorwegianblue,61,8,1,,t5_2qh94,False
+1335799533.0,sztyf,Alarm (..igjen),diskomo,61,7,17,,t5_2qh94,False
+1314219080.0,jt9no,Handelshøyskolen BI,krissern,67,10,35,,t5_2qh94,False
+1313790460.0,joamb,Narvesen kaller en spade for en spade,larsga,63,8,0,,t5_2qh94,False
+1309083950.0,i9hc0,"Oslo Meetup, Imgur Album :)",ThJ,69,14,http://www.reddit.com/r/norge/comments/i9hc0/oslo_meetup_imgur_album/,,
+1376644097.0,1kh8pj,"""Æ betale faan ikkje bot førr ikkje å ha væst!""",larsga,69,14,24,,t5_2qh94,False
+1358343280.0,16om90,To artikler til prisen av én fra Dagbladet,YouHadMeAtBacon,65,9,6,,t5_2qh94,False
+1355072341.0,14jwrg,Black Debbath søker positiv plateanmelder,bliz_,57,2,3,,t5_2qh94,False
+1353278425.0,13f2h0,Malvin og bluesfestivalen,schnibel,56,4,13,,t5_2qh94,False
+1344364813.0,xu408,Hos redaksjonen i avisa Glomdalen er det ingenting som heter politisk korrekthet,thekkel,59,6,14,,t5_2qh94,False
+1330867351.0,qh4so,Dagbladet.no med en subtil kommentar til valget i Russland,slarken,65,9,10,,t5_2qh94,False
+1322660833.0,mupdf,Og årets «Jeg vil også være med!»-pris går til ...,dnoate,61,8,12,,t5_2qh94,False
+1369252877.0,1eut5d,Singel manns blogg,Foffern,71,13,7,,t5_2qh94,False
+1360900972.0,18k9be,Differansen mellom endringen i reell studiestøtte og endringen av gjennomsnittlig lønnsnivå for stortingsrepresentanter og regjeringsmedlemmer. ,slimmey,61,9,20,,t5_2qh94,False
+1334690577.0,senwy,Uheldig reklameannonse,muffe122,62,10,6,,t5_2qh94,False
+1374548989.0,1iuz7f,Jernbaneverkets måte å informere blinde mennesker.,willandern,64,8,4,,t5_2qh94,False
+1368635746.0,1ee2nn,"Av ren nysgjerrighet, hva stemmer norske redditbrukere til neste valg, og hvorfor?",sommerz,63,183,False,
+1367279611.0,1ddhx1,Ny åndsverklov vedtatt - Bare venstre stemte imot,Heslig,54,4,28,,t5_2qh94,False
+1354862766.0,14flix,Karikatur av en bestemt svenske (x-post fra r/sweden),branato,63,8,4,,t5_2qh94,False
+1334242669.0,s68ls,"Har dere sett Ingvar? Ingvar har forsvunnet og ble 
+sist sett natt til torsdag 5. april. Denne kvelden var
+han på Underwater pub og tok derfra taxi til 
+Sofienberg/Grünerløkka ved stengetid.",13,0,http://www.reddit.com/r/norge/comments/s68ls/har_dere_sett_ingvar_ingvar_har_forsvunnet_og_ble/,"**Har du sett Ingvar?**
+Ingvar har forsvunnet og ble sist sett natt til torsdag 5. april. Denne kvelden var
+han på Underwater pub og tok derfra taxi til Sofienberg/Grünerløkka ved
+stengetid. Ingvar er 33 år og 173 cm høy og hadde trolig på seg en brun jakke.
+Hvis du så Ingvar på Underwater eller har sett ham etter dette ber vi deg ta
+kontakt med Egil Rasmussen på tlf 920 15 787/epost egil.rasmussen@gmail.com
+eller politiets savnetgruppe på tlf: 22 66 91 89. Facebook: [http://tinyurl.com/ingvar-savnet](http://tinyurl.com/ingvar-savnet)
+
+**Have you seen Ingvar?**
+Ingvar is missing and was last seen the night between 4. and 5. of April. He was at Underwater
+pub and took a taxi to Sofienberg/Grünerløkka at closing time. He is 33 years old and 173 cm. If you saw him at
+Underwater or have seen him after this
+
+Se: http://www.f9.no/ingvar.pdf eller http://nrk.no/nyheter/distrikt/ostlandssendingen/1.8070713",,t5_2qh94,True,,,True,http://www.reddit.com/r/norge/comments/s68ls/har_dere_sett_ingvar_ingvar_har_forsvunnet_og_ble/
+1326965012.0,on2d3,"- Et ganske drastisk tiltak: Mens det krangles om lovforslag mot ulovlig fildeling i USA, synes Gisle Hannemyr bemerkelseverdig få bryr seg om at lignende lover er i ferd med å innføres i Norge.",fiskfisk,56,4,http://www.reddit.com/r/norge/comments/on2d3/et_ganske_drastisk_tiltak_mens_det_krangles_om/,,
+1372511294.0,1hb4bv,Dagbladet mener Edward Snowden er en hacker (link til artikkel i komm.),Blinkskij,62,10,15,,t5_2qh94,False
+1360841174.0,18ic1h,Fann denne på skulen min. Det er ein vidaregåande skule.,RussiskRulett,61,5,14,,t5_2qh94,False
+1359106622.0,178ym6,Ass juice anyone? [SFW] (x-post from /r/pics,shickabang,70,20,8,,t5_2qh94,False
+1338577274.0,ug0sv,Det eneste riktige å gjøre med et slikt navn. ,LarryjugendD,60,6,2,,t5_2qh94,False
+1335083795.0,smful,"Det var jammen godt at vi ikke lot oss endre av 22. juli, dere!",homeopathetic,58,10,http://www.reddit.com/r/norge/comments/smful/det_var_jammen_godt_at_vi_ikke_lot_oss_endre_av/,,
+1328267255.0,p94rx,Jeg lurer på hvordan One Call kom frem til at det er en flott idé å la alle *overskriftene* på sidene deres være i Flash,homeopathetic,53,0,9,,t5_2qh94,False
+1313818918.0,jomss,Noen andre enn meg som hater artige.no?,jokkebassen,57,6,30,"Det flommer over på facebooken min av folk som liker bilder der. Jeg får spesielt vondt i sjelen min når jeg ser ragecomics på norsk,,
+1283436248.0,d8oqc,Siv Jensen er rystet,janpjens,54,4,9,,t5_2qh94,False
+1371301540.0,1gec0v,Å gi fra seg retten til privatliv er en alt for høy pris å betale for illusjonen om trygghet,sailornoob,57,5,0,,t5_2qh94,False
+1371001118.0,1g5zq4,En anstendig beskjed om personvern!,slimmey,62,7,5,"I anledning overvåkningsskandalen i USA og den nylige implementeringen av den nye piratkopieringsloven ønsker jeg å rette fokus på det som er gjenværende av vårt personvern. 
+
+De følgende dagene har vært preget av nyhetsartikler om overvåkningsskandaler og om innføring av ny lov mot piratkopiering; følgende tiltak som ikke minst er et hån og forakt mot personvern
+
+Det har i USA vært en stor opprustning mot slike tiltak: /r/restorethefourth og George Orwell's 1984 har hatt en 7000% salgs/interesseøkning på Amazon. Det er ikke bare trist og tafatt at enkelte tror at de kan drive på slik
+
+Tilhengere av disse begrunner det med at ""dersom en ikke har noe å skjule
+
+Jeg ønsker ikke bare mitt personvern tilbake
+
+Stoltenberg
+
+Jeg ønsker mer fokus
+
+**TLDR: Les det.**",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/1g5zq4/en_anstendig_beskjed_om_personvern/
+1368888999.0,1ektxs,Trondhjems Studentersangforening og russen,lordlarm,54,5,7,,t5_2qh94,False
+1327504535.0,ow3tu,NRK lisens,isthisit_thisisit,61,9,7,,t5_2qh94,False
+1376843269.0,1km04t,Tjostolv Moland er død,Strid,58,6,14,,t5_2qh94,False
+1338549391.0,ufgru,Takk,forteller,55,6,4,,t5_2qh94,False
+1333815568.0,rxz4i,Kjeder du deg i påska? Kommentarfeltbingo!,novovo,61,10,6,,t5_2qh94,False
+1308254078.0,i1hzg,Hurtigruten: Minutt for minutt,espen_f,55,4,2,,t5_2qh94,False
+1306526753.0,hlrue,Miljøstaten Norge? more like...,Knask,53,5,1,,t5_2qh94,False
+1358404765.0,16qn00,Makan til frekkhet,digitaldanger,61,8,11,,t5_2qh94,False
+1354802328.0,14dsv9,Elevorganisasjonen vil droppe skolegudstjenesten,ghostofgarborg,58,9,27,,t5_2qh94,False
+1354536718.0,1473q5,Vannkoker i tidløst design fra elkjøp.,Strid,61,14,10,,t5_2qh94,False
+1350249056.0,11h795,Polititoppene jobbet som hemmelige agenter for den amerikanske ambassaden i Oslo i en årrekke uten å betale skatt. Nå slipper de straff selv om de har innrømmet svart arbeid for flere millioner kroner. Verken politiet eller skattedirektøren vil forklare hvorfor agentene er innvilget skatteamnesti.,forteller,51,6,26,,t5_2qh94,False
+1348579679.0,10g5do,–Folk tror mer overvåkning rammer andre enn dem selv – Datatilsynet bekymrer seg over at nordmenn ønsker mer kontroll og overvåkning velkommen for å hindre nye terrorangrep.,forteller,56,3,8,,t5_2qh94,False
+1333535370.0,rsov1,Endelig en som har planlagt påskeferien meget godt....,kimme,56,9,12,,t5_2qh94,False
+1326643622.0,oi1kc,Da Madcons indre barn døde.,CraWea,53,4,4,,t5_2qh94,False
+1316635690.0,kn391,Slapper av i Riga,heidaft,52,4,7,,t5_2qh94,False
+1375014190.0,1j7nnb,"«Ikke på noe tidspunkt i de 37 årene Lånekassen har ført statistikk, har studentene hatt mindre å rutte med.»",rumpetryne,50,2,http://www.reddit.com/r/norge/comments/1j7nnb/ikke_på_noe_tidspunkt_i_de_37_årene_lånekassen/,,
+1369895282.0,1fbmhj,Norsk tegneserie får pepper i israelske aviser. Kommentarfeltet under artikkelen får jo dagbladets kommentatorer til å virke stuereine og høflige..,Snilefisken,54,7,48,,t5_2qh94,False
+1369330765.0,1ewynz,"Bra forbilder, Jens!",torvaldl,64,20,http://www.reddit.com/r/norge/comments/1ewynz/bra_forbilder_jens/,,
+1368876090.0,1eklty,For noen vekker 17. mai bare vonde minner ... om tapte bunadsvesker - funnet på FB,YouHadMeAtBacon,55,8,2,,t5_2qh94,False
+1368758998.0,1ehtfv,Gratulerer med dagen!,Tuhulu,54,10,0,,t5_2qh94,False
+1368121644.0,1e0i5m,"Teleoperatørene er pålagt å beholde all trafikkinformasjon til og fra din mobiltelefon i tre måneder. Dette er et utklipp av hva jeg fikk gjennom i min begjæring om innsyn hos Telenor. Det inneholder bl.a. lokalisering, telefonnumre, tid, varighet, IP adresser og datamengder.",52,,t5_2qh94
+1359754364.0,17pulw,Eva Haddeland til minne,larsga,54,5,7,,t5_2qh94,False
+1356906414.0,15ox0p,Snarveien,WannaDance2,53,3,5,,t5_2qh94,False
+1354238458.0,140zlc,Ni behöver en egen css!,WASDx,51,6,24,"Kolla så fint vi har det i /r/sweden,,
+1354089930.0,13xb3v,Twilight fan til besvær,nawts,66,22,16,,t5_2qh94,False
+1341920967.0,wbnll,Pantere,demonstro,67,19,3,,t5_2qh94,False
+1334924397.0,sjj2d,Hva er en app? (Aftenposten),Aqwis,49,2,9,,t5_2qh94,False
+1328192227.0,p7opp,Kjære Mohyeldeen - jeg er så lei av å bli satt i bås med folk som deg.,Wyld0rc,52,8,4,,t5_2qh94,False
+1374935612.0,1j5t3k,"«Vi mener datalagringsdirektivet lar seg forsvare, fordi det vil kunne gagne samfunnet mer enn det hver enkelt av oss taper.» (VG, 13.01.10)",rumpetryne,52,25,False,
+1373970074.0,1ielcb,Varg Vikernes arrestert i Frankrike for massakreplaner,Dogvillain,52,6,30,,t5_2qh94,False
+1367960088.0,1dvwyh,Den nye åndsverkloven ferdigbehandlet; åpner for privatetterforskning og nettsensur,bdfgtyuj,50,4,14,"[Loven](http://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=56405) ble i dag behandlet for andre gang
+
+Private aktører vil altså, ta listen med til domstolen (uten å gå gjennom politiet) og få utlevert identiteten til adressens juridiske eier. Vedkommende skal varsles om sin utlevering tidligst én måned og senest seks måneder senere.
+
+Loven åpner også for at ISP-er kan pålegges å blokkere nettsteder som menes å knyttes til ""åpenbare krenkelser av opphavsretten i stort omfang"". Imens er Kripos' barnepornofilter i dag ikke lovpålagt for ISP-er å innføre.
+
+Les mer:
+
+[Hardware.no: Nå skal norske nettpirater tas](http://www.hardware.no/artikler/na-skal-norske-nettpirater-tas/116714)
+
+[Hardware.no: – Piratloven kan i praksis bli vedtatt denne uka](http://www.hardware.no/artikler/i-praksis-blir-piratloven-vedtatt-denne-uka/133079)
+
+[Digi.no: – Nettsteder skal kunne sperres!](http://www.digi.no/911240/nettsteder-skal-kunne-sperres)
+
+[Regjeringen.no: Lovendringene](http://www.regjeringen.no/nb/dep/kud/dok/regpubl/prop/2012-2013/prop-65-l-20122013.html?id=713955)
+
+[Regjeringen.no: Høringsuttalelser fra diverse aktører](http://www.regjeringen.no/nb/dep/kud/dok/hoeringer/hoeringsdok/2011/horing---endringer-i-andsverkloven---til/horingsuttalelser.html?id=643800)",,t5_2qh94,1368012954.0,,,True,http://www.reddit.com/r/norge/comments/1dvwyh/den_nye_åndsverkloven_ferdigbehandlet_åpner_for/
+1337087918.0,to5nu,"Se Egon, en Franz Jäger - fra Berlin!",nawts,52,6,http://www.reddit.com/r/norge/comments/to5nu/se_egon_en_franz_jäger_fra_berlin/,,
+1315934712.0,keeed,Islandiseringen av Norge,slarken,53,6,5,,t5_2qh94,False
+1315308684.0,k6bea,Ruter behandler sine sjåfører som småunger,larsga,50,2,2,,t5_2qh94,False
+1312569584.0,ja3qn,Jasså gutt,jungl,52,2,4,,t5_2qh94,False
+1307717755.0,hwew6,Rema 1000 i skien har fått nytt slagord.,espen_f,50,7,4,,t5_2qh94,False
+1357666053.0,166xw1,"Niels-Thomas (20) var åpen om angstlidelse, ble kastet av Norwegian-flyet.",Laugums_,49,2,http://www.reddit.com/r/norge/comments/166xw1/nielsthomas_20_var_åpen_om_angstlidelse_ble/,,
+1342174106.0,whr4p,Definitivt beste rosablogg,larsga,55,7,6,,t5_2qh94,False
+1332327185.0,r6kyo,Ledig stilling!,bjarneh,50,4,5,,t5_2qh94,False
+1324915187.0,nr7no,"""Nei!"" -- Hans-Wilhelm Steinfeld, Moskva",homeopathetic,51,4,http://www.reddit.com/r/norge/comments/nr7no/nei_hanswilhelm_steinfeld_moskva/,,
+1323778763.0,nax18,"""Europe is facing a crisis that cannot be ignored.""",,47,2,2,,t5_2qh94,False
+1320605639.0,m2l6x,Attention to detaljar er det mest important,henjak,51,6,5,,t5_2qh94,False
+1372418667.0,1h8q6p,"""Hvorfor må personvernet ved hver eneste korsvei vike for et rop om sikkerhet?"" Kronikk av advokat John Christian Elden.",warrantyvoid,50,8,0,,t5_2qh94,False
+1370800116.0,1fzous,Nå blir piratvirksomhet på nett lett å avsløre,TheEndgame,50,3,24,,t5_2qh94,False
+1361198690.0,18r2l9,Satt lenge og spekulerte på denne (hentet fra VG's nye humorportal). Måtte til slutt søke opp originalen.,diskomo,53,6,13,,t5_2qh94,False
+1357826400.0,16bakr,«Kon-Tiki» nominert til Oscar,svrkrun,48,5,16,,t5_2qh94,False
+1349457692.0,1101s8,Hvem andre enn nordmenn kunne muligens ha nytte av å se denne?,ohtobiasyoublowhard,52,4,7,,t5_2qh94,False
+1349085724.0,10r6an,"Tiggerne som fikk hjelp fra ranasamfunnet til å komme hjem til Romania, er tilbake i Mo sentrum igjen.",Gnurx,49,6,http://www.reddit.com/r/norge/comments/10r6an/tiggerne_som_fikk_hjelp_fra_ranasamfunnet_til_å/,,
+1338805432.0,uk07z,Dømt for pirat-teksting i Norge - NTNU-student fikk 15000 kroner i bot for å ha lastet opp undertekster til film og TV på nettet.,forteller,47,2,36,,t5_2qh94,False
+1340097562.0,v9pid,Svein rømmer - En fin bok,hagegnom,50,4,18,,t5_2qh94,False
+1324643740.0,nnvg0,Norsk presse beskytter ytringsfriheten...,cmykify,50,7,13,,t5_2qh94,False
+1372662504.0,1hewl3,Fra og med i dag er småpirater lett bytte,kirneho,51,6,50,,t5_2qh94,False
+1368119812.0,1e0fro,Søte løgner om aspartam på Facebook.,novovo,48,4,15,,t5_2qh94,False
+1361557382.0,1917x4,"NRK linket til en XLTV video på forsiden sin, det fikk meg til og mimre. Lagde en spilleliste med noen videoer fra Youtube",aleksh2o,44,1,http://www.reddit.com/r/norge/comments/1917x4/nrk_linket_til_en_xltv_video_på_forsiden_sin_det/,,
+1352030060.0,12lxeu,Lege vil starte cannabisbehandling i Norge,eevar,50,6,9,,t5_2qh94,False
+1329817805.0,pz5g4,Gjett prisen - Finn.no,sebastianjg,45,3,5,,t5_2qh94,False
+1375915592.0,1jx07f,USAs overvåkning burde bekymre oss,sabeltann,52,9,2,,t5_2qh94,False
+1374479684.0,1istnt,"""En konge som kan gråte vil alltid være﻿ min konge""",Ueland,51,10,7,,t5_2qh94,False
+1358268389.0,16mibf,"Dette er r/Norge, så vi kan le litt av våre Svenske naboer :)",kazzygoespro,42,3,http://www.reddit.com/r/norge/comments/16mibf/dette_er_rnorge_så_vi_kan_le_litt_av_våre_svenske/,,
+1354651017.0,14a06j,"Magnus Carlsen har nå den høyeste sjakkratingen 
+noensinne,47,3,4,http://www.reddit.com/r/norge/comments/14a06j/magnus_carlsen_har_nå_den_høyeste_sjakkratingen/,,,,,
+1345579524.0,yliqo,DB bare surfer på reddit??,esschul,45,3,26,"Har noen andre enn meg lagt merke til at mye innhold på db.no har blitt veldig likt topplinkene på reddit i det siste? Greit nok at journalistikk på må gå nye veier,False,
+1335179815.0,so0ho,"PST på ville veier: Vi kan ikke la en ensom idiot ødelegge samfunnet vi ønsker å ha, kontrollpost for kontrollpost. Ikke gi Breivik dette monumentet.",forteller,45,6,http://www.reddit.com/r/norge/comments/so0ho/pst_på_ville_veier_vi_kan_ikke_la_en_ensom_idiot/,,
+1325098062.0,ntuvg,PWNRK,forteller,50,6,10,,t5_2qh94,False
+1319465167.0,ln43g,"Hvilken rase igjen, sa du?",CApnJuMp,47,8,http://www.reddit.com/r/norge/comments/ln43g/hvilken_rase_igjen_sa_du/,,
+1307481008.0,hu27a,Global Reddit Meetup Day i Oslo,ThJ,50,8,20,,t5_2qh94,False
+1373645408.0,1i5rvj,VG og Dagbladet har ulike nyhetskilder,raaabs,41,0,20,,t5_2qh94,False
+1369377002.0,1eyhah,Dagbladet publiserte i går en aktuell artikkel om en 8 måneder gammel reddit-post.,warrantyvoid,42,4,11,,t5_2qh94,False
+1350238577.0,11gwcu,Folkeopplysningen svarer på kritikken,larsga,46,5,6,,t5_2qh94,False
+1346017376.0,yvcl3,"Norske Homeopaters Landsforbund og Norges Landsforbund av Homøopraktikere advarer sterkt mot Folkeopplysningen på NRK1- ""kan være skadelig for alle i alternativbransjen"" - Sendes i morgen 21.30",forteller,45,4,22,,t5_2qh94,False
+1336653430.0,tgdp3,"""Kjakan"" har trådt av.",Niqulaz,52,12,6,,t5_2qh94,False
+1334488695.0,saofw,Miljøpartiet De Grønne vil ha vekk momsen på kjøp og salg av brukte varer.,forteller,47,5,4,,t5_2qh94,False
+1328805035.0,phx5c,Animasjon av 300.000 Nordmenn som flytter årlig,babbage141,41,1,5,,t5_2qh94,False
+1327310678.0,osp21,Krf-representant i Sarpsborg meinar Utøya kan ha vore ein advarsel frå Gud. Eg får vondt inni meg av slike mennesker.,tanketom,46,6,23,,t5_2qh94,False
+1357908917.0,16dknn,"BankID. Fordi ekte, statssertifisert sikkerhet krever en plugin-basert teknologi som stadig vekk har 0-day exploits.",trezor2,53,13,http://www.reddit.com/r/norge/comments/16dknn/bankid_fordi_ekte_statssertifisert_sikkerhet/,,
+1351851040.0,12ianv,Agurknytt fra Helgeland...,schnibel,40,0,12,,t5_2qh94,False
+1346553943.0,z7pcb,Kristen Gislefoss totallylookslike John C. Reilly,shoeflydbm,54,11,0,,t5_2qh94,False
+1345738067.0,yp97x,Den merkeligste tingen jeg har funnet gjenglemt i en handlekurv: En biologieksamen fra 1977.,blaengdall,40,1,10,,t5_2qh94,False
+1332609194.0,rbk8o,Jeg skulle bare sjekke valuta med Google...,blaengdall,44,5,2,,t5_2qh94,False
+1329766674.0,py60a,Barnerom!,Nblue,44,6,10,,t5_2qh94,False
+1329265567.0,ppxc1,Han Solo går ingen steder!,tanketom,45,5,2,,t5_2qh94,False
+1327571305.0,oxf7y,Kommentar til VG-artikkel om utlandske sjåfører på sommerdekk. [Jævla idiot],Eispeis,45,5,12,,t5_2qh94,False
+1311756076.0,j0zz2,Oslo love ,mortenaa,41,4,4,,t5_2qh94,False
+1308644634.0,i53iy,Norges slappeste sommerjobb,ScienceGoneWrong,48,6,6,,t5_2qh94,False
+1375711552.0,1jqndv,Aftenposten har opprettet en kryptert varslerside for innsending av sensitive dokumenter: varsle.aftenposten.no,warrantyvoid,39,0,15,,t5_2qh94,False
+1372933000.0,1hmkh7,"Norge er et interessant marked for «Big Borrelia Business»: Innbyggerne har god kjøpekraft, massemediene er mest interessert i mirakelhistorier, og tilsynsmyndighetene sover",larsga,43,10,False,
+1372746610.0,1hhdiq,Snowden har søkt asyl i Norge,OseOseOse,43,4,18,,t5_2qh94,False
+1362594516.0,19setp,"Ikke helt stø i norrøn mytologi? Tor Åge Bringsværds ""Den enøyde"" - en velskrevet sammenfatning av de gamle fortellingene - ligger gratis ute på Gyldendal",Qwill2,39,1,4,,t5_2qh94,False
+1348358530.0,10bj79,Video: Jeg blir flau på vegne av alle involverte,PKNormanBates,40,1,11,,t5_2qh94,False
+1336600439.0,tfeet,"""Torsdag vedtar Stortinget at politiet kan bruke hunder i razziaer ved skolene"" - Er det ingen som bryr seg om prinsipielle spørsmål lengre?",Dam0cles,41,2,26,,t5_2qh94,False
+1332162517.0,r3e92,"Jeg trodde jeg var norsk, jeg",forteller,43,8,http://www.reddit.com/r/norge/comments/r3e92/jeg_trodde_jeg_var_norsk_jeg/,,
+1300787882.0,g8u8m,"""Jeg kan ikke komme på noe som skulle gjort at Høyre skulle ligge veldig høyt i januar og veldig lavt nå"" - Hanne Marthe Narud, valgforsker",Cilpot,40,3,http://www.reddit.com/r/norge/comments/g8u8m/jeg_kan_ikke_komme_på_noe_som_skulle_gjort_at/,,
+1368652806.0,1eepw4,Målgruppen utkrystalliserer seg for Dagbladet Pluss,PKNormanBates,38,0,11,,t5_2qh94,False
+1335878067.0,t1gol,Timet og tilrettelagt som vanllig,astv,44,6,5,,t5_2qh94,False
+1335196155.0,soam0,Her må politikarane ta tak!,thenorwegianblue,46,10,15,,t5_2qh94,False
+1326630626.0,ohxai,Okay guy/Trollface på Aftenposten,babbage141,45,7,1,,t5_2qh94,False
+1307884449.0,hxr2i,"Bra jobba, Aftenposten/Mensa…",ehamberg,42,8,http://www.reddit.com/r/norge/comments/hxr2i/bra_jobba_aftenpostenmensa/,,
+1299246259.0,fx99f,"Problem, Hellner?",YouHadMeAtBacon,43,6,http://www.reddit.com/r/norge/comments/fx99f/problem_hellner/,,
+1368774134.0,1ei718,Komplett.no - Gratulerer med dagen 17. mai,ullsokk1,44,4,2,,t5_2qh94,False
+1365269832.0,1bszi6,Første dag med sykkel dette året ble den stjålet. Hjelp meg finne den,TheLameCat,47,8,13,"http://i.imgur.com/vFwLI1Q.jpg
+
+Dette er sykkelen min
+
+I natt ble den stjålet utenfor ullevål sykehus mens jeg besøkte den syke kjæresten min.
+
+Den har stor verdi for meg
+
+Det finnes kun en av denne sykkelen
+
+Hvis du tilfeldigvis ser den på finn ellernosånt kontakt meg på 48121350 eller erlendwestbye@gmail.com
+",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/1bszi6/første_dag_med_sykkel_dette_året_ble_den_stjålet/
+1364134578.0,1awwb7,Er det trygt å lese VG?,forteller,43,8,2,,t5_2qh94,False
+1358502972.0,16t63a,"Mann ble svindlet for 24 000 kr. Har navn, kontonummer, telefonnummer og bilde av svindleren. Politiet henla saken etter to dager.",haakondafo,38,6,False,
+1356865469.0,15o4lc,Identiteten til negeren ombord på det første persontoget til Bodø (i 1962) er blitt kjent,schnibel,38,4,2,,t5_2qh94,False
+1352394234.0,12v472,Tynn hud - den nye folkesykdommen? (debattinnlegg),Dogvillain,40,3,9,,t5_2qh94,False
+1351615026.0,12ceze,Gramo går rettens vei for å slå fast at landets 18 000 leiebiler er å anse som offentlige rom i betydningen at musikkavspilling fra bilradioen er å anse som en offentlig fremføring som utløser vederlag.,forteller,41,5,11,,t5_2qh94,False
+1333121415.0,rl0su,Hahahahaha p3.no/asylbarn WTF,jebus01,41,1,3,,t5_2qh94,False
+1332865168.0,rg0jf,Fra poshuset i Stavanger. Kan dette være lovlig!?,Norseman_,42,7,23,,t5_2qh94,False
+1330771951.0,qfsp9,"Monsanto vil at grenseverdien for giftstoffet glyfosat 
+skal økes med 150 ganger (av helt utrolige årsaker)",2,1,http://www.reddit.com/r/norge/comments/qfsp9/monsanto_vil_at_grenseverdien_for_giftstoffet/,,,False,t5_2qh94,False
+1320158004.0,lwfwx,"Dagbladet krøller til dædæbæsen sin, det vert det mykje god humor av.",smerten,45,6,http://www.reddit.com/r/norge/comments/lwfwx/dagbladet_krøller_til_dædæbæsen_sin_det_vert_det/,,
+1318460900.0,la4xs,Regjeringen vil kvitte seg med enda en brysom vaktbikkje. Nå står Datatilsynet for tur.,forteller,40,1,1,,t5_2qh94,False
+1318164042.0,l5yqb,Høykultur i Svolvær,larsga,45,7,10,,t5_2qh94,False
+1374840975.0,1j3ce4,"""deilig"" soft-is",novovo,40,8,15,,t5_2qh94,False
+1371490140.0,1gizac,Norsk kreftpasient får marihuana,Downtownclownybrown,40,2,13,,t5_2qh94,False
+1368386269.0,1e74d7,Dagens WTF: Nasjonalministeren.,novovo,39,4,17,,t5_2qh94,False
+1353398570.0,13i0xg,Spøkelsene på Facebook,larsga,39,3,4,,t5_2qh94,False
+1339060701.0,upjgz,"Folk som mener Breivik er CGI, ingen av ofrene har eksistert, alt er regissert av Arbeiderpartiet for å tjene penger. What. Tha. Fuck.",TheLameCat,42,17,False,
+1337515235.0,tvwjy,"Nei, det er ikke ""slutt på statskirken""",forteller,40,5,http://www.reddit.com/r/norge/comments/tvwjy/nei_det_er_ikke_slutt_på_statskirken/,,
+1334303325.0,s7nfa,Velplasert annonse,TheLameCat,41,9,1,,t5_2qh94,False
+1329945044.0,q1g62,Nordmenn og porno,nawts,41,7,13,,t5_2qh94,False
+1319900689.0,lt8j5,Kurt Oddekalv har havna på chemtrails-kjøret.,diskomo,48,11,5,,t5_2qh94,False
+1311595152.0,iz3vn,Min venn Anders,Aqwis,38,4,0,,t5_2qh94,False
+1305561197.0,hclwq,Anstrengt forhold til pressen,ways2,38,6,0,,t5_2qh94,False
+1373485328.0,1i11is,Datalagringsdirektivet kan bli ulovlig i EU,Wyld0rc,40,7,11,,t5_2qh94,False
+1367999722.0,1dx5mj,"«Jeg er helt sikker på at [meslinger] er positivt for et barn som er friskt. Det kan tenkes at enkelte vil dø, men dette gjelder barn som er svekket på forhånd»",dnoate,38,4,http://www.reddit.com/r/norge/comments/1dx5mj/jeg_er_helt_sikker_på_at_meslinger_er_positivt/,,
+1365495739.0,1bz8uj,"God journalistikk handler om å utfordre politisk, økonomisk og religiøs makt. Særlig når maktutøvelsen foregår bak lukkede dører. Det er årsaken til at Tønsbergs Blad har fulgt pengestrømmene knyttet til Smiths Venners ledelse.",forteller,38,3,http://www.reddit.com/r/norge/comments/1bz8uj/god_journalistikk_handler_om_å_utfordre_politisk/,,
+1360761139.0,18fy7j,"Skulle besøke nettsidene til Lunner kommune, havnet i stedet i en tidsmaskin",hardcore_fish,46,12,http://www.reddit.com/r/norge/comments/18fy7j/skulle_besøke_nettsidene_til_lunner_kommune/,,
+1360326221.0,184m65,Slik skal Tajik fange nettpiratene,kjartan87,37,3,33,,t5_2qh94,False
+1350558601.0,11omq2,"Åndenes makt må være et av de mest tåpelige program som noen gang har blitt vist på norsk tv. Blir trist av å tenke på at det i det hele tatt brukes penger på slik produksjon. Hva med en nytt og awesome vitenskapsprogram, der faktisk folk lærte noe nyttig?",hidravas,43,9,http://www.reddit.com/r/norge/comments/11omq2/åndenes_makt_må_være_et_av_de_mest_tåpelige/,,
+1346146418.0,yycq4,Arbeideravis på Færøyene,Strid,43,5,6,,t5_2qh94,False
+1345026701.0,y97gt,Netflix kommer til Norge (bekreftet),Elvellon,40,4,35,,t5_2qh94,False
+1344864875.0,y567a,22. juli-kommisjonens rapport i PDF,shickabang,35,0,0,,t5_2qh94,False
+1340662662.0,vlgln,Uetisk eller moro?,LarryjugendD,40,6,7,,t5_2qh94,False
+1327615473.0,oy6yq,ACTA: Nå kommer piratavtalen som får SOPA til å blekne - Dagbladet,forteller,40,2,0,,t5_2qh94,False
+1326740521.0,ojlyg,Føles godt,Darth_Kettch,43,8,11,,t5_2qh94,False
+1325496361.0,nzmod,Sykkelfelt på Skøyen,larsga,43,6,16,,t5_2qh94,False
+1318637331.0,lcntd,Apenes starter kronerulling til rettssak mot DLD - Aftenposten.no,ahaave,38,6,2,,t5_2qh94,False
+1305816695.0,hf2n8,Regjeringen åpner for å sperre piratsider,Aqwis,35,0,8,,t5_2qh94,False
+1304594694.0,h4qmi,Google translate har funnet ut Ole Ivars egentlige identitet :O,haakondafo,40,3,2,,t5_2qh94,False
+1304115531.0,h0gvx,lurer paa om noen fra Dagbladet henger paa Reddit...,chipsanddip2,48,14,5,,t5_2qh94,False
+1284924193.0,dg1f2,You have been in Norway too long when...,larsga,40,4,6,,t5_2qh94,False
+1376643975.0,1kh8nb,Forsvarsministeren vil ikke svare på om hun kjente til USAs overvåkningsprogram,Slimen93,39,6,8,,t5_2qh94,False
+1369563422.0,1f2qv6,"Syv av ti forklaringer til 22. juli-kommisjonen blir hemmeligstemplet av Stoltenberg-regjeringen. Politifolk, AUF-leder Eskil Pedersen og polititopper må vernes mot offentlig eksponering, mener riksarkivar Ivar Fonnes og kulturminister Hadia Tajik",forteller,38,16,False,
+1355300898.0,14ptxm,Så dumt at det gjør vondt.,hakbor,53,19,22,,t5_2qh94,False
+1352562224.0,12yrx2,"Når Politiets Fellesforbund nå vil kjempe for generell bevæpning av politiet, må vi se på hva som har skjedd i Sverige. Resultatene av bevæpning der er ikke oppløftende, skriver professor ved Politihøyskolen, Johannes Knutsson.",forteller,6,,False
+1348105891.0,1064wh,Hvem og hva er norske Redditors? ,LarryjugendD,46,11,139,"Som relativt ny men ivrig Redditor
+**For eksempell:** *Alder
+",,t5_2qh94,1348106347.0,,,True,http://www.reddit.com/r/norge/comments/1064wh/hvem_og_hva_er_norske_redditors/
+1344710499.0,y22w5,"OleFredrik er en fyr på youtube som legge ut gamle norske klassikere. Deriblant den obskure filmen 1958 fra 1980. For de av oss som digger norsk film, på godt og vondt.",zimulator,36,3,http://www.reddit.com/r/norge/comments/y22w5/olefredrik_er_en_fyr_på_youtube_som_legge_ut/,,
+1343690428.0,xf2bw,Oslo Brann- og Redningsetat på jobb natt til Tirsdag.,DaneBread,38,2,0,,t5_2qh94,False
+1342091903.0,wfq55,Tilbyr norskkurs for rasister og islamhatere,forteller,37,4,4,,t5_2qh94,False
+1334005537.0,s1egk,Omsetningen har bare stupt siden januar.,Pottifar,35,2,9,,t5_2qh94,False
+1330450313.0,q9ws0,Svineinfluensa: Skammelig journalistikk fra VG,forteller,34,0,3,,t5_2qh94,False
+1327478555.0,ovtoj,Volkswagen annonse i Gateavisa fra 1977,MilkyMoo,38,5,3,,t5_2qh94,False
+1326349951.0,odm3b,Jonas Gahr Støre i en TED-talk!?,rzr82,37,1,14,,t5_2qh94,False
+1371907045.0,1gurg2,Nekter spaghetti-troende å bli trossamfunn,larsga,36,3,8,,t5_2qh94,False
+1371116570.0,1g9bwv,Prøver å stenge The Pirate Bay for nordmenn,Kvifor,39,7,19,,t5_2qh94,False
+1370848035.0,1g16e2,Fra i dag er det utrygt å piratkopiere i Norge,Kvifor,37,2,31,,t5_2qh94,False
+1363696790.0,1al83v,Verdens undergang - VG har gjort seg til nyttige idioter for trygghetstyranner og helikopterforeldre.,lordbost,37,6,4,,t5_2qh94,False
+1358976692.0,175api,VM i Basse på Øya Stadion i Trondheim 1986,thenorwegianblue,36,0,5,,t5_2qh94,False
+1358778562.0,16zm87,Hvor kan jeg finne hvilke partier som stemte på hva i stortinget?,HolyMacaroni,39,5,18,"Spesifikt har jeg lyst til å finne hvilke partier som stemte for hundeloven i 2003,False,
+1357556727.0,1645gi,Foreslår å frata kirken retten til å vie,Gnurx,40,4,19,,t5_2qh94,False
+1355771216.0,1508o4,HBO Nordic,kjartan87,34,2,23,"Skaffet meg HBO Nordic tidligere idag
+
+
+Serier: 30 rock ( 2 sesonger bare ) 
+
+Angry boys 
+
+Band of Brothers 
+
+Big Love 
+
+Boardwalk empire 
+
+Bored to death 
+
+Carnivale 
+
+Continuum 
+
+Eastbound &amp; down 
+
+Enlightened 
+
+Entourage 
+
+Five days 
+
+Flight of the conchords 
+
+Game of thrones 
+
+Generation kill 
+
+Girls 
+
+Head case 
+
+Hit &amp; miss 
+
+House of saddam 
+
+How to make it in america 
+
+Hung 
+
+In treatment 
+
+John Adams 
+
+John from cincinatti 
+
+Little britain usa 
+
+Luck 
+
+Magic city 
+
+Masters of horror 
+
+Masters of science fiction 
+
+Mildred pierce
+
+Party down 
+
+Rome 
+
+Sex and the city 
+
+Six feet under 
+
+Spartacus 
+
+Strike back 
+
+Tell me you love me 
+
+The newsroom 
+
+The pacific 
+
+The ricky gervais show 
+
+The sopranos 
+
+The wire 
+
+Treme 
+
+True blood 
+
+Veep 
+
+Web therapy 
+
+Z rock
+
+
+Filmer: 
+Back to the future 1
+
+Der untergang 
+
+Doom 
+
+Happy gilmore 
+
+In the Valley of Elah 
+
+Monty python - the meaning of life 
+
+Scarface 
+
+The men who stare at goats 
+
+The nutty professor 
+
+Trainspotting 
+
+Twelve monkeys
+
+
+Det er flere filmer, og mangelen på avspillingsmuligheter utenfor pc er også negativt. Men jeg har troen på produktet, og jeg tror og håper på at etter denne ekstremt dårlige lanseringen kan det bare bli bedre. Kommer nok til å ha både HBO og Netflix.
+Håper dette var til hjelp,False,,t5_2qh94,1355771433.0,,,t3_1508o4
+1355734158.0,14zile,Nordlending som er forbanna på Canal-Digital (Facebook),Strid,37,2,24,,t5_2qh94,False
+1355371367.0,14rml2,Norsk sykehusmat...,uvelify,36,1,5,,t5_2qh94,False
+1353608104.0,13mo19,Ola Borten Moe dro på personlige befaringer med bare partifeller til stede før han personlig grep inn og sørget for at milliardkraftlinjen Ørskog–Fardal ble lagt utenom eiendommene til fire Sp-politikere. ,forteller,37,4,6,,t5_2qh94,False
+1346774861.0,zca65,Politiet bekrefter: - Det er Sigrid som er funnet,,36,5,55,,t5_2qh94,False
+1346586112.0,z869b,Korrupsjonsrapport holdes hemmelig – I vinter fullførte Ruter en omfattende gransking av mulig korrupsjon i selskapet. Siden den gang har de nektet å vise passasjerene hva som står i rapporten.,forteller,38,2,0,,t5_2qh94,False
+1345987815.0,yuo6l,Det siste oppdraget - Jævlig sterkt. Anbefales.,Wyld0rc,41,8,3,,t5_2qh94,False
+1338634395.0,uh1md,"""Tiden er inne -- bruk INTERNET!"" Kjempetilbud på internettilgang fra 1994.",warrantyvoid,33,2,8,,t5_2qh94,False
+1336649325.0,tgblk,Stortinget snudde om narkorazzia på skolene - Hurra!,jungl,43,9,32,,t5_2qh94,False
+1331395169.0,qqcni,Kristne bergensere: Dere har en jobb å gjøre!,blaengdall,34,3,4,,t5_2qh94,False
+1328582939.0,pe2w9,No shit Sherlock,Pixelsandshit,39,6,6,,t5_2qh94,False
+1328098398.0,p61by,"Aner ikke hva datalagringsdirektivet vil koste -
+Ny rapport anslår kostnaden som «svært høy»",4,15,http://www.reddit.com/r/norge/comments/p61by/aner_ikke_hva_datalagringsdirektivet_vil_koste_ny/,,,False,t5_2qh94,False
+1325700968.0,o2r6v,Nå kan du endelig donere til Digitalt Personvern sin kamp mot DLD med kort. (Du kan fremdeles omgå Visa/MasterCard ved å donere med bankoverføring om du foretrekker det),forteller,40,6,2,,t5_2qh94,False
+1315319872.0,k6fo7,"Voldtekt ingen grunn til abort: KRF-listetopp i Fredrikstad mener det er tøv 
+at mennesker stammer fra apene
+motstander av abort.",2,25,http://www.reddit.com/r/norge/comments/k6fo7/voldtekt_ingen_grunn_til_abort_krflistetopp_i/,,,False,t5_2qh94,False
+1311977309.0,j3myi,Vektervold på Oslo S,slarken,40,6,17,,t5_2qh94,False
+1299699429.0,g0mxy,Høyre går inn for DLD,Cilpot,35,6,22,,t5_2qh94,False
+1369654549.0,1f4sgv,Frp vil selge NRK,schnibel,35,6,95,,t5_2qh94,False
+1369121980.0,1er3i1,"Legalisering av Marijuana i Norge, folkets mening?",IForgotMyUserDetails,38,9,http://www.reddit.com/r/norge/comments/1er3i1/legalisering_av_marijuana_i_norge_folkets_mening/, hvorfor/hvorfor ikke?
+
+Kom gjerne med logiske innspill baade for og imot legalisering
+
+Edit: Ikke bare si ""Nei til legalisering"" eller ""Ja til legalisering"" si hvorfor du mener det ene eller det andre,False,,t5_2qh94,1369132588.0,,,t3_1er3i1
+1368355957.0,1e6fb3,De unge kristenkonservative,PKNormanBates,40,8,23,,t5_2qh94,False
+1367348773.0,1dfg7o,Fikk en artikkel inn i Aftenposten: 'Jeg vil jobbe!',Parelius,35,6,24,,t5_2qh94,False
+1363351406.0,1achzy,"Miljøpartiet De Grønne får rekordhøye 2,3% i ny meningsmåling for Aftenposten. Ifølge TV 2 ville det gjort dem til Norges nyeste stortingsparti ved et valg i dag.",forteller,42,9,http://www.reddit.com/r/norge/comments/1achzy/miljøpartiet_de_grønne_får_rekordhøye_23_i_ny/,,
+1361781988.0,196mp8,"Husker du ambulansesjåførene som forlot bevisstløse Ali Farah i Sofienbergparken? Da husker du noe som aldri skjedde, men som Dagbladet diktet opp for å selge flere aviser.",forteller,42,9,http://www.reddit.com/r/norge/comments/196mp8/husker_du_ambulansesjåførene_som_forlot/,,
+1352622443.0,1304gy,"Okay, jeg har sett en del overskrifter i min tid, men.....",WulfhawkCultist,37,7,False,
+1339524019.0,uyahi,– Noreg er ei narkosinke - Noreg ligg på europatoppen i overdosedødsfall. Portugal har oppnådd gode resultat etter avkriminaliseringa av narkotikabruk i 2001.,forteller,40,7,12,,t5_2qh94,False
+1338830472.0,ukh4p,Her kan du enkelt kreve å få utlevert alle data mobilopperatøren din har om deg,forteller,34,1,15,,t5_2qh94,False
+1336989174.0,tm97v,- Barn må få velge religion selv,64-17-5,35,3,7,,t5_2qh94,False
+1334854316.0,si1lj,"Samanlikning av Norge i dag og for ca 100 år sidan. 
+(Frå tilbakeblikk.no)",1,10,http://www.reddit.com/r/norge/comments/si1lj/samanlikning_av_norge_i_dag_og_for_ca_100_år/,,,False,t5_2qh94,False
+1334141886.0,s45qc,"""Den lille episoden i sikkerhetskontrollen på Sola 
+var en ny liten påminning om at friheten ikke 
+forsvinner med et slag
+kutt.""",2,9,http://www.reddit.com/r/norge/comments/s45qc/den_lille_episoden_i_sikkerhetskontrollen_på_sola/,,,False,t5_2qh94,False
+1331058525.0,qkga8,Styrkeprøve på Grønlands Torg (1954),larsga,32,2,1,,t5_2qh94,False
+1330635094.0,qdf1c,iStockphoto-modellen Rune ble superslank av morgenkaffen sin,haakon,34,4,1,,t5_2qh94,False
+1329494727.0,ptzme,Regjeringa har i dag vedteke å slette om lag 20 millionar kroner av Elfenbenskysten si gjeld til Noreg.,forteller,42,8,6,,t5_2qh94,False
+1326183550.0,oamap,Dette begynner å gå litt langt,TheLameCat,41,8,10,,t5_2qh94,False
+1318271455.0,l7brw,Fritjof Nansens 150-årsdag (Google doodle),desouza3,32,0,1,,t5_2qh94,False
+1313067991.0,jfndt,Forsøker å kjøpe 30-dagerskort med Flexus,haakon,35,4,8,,t5_2qh94,False
+1287587946.0,dtvhv,Vinden knakk grein,,35,2,4,,t5_2qh94,False
+1375787041.0,1jsz2q,Men det er jo slik Ludo-brettet ser ut! Skyld på dem som fant det opp!,PisseGuri82,36,3,20,,t5_2qh94,False
+1374661729.0,1iy57p,Fantastisk sideinndeling av Dagbladet,hovding,46,15,10,,t5_2qh94,False
+1370959129.0,1g4cpc,Stoff på fortauet,jungl,37,3,10,,t5_2qh94,False
+1367006433.0,1d6au4,Datalagringsdirektivet vil koste nesten en halv milliard – det første året,kimme,35,4,5,,t5_2qh94,False
+1366031767.0,1cdxzm,Det slutter aldri å regne i Bergen,GrixM,36,3,12,,t5_2qh94,False
+1358257891.0,16m84d,Are Kalvø - Ting vi liker med dette samfunnet,thenorwegianblue,32,0,8,,t5_2qh94,False
+1356392227.0,15eaaj,Per Fugelli virker å være på sporet av det essensielle.,straightedgefred,36,6,1,,t5_2qh94,False
+1355868192.0,152ndm,Fikk dette i postkassen i dag… ,Agenal,36,2,24,,t5_2qh94,False
+1354613322.0,14975m,"Dagfinn (31) anholdt naken etter at hotellet stavet 
+navnet feil",2,7,http://www.reddit.com/r/norge/comments/14975m/dagfinn_31_anholdt_naken_etter_at_hotellet_stavet/,,,False,t5_2qh94,False
+1345799995.0,yqvkm,Breivik tilregnelig - dømt til 21 år forvaring,Norsoe,37,2,24,,t5_2qh94,False
+1334393005.0,s9ari,Skjønner!,homeopathetic,32,0,5,,t5_2qh94,False
+1332768696.0,re5r0,Krekar fikk fem år i spjeldet,OktoberStorm,33,3,14,,t5_2qh94,False
+1331682416.0,qvc3v,Bergen Venstre vil legalisere narkotika,Aqwis,36,3,9,,t5_2qh94,False
+1328795109.0,phqqw,"I Drammen kan kirken miste ansvaret for begravelser, og kirkebyggene kan bli færre. Kommunen vil gjøre byen religionsnøytral. ",forteller,36,5,http://www.reddit.com/r/norge/comments/phqqw/i_drammen_kan_kirken_miste_ansvaret_for/,,
+1327346478.0,ot89h,Denne loven kan være enda verre enn SOPA. ACTA blir stemt over i EU om få dager.,forteller,38,8,7,,t5_2qh94,False
+1324222081.0,nhd0d,"Statistikken taler sitt tydelige språk. Hvis antallet nisser i Norge fortsetter å stige i samme hastighet som nå, vil det i løpet av fire måneder være like mange nisser som nordmenn. Da er Norge i praksis et nisseland. Det må være lov å påpeke dette uten å bli skjelt ut eller truet på livet.",forteller,34,5,http://www.reddit.com/r/norge/comments/nhd0d/statistikken_taler_sitt_tydelige_språk_hvis/,,
+1324142642.0,nggpm,"""Det hadde vært kult om noen sa til Breivik at han lagret manifestet i feil format og ingen har fått åpnet det""",jebus01,38,9,4,,t5_2qh94,False
+1292421748.0,em7v9,«Datalagringsdirektivet er IKKE overvåkning»,haakon,38,9,3,,t5_2qh94,False
+1291977044.0,ejh23,Dagsavisen speiler WikiLeaks!,forteller,33,2,7,,t5_2qh94,False
+1288801140.0,e0ork,Overtroisk Prinsesse [PIC],dort,40,9,20,,t5_2qh94,False
+1373450126.0,1hzyok,Betalte kontant - fikk hjemmet ransaket,haakon,30,1,64,,t5_2qh94,False
+1371292116.0,1ge7ba,En uvanlig jobb,woooom,32,4,3,,t5_2qh94,False
+1370615785.0,1fv3ao,Noen som husker Blue Master-reklamen på Majorstua?,PisseGuri82,34,3,4,,t5_2qh94,False
+1367487488.0,1djj8w,Hvorfor hører vi ikke noe om utnevnelse av dommere her i landet? Har media glemt den tredje statsmakt?,novovo,31,0,16,,t5_2qh94,False
+1364889082.0,1bi52g,Mann føler seg smart etter å ha brukt uttrykket “i forhold til”,frogwog,32,2,8,,t5_2qh94,False
+1363652601.0,1ak6ss,Datatilsynet: Nekter operatørene å lagre surfelogger,kimme,31,2,3,,t5_2qh94,False
+1363293051.0,1ab126,Trine Skei Grande med AMA over på r/IAmA,Rabiatic,34,2,3,,t5_2qh94,False
+1360075374.0,17xmcd,2 trivelige geiter gis bort,clindstad,38,8,6,,t5_2qh94,False
+1353690418.0,13o8kl,"1) Lag et budsjett 2) Benekt det som står der 3) Om noen påpeker det, kall det propaganda og skitten valgkamp",forteller,38,7,http://www.reddit.com/r/norge/comments/13o8kl/1_lag_et_budsjett_2_benekt_det_som_står_der_3_om/,,
+1350633746.0,11qlee,Statsadvokaten vurderar å gjenopne skatteamnestisaken mot politifolk som arbeida svart for den Amerikanske ambassade,DeSanti,30,1,7,,t5_2qh94,False
+1348051525.0,104p4e,HBO-prisen blir 79 kr/måned,eevar,32,2,12,,t5_2qh94,False
+1341418867.0,w1bc2,Kreativ fluktplan [bilde],dort,36,6,2,,t5_2qh94,False
+1332789684.0,rem54,"Mens innvandrerbefolkningen i Groruddalen i Oslo har mer enn fordoblet seg de siste ti årene, har det motsatte skjedd med kriminaliteten.",forteller,32,3,http://www.reddit.com/r/norge/comments/rem54/mens_innvandrerbefolkningen_i_groruddalen_i_oslo/,,
+1330521774.0,qb9gq,"I kampen mot det vi ikke liker, brukes det stadig oftere uakseptable inngrep mot uskyldige. Unge rammes hardest og oftest.",forteller,33,3,http://www.reddit.com/r/norge/comments/qb9gq/i_kampen_mot_det_vi_ikke_liker_brukes_det_stadig/,,
+1327937742.0,p32ou,VG driver med journalistikk,,30,1,28,,t5_2qh94,False
+1323217487.0,n37d9,"Det er snakk om minutter mellom det første snøfallet, og den første idioten som velger å brette bilen sin rundt autovernet, sjokkert og overrasket over at det kommer snø i desember i Norge, og at snøen er like glatt som i fjor.",Niqulaz,3,,False
+1322607209.0,mtx52,Romanse i avisa Nordlys,bamsebomsen,34,3,2,,t5_2qh94,False
+1315379570.0,k7cm5,Trollface snakker om fremtidens jobbmarked,NoSNoM,38,8,1,,t5_2qh94,False
+1311783568.0,j19ka,  What I Learned In Norway During The Terrorist Attacks,mortenaa,31,2,2,,t5_2qh94,False
+1372925814.0,1hmgid,"Snowden må få asyl, men heller ikke i Norge er det trygt nok å varsle",forteller,38,9,http://www.reddit.com/r/norge/comments/1hmgid/snowden_må_få_asyl_men_heller_ikke_i_norge_er_det/,,
+1371637549.0,1gnbg8,Hvordan påvirker Prism og den nye Åndsverkloven demokratiet?,forteller,41,9,0,,t5_2qh94,False
+1368229543.0,1e3myb,"Hei folkens! Trenger litt legalhelp. Det har litt laga en bar ved siden av huset mitt (5 meter ifra give or take) hver jævla helg er det sloss kamper, og fulle folk som skriker langt utover natta.",,34,4,http://www.reddit.com/r/norge/comments/1e3myb/hei_folkens_trenger_litt_legalhelp_det_har_litt/
+Rundt hele området er det familier etc. En skole 100-150 meter fra baren. 
+Føler meg helt forkævlig hver mandag pga for lite søvn. Er det noe jeg kan gjøre?
+
+(Akkurat nå er det 01:41) jeg har jobb imorgen
+
+EDIT; forrige uke kom et par av kundene deres og hoppet på bilen. Tok søppel ut av søppelkassa,False,,t5_2qh94,1368251935.0,,,t3_1e3myb
+1364827076.0,1bf9ta,Aprilsnarr på norske nettsider,Dragen_NG,31,2,10,"Her har jeg tenkt å samle linker til aprilsnarr på forskjellige norske sider. Jeg har ikke funnet så mange ennå
+
+* [Bergensavisen - ba.no](http://www.ba.no/sport/fotball/brann/article6576777.ece)
+* [gd.no](http://www.gd.no/nyheter/article6580184.ece)
+* [varden.no](http://www.varden.no/nyheter/her-kommer-norges-forste-sykkelbom-1.7827154)
+* [p4.no](http://www.p4.no/story.aspx?id=514761)
+* [Avisa Hordaland](http://www.avisa-hordaland.no/lokalnytt/voss/article6579896.ece)
+* [filmweb.no](http://www.filmweb.no/filmnytt/article1098389.ece)
+* [SAS Facebook-side (må være logget inn)](https://www.facebook.com/photo.php?fbid=10152702347755788&amp;set=a.281389815787.318771.140344030787&amp;type=1&amp;theater)
+* [Illustrert Vitenskap](http://illvit.no/natur/dyr/forskere-gjenoppliver-t-rex?utm_source=nyhedsbrev&amp;utm_medium=daily_2013_3_22_62390)
+* [TV 2 Nyhetene](http://www.tv2.no/nyheter/utenriks/kuldemassakre-i-tysk-loppesirkus-4018458.html)",,t5_2qh94,1364828956.0,,,True,http://www.reddit.com/r/norge/comments/1bf9ta/aprilsnarr_på_norske_nettsider/
+1363801205.0,1aoba9,Kundeservice nå til dags,ChrisseNisse,48,16,9,,t5_2qh94,False
+1361978650.0,19bwff,Ungdommer kjøper «skolesekker» til 11.000 kroner,Strid,34,6,20,,t5_2qh94,False
+1359025299.0,176n6b,Denne journalisten ville følt seg hjemme i en hvilken som helst pun-thread,Arve,32,5,8,,t5_2qh94,False
+1354287440.0,141xl9,Black Debbath - Nei til runkesti på Ekeberg,schnibel,32,1,1,,t5_2qh94,False
+1347196656.0,zlmid,"- Ulven har en opplagt fremtid i norsk natur. Når Sp går inn for å utrydde en hel art viser de en total forakt for økosystemet, rovdyrforliket, og naturmangfoldsloven, uttaler Harald A. Nissen, nasjonal talsperson i Miljøpartiet De Grønne",36,,t5_2qh94
+1346335840.0,z2swq,"HBO's strømmetjeneste lanserer nye episoder 24 timer etter de har gått i USA, med lokale undertekster.",zimulator,38,7,http://www.reddit.com/r/norge/comments/z2swq/hbos_strømmetjeneste_lanserer_nye_episoder_24/,,
+1339150203.0,urdel,Propaganda for Skandinavisme (hentet fra r/PropagandaPosters),branato,32,3,12,,t5_2qh94,False
+1335936757.0,t2ve0,Dagbladet-forsidene enda verre enn først antatt,desouza3,34,5,7,,t5_2qh94,False
+1335733329.0,symyo,"Tilbud: Grov trekant, to typer......",Ingvin,35,7,http://www.reddit.com/r/norge/comments/symyo/tilbud_grov_trekant_to_typer/,,
+1333760506.0,rx76l,Norge: landet av nattstengte webtjenester.,,35,4,17,,t5_2qh94,False
+1333372646.0,rpggw,"FrP vil gi norsk politi tilgang på elektrosjokkvåpen/strømpistoler. Slike våpen har ført til hundretalls dødsfall fra bruk av amerikansk politi, blitt omtalt som tortur av FN, og sterkt advart mot av Amnesty og ACLU",forteller,38,23,False,
+1329403554.0,psc0o,Må ho ikkje bli innlagd på psykiatrisk snart?,kvikklunsj,33,4,19,,t5_2qh94,False
+1328718339.0,pgdxs,"Vestlige politikere hyller Internett som et redskap i 
+kampen mot autoritære regimer. Samtidig 
+begrenses nett-tilgangen gjennom registrering og 
+blokkering.",4,1,http://www.reddit.com/r/norge/comments/pgdxs/vestlige_politikere_hyller_internett_som_et/,,,False,t5_2qh94,False
+1326871053.0,om4yg,"Nok folk på saken, eller...?",IWasMisinformed,33,4,http://www.reddit.com/r/norge/comments/om4yg/nok_folk_på_saken_eller/,,
+1306315986.0,hjns0,"Ikke alle som kjører tyske biler er drittsekker, men 
+alle drittsekker kjører tyske biler",3,6,http://www.reddit.com/r/norge/comments/hjns0/ikke_alle_som_kjører_tyske_biler_er_drittsekker/,,,False,t5_2qh94,False
+1372634561.0,1he44w,Narkoman gir opp heroin etter å bli bedt om å flytte seg 60 meter,GrixM,33,5,0,,t5_2qh94,False
+1371903355.0,1gup79,Ingen er så trygg i fare,nffDionysos,32,5,13,,t5_2qh94,False
+1369214165.0,1etp7v,Lahlums forsøk på verdens lengste intervju er i gang. Direktesending!,schnibel,34,8,8,,t5_2qh94,False
+1367540573.0,1dl60t,"Eh, Nei takk..",Norwegr,43,12,http://www.reddit.com/r/norge/comments/1dl60t/eh_nei_takk/,,
+1365398630.0,1bwga1,5 gode grunner til å brygge øl selv,Strid,30,3,10,,t5_2qh94,False
+1361256114.0,18t0aw,NRK.no leser også Reddit.,svrkrun,35,4,20,,t5_2qh94,False
+1359710124.0,17oqh2,Dette blir for dumt...,sanzap,33,5,9,,t5_2qh94,False
+1357759268.0,169ist,"Tollgrensen, 1975 – 2012 [animasjon]",norjo,35,8,http://www.reddit.com/r/norge/comments/169ist/tollgrensen_1975_2012_animasjon/,,
+1354706483.0,14bgm1,"Diskuterer du på Facebook? Da risikerer du å få 
+sperret profilen",1,7,http://www.reddit.com/r/norge/comments/14bgm1/diskuterer_du_på_facebook_da_risikerer_du_å_få/,,,False,t5_2qh94,False
+1353055359.0,13ahkt,"Engleskoleleder og svineinfluensavaksinemotstander meldte seg ut av Norge. Hurra, I guess?",armandg,31,5,http://www.reddit.com/r/norge/comments/13ahkt/engleskoleleder_og/,,
+1351881435.0,12iyn0,underhaldning  til julebordet ?,kippot,30,2,4,,t5_2qh94,False
+1351468854.0,128usr,Dyrebeskyttelsen har ikke plass til katten - kansje noen her kan gi denne kattungen et godt liv?,Elvellon,36,12,3,,t5_2qh94,False
+1351038073.0,11z7hg,"- Ofte ikke noe poeng å anmelde politifolk – Spesialenheten har for tette bånd, og bør legges ned, mener BI-professor Petter Gottschalk.",forteller,32,2,False,
+1350647038.0,11qr1t,Språlingsfrykten sprer seg på NTNU(?),Ueland,34,5,11,,t5_2qh94,False
+1348254736.0,109g5o,«Homofile er ikke velkomne på Tøyen!» ,Gnurx,30,1,10,,t5_2qh94,False
+1346182583.0,yz76q,250.000 bøker blir tilgjengelige i Norges digitale bibliotek,branato,29,1,4,,t5_2qh94,False
+1344942833.0,y748m,Jeg trodde vi var bedre enn dette... VG Mener: Stoltenberg må gå av,Parelius,37,13,22,,t5_2qh94,False
+1343199641.0,x4crt,TED Talk: DLD i Tyskland,Cosmicsheep,29,3,4,,t5_2qh94,False
+1341606944.0,w5ab1,Legemiddelverket slår ned på Xocai-markedsføringen,forteller,38,8,0,,t5_2qh94,False
+1325576940.0,o0vot,"Carl I Hagen kjørte ned kjærestepar, mistet lappen",larsga,32,5,http://www.reddit.com/r/norge/comments/o0vot/carl_i_hagen_kjørte_ned_kjærestepar_mistet_lappen/,,
+1323377067.0,n5acv,"Grovt misbruk av datalagringsdirektivet i Polen, Nederland og Tyskland hvor direktivet har vært implementert i noen år. Spesielt ble trafikkdataene brukt for å spore opp kildene til, og kartlegge over måneder, kritiske journalister",forteller,4,,False
+1319612674.0,lpgis,Hva har det seg at folk går på slike ting fortsatt?,suckit2me,29,2,9,,t5_2qh94,False
+1313585840.0,jljpj,Frp vil ha norsk versjon av Fox News,Wyld0rc,30,2,56,,t5_2qh94,False
+1309944668.0,ihzcg,Velkommen til Sommernyhetene,henjak,37,7,7,,t5_2qh94,False
+1307984949.0,hyn6g,Så hvem av dere driver siden artige.no?,64-17-5,31,3,19,,t5_2qh94,True
+1304971298.0,h7kb6,WTF Imsdal?,henjak,32,4,15,,t5_2qh94,False
+1376219115.0,1k50n9,Jens Stoltenberg som taxisjåfør,Kvifor,43,16,20,,t5_2qh94,False
+1374408661.0,1iqwl2,Unge Høyre vil frata studentene 37.760 kroner i året,Strid,33,7,5,,t5_2qh94,False
+1367447274.0,1difi4,"Politiet i Tromsø om plakat for legalisering av marijuana: ""Det er litt i grenseland dette, rent juridisk sett.""",forteller,30,3,http://www.reddit.com/r/norge/comments/1difi4/politiet_i_tromsø_om_plakat_for_legalisering_av/,,
+1367312760.0,1deg3k,Donald-hefte om nettvett. Skriv ut og gi til barna.,64-17-5,30,3,4,,t5_2qh94,False
+1367072281.0,1d7shd,Voldtektsmyten slår sprekker,sailornoob,34,6,1,,t5_2qh94,False
+1366877230.0,1d2l3u,Ting som irriterer Atle Antonsen,thenorwegianblue,32,4,2,,t5_2qh94,False
+1366631996.0,1cux1t,Spiste 103.724 sauer og rein? - Økonomi næringsliv,trezor2,28,3,24,,t5_2qh94,False
+1363878990.0,1aqhpa,En av Forsvarets hemmelige tjenester - Etterretningsbataljonen - har ulovlig kartlagt to VG-journalister som har jobbet med flere kritiske saker og bokprosjekter om de hemmelige tjenestene i Norge.,forteller,29,1,6,,t5_2qh94,False
+1360834968.0,18i91q,Piratpartiet slår røtter i Norge! ,yellowpillowware,32,5,3,,t5_2qh94,False
+1356973754.0,15qalk,Godt nyttår til r/norge!,schnibel,31,6,6,Håper det nye året bringer mange artige og interessante poster og kommentarer!,t5_2qh94,True
+1356532367.0,15gvjh,ESSAY: Den skjulte minoriteten – konservative kristne i Norge,Kakofoni,31,2,2,,t5_2qh94,False
+1351961854.0,12kiuh,Odd Børretzen har tatt reisen vidare,DeSanti,33,6,1,"Det er ikkje alltid eg syns det passar med protokoll eller sånne typar sakar her på /r/Norge og kanskje eg tar feil no òg
+
+Han går i båten saman med Erik Bye og Alf Prøysen og Noreg vert litt fattigare. 
+
+Tankar går til familien og hans nærmaste. 
+
+For å hedra han har eg nokre musikk eg har valt frå han som eg hugsar iallefall godt
+
+[Odd Børretzen &amp; Helene Bøksle - Murene](http://www.youtube.com/watch?v=5bl_Vn2NKFs&amp;feature=related)
+
+[Odd Børretzen - Måker](http://www.youtube.com/watch?v=2YSVJjIPDoA)
+
+[Odd Børretzen - Noen ganger er det allright](http://www.youtube.com/watch?v=2ePhT_miy8I)
+
+",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/12kiuh/odd_børretzen_har_tatt_reisen_vidare/
+1351800397.0,12h3wl,takboks i glassfiber selges,forteller,33,9,0,,t5_2qh94,False
+1347521548.0,zt9jl,Høyre vil la bare staten ha vigselsrett. Tros- og livssynssamfunn blir bare seremonimester.,forteller,32,4,18,,t5_2qh94,False
+1345102190.0,yb66q,Og idag er det bekreftet at HBO kommer til Norge,Elvellon,31,3,7,,t5_2qh94,False
+1344897452.0,y63wf,I etterpåklokskapens navn.,novovo,33,4,2,,t5_2qh94,False
+1341059764.0,vu82b,Det er tydeligvis noen som har humor hos Gule Sider,k-mouse,31,4,2,,t5_2qh94,False
+1340132905.0,vaeqj,Noen gir ikke opp jakten på miljøsvin. Vi trenger flere som ham.,insomnia77,29,4,2,,t5_2qh94,False
+1339091399.0,uq3fn,Dansk rapport: Datalagring bekjemper ikke kriminalitet ,kimme,29,3,1,,t5_2qh94,False
+1338732310.0,uil7g,Mulighet for å få til norske IAMA?,sekkebek,30,3,17,Syns dette hadde vært interessant. Andre som er enige?,t5_2qh94,True
+1336910282.0,tkvb9,I dag lærte jeg at Norge har forferdelige oversettelser på filmer. Her er ett eksempel.,uvelify,32,5,30,,t5_2qh94,False
+1334592260.0,scj9s,"Propaganda, før og nå",forteller,48,22,http://www.reddit.com/r/norge/comments/scj9s/propaganda_før_og_nå/,,
+1329301324.0,pqjt6,"Mange meiner det må gjerast noko med reglane for datostempling av matvarer. I dag blir det kasta mat for milliardar av kroner, ofte mat som er heilt fin.",forteller,30,2,http://www.reddit.com/r/norge/comments/pqjt6/mange_meiner_det_må_gjerast_noko_med_reglane_for/,,
+1326797756.0,okprv,Sukk... 16 år att,smerten,31,5,29,,t5_2qh94,False
+1324057412.0,nfd9w,Faen Oslo... Det er bare du som greier å gjøre ting som dette.,Niqulaz,44,15,13,,t5_2qh94,False
+1323438393.0,n67p7,"TV Visjon Norge sendte mange håndskrevne tiggerbrev til 80 åring: ""derfor ber jeg frimodig om du kan strekke din tro, å gi 3500kr. Nå?""",forteller,30,3,http://www.reddit.com/r/norge/comments/n67p7/tv_visjon_norge_sendte_mange_håndskrevne/,,
+1314186058.0,jsrss,"""Fraværet av Fox News gjør 
+Norge til et bedre land å leve i""",3,5,http://www.reddit.com/r/norge/comments/jsrss/fraværet_av_fox_news_gjør_norge_til_et_bedre_land/,,,False,t5_2qh94,False
+1307711168.0,hwcfs,Husk at polet er stengt i morgen ,d0lph1n,32,5,7,"Vinmonopolet:
+""Alle våre butikker er stengt på pinseaften, mandag 13. juni. Butikkene har vanlige åpningstider 10. og 14. juni.""",,False,,t5_2qh94,False,,
+1303564662.0,gvpnq,"NRKbeta om platebransjen: Festen er over, det er IKKE kake igjen",h3st,27,0,http://www.reddit.com/r/norge/comments/gvpnq/nrkbeta_om_platebransjen_festen_er_over_det_er/,,
+1275919836.0,ccbst,Hvorfor liker gutter å kysse på jenter. (PDF. Skole oppgave 4. klasse),Tl-lomas,28,2,8,,t5_2qh94,False
+1375358671.0,1jhlpz,Tre spørsmål vi bør stille oss om norsk overvåkning,sailornoob,30,4,4,,t5_2qh94,False
+1375176957.0,1jc82z,Rive av lapp-reklame ved Tøyen t-banestasjon. Seems legit.,Kakistokratic,35,8,8,,t5_2qh94,False
+1369515311.0,1f1po3,"""det er i min fulle rett å sysle med hobbyen min, derfor er det i min fulle rett å kreve at naboen ikke er i sin fulle rett til å se på tv""",Dragen_NG,33,8,http://www.reddit.com/r/norge/comments/1f1po3/det_er_i_min_fulle_rett_å_sysle_med_hobbyen_min/,,
+1369155173.0,1eru9j,"""Det er stusselig her med bare meg og katten min"" [Finn annonse].",Aishiteruu,33,7,13,,t5_2qh94,False
+1367686248.0,1donyw,Turid Thesen har drevet hjelpearbeid i Romania i over 20 år. Hun mener tigging må forbys.,kimme,32,5,9,,t5_2qh94,False
+1366545709.0,1csnu0,Friidrettsforbundet vil stanse private løpsarrangement - inkludert veldedighetsløp,schnibel,30,2,6,,t5_2qh94,False
+1365664919.0,1c4f3d,"Hvis man selv tar initiativ til å forsøke å redde en annen persons liv, får man ingen erstatning hvis man får varige helseskader.",Gnurx,27,2,http://www.reddit.com/r/norge/comments/1c4f3d/hvis_man_selv_tar_initiativ_til_å_forsøke_å_redde/,,
+1362991804.0,1a2n1b,Piratjakten rammer ikke piratene,Dogvillain,28,2,2,,t5_2qh94,False
+1358691249.0,16xgup,Konspirasjonsteoretiker: – CIA skjuler at verden gikk under 21. desember,haakondafo,30,4,6,,t5_2qh94,False
+1349280995.0,10vqb4,Fire offentlig ansatte leger mottar hvert år 600 000 kroner fra legemiddelfirmaet Glaxo Smith Kline.,forteller,32,4,5,,t5_2qh94,False
+1349168698.0,10t4g6,"Stortingsrepresentanter fra Arbeiderpartiet fremmer, for første gang i historien, et forslag om å innføre republikk i Norge",Gnurx,27,12,False,
+1348563169.0,10fx8y,"For første gang har et legemiddel med 
+cannabis blitt lovlig i Norge
+MS-pasienter",3,7,http://www.reddit.com/r/norge/comments/10fx8y/for_første_gang_har_et_legemiddel_med_cannabis/,,,False,t5_2qh94,False
+1348337249.0,10b10d,"For to måneder siden betalte Shirley Bottolfsen hjemreisen for rumenere i Bodø. Nå er mange av dem tilbake. – Vi må bli litt mer skeptisk i fremtiden, sier hun.",Gnurx,27,0,http://www.reddit.com/r/norge/comments/10b10d/for_to_måneder_siden_betalte_shirley_bottolfsen/,,
+1347991540.0,1039cu,Det er nødvendig at alle i Norge som skal publisere i vitenskapelige tidsskrifter stimuleres til å velge den åpne varianten. På den måten kan resultatene av offentlig finansiert forskning bli tilgjengelig for alle.,forteller,31,4,7,,t5_2qh94,False
+1347622756.0,zvenu,-Folk blir ikke latere av velferden – Ny doktorgradsavhandling viser at det er i landene med de høyeste trygdeytelsene at motivasjonen for arbeid er høyest.,forteller,33,7,8,,t5_2qh94,False
+1340390685.0,vg4gn,Hæstku (SFW),Gorber24,33,6,5,,t5_2qh94,False
+1339755633.0,v38ce,"Regjeringen åpner for at man fra neste år kan bygge garasje, uthus, samt å bygge på huset – uten å søke om det.",fiskfisk,30,3,False,
+1338112459.0,u74q1,"Cannabis importert fra EU som medisin er tillatt, politiet måtte returnere beslag",bosse,32,6,http://www.reddit.com/r/norge/comments/u74q1/cannabis_importert_fra_eu_som_medisin_er_tillatt/,,
+1329411897.0,pshz2,AMA Request: Noen som har samlet englefjær med Prinsesse Märtha,ghostofgarborg,33,9,7,Hun var etter sigende ikke alene. Man skulle tro noen hadde bilder og fjær etter denne påståtte seansen?,t5_2qh94,True
+1326197217.0,oaqqo,Finn.no er også trendy med ny tilbakemeldingsknapp.,Fleskefinn,29,3,0,,t5_2qh94,False
+1319018301.0,lhcaj,Vingeklipper Datatilsynet - Sterke krefter i regjeringen vil dressere med Datatilsynet. ,ffffuuuuManChu,30,4,3,,t5_2qh94,False
+1317115568.0,kssdo,Tilkalte politihelikopter og la Erik (34) i jern - grunnet barnas plastgevær,Wyld0rc,27,1,6,,t5_2qh94,False
+1311351452.0,iwwyu,"Skyting på Utøya, der AUF har samlet 700 medlemmer til sommerleir",Niqulaz,29,5,http://www.reddit.com/r/norge/comments/iwwyu/skyting_på_utøya_der_auf_har_samlet_700_medlemmer/,,
+1302052997.0,gjjri,DLD svartelista,nawts,28,4,1,,t5_2qh94,False
+1294999351.0,f258z,Velkommen til Norge,Arve,27,1,2,,t5_2qh94,False
+1282812483.0,d5msb,"VGs fantastiske ""nå har vi fucket opp""-side",fiskfisk,29,1,4,,t5_2qh94,False
+1375631392.0,1jomna,"Underbart väder i Hammerfest häromdagen, en turist från Sverige bara njöt!",maria_superwoman,31,4,http://www.reddit.com/r/norge/comments/1jomna/underbart_väder_i_hammerfest_häromdagen_en_turist/,,
+1373196825.0,1hsqw1,"Vegarbeid, fosenvegene - Keiserås-Rissa grense",MrHowTo,29,3,http://www.reddit.com/r/norge/comments/1hsqw1/vegarbeid_fosenvegene_keiseråsrissa_grense/,,
+1373008233.0,1hohhh,Ta en litt annerledes lunsjpause idag: Demonstrasjon mot overvåking foran Stortinget kl. 12:00,trezor2,29,4,2,,t5_2qh94,False
+1370451911.0,1fqck1,Lærernes musikkvideo går verden rundt (som norske aviser ville sagt),NotReallySpartacus,28,2,17,,t5_2qh94,False
+1369121228.0,1er32m,Tromsø fikk meg til å cringe ganske hardt.,ullsokk1,43,18,35,,t5_2qh94,False
+1369034800.0,1eokjb,- Hvorfor forteller ikke mediene hva en ikke-vestlig innvandrer koster?,illbred,37,11,15,,t5_2qh94,False
+1368548915.0,1eblvg,/r/norge med 3000 abonnenter og ~25 nye lesere per uke,lordlarm,28,2,3,,t5_2qh94,False
+1366106678.0,1cgbkg,Frykt for karikaturstrid på skole - Østlandssendingen,Strid,28,2,14,,t5_2qh94,False
+1364228017.0,1az9x9,Hvorfor lærer vi ikke barna våre å kode?,kimme,32,6,19,,t5_2qh94,False
+1357156460.0,15ubgh,"Studiestøtten vs. stortingsrepresentanters lønn, inflasjonsjustert utvikling, 2002 - 2012 [animasjon]",norjo,30,11,False,
+1352465687.0,12wssh,'Komplottet mot Snåsamannen' - artikkel av historiker Bård Larsen,diskomo,26,3,8,,t5_2qh94,False
+1351139791.0,121tfo,Brasil - Norge i VM 1998. Hele kampen med Scheie som kommentator.,mersk,33,6,2,,t5_2qh94,False
+1348924351.0,10nz1c,Laget nettside der elever kan gi lærere karakterer,Snozed,25,1,6,,t5_2qh94,False
+1344505978.0,xxkxs,Jonas Gahr Støre (Ap) grep personlig inn og ga en gullkantet toppjobb til eks-kollega.,sailornoob,29,4,10,,t5_2qh94,False
+1342816361.0,ww49r,Kom over satan på torgallmenningen i google maps.,zimulator,29,4,5,,t5_2qh94,False
+1335222141.0,soytt,Nordmann risikerer inntil 35 års fengsel for å ha kjørt i feil kjøreretning i Arizona,warrantyvoid,29,5,18,,t5_2qh94,False
+1334844453.0,shtal,"Lei, nå. Videospill har ikke skylden.",dnoate,29,2,http://www.reddit.com/r/norge/comments/shtal/lei_nå_videospill_har_ikke_skylden/,,
+1334313548.0,s7r0j,"Media, skjerp dere.. jeg er forlengst fed up av hele fyren!!",diskomo,36,10,http://www.reddit.com/r/norge/comments/s7r0j/media_skjerp_dere_jeg_er_forlengst_fed_up_av_hele/
+
+Det er jo dette han VIL!! Det er dette han har lagt opp til hele tiden!! Å få oppmerkosmhet rundt sin person!! Skjønner ikke folk det? Skjønner ikke media det?? Han spinner dere alle rundt lillefingeren! Patetiske mikrofonstativ!!
+
+Ikke er han noe spesielt god til å rappe heller.",,t5_2qh94,True,,,True,http://www.reddit.com/r/norge/comments/s7r0j/media_skjerp_dere_jeg_er_forlengst_fed_up_av_hele/
+1333100830.0,rkprt,"Den norske regjeringen bruker 3 milliarder kroner i 
+året på å bevare regnskogen. Samtidig investerer 
+oljefondet 82 milliarder (27 ganger mer) i 73 
+selskaper som skader regnskogen. Det viser en ny 
+rapport fra Regnskogsfondet.",5,2,http://www.reddit.com/r/norge/comments/rkprt/den_norske_regjeringen_bruker_3_milliarder_kroner/,,,False,t5_2qh94,False
+1328998886.0,pl96n,"André, trist kommentator på dagbladet.no, setter MGP-finalen i perspektiv. ",diskomo,29,11,False,
+1327696849.0,ozlc9,Johan har skjønt det! Faksimile fra Aftenposten,Darth_Kettch,29,4,8,,t5_2qh94,False
+1318544694.0,lbclo,Det ser mørkt ut for neste generasjon.,vertic,27,3,8,,t5_2qh94,False
+1310376397.0,imabi,Flaskekorken hadde feil farge,Aqwis,28,3,9,,t5_2qh94,False
+1300534425.0,g70hv,Kuleste bilde av Randi noensinne? (Bilde fra besøket i Oslo) [xpost from r/skeptic],forteller,27,4,4,,t5_2qh94,False
+1264526308.0,auehd,"Den usynlige: Ingen skal si at ikke Dagbladet kan 
+når de vil",0,5,http://www.reddit.com/r/norge/comments/auehd/den_usynlige_ingen_skal_si_at_ikke_dagbladet_kan/,,,False,t5_2qh94,False
+1370099774.0,1fgsov,"Så på siste episode av Deadliest Catch, la merke til noen artige krukker hjemme hos Sig Hansen. Tror det står Mel, Sukker, Te, Kaffe.",32,,t5_2qh94
+1366972882.0,1d5a6f,Først i 2015 skal din e-post- og telefoninfo lagres [DLD],yokian,28,4,1,,t5_2qh94,False
+1366387774.0,1cojsu,"Regjeringen sier nei til lyntog i Norge, men et kinesisk selskap er villig til å satse 100 milliarder kroner på å bygge ut et lyntog som kan kjøre fra Oslo til København på to og en halv time.",forteller,31,6,http://www.reddit.com/r/norge/comments/1cojsu/regjeringen_sier_nei_til_lyntog_i_norge_men_et/,,
+1366289754.0,1clpfa,SIAN annonse i dagbladet.,WorkingNinj,29,3,23,,t5_2qh94,False
+1364073752.0,1avnyx,ArfanBhatti-nett på bussen,xanaduu,42,16,0,,t5_2qh94,False
+1363096753.0,1a5awc,"""Dødsatomer selger best"" - Sunniva Rose om medias dekning av Fukushima-ulykken",norsci,24,0,5,,t5_2qh94,False
+1363038135.0,1a3u7y,"Stoltenberg-regjeringen nektet i fjor innsyn i 13.000 saker. En av statsrådene som oftest sier nei, er justisminister Grete Faremo. Hun er samtidig ansvarlig for loven som skulle sikre åpenhet, gjennomsiktighet og demokrati.",forteller,29,4,False,
+1362128025.0,19gd4p,Støre vil gjøre heroinrøyking lovlig,kimme,27,3,15,,t5_2qh94,False
+1362090636.0,19f9vw,Fine ord på en lyktestolpe i Stavanger,Elvellon,34,10,8,,t5_2qh94,False
+1356129946.0,1592os,Overvåkningspolitiet vil ha tilgang på info om deg selv om du ikke er mistenkt. Aftenposten vinkler dette *litt* annerledes.,9volts,31,9,13,,t5_2qh94,False
+1353509301.0,13kfia,En venninne fikk dette i posten i dag... Trodde bare sånt skjedde på film,Rabiatic,30,7,28,,t5_2qh94,False
+1348768108.0,10kn3p,PST har vært på besøk hos FBI og andre i USA. Nå ønsker Grete Faremo å gi dem tilgang til offentlige registre.,forteller,31,8,7,,t5_2qh94,False
+1347602560.0,zv5gx,No regnar det so mykje i Bergen at folk risikerar å verta betalt for å bruka strøm i huset. ,DeSanti,26,2,2,,t5_2qh94,False
+1347369987.0,zpgnn,Regjeringen annonserte i dag å innføre en ny CO2-kompensasjonsordning for norsk industri. Dermed forsvinner incentivet for å velge miljøvennlig.,forteller,27,4,8,,t5_2qh94,False
+1342522184.0,wp21i,Her får sigøynerkongen Karoli romfolk-sjokk,Strid,25,2,10,,t5_2qh94,False
+1339595037.0,uzsho,SV vil endre grunnloven slik at norske soldater ikke kan sendes på utenlandsoppdrag uten stortingsvedtak.,forteller,29,3,32,,t5_2qh94,False
+1337596504.0,txc1l,Trine Skei Grande: Ungdom har også krav på rettsvern (skolerazzia-saken),forteller,28,4,1,,t5_2qh94,False
+1331632068.0,qucfy,Klarsynte.. Om og om igjen?,Tyriam,30,6,33,"For den siste tiden har jeg sitt flere lenker på reddit og i flere aviser
+
+WTF is this? Har vi blitt romenere hele gjengen? krystalkulen er byttet bort med å "" Føle "" 
+
+De har ingen konkrete svar eller sier noenting som kan bli påvist. De bare ""føler"" og viss du ikke forstår så er det ikke deres feil. En klarsynt sa til og med at de viste om hvem som hadde drept noen. Selvfølgelig var det feil. 
+
+Tror vi nordmenn på dette? Er dette noe som skal være normalt i vårt media? De vises på NRK
+
+/sigh",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/qucfy/klarsynte_om_og_om_igjen/
+1327956027.0,p3grz,Grimstad har vært den eneste igjen av Norges 430 kommuner som starter møtene med salmesang. I dag nektet ordfører Hans Antonsen kommunestyret å synge fedrelandssalmen.,forteller,27,5,3,,t5_2qh94,False
+1327165789.0,oqcpe,Datteren til Mette-Marit er 40320 år gammel. ,,27,3,5,,t5_2qh94,False
+1323033017.0,n04aq,Jeg ler av idioter som tror roaming i utlandet er gratis,desouza3,28,3,16,,t5_2qh94,False
+1314954052.0,k2ab4,"Oslo får nytt sykkelfelt med masse fanfare. Fylles 
+øyeblikkelig opp med parkerte biler",6,5,http://www.reddit.com/r/norge/comments/k2ab4/oslo_får_nytt_sykkelfelt_med_masse_fanfare_fylles/,,,False,t5_2qh94,False
+1312840062.0,jctsu,Darwin award: Slo på patron med stein - døde,Wyld0rc,30,7,2,,t5_2qh94,False
+1311365663.0,ix3t3,A tribute to the fallen and the afflicted of the horrible events this day,CZtheDude,31,8,2,,t5_2qh94,False
+1307186642.0,hrg95,Norsk Datahelseinstitutt,nawts,28,2,3,,t5_2qh94,False
+1306764849.0,hnhhd,"""Norge i krig - Oppdrag Afghanistan""i HD tilgjengelig på bittorrent fra NRK",h3st,27,3,7,,t5_2qh94,False
+1304894587.0,h6w6q,Daily Mail skriver om Bastøy Fengsel (på engelsk),h3st,25,2,7,,t5_2qh94,False
+1300377704.0,g5w8q,"James Randi kommer til Norge! Oslo, Bergen, Trondheim",forteller,27,5,False,
+1300124786.0,g3swe,Atle Antonsen?,Kakedeig,27,1,5,,t5_2qh94,False
+1300015153.0,g328u,Det er vel å ta i litt hardt,Hypppaajogging,33,11,9,,t5_2qh94,False
+1299972754.0,g2ti9,Märtha: - Send engler til katastrofeområdet,Aqwis,27,2,4,,t5_2qh94,False
+1285237407.0,dhrvk,Norske annonser på Reddit (PIC),slarken,28,2,5,,t5_2qh94,False
+1274088705.0,c527j,Gratulerer med dagen!,Tjommi,29,6,7,,t5_2qh94,True
+1374789339.0,1j21ro,Du har vel lurt på hvorfor det er masse hakekors midt i Oslo?,PisseGuri82,30,6,22,,t5_2qh94,False
+1374065674.0,1ihduo,Norsk kvinne anmeldte voldtekt i Dubai: - Dømt for sex utenfor ekteskap,CogBliZ,30,7,24,,t5_2qh94,False
+1371545386.0,1gkp0w,– Oslo er ikke Oslo lenger. I snart 45 år har Ingrid Nygård bodd i Oslo og jobbet som drosjesjåfør. Nå vurderer hun å flytte fra hovedstaden fordi hun mener utviklingen i byen går helt feil vei.,Gnurx,34,10,18,,t5_2qh94,False
+1371030304.0,1g6qew,"Problemet er at 90% av cannabis ""avhengige"" som er til ""behandling"", er der av tvang (i stedet for fengsel).",redgrapejuice,30,8,http://www.reddit.com/r/norge/comments/1g6qew/problemet_er_at_90_av_cannabis_avhengige_som_er/,,
+1370253381.0,1fkmll,Norge bruker mindre enn lovet på forskning,Strid,27,4,3,,t5_2qh94,False
+1368184847.0,1e29tq,"Aldri har så mange samlet så store ""mapper"" på folk som deg og meg. Nå kan du hjelpe til med å overvåke overvåkerne.",forteller,30,7,0,,t5_2qh94,False
+1366210539.0,1cj9sj,"Mattilsynet vil at to millioner leverposteibokser skal kastes i søppelen. Det er ingen ting galt med maten, bare en skrivefeil på boksene.",Gnurx,28,5,http://www.reddit.com/r/norge/comments/1cj9sj/mattilsynet_vil_at_to_millioner_leverposteibokser/,,
+1363177378.0,1a7m76,Side Brok - H.O.V.D.E.B.Y.G.D.A.,thenorwegianblue,31,8,2,,t5_2qh94,False
+1363158405.0,1a7cbl,SV - Åpner for øl døgnet rundt,Strid,28,5,16,,t5_2qh94,False
+1362853880.0,19zbhd,- Trolig flertall for antipornoforslag,p0pc0rn,27,5,9,,t5_2qh94,False
+1359335447.0,17eeda,Hvordan enkelt få tilgang til Netflix' fulle utvalg.,Ekorn,27,2,10,,t5_2qh94,False
+1357936102.0,16ebr2,forskning.no &gt; Norsk marihuana dyrkes i det små,Vighi,30,8,3,,t5_2qh94,False
+1357912549.0,16dn1n,Ingen i styret til «reddisbjørnen.no» vil svare på hvor mange bjørner som er reddet for 412.460 kroner fra grasrotandelen,larsga,26,1,3,,t5_2qh94,False
+1357123476.0,15tjz5,Ti års forskning: Skytespill er bra for hjernen ,spazzm,26,5,4,,t5_2qh94,False
+1357045685.0,15rr1u,Mann har kjøpt inn masse raketter: Håper å få pult,alsoilikebeer,31,10,9,,t5_2qh94,False
+1356828096.0,15ndsf,Oljeutslipp i Oslo kan være på flere hundre tusen liter,forteller,28,5,8,,t5_2qh94,False
+1348148053.0,106vs0,"
+Vil tillate mer gift i maten - For tredje gang i år vil myndighetene øke grensen for hva som er tillatt av sprøytemidler i maten.",6,9,http://www.reddit.com/r/norge/comments/106vs0/vil_tillate_mer_gift_i_maten_for_tredje_gang_i_år/,,,False,t5_2qh94,False
+1347887375.0,100qsq,Norsk gjennombrudd i nanoteknologi - NTNU-forskere er først i verden med et materiale av grafén som kan revolusjonere teknologiindustrien.,forteller,26,5,1,,t5_2qh94,False
+1345377186.0,ygwz3,"Norsk professor emeritus med anti-evolusjonsbok på 
+norsk",4,34,http://www.reddit.com/r/norge/comments/ygwz3/norsk_professor_emeritus_med_antievolusjonsbok_på/,,,False,t5_2qh94,False
+1341576061.0,w4is6,H og FrP er mot mer åpenhet om partigaver,forteller,31,9,7,,t5_2qh94,False
+1341247170.0,vxhvf,"Magi er for Satan og ikke barn, forteller Jehovas Vitner i «Toy Story»-inspirert tegnefilm",Aqwis,25,1,http://www.reddit.com/r/norge/comments/vxhvf/magi_er_for_satan_og_ikke_barn_forteller_jehovas/,,
+1340269510.0,vdhrj,Fjernhealing på Facebook? Virkelig?,novovo,26,5,12,,t5_2qh94,False
+1338884364.0,ulsvf,Facebook fail,DownGoat,32,9,3,,t5_2qh94,False
+1336427377.0,tbu09,"Kleint, ja, men jeg har startet en norskspråklig Minecraft-Let's Play. All tilbakemelding er velkommen!",dnoate,25,14,False,
+1334980034.0,sku25,Kun én mann jobber med å overvåke norske fildelere,kimme,26,4,7,,t5_2qh94,False
+1332430707.0,r8h45,"DLD - Regjeringen trenger mer tid på på vurdere hvem som skal ta regningen for datalagringsdirektivet, og utsetter innføringen for andre gang.",Verdinus,23,0,http://www.reddit.com/r/norge/comments/r8h45/dld_regjeringen_trenger_mer_tid_på_på_vurdere/,,
+1330066740.0,q3s6o,Hundre år gamle sjekketips!,PisseGuri82,25,1,3,,t5_2qh94,False
+1329571348.0,pv70u,Homofile skeptiske til at konservative kristne får adoptere,Slasken,27,4,6,,t5_2qh94,False
+1322079993.0,mn3jo,Reddit meet-up Oslo December,Wyld0rc,25,3,30,"Hoi!
+
+
+Initiativ til reddit meet-up i desember tas herved av meg.
+Forslag til tider og steder er velkommne.
+
+Hva kan folk tenke seg å gjøre når de møtes?
+Jeg er glad i godt øl og god mat
+
+Kom med innspill!
+
+Edit: Tar imot forslag frem til og med søndag. Etter dette vil dato og sted plukkes.
+Edit2: Datoer og sted er plukket. More to come.
+
+Edit3: Schouskjelleren Mikrobryggeri Friday 16th.
+Time for start of meet-up can be discussed
+
+Edit4: Noe meget viktig har dukket opp så jeg kan ikke komme. 
+Stol på meg når jeg sier at det er få ting som ville fått meg til å gå glipp av dette. 
+Vi ses vel i januar isteden :)
+
+Håper alle har en herlig kveld på fredag!",,t5_2qh94,True,,,True,http://www.reddit.com/r/norge/comments/mn3jo/reddit_meetup_oslo_december/
+1317849423.0,l25m7,"I det nye endringsforslaget til åndsverksloven, som nettopp var ute på høring hos Kulturdepartementet, åpnes det for å blokkere nettsteder og registrere brukernes IP-adresser.",forteller,28,4,False,
+1317209520.0,ktzjj,"""Derfor ærede medborgere, unge og gamle....."" (Finnmarksposten 1875) -&gt; http://no.wikipedia.org/wiki/Finnmarksposten",kimme,28,3,http://www.reddit.com/r/norge/comments/ktzjj/derfor_ærede_medborgere_unge_og_gamle/,,
+1314449774.0,jw2so,BI - hide your backpacks part II,bjarneh,28,3,6,,t5_2qh94,False
+1312541715.0,j9r6j,Bra utvalg på møteplassen.no!,brannvesenet,27,4,0,,t5_2qh94,False
+1308835138.0,i74mh,"Dagbladet, kan dere bestemme dere?",Pottifar,28,5,http://www.reddit.com/r/norge/comments/i74mh/dagbladet_kan_dere_bestemme_dere/,,
+1305363889.0,hb5mf,Stueren rasisme (Trine Skei Grande i Aftenposten),johnny_olai,25,4,8,,t5_2qh94,False
+1292249748.0,el0k9,"Hvorfor det er så viktig å stoppe Datalagringsdirektivet, og hva du kan gjøre med det",forteller,24,2,http://www.reddit.com/r/norge/comments/el0k9/hvorfor_det_er_så_viktig_å_stoppe/,,
+1369463494.0,1f0ol8,Lag kleine visdomsord med P3s gullkornmaskin,brannvesenet,27,7,13,,t5_2qh94,False
+1368709354.0,1eg4xt,DLD-forskriften er publisert,Ueland,24,3,24,,t5_2qh94,False
+1365106367.0,1bomnf,Vi vil lære norsk og trenger litt hjelp (på skype),Estre,25,1,28,"Hei! Jeg har ei gruppe på skype for folk som vil lære seg norsk. Vi har et par nordmenn i den
+
+Om du vil bli med,,False,,t5_2qh94,False,,True
+1363770568.0,1ank0q,Lasse og Geir - i kortversjon ,thenorwegianblue,22,0,6,,t5_2qh94,False
+1361827323.0,197qmr,"Norge i rødt, hvitt og blått parodi",15MinutesOfReign,26,3,http://www.reddit.com/r/norge/comments/197qmr/norge_i_rødt_hvitt_og_blått_parodi/,,
+1361463968.0,18yl0k,Norske kvinner vil ikke ha verneplikt,kimme,23,1,24,,t5_2qh94,False
+1360661833.0,18dc4p,"Ny åndsverklov: Sensur i kulturens navn? – Hvor langt skal vi gå i et samfunnsskadelig, fånyttes forsøk på stoppe de naturlige følgene av teknologiutviklingen og bransjens slepende føtter?",forteller,24,3,http://www.reddit.com/r/norge/comments/18dc4p/ny_åndsverklov_sensur_i_kulturens_navn_hvor_langt/,,
+1360360369.0,185n61,"Den Lengste Reisen og Drømefalls oppfølger ""Dreamfall Chapters: The Longest Journey"" nå på Kickstarter",anonymepelle,24,4,7,,t5_2qh94,False
+1360163961.0,1802mr,Uten sprit og vin er øltavlen ulovlig,larsga,22,0,7,,t5_2qh94,False
+1357574499.0,164hb7,Regjeringsutvalg foreslår å innskrenke opphavsretten,forteller,28,5,3,,t5_2qh94,False
+1355747912.0,14zoq2,Endelig et spennende norsk romfartsprosjekt!,diskomo,24,3,5,,t5_2qh94,False
+1355486649.0,14u83p,"Ble dømt for voldtekt av datteren - som senere erkjente å ha løyet
+Aftenposten",5,22,http://www.reddit.com/r/norge/comments/14u83p/ble_dømt_for_voldtekt_av_datteren_som_senere/,,,False,t5_2qh94,False
+1353674909.0,13nyn2,"Det er for øvrig litt vittig å bli beskyldt for «manglende empati» av Husby-vennen og scientologilederen Trygve Haug, det er litt som å bli skjelt ut av Josef Fritzl for å være uetisk.",kimme,29,7,http://www.reddit.com/r/norge/comments/13nyn2/det_er_for_øvrig_litt_vittig_å_bli_beskyldt_for/,,
+1353012668.0,139bxp,Kripos purrer på dem som ikke møter opp til frivillig DNA-prøve,sailornoob,30,8,10,,t5_2qh94,False
+1351420703.0,127qpe,Annenhver nordmann tror på Snåsamannen. . . ,DeSanti,28,5,27,,t5_2qh94,False
+1349764557.0,116o3u,"""Mer handel bidrar til utvikling og økonomisk vekst. Regjeringens proteksjonisme er egoisme satt i system."" - Guri Melby, Venstre",Vimsefreet,27,4,http://www.reddit.com/r/norge/comments/116o3u/mer_handel_bidrar_til_utvikling_og_økonomisk/,,
+1348003512.0,103mk3,Norges mest hjelpeløse webside?,demonstro,26,6,14,,t5_2qh94,False
+1345222772.0,ydut9,Krever islamsk stat på Grønland,wanax,25,4,27,,t5_2qh94,False
+1343402124.0,x90hl, Norway's jellyfish problem -  why it's time for the government to take the sting out of Norwegian dental costs.,PBeaumont,27,7,12,,t5_2qh94,False
+1335135058.0,sn8ji,Ta byen tilbake,forteller,29,7,0,,t5_2qh94,False
+1332967341.0,ri3s3,Ironien hos NAV Evenes og Tjeldsund.,torvaldl,28,4,0,,t5_2qh94,False
+1329672774.0,pwl56,"Norsk musikkbransje tjener mer enn før. Tross 
+pirater og alskens tjuvradder.",5,5,http://www.reddit.com/r/norge/comments/pwl56/norsk_musikkbransje_tjener_mer_enn_før_tross/,,,False,t5_2qh94,False
+1329560686.0,pv47p,Professor ynskjer å DNA-teste Märthas englefjær,smerten,25,2,9,,t5_2qh94,False
+1329323197.0,pqu8r,Hvor i Norge er akkurat du?,,26,6,137,"Har lyst å finne ut hvor i Norge ""redditors"" befinner seg. Selv er jeg fra Tromsø",t5_2qh94,True
+1326981743.0,on92u,Janne Kristiansen har lært alt hun kan i jobben av Major Dølje.,oalsaker,24,0,2,,t5_2qh94,False
+1321718829.0,mi3vs,Hver jævla gang! Hvordan er det egentlig meningen at man skal åpne disse møkkaboksene?,blaengdall,30,7,6,,t5_2qh94,False
+1321393108.0,mdjux,Beste norske reklamen noensinne?,KristofferAG,29,6,7,,t5_2qh94,False
+1319636076.0,lpntc,"Hva i faen, Norge?",,26,6,http://www.reddit.com/r/norge/comments/lpntc/hva_i_faen_norge/,,
+1319296104.0,ll1hf,NTNU-student bor alene i skogen (10.03.2010),t5pc,24,2,3,,t5_2qh94,False
+1316553972.0,km06z,Jeg meldte meg som blodgiver i dag. Kanskje det er aktuelt for noen av dere?,Vighi,29,5,25,,t5_2qh94,False
+1312957316.0,jec2m,"Fjordman gleder seg til et studieopphold i Kairo 
+(2000)",3,3,http://www.reddit.com/r/norge/comments/jec2m/fjordman_gleder_seg_til_et_studieopphold_i_kairo/,,,False,t5_2qh94,False
+1311847708.0,j21y1,"In Norway, the Past Is a Foreign Country",mortenaa,23,2,http://www.reddit.com/r/norge/comments/j21y1/in_norway_the_past_is_a_foreign_country/,,
+1299767620.0,g1751,Høyre-topper nekter å godta Ernas datalagring-ja,setnorth,25,4,0,,t5_2qh94,False
+1299252373.0,fxb89,Är Petter Northug en gris?,Agres,28,4,3,,t5_2qh94,False
+1296676533.0,fe0bi,Lærer Bjørndals metode,turbo,23,2,1,,t5_2qh94,False
+1374598645.0,1iw75d,Kunne Marte vært dømt i Norge?,IAmAQuantumMechanic,23,1,2,,t5_2qh94,False
+1371575300.0,1glfd5,Åndsverkloven: Rettighetsalliansen dannes for å sensurere Internett og bekjempe pirater. Hevder tap i milliardklassen.,bdfgtyuj,25,4,7,,t5_2qh94,False
+1371156837.0,1gakqs,Jeg er positivt overrasket til reaksjonen i media,doughowel,23,4,1,,t5_2qh94,False
+1370569740.0,1fu1tk,"FBI har tilgang til alt innhold hos Facebook, Yahoo, Microsoft, Google og Skype - ikke la oss late som om at dette ikke foregår her i Norge også:P",duvetkemde,7,,False
+1367664058.0,1do8ha,SOS Rasisme begjært konkurs,sailornoob,25,3,3,,t5_2qh94,False
+1366292683.0,1cls6e,Det er på tide å gi seg nå Jørgen.,Infaraud,26,4,25,,t5_2qh94,False
+1365592476.0,1c2169,Jostein Gaarder: Er det vi som nå «tåler så inderlig vel»?,forteller,26,6,7,,t5_2qh94,False
+1362665085.0,19uf2q,"Politimesteren i Oslo: – Problemet er utlendinger, ikke innvandrere",kimme,23,4,http://www.reddit.com/r/norge/comments/19uf2q/politimesteren_i_oslo_problemet_er_utlendinger/,,
+1362483559.0,19paaq,Tone Damli Streisand. Et innlegg om bloggsensur og merkelig håndtering av ryktespredning,desouza3,25,3,8,,t5_2qh94,False
+1361267476.0,18t7lu,"Advarer mot nye antiterror-tiltak: Vi står i fare for å innføre tiltak mot terror som bryter med menneskerettighetene, mener jussprofessor Erling Johannes Husabø",,25,4,http://www.reddit.com/r/norge/comments/18t7lu/advarer_mot_nye_antiterrortiltak_vi_står_i_fare/,,
+1358802980.0,170fgi,"Trond Viggo har ein ny serie på NRK der han treffer folk han møtte i 1983 som ungdommer. Nesten voksen kallast serien, kan anbefalast på det sterkaste.",Vimsefreet,25,5,http://www.reddit.com/r/norge/comments/170fgi/trond_viggo_har_ein_ny_serie_på_nrk_der_han/,,
+1357890719.0,16dbez,Spesiell versjon av riksvåpenet på Tollkontoret i Oslo.,PisseGuri82,24,3,4,,t5_2qh94,False
+1357323003.0,15ylsu,"Økonomisk sammenligning av Norge, Sverige og Danmark [infografikk]",norjo,26,4,http://www.reddit.com/r/norge/comments/15ylsu/økonomisk_sammenligning_av_norge_sverige_og/,,
+1351612338.0,12cc3y,"Uff, dagens foreldre... flyr i flint over å se noen ekle bilder, men å dele private bilder av barna med hele Internett har de ingen problemer med",schnibel,26,6,False,
+1349966381.0,11b6ua,Kjøpesenter i Røros-stil,schnibel,22,3,1,,t5_2qh94,False
+1347952586.0,102i8l,«På Dahl skole er det 135 jenter og 115 gutter. Hvor mange prosent av elevene er jenter?» - Bare 30% av lærerstudenter kan helt elementær matematikk,Arve,22,1,22,,t5_2qh94,False
+1347737569.0,zxs1h,"""Men da du – med dine 1,95 meter, skallete hode 
+og enorme mustasje – gled frem bak kiosken
+forduftet de fem som ville rane oss.""",1,1,http://www.reddit.com/r/norge/comments/zxs1h/men_da_du_med_dine_195_meter_skallete_hode_og/,,,False,t5_2qh94,False
+1347274686.0,znbp8,"Bruk av hasj har lenge vært knyttet til subkultur og opposisjon. Nå brukes stoffet stadig oftere som medisin mot angst, søvnproblemer og ADHD, i følge ny studie.",forteller,26,15,False,
+1346353829.0,z3bu6,"Utøverne av de 150 alternative behandlingsmetodene i Norge får ha meg unnskyldt. Det er ikke mulig å forholde seg til dem, skriver lege Jørgen Skavlan.",vikingexplorer,26,7,http://www.reddit.com/r/norge/comments/z3bu6/utøverne_av_de_150_alternative/,,
+1345132969.0,ybq7k,Norge først i verden med gjeldsrevisjon for u-land - regjeringen skal gå gjennom fattige lands gjeld til Norge for å forsikre seg om at utlånene er ansvarlige og i tråd med FNs retningslinjer.,forteller,24,2,4,,t5_2qh94,False
+1344001683.0,xmana,"Hvis vi ønsker å forhindre vold, er det feil strategi å fjerne ytringer vi ikke liker fra det offentlige rom.",sailornoob,21,1,http://www.reddit.com/r/norge/comments/xmana/hvis_vi_ønsker_å_forhindre_vold_er_det_feil/,,
+1341323337.0,vz7rg,Vil slutte med bøter og fengsel for narkotikalovbrudd,forteller,27,6,5,,t5_2qh94,False
+1337596359.0,txbzr,"Fyresdal kommune ansetter lege for å jobbe med ”østlig” og alternativ medisin. Kanskje ikke lovstridig, men i det minste moralsk uholdbart.",forteller,24,4,http://www.reddit.com/r/norge/comments/txbzr/fyresdal_kommune_ansetter_lege_for_å_jobbe_med/,,
+1336297781.0,t9jew,"""Moder jord er som en gigantisk dynamo som produserer elektroner. Mange av sykdommene vi har skyldes elektronunderskudd. Når man går barbeint, så får man elektroner gratis fra jorda, og man kommer i balanse.""",kippot,27,26,False,
+1335437609.0,stdqu,Sporadiske følelser av sympati for Anders Behring Breivik,novovo,27,6,14,,t5_2qh94,False
+1335385179.0,ssbi1,Kva stemte Siv Jensen? Ny organisasjon vil gjera det lettare å følgja med på om politikarane held ord.,forteller,26,5,4,,t5_2qh94,False
+1331989539.0,r0r2j,"Her har Tine stuet vekk konkurrentens smør -
+Aftenposten",3,11,http://www.reddit.com/r/norge/comments/r0r2j/her_har_tine_stuet_vekk_konkurrentens_smør/,,,False,t5_2qh94,False
+1331883320.0,qz4b9,"Kul, liten severdighet i Oslo: Hodeskallen i Fredensborgveien.",PisseGuri82,23,3,http://www.reddit.com/r/norge/comments/qz4b9/kul_liten_severdighet_i_oslo_hodeskallen_i/,,
+1327234113.0,ore5t,Chewie! Chewie is that you!?,tanketom,37,18,12,,t5_2qh94,False
+1326398337.0,oebv3,Aftenposten Plasserer Tegneseriene Riktig,GUS74V,26,4,3,,t5_2qh94,False
+1322139669.0,mnuqb,Platebransjen frir til departementet med gamle tall - NRK Beta,ahaave,25,3,0,,t5_2qh94,False
+1318414071.0,l9enn,"Hvordan kan man ""beskytte seg"" mot DLD?",warrantyvoid,22,1,17,"Datalagringsdirektivet blir innført juli neste år. Hvilke verktøy kan man benytte for å skjule identitet og trafikk
+
+(Har ingen planer om å bedrive noen slags ulovlig aktivitet,,False,,t5_2qh94,False,,True
+1317982287.0,l3zxi,En eller annen plass i Nord-Norge.,ZubZero,24,2,8,,t5_2qh94,False
+1317433174.0,kx3hr,Grete Waitz sin 58. fødselsdag (Google doodle),desouza3,23,2,2,,t5_2qh94,False
+1314791413.0,k03e3,Den yngre generasjons kunnskap om Norge (norsk rage-tegneserie fordi jeg hadde lyst.) ,McRok,37,16,34,,t5_2qh94,False
+1312318740.0,j725e,Westboro Baptist Church truer med å aksjonere i terrorofrenes begravelser,,27,5,7,,t5_2qh94,False
+1311926399.0,j31dk,Armin Bahrami (han fjotten fra Nyhetsspeilet) når stadig nye lavmål..,forbanna,23,0,8,,t5_2qh94,False
+1311149531.0,iuni1,H&amp;M tok forslaget mitt - til hovedkontoret! (originalbildet funnet på Reddit),davidsk,30,8,3,,t5_2qh94,False
+1302278121.0,gljb1,An open letter to Norway from Anonymous,forteller,28,6,0,,t5_2qh94,False
+1297704827.0,fl82t,Varmepumper betyr ekstremkulde,lars_,23,2,5,,t5_2qh94,False
+1283170384.0,d76va,Oslo Maraton på flein og amfetamin,slarken,24,3,6,"Gonzo-inspirert tekst hvor skribent løper Oslo Maraton ruset på bl.a. fleinsopp og amfetamin
+
+* [faksimile #1](http://i.imgur.com/0WVSB.jpg)
+* [faksimile #2](http://i.imgur.com/5Zr66.jpg)
+",,t5_2qh94,True,,,True,http://www.reddit.com/r/norge/comments/d76va/oslo_maraton_på_flein_og_amfetamin/
+1253795215.0,9nn61,Norway's dirty little secrets - guardian.co.uk,,25,4,23,,t5_2qh94,False
+1376904804.0,1knoul,Stormberg på bærtur?,Kakistokratic,22,2,5,,t5_2qh94,False
+1375872447.0,1jvj8c,eSport-sted søker gamere,HouseofNerds,29,9,10,"House of Nerds er et nyoppstartet selskap som setter opp Norges største permanente lokale for gaming (eSport) og andre nerdeaktiviteter.
+At vi når målet tviler vi ikke på, sammen med andre investeringer, være nok til at vi realiserer gamingkonseptet eSportArena.
+
+Jo mer støtte fra brukerne vi får
+
+Vi strekker nå ut en hånd til alle potensielle samarbeidspartnere, delta i turneringer, eller bruke eSportArena som ditt treningssenter?
+
+Vi vil gjerne høre fra deg om du har krav
+
+Til slutt en oppfordring, men om du er en ekte gamer ser du at du vil få mye igjen for de andre belønningene.
+
+[Prosjektet på Fønd](http://foend.no/Project/acdb394f-e7c4-41f4-8783-71e268f9980b)
+[Nettside](http://esportarena.no)
+[Facebook](https://www.facebook.com/esportarena.no)",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/1jvj8c/esportsted_søker_gamere/
+1374243336.0,1imra6,Vurderer å bryte samarbeid med midtøsten-firma. Vurderer??!!,kimme,20,1,3,,t5_2qh94,False
+1373548397.0,1i2sza,Nektes hjemmehjelp fordi han har porno på veggene,ulrikft,22,3,14,,t5_2qh94,False
+1373279228.0,1huu99,En pose med gress,Rabiatic,33,14,11,,t5_2qh94,False
+1372248222.0,1h3ppk,I juni 2011 innførte statsminister Jens Stoltenberg (Ap) målet om at 80 prosent av alle kreftpasienter skulle behandles innen 20 dager. Snart to år senere er ventetidene fortsatt like lange.,Gnurx,30,10,4,,t5_2qh94,False
+1372079096.0,1gyskc,I 2010 avtalte Norge og Romania at rumenske fanger skal sone sine dommer i hjemlandet. Siden har det blitt flere rumenere i norske fengsel.,Gnurx,23,3,1,,t5_2qh94,False
+1369906154.0,1fbsr2,- De fornærmedes tidsalder,dnoate,21,1,0,,t5_2qh94,False
+1368531961.0,1eb4ij,Øygard-venn: - Vanlig i Gudbrandsdalen å dele seng,Frexxia,20,0,10,,t5_2qh94,False
+1365766214.0,1c77kp,Nordmann får NFL-kontrakt etter YouTube-video (og prøvespill),schnibel,24,5,1,,t5_2qh94,False
+1365328541.0,1buh3v,As long as you love tentamen - Are Kalvø,Trainbow,22,4,1,,t5_2qh94,False
+1364905908.0,1bievq,Skoletentamen flyttes på grunn av Bieber-konsert,kjartan87,27,7,13,,t5_2qh94,False
+1364327777.0,1b28cu,Kripos fortviler over at færre nordmenn vil gi dem DNA for å bevise sin uskyld,haakon,23,3,4,,t5_2qh94,False
+1360320460.0,184jav,Norge gir milliarder i u-hjelp til et land som snart skal arrangere fotball-VM og de olympiske leker.,kimme,21,2,5,,t5_2qh94,False
+1359821431.0,17r9ar,415 prosent prisstigning - tollgrensen består,kimme,24,3,3,,t5_2qh94,False
+1357854923.0,16c7mg,Fekk ikkje med meg kveldens debatt. Men antar at den var ca sånn,thenorwegianblue,45,29,2,,t5_2qh94,False
+1355143703.0,14lob6,"En vanlig kyllingfilet i butikken kommer fra en kyllinghall som dette. I denne hallen er alt i orden etter dagens regler, altså 34 kilo per kvadratmeter. Nå kan det bli enda trangere.",forteller,25,3,http://www.reddit.com/r/norge/comments/14lob6/en_vanlig_kyllingfilet_i_butikken_kommer_fra_en/,,
+1353929098.0,13t3wr,Kripos vil ha ID-plikt på nettkafé,forteller,22,1,0,,t5_2qh94,False
+1351175568.0,122ez7,Er lei av at kristent søppel kopler kristendommen til VÅR identitet. DIN identitet ditt sinnsyke nek!,straightedgefred,38,18,49,,t5_2qh94,False
+1348730482.0,10jxyu,Metallene i bakken i godt dokumenterte forekomster i Norge er verdsatt til 1388 milliarder kroner.,kimme,21,1,4,,t5_2qh94,False
+1347471520.0,zrxjm,Hvis Håkon Wium Lie fikk én dag som IT-minister,larsga,21,0,0,,t5_2qh94,False
+1346705662.0,zar8j,Stoltenberg røykte hasj - Kun forsberg som får konsekvenser?,laksir,26,7,18,,t5_2qh94,False
+1346602702.0,z8fyt,"Healer Else Egeland mener at Folkeopplysningens healer-test slo feil fordi programleder Andreas Wahl, som skeptiker, har svak aura. Nå utfordrer Skepsis henne til test.",forteller,25,8,False,
+1343565343.0,xc8p3,Se politikernes frynsegoder,forteller,25,6,8,,t5_2qh94,False
+1340326156.0,vetht,Norwegians' view of shared Dano-Norwegian history/how serious are you when you use expressions like the 400-year night?,illuyanka,21,1,42,"(doing this in English because I cross-posted to your English-language subreddit
+
+ Dear Norwegian brothers
+
+In a recent thread on /r/Denmark , and then said that likewise it would be bad form for a dane to fly the Dannebrog in Norway, ""where the time under Danish rule is known as the 400-year night"". 
+
+I argued that a personal union/double monarchy born in the middle ages is very different from military occupation in modern time, ie. not all bad. Other posters also jumped in. But obviously, the easiest way to find out what you think is to just ask you! And here I am.
+
+Basically, and it's always nice to host you here in Copenhagen (watching you indulge all vices here in the Sodom of Scandinavia.). I'm just really curious how different our countries' views on this shared history is. My impression is the view in Denmark is generally quite positive, but I'd like to know how it looks in the north. For example: do other people than nineteenth century National Romantics seriously use the term 400-year night?
+
+So, a personal union, that is, two separate states with the same king. In this union, Denmark may have been a dominant partner and the capital was Copenhagen, but the two states had separate laws and administration, and as far as I know there was never any serious oppression or cultural prejudice against Norwegians. Or at least, it was taken away from Jutland as much as from Norway. No highland clearances or forcing people to speak a different language (the whole standard dialect being favoured over rural dialects was again something that happened just as much to non-Copenhagen and/or non-upper class dialects in Denmark, some alright stuff
+
+That was my superficial knowledge and unfounded opinions on the subject. Next step is where you scream at me in the comments about how wrong I am.
+
+Much brotherly love
+A Danish imperialism-apologetic haunted by white guilt (not really).
+
+**TL;DR: What are your feelings on Denmark and Norway's shared history
+
+**EDIT:** so far it seems my initial impressions are mostly borne out, or do you all post there as well, but keep discussions in English and Norwegian separate. Or is there an ideological split between the two, eg. in moderation policies.",,False,,1340345918.0,t3_vetht
+1338910576.0,um70b,pimper en tilfeldig uteligger og gir han den beste dagen i hans liv!,Franki_hookah,25,6,8,,t5_2qh94,False
+1338215037.0,u8pza,Ny nettside for rangering av fastleger,Darth_Kettch,23,3,6,"""Legelisten.no ble lansert i mai 2012. Målet er å gjøre det enklere for folk å finne en god fastlege.""
+
+Kort oppsummert kan man legge inn vurdering av fastlegen sin i kategoriene ""totalinntrykk"", slik at man enkelt kan søke på en kommune eller by og finne den legen folk liker best. Siden viser også om det er ledig plass på legens liste.
+
+Jeg merker jeg er skeptisk til en side som oppfordrer folk til å legge inn anonyme vurderinger av navngitte leger - det kan fort utvikle seg til en klagemur hvis de misfornøyde pasientene blir de som benytter tjenesten flittigst. Samtidig er det ikke alltid at godt legearbeid er det samme som å yte god service til pasienten,,False,,t5_2qh94,False,,True
+1337962047.0,u4mnb,I det stille er Regjeringen i ferd med å innføre Fremskrittspartiets fengselspolitikk. Segregerte fengsler for utlendinger skal bli norsk virkelighet.,forteller,23,2,26,,t5_2qh94,False
+1334411280.0,s9ghm,Du vil bli overvåket – hvert andre minutt (DLD),forteller,25,6,3,,t5_2qh94,False
+1334052506.0,s2ccv,Konklusjon i ny rapport: Breivik er tilregnelig,turbo,21,3,21,,t5_2qh94,False
+1333607541.0,ruald,"Oslo Tingrett: ""... totalt uakseptabelt ..."" å brenne koranen.",homeopathetic,20,0,33,,t5_2qh94,False
+1332110281.0,r2km3,I mellomtiden i Norge,kabuli,23,3,4,,t5_2qh94,False
+1330615889.0,qczrp,"Butikkeier Inder Singh lar rusmisbrukere handle på krita og han har brukt en halv million av sine egne penger på å redde bygården til sine faste kunder. Bygården er en kommunal leiegård som stort sett er bebodd av narkomane, sosialklienter og trygdemottakere.",forteller,22,2,http://www.reddit.com/r/norge/comments/qczrp/butikkeier_inder_singh_lar_rusmisbrukere_handle/,,
+1326143047.0,o9s61,Du er nypult,demonstro,24,4,7,,t5_2qh94,False
+1318228415.0,l6thc,"Trondheimsstudentversjonen av ""Like a Boss""",blaengdall,30,10,0,,t5_2qh94,False
+1316737046.0,koi1f,Informativt og dramatisk fra Vikebladet,Joananas,25,4,3,,t5_2qh94,False
+1311079266.0,itrg9,Kristen fyr danser og spiller kristenmusikk,b00gielove,24,4,7,,t5_2qh94,False
+1304416083.0,h3187,Hitler presenterer visdomsord fra Facebook.,oalsaker,21,1,2,,t5_2qh94,False
+1301306242.0,gd1ar,Ap og Høyre enige om datalagring,setnorth,23,2,12,,t5_2qh94,False
+1297422970.0,fjdy2,Meme's på nynorsk,lordbost,30,10,14,,t5_2qh94,False
+1374590603.0,1ivx2m,Ikke velg byggfag!,sailornoob,21,2,4,,t5_2qh94,False
+1373868443.0,1ibodh,Kraftig fall i piratkopiering i Norge,insomnia77,21,2,21,,t5_2qh94,False
+1373400186.0,1hygcy,"Halloen! Konen min og Jeg snakker litt norsk, og vi har en liten jente som er seks måneder gammel. Jeg har spørsmål til alle dere norske foreldrene...",deten,22,3,http://www.reddit.com/r/norge/comments/1hygcy/halloen_konen_min_og_jeg_snakker_litt_norsk_og_vi/
+
+Denne engelsk videoen er vår favoritt før sengetid: https://www.youtube.com/watch?v=HpA0G3Jxh8w
+
+Jeg håper at dere forstår meg
+
+(Also corrections are well appreciated! Whew... time to rest my brain)",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/1hygcy/halloen_konen_min_og_jeg_snakker_litt_norsk_og_vi/
+1373110435.0,1hqte6,"Knut S. Vikørs blogg er et godt eksempel på at akademikere kan skrive forståelig om dagsaktuelle tema, og gjøre oss mindre avhengige av journalistenes og redaksjonenes vinkling. Har vi andre?",Qwill2,21,1,http://www.reddit.com/r/norge/comments/1hqte6/knut_s_vikørs_blogg_er_et_godt_eksempel_på_at/,,
+1372950817.0,1hmxmu,"Prostitusjon: -Jeg nyter sex , og ser ingen problemer med å ta betalt for det",kimme,27,8,http://www.reddit.com/r/norge/comments/1hmxmu/prostitusjon_jeg_nyter_sex_og_ser_ingen_problemer/,,
+1371758081.0,1gqy25,"Misvisende, feilinformert og kunnskapsfattig - Er det en tilfeldighet at NRK slipper til en materialforsker tre ganger på rad uten at det er klimaforskere til stede som kan ta til motmæle?",forteller,24,4,http://www.reddit.com/r/norge/comments/1gqy25/misvisende_feilinformert_og_kunnskapsfattig_er/,,
+1371208800.0,1gbyed,I dag innføres kjønnsnøytral kjønnslov,Tartantyco,24,5,24,,t5_2qh94,False
+1370601957.0,1furwc,Bredbåndsleverandørene driter seg ut på markedsføring,momarortotinon,21,2,2,,t5_2qh94,False
+1369997418.0,1feb3c,– Øygard-saken hadde nok ikke skjedd hvis jenta var muslim,Gnurx,22,1,16,,t5_2qh94,False
+1369140468.0,1ere6z,Tøffe tider for Stewart og Pattison...(VG),xroomie,29,12,5,,t5_2qh94,False
+1367229333.0,1dbv73,Regionale subreddits?,Arve,20,3,26,"Jeg har tenkt å pusse opp sidebaren litt
+
+Hvis du abonnerer på, ville jeg sette pris på om du legger til en kommentar med link til subredditet.
+
+**Edit:** Legger til nye forslag fortløpende i sidebaren.",,t5_2qh94,1367238996.0,,,True,http://www.reddit.com/r/norge/comments/1dbv73/regionale_subreddits/
+1365933102.0,1cbi4o,Interessant artikkel om colaavhengighet,schnibel,21,2,16,,t5_2qh94,False
+1363586667.0,1aieft,Jeg leter etter noen hvem viller å hjelfe meg med det norske språket! ,lgf92,25,7,13,"Først og fremst
+
+Så jeg foreslår noe for dere, tysk og russisk, men jeg viller lære norsk! Om dere viller hjelfe meg, jeg kan dere hjelfe med noen av disse språkene, som du ønsker. Vi kan snakke på Skype eller på beskjeder Facebook/Reddit. Du har valget! :)
+
+Send meg et beskjed om du er interessert. Jeg ville være glad for å hjelpe deg,False,,t5_2qh94,False,,,t3_1aieft
+1361850113.0,198khv,Stor fare for traumer etter dette....,Tot_Neo,23,5,4,,t5_2qh94,False
+1359883867.0,17suxg,"Mange vil være med å feire at det islandske folk er frikjent av EFTA-domstolen. Men få stilte opp da Island trengte det som mest, heller ikke Norge",kimme,20,1,http://www.reddit.com/r/norge/comments/17suxg/mange_vil_være_med_å_feire_at_det_islandske_folk/,,
+1359516515.0,17jfyc,Nye regler skal gjøre det enklere å stanse norske nettpirater,kimme,20,0,8,,t5_2qh94,False
+1358860734.0,171x89,"NAV fjerner produktet «Memonizer COMBI» fra sine nettsider. Produktet påstås blant annet å beskytte mot trådløse nett, ionisk ubalanse og «geopatiske forstyrrelser»",forteller,24,5,http://www.reddit.com/r/norge/comments/171x89/nav_fjerner_produktet_memonizer_combi_fra_sine/,,
+1358432641.0,16r38x,Makan til frekket - Del II,digitaldanger,43,23,8,,t5_2qh94,False
+1354055919.0,13wcwg,Piratpartiet trenger 600 underskrifter til før jul for å kunne registreres i det norske Partiregisteret. Kan du hjelpe til?,warrantyvoid,29,12,12,,t5_2qh94,False
+1353695377.0,13od0l,Aftenposten sier det som det er.,schnibel,20,0,3,,t5_2qh94,False
+1350976166.0,11xod5,"Eldre folk var eldre før, men det var sannelig barna og. ",Strid,21,1,http://www.reddit.com/r/norge/comments/11xod5/eldre_folk_var_eldre_før_men_det_var_sannelig/,,
+1346670244.0,z9xm1,Arild Knutsen berømmer stortingsrepresentant Thor Erik Forsbergs åpenhet om kannabisbruk,forteller,27,7,15,,t5_2qh94,False
+1344654134.0,y14ys,"Dette bildet gjør sin rundgang på Facebook, noen som vet om det er noe hold i dette?",astv,24,5,http://www.reddit.com/r/norge/comments/y14ys/dette_bildet_gjør_sin_rundgang_på_facebook_noen/,,
+1342276667.0,wjt7c,Kristofer Hivju bekreftet som Tormund Giantsbane i Game of Thrones s3,novovo,25,4,4,,t5_2qh94,False
+1340040049.0,v8d4q,"Ventetiden er over, Netflix forbereder lansering i Norge.",novovo,29,11,http://www.reddit.com/r/norge/comments/v8d4q/ventetiden_er_over_netflix_forbereder_lansering_i/,,
+1336812896.0,tjgu8,Fremsto som suksessrike gründere - avslørt som løgnere,Strid,24,3,3,,t5_2qh94,False
+1336378806.0,tawrz,Har noen sett PK?,desouza3,25,8,5,,t5_2qh94,False
+1334439880.0,s9zk7,"Oppblåsbar kirke, anyone? Berre 450.000 kroner på Finn…",tanketom,23,4,http://www.reddit.com/r/norge/comments/s9zk7/oppblåsbar_kirke_anyone_berre_450000_kroner_på/,,
+1332923973.0,rhask,"- Laiv kan forandre verden. Det mener Norges nye utviklingsminister, Heikki Holmås (SV).",forteller,21,2,http://www.reddit.com/r/norge/comments/rhask/laiv_kan_forandre_verden_det_mener_norges_nye/,,
+1332245492.0,r4z2p,Survival of the kickest,cmykify,28,9,0,,t5_2qh94,False
+1331014090.0,qjtcr,Ville du ha stoppet dem om du satt på bussen og så det hele?,64-17-5,21,3,18,,t5_2qh94,False
+1330351553.0,q83c8,Vil du ha valuta for lisenskronene? Se Gonzo: The Life and Work of Dr. Hunter S. Thompson på nrk.no,branato,20,1,2,,t5_2qh94,False
+1328901399.0,pjq6d,Kripos vil bruke DLD til å overvåke Hotmail og Yahoo mail. Vil vente litt med Gmail og Facebook.,haakondafo,21,4,6,,t5_2qh94,False
+1326832053.0,olaqo,Norsk presse kommer ikke til å nevne denne grusomme videoen med ett eneste ord,fiskfisk,24,3,9,,t5_2qh94,False
+1325202898.0,nvj45,Jeg tror at de fleste som har vokst opp i Skandinavia vil kunne få en liten tåre i øyet av dette bildet...,blaengdall,26,6,8,,t5_2qh94,False
+1324570033.0,nmpwr,Reklameselskapet JCDecaux tjener opp til 13 millioner hvert år på at Oslo kommune ikke får fjernet sine egne reklametårn i bybildet. Oslo kjøpte tårnene for 40 millioner i 2009 og lovet å fjerne reklamen innen utgangen av 2010,forteller,21,1,8,,t5_2qh94,False
+1315324283.0,k6i45,"OK, hvilken redditor tok på seg hatt og frakk og rappa en narhvaltann fra museet i Stavanger?",ffffuuuuManChu,21,1,http://www.reddit.com/r/norge/comments/k6i45/ok_hvilken_redditor_tok_på_seg_hatt_og_frakk_og/,,
+1308312108.0,i226w,«Har du hørt på makan...skal norske ungdommer betale for førerkort og utenlandske norske få det GRATIS?????? DET kalles for DISKRIMINERIG!!!! BASTA BOM!!!!» ಠ_ಠ,Pottifar,24,6,7,,t5_2qh94,False
+1307204259.0,hrk5b,NM i Trolling på Gjøvik,rzr82,24,3,4,,t5_2qh94,False
+1306062817.0,hh9hj,"Aftenpoften om israelvenner. Israelvenn: ""Vi lever i en endetid. Våkn opp og se 
+rundt dere!""",2,7,http://www.reddit.com/r/norge/comments/hh9hj/aftenpoften_om_israelvenner_israelvenn_vi_lever_i/,,,False,t5_2qh94,False
+1304877941.0,h6qvn,Det hender seg man møter felles redditer på landstreff!,swales8191,29,10,19,,t5_2qh94,False
+1302192369.0,gktis,Never do live reports with drunks.(xpost fra pics),JohnnyLotion,21,3,5,,t5_2qh94,False
+1270292910.0,blyxq,"Nordmenn har siden 1985 fått betraktelig redusert tro på Gud, astrologi og synskhet, og har mindre fremmedfrykt enn noengang.",haakon,21,8,False,
+1376916537.0,1knvv3,Forskere har funnet sammenheng mellom religiøs tro og intelligens,TickelMeJesus,21,3,3,,t5_2qh94,False
+1376493868.0,1kcp56,"Aftenposten prøver å snakke med fremmede i Oslo for å teste ut de ""sosiale spillereglene""",Mybackwardswalk,18,2,1,,t5_2qh94,False
+1375304484.0,1jg4ai,The Guardian: USAs etterretning kan lese alt du skriver på Facebook,Strid,21,2,12,,t5_2qh94,False
+1372138721.0,1h0se0,Økningen har vært på 966 prosent. Norske bilister betaler 4.000 bomkroner per bil.,Gnurx,26,8,27,,t5_2qh94,False
+1371567981.0,1gl62m,"Etter en fem år lang feide om fellingen av et grantre(!), tapte familien Enoksen i alle instanser. Nå må de selge huset på grunn av saksomkostninger på 378 000 kroner.",warrantyvoid,19,3,http://www.reddit.com/r/norge/comments/1gl62m/etter_en_fem_år_lang_feide_om_fellingen_av_et/,,
+1370349211.0,1fnbtg,– Redaktøren i Utrop bør fortsatt gå,Gnurx,23,5,4,,t5_2qh94,False
+1369765720.0,1f7pnc,"Miljøorganisasjoner reagerer på det klimaparadokset regjeringen legger opp til, der det på den ene siden snakkes om klimatiltak samtidig som det er politisk jubel for nye oljefunn.",forteller,21,2,http://www.reddit.com/r/norge/comments/1f7pnc/miljøorganisasjoner_reagerer_på_det/,,
+1369314489.0,1ewfpu,Ola Borten Moe har godkjent kontrakter for 43 milliarder kroner før Stortinget har behandlet utbyggingene,larsga,20,3,4,,t5_2qh94,False
+1368033426.0,1dxxju,To personer antas omkommet etter bru kollaps i Trondheim!,W00ster,21,2,5,,t5_2qh94,False
+1366917375.0,1d3o8z,Redditørene kommer,ShiftingParadigme,26,6,24,,t5_2qh94,False
+1366300681.0,1cm1is,Jeg er så Oslo du kan kalle meg for voldtatt,Strid,28,10,14,,t5_2qh94,False
+1365524863.0,1bzwzw,Østfold kommunistparti nevnt i Nordkoreanske nyheter.,smerten,19,1,8,,t5_2qh94,False
+1360963488.0,18lops,Kroppsskanning innføres på norske flyplasser,larsga,18,0,7,,t5_2qh94,False
+1359994625.0,17ve7d,Mehamn får det nordligste bryggeriet i Norge,kimme,20,2,3,,t5_2qh94,False
+1358279913.0,16mwod,Lys:Ålesund - fantastisk timelapse,thenorwegianblue,18,0,1,,t5_2qh94,False
+1352996867.0,138u8p,Tips til studenter/unge som skal flytte for seg selv?,lean_back,20,1,39,"Heisann! Jeg visste virkelig ikke hvor jeg kunne spørre om dette noen andre steder her på reddit
+
+Hvilket tips har dere til unge mennesker som flytter fra hjemmet sitt for å bo på en hybel første gang? Hvordan kan ""vi"" legge et godt grunnlag for en positiv framtid? 
+
+Har dere noen tips til unge som flytter for seg selv og som har planer om å studere? Er det noen vei rundt et studielån
+
+Jeg blir nå bedt om å flytte hjemmefra og jeg er litt redd. Jeg vil ikke stå fast på en jobb bak kassa på Coop i mange år framover. Jeg har lyst å studere og skaffe meg en utdannelse
+
+Ellers ville det også vært fint med generelle ""protips"" om hvordan man kan legge et godt grunnlag for seg selv. 
+
+Takk på forhånd
+
+**EDIT:** Takk for alle svarene! Dere har kommer med noen veldig gode tips. Ser nå at det nesten er ingen vei rundt et studielån,,False,,t5_2qh94,1353020302.0,,True
+1348554811.0,10ft78,Tidligere Viasat-selgere: – Vi ble behandlet som dyr,demonstro,19,2,1,,t5_2qh94,False
+1348489347.0,10e0jv,Klager Folkeopplysningen inn for PFU · Fritanke.no,spazzm,22,5,7,,t5_2qh94,False
+1345738301.0,yp9gg,"Fant ut i dag at engelske Wikipedia har en grundig og velskrevet artikkel om det norske begrepet ""spynorsk mordliste""",blaengdall,18,2,13,,t5_2qh94,False
+1345214096.0,ydmb7,Nytt NRK-program: Folkeopplysningen skal teste det alternative,forteller,23,7,10,,t5_2qh94,False
+1344695452.0,y1r8c,– Synske uroer etterforskningen. Tidligere politietterforsker Finn Abrahamsen reagerer på synske som vil hjelpe til i forsvinningssaker.,forteller,21,5,6,,t5_2qh94,False
+1343028782.0,x08re,"""I stedet for å forberede barna på livets harde realiteter, har Generation Me-foreldrene utstyrt barna sine med en så overdreven selvtillit at mange bikker over grensen til narsissisme.""",LarryjugendD,22,4,http://www.reddit.com/r/norge/comments/x08re/i_stedet_for_å_forberede_barna_på_livets_harde/,,
+1341491167.0,w2o8e,Dan Børge brekker seg,Lazarian,24,4,3,,t5_2qh94,False
+1340142258.0,vaoal,Global Reddit Meetup 2012 - Oslo,Wyld0rc,18,1,17,"Hallaisen People of Reddit!
+
+Siden jeg syntes det var hyggelig å møte så mange av dere i fjor har jeg nå sånn plutselig hevet meg rundt for å se om vi får til noe :)
+
+Årets Meetup blir som i fjor på Peoples nå førstkommende lørdag 23.6.
+Det stemmes nå over oppstartstid på FB eventen
+Eventen finner dere her: https://www.facebook.com/events/338597486205486/
+
+Info krysspostes til r/norge r/norway og r/oslo.
+
+Flott om de som veit de kommer gir beskjed om dette samt om de vil spise eller bare skal kose seg med godt drikke.
+
+Regner med Peoples vil vite det på forhånd dersom vi ramler 50 stk inn for å få mat ;)
+
+Peoples finner dere på:
+Arbeidersamfunnets Plass 1
+0181 Oslo
+
+Har jeg glemt noe?",,t5_2qh94,1340146222.0,,,True,http://www.reddit.com/r/norge/comments/vaoal/global_reddit_meetup_2012_oslo/
+1335276504.0,spyji,"Regjeringen bør holde igjen budsjettpenger til de etatene som ikke aktivt deler sine data med samfunnet, mener IKT Norge.",forteller,23,6,http://www.reddit.com/r/norge/comments/spyji/regjeringen_bør_holde_igjen_budsjettpenger_til_de/,,
+1333556933.0,rt2rp,Digi.no: Slipp fildelerne fri! «Regjeringen bør i sitt arbeid med den nye loven slå fast at myndighetene har andre ting å bruke ressursene på enn å holde liv i en dødende industri som holder sine kunder som gissel.»,forteller,20,3,1,,t5_2qh94,False
+1330939817.0,qie00,Matbløffen som vekket Mattilsynet,Wyld0rc,21,3,9,,t5_2qh94,False
+1327699690.0,oznoq,"Jeg er amerikansk student på norsk. Vi lærte denne sang siste uken, og nå kan jeg ikke stoppe...",cargirl,18,0,http://www.reddit.com/r/norge/comments/oznoq/jeg_er_amerikansk_student_på_norsk_vi_lærte_denne/,,
+1326755212.0,ojyak,"Ok folkens, hvem faen er det som driver å re-submitter ting fra f7u12 sin front page (som du helt klart ikke har laget sjæl) til artige.no, OGSÅ SIGNERER det? ",Derpingtonson,25,13,False,
+1326396559.0,oeada,"Nye billettpriser hos Ruter fra 1.februar. Enkeltbillett, voksen nå 50kr!",forteller,21,3,http://www.reddit.com/r/norge/comments/oeada/nye_billettpriser_hos_ruter_fra_1februar/,,
+1324418412.0,nkem4,"Endelig en norsk MSM (utenom IT-MSM) som snakker om SOPA: - Kan tvinge internett i kne. Hvis Lamar Smith fra Texas får det som han vil, kan store deler av internett «forsvinne».",forteller,20,3,http://www.reddit.com/r/norge/comments/nkem4/endelig_en_norsk_msm_utenom_itmsm_som_snakker_om/,,
+1323545606.0,n7nla,Legendarisk reisebrev om en tur til Oslo,larsga,19,3,2,,t5_2qh94,False
+1323545223.0,n7ne1,Verdens dummeste land,larsga,20,1,21,,t5_2qh94,False
+1320097030.0,lvnpl,"Utøya-far politianmelder ""Call of Duty""",,23,5,20,,t5_2qh94,False
+1319133668.0,lixvf,"Øh, ""Etelrugians, Granes, Arothes, Agandes"",64-17-5,http://www.reddit.com/r/norge/comments/lixvf/øh_etelrugians_granes_arothes_agandes_hva_er/,
+1319046293.0,lhp9g,Idar Vollvik lanserer en android mobil kalt P9S....,rumbler84,28,9,7,,t5_2qh94,False
+1317837808.0,l1y2h,"""Albino"" elgen Albin skutt av dansk jeger. ",TropicalPunch,22,3,5,,t5_2qh94,False
+1316715775.0,ko5mb,Ukens godbit fra Ultra/Centra,Wyld0rc,23,4,4,,t5_2qh94,False
+1316700626.0,knwm8,Her er en illustrasjon om hvordan Isreal og Palestina konflikten har utartet seg om landområder på vestbredden etter andre verdenskrig...,kimme,27,8,2,,t5_2qh94,False
+1310729431.0,iqbwo,Stedsnavn i Norge #1,henjak,25,5,10,,t5_2qh94,False
+1300204981.0,g4h4q,DLD med fransk åpning,Qwill2,18,0,0,,t5_2qh94,False
+1289217622.0,e2vxh,Gallup i avisa Nordlys,larsga,19,0,5,,t5_2qh94,False
+1252841059.0,9k2jo,"In Norway, prisoners take part in TV debates 
+(excellent Guardian piece on upcoming election)",0,5,http://www.reddit.com/r/norge/comments/9k2jo/in_norway_prisoners_take_part_in_tv_debates/,,,False,t5_2qh94,False
+1376306032.0,1k788h,Valget og handlingsregelen: Hva mener du?,tobbern,18,2,20,"Jeg hadde tenkt å starte en debatt
+
+
+1. Hva mener r/norge ang. spørsmålet om vi skal beholde eller justere handlingsregelen? (Altså mer eller enda mer oljepenger i norsk økonomi
+
+
+2. Er det noen partier som vil redusere regelen fra 4% til 3%? [Sentralbanksjef Øystein Olsen vil det.](http://www.bt.no/nyheter/okonomi/Norges-Bank-vil-endre-handlingsregelen-2655917.html#.Ugi1c5LQZ8E)
+
+
+Hittil finner jeg ikke noe partiprogram som sier dette
+
+
+Men hva med oss som vil at vi skal faktisk spare litt her?
+
+
+Grunnen til at jeg er bekymret og strikker min foljehat på fanget er nyhetene (gamle artikler) om at oljefondets realavkastning var på 2
+
+
+Ja jeg vet at oljeprisen idag er høyere enn den var da handlingsregelen ble skrevet og at SPU går dermed i pluss,False,,t5_2qh94,False,,,t3_1k788h
+1374890896.0,1j4yz8,Norge har tregere internett enn Romania,TheEndgame,22,3,24,,t5_2qh94,False
+1372796540.0,1hiqe1,Rødt-leder Bjørnar Moxnes vil vise frem rikingene på safari - bor selv i mangemillionersvilla,TheEndgame,27,10,7,,t5_2qh94,False
+1371796175.0,1gs4hn,Statens kartverk skal frigi grunnlagsdata under CC-BY,sailornoob,21,5,1,,t5_2qh94,False
+1371475427.0,1giia6,Bilbelter på kino!,uvelify,23,6,2,,t5_2qh94,False
+1369139367.0,1erdcu,"Endelig en morsom ""fagprat""",Trainbow,25,9,11,,t5_2qh94,False
+1367940554.0,1dv6u8,Anmelder UP for politivold,,18,1,3,,t5_2qh94,False
+1367315183.0,1dehad,Hvor bestiller dere reiser?,Pavement1,17,1,16,"Jeg ønsker meg ut å reise,,
+1362414083.0,19n6wc,The Pirate Bay er stengt for norske brukere,kimme,21,3,13,,t5_2qh94,False
+1361438154.0,18y2hd,Studentene som selger sex,larsga,17,2,14,,t5_2qh94,False
+1359291206.0,17d7rq,Kastrerer rein med tennene ,Gnurx,20,2,9,,t5_2qh94,False
+1358802772.0,170f62,"E-journal. Norge: 13 år, 1 milliard, null resultat. Estland: 82 mill, ferdig",larsga,1,,False
+1358603551.0,16vihc,Prøveperidoen for HBO Nordic begynner å nærme seg slutten. Hva tenker folk?,styggjedom,20,4,14,"For meg som ikke har mulighet til å streame HBO Nordic på andre måter enn på PC har prøveperioden vært en skuffelse. Har hørt at Samsung appen streamer HD-kvalitet som er bedre enn Netflix
+
+Innholdet er det derimot lite å klage på, men jeg har vondt for å binde meg for et år til en tjeneste jeg er så lite fornøyd med. Spesielt siden HBO Nordic ikke kan gi en bestemt dato på når vi får HD på PC. Noen andre som har hatt bedre (eller andre) erfaringer med HBO Nordic?
+
+",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/16vihc/prøveperidoen_for_hbo_nordic_begynner_å_nærme_seg/
+1358157485.0,16jmft,"Norsk waffen ss verveplakat; 
+post fra r/pics",0,0,http://www.reddit.com/r/norge/comments/16jmft/norsk_waffen_ss_verveplakat_post_fra_rpics/,,,False,t5_2qh94,False
+1358112302.0,16idxt,På 20 år er det laget 23 statlige handlingsplaner. Arbeidsledigheten blant innvandrere er tre ganger så høy som for resten av befolkningen - akkurat som den var det for 20 år siden. ,Gnurx,18,2,14,,t5_2qh94,False
+1356634556.0,15j3q1,Mann fra Ålesund samler inn gaver til barn og unge på sykehus,passeanonym,17,0,0,,t5_2qh94,False
+1353318629.0,13g0lv,Statoil truar med utflagging frå Noreg grunna nye skattereglar.,DeSanti,22,4,8,,t5_2qh94,False
+1350376887.0,11k8so,I dag vedtar politikerne høyere lønn til seg selv,sailornoob,18,3,20,,t5_2qh94,False
+1349636827.0,113jzj,Gode råd til en mulig varsler,larsga,18,3,1,,t5_2qh94,False
+1348673435.0,10idln,Stal kalv og åt den på nachspiel - Ryfylke - NRK Nyheter,Wyld0rc,20,3,7,,t5_2qh94,False
+1348248038.0,1098yp,"Oslo, Norge, 2012: 3500 i rolig protest mot islamkritisk film ",forteller,19,23,False,
+1346880816.0,zex2q,Statssekretær Dag-Henrik Sandbakken bitchslapper Jon Hustad/Harde Fakta,forteller,18,1,1,,t5_2qh94,False
+1344255467.0,xrg87,Bjørner hadde fest på hytte,larsga,19,1,4,,t5_2qh94,False
+1342701243.0,wtbfa,"- Hatet er svært skremmende – Kun få dager før Norge skal minnes 22.juli, flommer hat, rasisme og dødstrusler over på nettet. Nå tar statsminister Jens Stoltenberg et oppgjør med hatretorikk og drapstrusler.",forteller,23,8,False,
+1342429998.0,wmx3v,Det usympatiske offer,forteller,25,10,27,,t5_2qh94,False
+1339938203.0,v6de4,Far taper kampen om barna fordi han er mann.,kimme,20,2,2,,t5_2qh94,False
+1339600422.0,uzwn5,SP vil ha omskjæringsstopp (Hitling om 3... 2... 1...),ghostofgarborg,18,1,30,,t5_2qh94,False
+1338730602.0,uikh5,Is Ullern the worst place to live in Norway?,PhantomStranger,25,10,13,,t5_2qh94,False
+1337931231.0,u4694,Datatilsynet med sterk kritikk av Nav i ny rapport - Nav kan spørre naboen og barnehagen din om info om deg dersom du er mistenkt for trygdejuks. Men selv får du ikke vite at du blir undersøkt av Nav,forteller,19,1,5,,t5_2qh94,False
+1337681159.0,tz1o1,Nytteløst frihetsraid,Rabiatic,18,1,1,,t5_2qh94,False
+1335968213.0,t3adi,"NM i svada; hvor mange setninger står egentlig igjen her hvis en utelater de som ikke har noe konkret, presist innhold?",homeopathetic,21,3,http://www.reddit.com/r/norge/comments/t3adi/nm_i_svada_hvor_mange_setninger_står_egentlig/,,
+1335337021.0,srf9q,"""Vi har ingen anelse om hvorfor den sank. Vi gjorde det i alle fall ikke med vilje""",,19,2,1,,t5_2qh94,False
+1334222538.0,s5xpa,"Stein Lillevolden oppfatter at «kjendisvitnene» skal brukes som springbrett for medieoppmerksomhet, og nekter å vitne i 22. juli-saka.",tanketom,18,1,http://www.reddit.com/r/norge/comments/s5xpa/stein_lillevolden_oppfatter_at_kjendisvitnene/,,
+1332162998.0,r3eh8,Det fins  økonomiske modeller med et annet mål  enn evig vekst. I kretsløpsøkonomi er  målet redusert forbruk og økt livskvalitet. ,forteller,18,2,1,,t5_2qh94,False
+1331391294.0,qqatg,Er dette tidenes rettelse i en avis? Finnmarkingen skulle ikke ha det på seg at han legger seg for tidlig på en Lørdags kveld. | nordlys.no,kimme,20,2,0,,t5_2qh94,False
+1331306768.0,qoyc8,"""Klarsynt"" anklager person for drap. Politiet kaller inn til avhør.",oyving,18,1,7,,t5_2qh94,False
+1329301164.0,pqjr8,Noen andre som er drittlei av r/atheism?,nosefart,29,13,31,"Jeg klarer ikke spesifikt å sette fingern på hva som plager meg med denne subben (kanskje det er mer enn en ting!)
+
+Kan nevnes at jeg deler deres (mangel på) tro,False,,t5_2qh94,False,,,t3_pqjr8
+1328659866.0,pfg30,"Dette er fantastisk: 16 år gamle Helene Georgsen, overlevende etter Utøya, klarer å holde fast på rettsprinsippet om at alle må få en rettferdig rettssak, og takket ABBs forsvarer for en god jobb",forteller,3,,False
+1327912078.0,p2sve,"Datatilsynet kritisk til DNB-overvåking
+",0,9,http://www.reddit.com/r/norge/comments/p2sve/datatilsynet_kritisk_til_dnbovervåking/,,,False,t5_2qh94,False
+1325281047.0,nwpvg,Dagmars herjinger på vestkanten.,tonberry,25,8,8,,t5_2qh94,False
+1324988933.0,ns88z,Fant 5000 norske kvinner i Amsterdam. En enkelt setning i en nederlandsk bok satte historiker på sporet av flere tusen norske kvinner i en fremmed by 400 år tilbake. Mange av dem var prostituerte og kriminelle.,kimme,21,5,1,,t5_2qh94,False
+1316633067.0,kn1lu,FrP-politiker avslørt som sex-kunde,hnilsen,21,5,32,,t5_2qh94,False
+1313185735.0,jh681,Norge er i følge /r/Israel europas mest antisemitistiske land.  ,TropicalPunch,18,1,16,,t5_2qh94,False
+1311677878.0,j022b,"«Ondskap kan drepe et menneske, men aldri beseire et helt folk»",putiplot,21,3,http://www.reddit.com/r/norge/comments/j022b/ondskap_kan_drepe_et_menneske_men_aldri_beseire/,,
+1310892035.0,irwaa,Når Fantomet skal spise middag...,Fleskefinn,31,15,1,,t5_2qh94,False
+1309157698.0,ia4xs,"Norske ""trivselsvakter"" legger en person i bakken, 
+jern
+passet inn ...",8,15,http://www.reddit.com/r/norge/comments/ia4xs/norske_trivselsvakter_legger_en_person_i_bakken/,,,False,t5_2qh94,False
+1307300962.0,hs9nz,Jakter på usunn energi med pinner,Aqwis,22,4,6,,t5_2qh94,False
+1302870447.0,gqoxp,"Høyre med påskehilsen på youtube, hvor de markerer kommentarer om DLD som spam. ",haakondafo,19,1,http://www.reddit.com/r/norge/comments/gqoxp/høyre_med_påskehilsen_på_youtube_hvor_de_markerer/,,
+1295459740.0,f58fa,"Prisen på strøm har steget 350% siden 2000, 17 
+ganger mer enn andre varer",0,9,http://www.reddit.com/r/norge/comments/f58fa/prisen_på_strøm_har_steget_350_siden_2000_17/,,,False,t5_2qh94,False
+1294044130.0,evbwe,Tyskland og USA skjuler spionsatellitter som miljøtiltak - Wikileaks - Aftenposten.no,johnny_olai,18,0,0,,t5_2qh94,False
+1291913297.0,ej08f,DLD - Slik skal regjeringen unngå skandale,mesostic,22,4,0,,t5_2qh94,False
+1284513933.0,ddypg,NRK-propaganda: Endret allmennlege Jørgen Skavlans svar på om cannabis er tryggere enn alkohol.,,20,4,9,,t5_2qh94,False
+1376475023.0,1kc92k,En massemorder har også menneskerettigheter,lor247,23,7,28,,t5_2qh94,False
+1374304889.0,1ionqh,"Grønne selskaper har de siste fem årene gitt bedre avkastning enn fossile energiselskaper. -Oljefondet burde investere langt mer i grønne selskaper, sier professor Dag O. Hessen.",forteller,25,9,http://www.reddit.com/r/norge/comments/1ionqh/grønne_selskaper_har_de_siste_fem_årene_gitt/,,
+1371456604.0,1gi6kw,Sju av ti lommetyver er Rumenere,Gnurx,24,8,4,,t5_2qh94,False
+1370445183.0,1fq3q7,Carl I. Hagen om kvalitetsfilm,novovo,23,7,7,,t5_2qh94,False
+1370435479.0,1fptqn,Dramatiske CO2-målinger på Svalbard. - Aldri er det målt så mye CO2 på Svalbard som i år. Det er ingen tegn til bedring for nivået i atmosfæren.,forteller,23,9,1,,t5_2qh94,False
+1366045096.0,1ced07,Den gode norske uhøfligheten,schnibel,21,4,0,,t5_2qh94,False
+1364949604.0,1bjz9j,Meiningsløyse som strategi — Kva skjer med den politiske debatten når vi misforstår kvarandre med vilje?,Gnurx,16,0,1,,t5_2qh94,False
+1364929567.0,1bj7ns,"Tesla installerer superladerene sine i Norge, til gratis bruk for eiere av Tesla Model S",forteller,21,5,http://www.reddit.com/r/norge/comments/1bj7ns/tesla_installerer_superladerene_sine_i_norge_til/,,
+1362688780.0,19v7bx,"Likestilling (SNL): ""like rettigheter og muligheter i samfunnet"" - dette sitatet er en av mine favoritter. ""valg"" er et stikkord",kastmeg,30,15,10,,t5_2qh94,False
+1362612109.0,19t2r3,"VG har intervjuet en person som gjentatte ganger har forsøkt å melde seg ut av statskirken, uten å greie det. Artikkelen har ført til et ras av lignende historier.",forteller,20,5,http://www.reddit.com/r/norge/comments/19t2r3/vg_har_intervjuet_en_person_som_gjentatte_ganger/,,
+1362585770.0,19s3vg,Röyksopp vinner i retten mot Rune Lindbæk. Lindbæk må betale nærmere 800.000 i saksomkostninger.,xcxcxcxcxcxcxcxcxcxc,19,3,4,,t5_2qh94,False
+1362264180.0,19jmyl,Nesten komplett samling av Coca-Cola-korker gis bort,Strid,20,5,3,,t5_2qh94,False
+1361358881.0,18vq2r,"Regjeringen vil ikke ta milliarder fra de rike –
+EU-kommisjonen har gitt elleve EU-land tillatelse til å innføre skatt på alle handler med aksjer,19,4,15,http://www.reddit.com/r/norge/comments/18vq2r/regjeringen_vil_ikke_ta_milliarder_fra_de_rike/,,,,,
+1360598765.0,18baw4,– Datalagringsdirektivet er fullstendig ubrukelig,kimme,18,1,0,,t5_2qh94,False
+1360257340.0,182nrv,"""Kvinner blir fortalt hele tiden at vi må jo tåle litt. Enten det er sjåvinistiske vitser i lunsjen, klapp på rumpa eller kollegaer som tafser på julebord. Litt må vi tåle. Men hva er egentlig litt?""",forteller,29,13,http://www.reddit.com/r/norge/comments/182nrv/kvinner_blir_fortalt_hele_tiden_at_vi_må_jo_tåle/,,
+1359055291.0,177ew3,Litt hverdagshumor på skoletoalettet. Ukjent opphavsmann. ,LarryjugendD,26,11,2,,t5_2qh94,False
+1358938769.0,1747rz,DEBATT: Norsk militært engasjement i Mali - for eller mot?,debattgutten,18,2,14,"Velkommen til ny debatt! Denne gangen er det Norge og Mali som skal debatteres. Bør Norge følge etter blant annet Frankrike ved å sende styrker for å bekjempe ekstremistisk islam i det nord-afrikanske landet
+
+http://www.aftenposten.no/nyheter/uriks/Barth-Eide-apner-for-norsk-militar-innsats-i-Nord-Afrika-7097953.html",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/1747rz/debatt_norsk_militært_engasjement_i_mali_for/
+1354804213.0,14duac,"Lærer om narkoaksjonene:
+- Det er ikke etisk forsvarlig",3,7,http://www.reddit.com/r/norge/comments/14duac/lærer_om_narkoaksjonene_det_er_ikke_etisk/,,,False,t5_2qh94,False
+1354390439.0,1444vq,Godsbransjen fortviler over rutenedleggelse – 6. desember er det ikke mulig å sende gods med jernbane fra Oslo til Malmö/Trelleborg lenger. Det vil sette oppmot 2500 flere trailere på veien i 2013.,forteller,18,1,4,,t5_2qh94,False
+1354013633.0,13v9yb,"""Selv om det foreløpig er usikkert hvor mye thoriumressurser det er på Fensfeltet så er den potensielle energien fra dette thoriumet minst på
+størrelse med energien i all olje og gass som totalt er funnet og forventes å kunne bli funnet på norsk sokkel"" [PDF]",1,14,http://www.reddit.com/r/norge/comments/13v9yb/selv_om_det_foreløpig_er_usikkert_hvor_mye/,,,False,t5_2qh94,False
+1353745365.0,13pho4,Blitzere stormet nynazist-julebord,Strid,23,5,95,,t5_2qh94,False
+1353343070.0,13gff7,Africa For Norway - New charity single out now! Official christmas video - YouTube,johnny_olai,33,18,1,,t5_2qh94,False
+1352937712.0,137kpk,Statsadvokat Jørn Sigurd Maurud reagerer på at Østfold politidistrikt ikke etterforsket skattesaken mot de tidligere polititoppene som jobbet for den amerikanske ambassaden. ,forteller,16,1,2,,t5_2qh94,False
+1352919210.0,136zv9,Allsidig brite. ,spermbjorg,21,6,1,,t5_2qh94,False
+1352120439.0,12ny62,"Jeg begynner å bli oppgitt over norsk presse:  ""Det at jeg ikke drikker har ingenting med min oppvekst eller religion og gjøre. Det er helt random. Jeg syns ikke det smaker godt og jeg blir dårlig av det. Alkohol for meg er som Ritalin for folk med AD/HD. Skjønner?""",LePure,16,0,10,,t5_2qh94,False
+1351610907.0,12camw,"Datatilsynet frykter tankepoliti med PSTs forslag til lovendring, som vil gjøre det ulovlig å skaffe bestemt informasjon og utvide mulighetene for overvåking",forteller,19,3,http://www.reddit.com/r/norge/comments/12camw/datatilsynet_frykter_tankepoliti_med_psts_forslag/,,
+1351021827.0,11youg,Har dere sett Hellfjord?,AndreasRandom,17,2,6,,t5_2qh94,False
+1350911806.0,11w6pi,"Jeg trenger en norsk ""penpal!"" Jeg kan hjelpe med skriftlig engelsk!",oxbo1690,21,5,4,"Ja da. Jeg er en kanadisk som bor i Trondheim. Jeg har mange norsk venner og har god muntlig kjennskap. Hva jeg trenger er god norsk skiftlig kjennskap og jeg tror at det kan være lettere med en penpal. Dersom du vil lære å skrive engelsk vi kan samarbeide sammen eller vi kan begge skrive norsk.
+Jeg vil si litt om meg: Jeg er 25 år gammel. Jeg har bodde i Trondheim (og Norge) for litt over 2 år og bor med kjæresten min. Jeg liker ishockey (ikke overraskende) og spil med to lag. Jeg jobber i miljøområdet og leter etter en fast jobb. Jeg har stort interrese i humanitært arbeid og utviklings. Jeg har en mastergrad fra NTNU i Industriell Økologi.og en bachelorgrad i sammfunnsøkonomi fra Canada. Jeg liker å lage mat og kan brygge øl. Jeg er veldig glad til å reise men ikke på ""sydenturer"". osv
+Så hvis du vil ha en penpal,False,,t5_2qh94,False,,,t3_11w6pi
+1350056910.0,11dbqa,EU får Nobels fredspris,anonymepelle,22,5,16,,t5_2qh94,False
+1348665233.0,10i6b4,"- Jeg spiser min egen armhuleost, og det gjør datteren min også.",schnibel,21,6,http://www.reddit.com/r/norge/comments/10i6b4/jeg_spiser_min_egen_armhuleost_og_det_gjør/,,
+1344117359.0,xorm1,– Så nærme russergrensa at det er uunngåelig. Dødsdopet «Krokodil» vil bli spredt til resten av landet.,kimme,20,5,22,,t5_2qh94,False
+1343524379.0,xbmbt,"Overskriftforfatterne slår til igjen: ""Kristen buktaler planla pedofilt kannibaldrap.""",drunkangel,18,1,3,,t5_2qh94,False
+1342873744.0,wx6hp,"Canada skal også kjøpe F-35. Der har det blitt en 
+skandale.",2,4,http://www.reddit.com/r/norge/comments/wx6hp/canada_skal_også_kjøpe_f35_der_har_det_blitt_en/,,,False,t5_2qh94,False
+1342713531.0,wtlr7,Kommet inn på NTNU? Sjekk ut /r/ntnu!,Aqwis,19,4,1,,t5_2qh94,False
+1341356051.0,w04h9,"Alle partiers ungdomsledere, inkludert Kristelig Folkepartis Ungdom og Fremskrittspartiets Ungdom, stilte i lørdagens homoparade i Oslo. ",forteller,19,1,False,
+1339663932.0,v1ehk,Hva er ditt italienske navn? Bjartolinis Italiamaskin,PatteLoffen,26,10,7,,t5_2qh94,False
+1338109441.0,u73vd,"Flott flått. Krapyl som beit meg i lysken. Nå dør jeg 
+kanskje (ref. til forsidene i VG og Dagbladet),24,9,16,http://www.reddit.com/r/norge/comments/u73vd/flott_flått_krapyl_som_beit_meg_i_lysken_nå_dør/,,,,,
+1338068180.0,u6goc,NRK-profil avkledd og utsatt for trusler av aserbajdjanske myndigheter.,forteller,19,3,2,,t5_2qh94,False
+1337285327.0,ts5k9,Skytelek,hardubolle,17,2,3,,t5_2qh94,False
+1336219718.0,t895w,Det en «trygdesnylter» fortjener. En kronikk om unge menneskers apati.,novovo,19,3,9,,t5_2qh94,False
+1335511531.0,suzn6,Norges største pornosamling?,PisseGuri82,19,2,6,,t5_2qh94,False
+1334778997.0,sgjiw,Venstre-leiar Trine Skei Grande oppmodar Høgre til å late seg inspirere av Island og diskutere datalagringsdirektivet igjen.,forteller,18,3,2,,t5_2qh94,False
+1334738599.0,sfqwy,Island har stoppet DLD,forteller,20,4,1,,t5_2qh94,False
+1332324402.0,r6k17,"Dette stoffet fikser det meste. Nå klarer vi oss knapt 
+uten!",3,4,http://www.reddit.com/r/norge/comments/r6k17/dette_stoffet_fikser_det_meste_nå_klarer_vi_oss/,,,False,t5_2qh94,False
+1331807741.0,qxm2b,Jeg leter etter en brevvenn,Gigglepie,17,0,35,"I hope that's proper grammar because the closest language to Norske I know is Deutsche
+
+I really want to move to Norge but I know no one there. I also don't know what's wrong with it. I gather the food is terrible
+
+I anxiously await people willing to engage in discourse about your lovely country. 
+&lt;3 Gigglepie
+
+",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/qxm2b/jeg_leter_etter_en_brevvenn/
+1331725898.0,qw1u8,Maaemo er den første nordiske restauranten i Guide Michelins historie som går direkte inn i guiden med to stjerner,forteller,17,2,0,,t5_2qh94,False
+1331571090.0,qt3gm,Fekk dette hyggelege brevet i dag.,thenorwegianblue,19,3,10,,t5_2qh94,False
+1331243126.0,qnwhr,"11 norske folkhøgskole-elever og læreren deres opplevde onsdag at jødiske bosettere grep inn mot olivenplantings-kampanjen de deltar i på Vestbredden, og jaget dem vekk med hjelp fra israelsk politi og militære.",forteller,18,2,http://www.reddit.com/r/norge/comments/qnwhr/11_norske_folkhøgskoleelever_og_læreren_deres/,,
+1329396861.0,ps8pr,Litt sulten? Hva med å prøve nordnorsk tradisjonsmat?,diskomo,19,4,0,,t5_2qh94,False
+1328869551.0,pj7nd,"KRF stadig ikke redd for å drite seg ut - Varsler 
+omkamp om adopsjon for homofile.",4,3,http://www.reddit.com/r/norge/comments/pj7nd/krf_stadig_ikke_redd_for_å_drite_seg_ut_varsler/,,,False,t5_2qh94,False
+1328462419.0,pbz76,"Klar for å dø. Vi bruker enorme summer på å forlenge dødssyke menneskers liv med noen måneder. - Feilprioritering, mener kreftsyke Arne Sveen.",,21,4,http://www.reddit.com/r/norge/comments/pbz76/klar_for_å_dø_vi_bruker_enorme_summer_på_å/,,
+1326836910.0,olewa,Heftig herionistblogg,WhatTheFuck,16,0,5,,t5_2qh94,False
+1325773157.0,o3ygp,Forlag i fosterstilling,Grums,17,0,3,,t5_2qh94,False
+1322097720.0,mndvb,"Samtidig, i r/Denmark",forteller,18,2,http://www.reddit.com/r/norge/comments/mndvb/samtidig_i_rdenmark/,,
+1322033098.0,mmi2a,Peruansk ordfører tror det er homofili i byens drikkevann,Wyld0rc,18,2,1,,t5_2qh94,False
+1317847178.0,l245x,Ene nabodrengen ville ikke slutte å hoppe i blomsterbedet. Så jeg slo ham hardt i ryggen med en brostein. Hopper ikke mer for å si det slig. - Alexander Kielland,aCrab,18,4,4,,t5_2qh94,False
+1314946200.0,k27uw,"Dagens poll i Dagbladet: heter du Jørgen og hadde 
+sex på Langøyene i 2009?",6,5,http://www.reddit.com/r/norge/comments/k27uw/dagens_poll_i_dagbladet_heter_du_jørgen_og_hadde/,,,False,t5_2qh94,False
+1314801846.0,k0823,Hipster Dagbladet,davidsk,31,15,2,,t5_2qh94,False
+1314352716.0,juzd8,"Når blir det muslimsk flertall i Norge om dagens 
+utvikling fortsetter? Artikkel fra SSB",7,9,http://www.reddit.com/r/norge/comments/juzd8/når_blir_det_muslimsk_flertall_i_norge_om_dagens/,,,False,t5_2qh94,False
+1311874332.0,j2cst,Scientologikonsernet benytter terror-aksjonen 22. juli som en mulighet til å rekruttere og lure folk. Bli med og beskytt byen vår!,forteller,17,3,0,,t5_2qh94,False
+1301997570.0,gj0e8,Det internasjonale olabilracingforbundet vs. Nigeriasvindlere,ehamberg,16,0,2,,t5_2qh94,False
+1300743809.0,g8hj8,Pc-en varmar opp badet,Aqwis,17,1,1,,t5_2qh94,False
+1295617409.0,f6gmo,Egil Hegerberg (40 år) fra bandet Bare Egil Band trekker seg fra Spellemannprisen - fantastisk PR stunt,putiplot,19,2,2,,t5_2qh94,False
+1289521290.0,e4v9e,Amerikansk i Norge trenger litt råd / hjelp. American in Norway needs some advice/help. ,norguy,19,3,19,"Engelsk er fortsatt bedre for meg å snakke eller skrive.
+
+Her er video. http://vimeo.com/16749021
+
+Her er den korte versjonen:
+
+Dad (me, takes care of everything with hope of better future for family. Dad tries to get help for wife. No one helps 
+Wife's brother is meth addict/criminal and can't see his own child. Wife's brother steals from Dad (me again) Dad gets angry tries to throw out wife's brother from our house. Now Dad looking for help because depressed wife's mother (who always hated me) is running the show. Dad tries and tries to get help and no one helps him even though he is very concerned for his children and has half custody. Dad needs lawyer (advokat)
+
+edit: made video private after Redditor recommended it. PM me if you care to see it. ",,t5_2qh94,True,,,True,http://www.reddit.com/r/norge/comments/e4v9e/amerikansk_i_norge_trenger_litt_råd_hjelp/
+1285921875.0,dleqj,Statoils ekspert på menneskerettigheter går til sak mot sin egen arbeidsgiver. Hun mener Statoils menneskerettighetsengasjement bare er fasade.,forteller,16,0,1,,t5_2qh94,False
+1285711521.0,dk7ig,Kundene forlangte både hamburger og kaffe mens en maskert og væpnet raner slo til mot en bensinstasjon på Sørlandet i helgen,haakon,16,0,2,,t5_2qh94,False
+1282738380.0,d58rl,WTF?,kremfjes,19,4,10,,t5_2qh94,False
+1275041312.0,c8zwh,Stupid is the new loud,johnny_olai,17,1,4,,t5_2qh94,False
+1252875812.0,9k68l,Husk at det er stortingsvalg nå! Gå og stem!,h3st,16,0,12,"Og brett stemmeseddelen riktig så valgvaktene kan stemple,,
+1248454544.0,948xr,"I am an American married to a Norwegian...  We want to move to Norway, can anyone advise me on how to find work?",hans1193,16,1,http://www.reddit.com/r/norge/comments/948xr/i_am_an_american_married_to_a_norwegian_we_want/
+
+-My background is in law.  I have degrees in political science and psychology
+
+-I am not dead-set on doing something with law
+
+So,,False,,t5_2qh94,False,,True
+1374355491.0,1iprmw,1200 utenlandske kriminelle utvist så langt i år,Strid,24,7,8,,t5_2qh94,False
+1373819868.0,1ia63b,"- Svake, fattige og skitne narkomane engasjerer ikke",sailornoob,21,6,http://www.reddit.com/r/norge/comments/1ia63b/svake_fattige_og_skitne_narkomane_engasjerer_ikke/,,
+1373320365.0,1hw50q,"Skolen har ingen elever, men fikk 19,4 mill. av staten i fjor",kimme,15,8,False,
+1372766179.0,1hhpbj,Hilsen fra kommentarfeltet.,novovo,20,5,3,,t5_2qh94,False
+1372580944.0,1hcuqn,Verden vil ha mindre giftige sprøytemidler. Mattilsynet vil ha mer.,sailornoob,23,9,1,,t5_2qh94,False
+1370802510.0,1fzrl1,Hardware.no: Kan ikke vike fordi politikerne ikke forstår hva en IP-adresse er,Vimsefreet,20,5,0,,t5_2qh94,False
+1370601639.0,1furqq,Det er «som vanlig» når Stortinget skal vurdere saker om politimetoder: Venstre mot resten.,lordlarm,22,6,13,,t5_2qh94,False
+1370382693.0,1fohm0,"""Grønt Norge""-Ahmed: ""[jeg] burde belønnes med en pris som «Skandinavias beste tyv»""",fiskfisk,20,5,2,,t5_2qh94,False
+1368987587.0,1en509,Brygger øl på kjøkkenet,Strid,18,5,4,,t5_2qh94,False
+1368950821.0,1emevk,"Tak for en GENIAL optræden, Norge!",KlogereEndGrim,22,8,http://www.reddit.com/r/norge/comments/1emevk/tak_for_en_genial_optræden_norge/,,
+1367993866.0,1dx1y7,"Hadja's nye boklov: fortsetter å holde små aktører ute, fastpris inne og ebøkene idiotisk dyre",trezor2,16,0,http://www.reddit.com/r/norge/comments/1dx1y7/hadjas_nye_boklov_fortsetter_å_holde_små_aktører/,,
+1367325805.0,1denut,Knusende NRK-fellelse. NRK Dagsrevyen ble felt i Pressens Faglige Utvalg (PFU) for brudd på god presseskikk for reportasjen om romfolk.,Gnurx,18,4,0,,t5_2qh94,False
+1366785682.0,1czux4,Så fullt er toget - og det blir ikke bedre,larsga,17,1,8,,t5_2qh94,False
+1366273274.0,1clfx6,"Risikerer livet for 50 kroner timen – Lavtlønte arbeidere fra Polen, Spania og Peru filmet sjokkerende arbeidsforhold ved Coops nye storlager.",forteller,21,4,http://www.reddit.com/r/norge/comments/1clfx6/risikerer_livet_for_50_kroner_timen_lavtlønte/,,
+1364211122.0,1ayuxa,Er det noen her som har reist over lengre perioder og som er avhengig av medisin? ,KingOfZalo,16,0,5,"Jeg skal reise i 3 - 6 måneder og lurer på om noen har erfaring med å hente ut medsin på blå resept fra Norge? (Australia/Asia) Jeg er ikke bare avhengig av at resepten blir godkjent - men også at det dekkes av folketrygden (dyr medisin) 
+
+Alle tips mottas med kribling i reisefoten :)",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/1ayuxa/er_det_noen_her_som_har_reist_over_lengre/
+1362747036.0,19wqar,"Oljefondet har overraskende solgt seg ut av 23 palmeoljeselskaper som ødelegger regnskog, men firedobblet investeringene i et annet tilsvarende selskap.",forteller,22,9,http://www.reddit.com/r/norge/comments/19wqar/oljefondet_har_overraskende_solgt_seg_ut_av_23/,,
+1362669852.0,19ujgf,Eksperter avliver Frp-myte: – Vi blir ikke minoritet i eget land - Norge,sailornoob,18,5,30,,t5_2qh94,False
+1362065106.0,19edbu,Kinesisk film basert på DoTa er under innspeling på Sunnmøre. Delvis sponsa av den kinesiske staten og Ekornes (!?),thenorwegianblue,17,2,6,,t5_2qh94,False
+1361999847.0,19cnvi,Aksel Hennie i ny stor film! ,Franki_hookah,33,18,4,,t5_2qh94,False
+1361015598.0,18munr,− Sameflagget er stygt og fullt av okkulte symboler,Gnurx,16,2,24,,t5_2qh94,False
+1360688227.0,18dvji,Innovasjon krever frihet: Kulturbransjen versus informasjonsbransjen,h3st,19,4,0,,t5_2qh94,False
+1358262782.0,16mccd,Over 90 000 historiske bilder fra Oslo - fra 1800-tallet til 2010-tallet,schnibel,16,1,0,,t5_2qh94,False
+1354094558.0,13xde3,"- Det er fullstendig Texas i Norge, hvem som helst kan bestråle hele nabolaget --- Heldigvis har de alternativ en løsning!",Wyld0rc,18,4,http://www.reddit.com/r/norge/comments/13xde3/det_er_fullstendig_texas_i_norge_hvem_som_helst/,,
+1353879740.0,13rze2,Opptak fra Blitz-angrepet på St. Hanshaugen,eevar,18,3,8,,t5_2qh94,False
+1353718811.0,13oy7r,Blitz stormet nynazistenes julebord - tre til sykehus,forteller,18,2,1,,t5_2qh94,False
+1352732979.0,132c3k,"Propaganda mot kostholdsråd - Trodde du opplysningskontorene var nøytrale, statlige institusjoner? Bak de hyggelige oppskriftene på Matprat foregår en beinhard kamp om maten din.",forteller,20,5,http://www.reddit.com/r/norge/comments/132c3k/propaganda_mot_kostholdsråd_trodde_du/,,
+1352675209.0,1315g7,"Slik forsøker Sp å ta innersvingen på ulveforkjemperne – Hvis Senterpartiet får det som de vil, kan en setning og et pennestrøk fra regjeringen, utrydde de helnorske ulveflokkene.",forteller,19,6,False,
+1352230636.0,12qurp,"Noen spillinteresserte nordmenn her? Anbefaler dere å sjekke ut Spillexpo, selv vurderer jeg å dra dit.",ChocolateBaconWaffle,16,1,http://www.reddit.com/r/norge/comments/12qurp/noen_spillinteresserte_nordmenn_her_anbefaler/,,
+1351201409.0,1237rm,Langer ut mot skatt - Hever selv dagpenger.,Aokans_baot,19,3,15,,t5_2qh94,False
+1351109862.0,120wls,Mattehjelp søkes!,stickymcbells,19,4,26,"Kanskje et noe uvanligt forespørsel her på Reddit,,False
+1350889804.0,11vwik,Reddit Oslo Halloween Party in norge reddit meetup - redditgifts,Wyld0rc,16,0,2,,t5_2qh94,False
+1350059353.0,11de7p,Whose Line is it anyway:  Songs of Norway [Kryss post fra /r/Norway],anonymepelle,19,4,0,,t5_2qh94,False
+1348314573.0,10aln6,Norsk film har vel ikke vært lengre nede enn dette.,zimulator,16,1,8,,t5_2qh94,False
+1347371599.0,zphy5,"Norge havner nesten på bunnen i internasjonal 
+skoleundersøkelse",2,4,http://www.reddit.com/r/norge/comments/zphy5/norge_havner_nesten_på_bunnen_i_internasjonal/,,,False,t5_2qh94,False
+1347295722.0,znric,Kanskje den dummeste sjekklisten noensinne,larsga,19,3,9,,t5_2qh94,False
+1347103834.0,zjvt7,"Årets longshot, noen som vet hvem som lager denne type keramikkfigur?",leftyzone,16,0,http://www.reddit.com/r/norge/comments/zjvt7/årets_longshot_noen_som_vet_hvem_som_lager_denne/
+
+Det eneste jeg vet om den er at den ble kjøpt i Bodø for ca 10 år siden.",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/zjvt7/årets_longshot_noen_som_vet_hvem_som_lager_denne/
+1346757753.0,zbwzs,"- Bløffer om innholdet i maten -
+Aftenposten",4,5,http://www.reddit.com/r/norge/comments/zbwzs/bløffer_om_innholdet_i_maten_aftenposten/,,,False,t5_2qh94,False
+1345825684.0,yre4n,Hvor bor dere?,pyrrhula,18,5,109,"Husker det var en lignende tråd jeg så noen måneder tilbake men klarte ikke å finne den.
+
+Selv flytta jeg tilbake til Norge ifjor og befinner meg nå i Stavanger område. Føler meg en smule ensom og lurte på om det er noen andre her!",,t5_2qh94,1345878939.0,,,True,http://www.reddit.com/r/norge/comments/yre4n/hvor_bor_dere/
+1344509540.0,xxmhj,Tømrer gitt skattekrav etter å ha bygd familiehytte. Skatteetaten mener han burde ha fakturert seg selv. Finnes det virkelig ingen grenser på idioti fra myndighetens side?,Deifyed,17,3,16,,t5_2qh94,False
+1342107422.0,wg1pd,"Romfolk: – Gi oss én million kroner, så reiser vi tilbake til Romania - Østlandssendingen - NRK Nyheter",ahaave,17,2,http://www.reddit.com/r/norge/comments/wg1pd/romfolk_gi_oss_én_million_kroner_så_reiser_vi/,,
+1340962458.0,vsem9,"SSB har brukt nærmere 100 millioner kroner på nye nettsider - Burde antakelig bare fokusere på å lage gode API-er, sier IKT-Norges Torgeir Waterhouse",forteller,18,3,http://www.reddit.com/r/norge/comments/vsem9/ssb_har_brukt_nærmere_100_millioner_kroner_på_nye/,,
+1340352441.0,vfepq,Mer vold mot prostituerte i Oslo etter forbud mot sexkjøp,eevar,17,3,19,,t5_2qh94,False
+1338284375.0,ua3xv,Staten tar over nettstedet til stråleaktivister med tvang,forteller,18,4,14,,t5_2qh94,False
+1338143433.0,u7jfu,Are Kalvø: Ny grunnlovsparagraf: Kongen må heie på LSK,forteller,20,6,3,,t5_2qh94,False
+1334524913.0,sbb53,"Tvilsom blodanalyse. Mer skamløs svindel fra 
+alternativmiljøet",2,3,http://www.reddit.com/r/norge/comments/sbb53/tvilsom_blodanalyse_mer_skamløs_svindel_fra/,,,False,t5_2qh94,False
+1334233914.0,s62f2,"Demonstrasjon mot overvåkingssamfunnet og innskrenking av digitalt personvern (DLD, ACTA, etc) idag forran Stortinget klokken 16.00",forteller,19,4,False,
+1333626725.0,ruhs2,"Matbutikkane kastar kvart år 330.000 tonn med mat som har gått ut på dato. – Påska er verst, seier butikksjef.",forteller,19,4,http://www.reddit.com/r/norge/comments/ruhs2/matbutikkane_kastar_kvart_år_330000_tonn_med_mat/,,
+1331329318.0,qpg03,Snåsamannen: En systematisk analyse,forteller,17,1,4,,t5_2qh94,False
+1330897173.0,qhm8c,Facebook vil ha meg til å søke ny jobb,Kasami,19,3,3,,t5_2qh94,False
+1330330510.0,q7vzs,"Fra Toronto til Bangkok dyrkes det mat på takterasser, husvegger og i parker. Nå kan også Oslos innbyggere få mer å henge sine grønne fingre i.",forteller,18,2,http://www.reddit.com/r/norge/comments/q7vzs/fra_toronto_til_bangkok_dyrkes_det_mat_på/,,
+1330080980.0,q3xiq,Allmektige NAV - hevet over norsk lov - Dagens Medisin,kimme,16,2,1,,t5_2qh94,False
+1329144989.0,pni4s,"Breaking news fra aftenposten. Slo rekord i.. 
+wordfeud. :l",10,4,http://www.reddit.com/r/norge/comments/pni4s/breaking_news_fra_aftenposten_slo_rekord_i/,,,False,t5_2qh94,False
+1328863828.0,pj5o1,Vurderer verneplikt for kvinner - Norge - NRK Nyheter,kimme,15,0,5,,t5_2qh94,False
+1328784988.0,phnz9,Det har blitt så komplisert å gjennomføre datalagringsdirektivet at EU nå har tatt de første skrittene for å ta full kontroll over personvernlovgivningen i hele EU-EØS-området.,fiskfisk,17,1,2,,t5_2qh94,False
+1328624794.0,peogk,Nå kan du ringe evangelist Svein-Magne Pedersens betaltelefon også for å forebygge sykdommer.,forteller,18,2,6,,t5_2qh94,False
+1326354991.0,odoko,En fars død. Sultet ihjel. For ett år siden døde far. I dødsannonsen sto det at han sovnet stille inn. Det sto ikke at han faktisk både sultet og tørstet ihjel. - Aftenposten,kimme,18,2,4,,t5_2qh94,False
+1324688025.0,nol07,"Oslos byråd for helse- og sosiale tjenester, Anniken Haugli (H) mener Kirkens Bymisjon og tilsvarende gjør det for godt for byens aller fattigste. Kanskje alle politikere burde tvinges til å leve på gata en periode om vinteren…?",forteller,19,3,http://www.reddit.com/r/norge/comments/nol07/oslos_byråd_for_helse_og_sosiale_tjenester/,,
+1323309378.0,n46cl,Danskere samler ind til smørhungrende nordmænd,forteller,18,3,2,,t5_2qh94,False
+1323104296.0,n19ci,"Norges plan er å overføre sikkerhetsansvaret for Faryab til afghanerne i 2012 og være ute av provinsen i 2013, opplyser forsvarsminister Espen Barth Eide.",forteller,16,2,http://www.reddit.com/r/norge/comments/n19ci/norges_plan_er_å_overføre_sikkerhetsansvaret_for/,,
+1322571720.0,mtacw,Sandberg om Breiviks helsetilstand: – Kan ikke godta rapporten slik den er nå,,16,1,28,,t5_2qh94,False
+1319202587.0,ljvgx,"For at du skal betale halvparten så mye for ei t-skjorte som folk gjorde for 20 år siden, jobber indiske bønder for mindre enn de kan leve for. Det hender stadig oftere at de dør av det.",forteller,19,6,http://www.reddit.com/r/norge/comments/ljvgx/for_at_du_skal_betale_halvparten_så_mye_for_ei/,,
+1318461092.0,la529,FriBit og EFNs felles svar til Kulturdepartementets forslag om endringer i åndsverkloven – tiltak mot ulovlig fildeling og andre krenkelser av opphavsrett m.m. på Internett.,forteller,17,2,1,,t5_2qh94,False
+1318441920.0,l9si0,Vinteren kommer kanskje nå (om du bor i Akershus),64-17-5,16,2,3,,t5_2qh94,False
+1318366523.0,l8q0z,– Norge går et steg i retning av Kinas sensurpolitikk - Vitenskap-og-teknologi,forteller,21,7,6,,t5_2qh94,False
+1316863405.0,kpyrv,Bor som en ekte hobbit.,lafro,16,1,4,,t5_2qh94,False
+1316526942.0,klkwh,Jens Stoltenberg Intervjuet av Piers Morgan...,FassyFan,15,0,4,,t5_2qh94,False
+1315805825.0,kcsjl,"Fortell meg hva du stemte, hva du virkelig virkelig stemte!",h3st,21,6,http://www.reddit.com/r/norge/comments/kcsjl/fortell_meg_hva_du_stemte_hva_du_virkelig/,,
+1315567857.0,k9xr4,Lyst på en kamel?,lafro,16,1,4,,t5_2qh94,False
+1315498575.0,k8y02,Freia Gelé,momarortotinon,18,1,7,,t5_2qh94,False
+1314719119.0,jz54n,"Reddit Meetup i Oslo, Lørdag 17 September",mimp,18,3,http://www.reddit.com/r/norge/comments/jz54n/reddit_meetup_i_oslo_lørdag_17_september/,,
+1314540390.0,jwzta,"Vinn, vinn! Ti forslag for bedre sykkelmiljø i Norge",h3st,23,8,http://www.reddit.com/r/norge/comments/jwzta/vinn_vinn_ti_forslag_for_bedre_sykkelmiljø_i_norge/,,
+1313618517.0,jm2ca,Valgomat kommunevalg,Fillezab,19,4,0,,t5_2qh94,False
+1305917745.0,hg3qq,Norway Stops Aid Payments To Greece,larsga,21,6,1,,t5_2qh94,False
+1298394439.0,fqdqg,Lover rettssak mot datalagringsdirektivet,forteller,15,0,1,,t5_2qh94,False
+1296483142.0,fcds2,"Etter å ha trukket seg ut av 50 selskaper for brudd på etiske rettningslinjer de siste årene investerer nå Norges Bank 4,5 mrd av oljefondet i BlackRock, som er inne i samtlige 50! Våre penger er igjen plassert i miner, klasevåpen og miljøverstinger",forteller,2,,False
+1292230568.0,ekxbk,Vil fjerne straff for narkomisbruk.,spazzm,16,0,4,,t5_2qh94,False
+1289119746.0,e2fgr,Flytte Fail,haakondafo,19,4,3,,t5_2qh94,False
+1285658410.0,djvuv,«Dere er rovdyret. Taliban er byttet. Til Valhall!» Kan nokon forklare meg kvifor me er overraska over at 18 åringer med maskinpistoler oppfører seg som krigarar?,smerten,15,1,16,http://www.dagbladet.no/2010/09/28/nyheter/forsvaret/innenriks/13590682/,t5_2qh94,True
+1281433760.0,czfbx,&lt;3 Reinhaldsarbeideren vår,smerten,15,1,11,,t5_2qh94,False
+1280842966.0,cwtzt,"Hvis du skal drepe noen og sende en melding fra mobilen deres for alibi, hvorfor ikke slenge med en sykt troverdig smiley?",eirikk,15,1,http://www.reddit.com/r/norge/comments/cwtzt/hvis_du_skal_drepe_noen_og_sende_en_melding_fra/,,
+1237822273.0,86tdc,Why the Norwegian Krone is the World's Safest Currency - TIME,,15,0,0,,t5_2qh94,False
+1374074982.0,1iho98,Oliven. Spar. Matte.,vaskemaskin,22,8,2,,t5_2qh94,False
+1372419889.0,1h8qwc,Ranet igjen! - Aftenposten,Strid,21,7,3,,t5_2qh94,False
+1371854522.0,1gtomf,Nå er Oslo den dyreste byen på denne planeten,kimme,18,4,5,,t5_2qh94,False
+1371552981.0,1gkt1n,Brukte millioner på å rydde etter romfolk,Strid,24,9,0,,t5_2qh94,False
+1371130490.0,1g9lky,Terrorplanlegging blir straffbart i Norge,warrantyvoid,17,4,9,,t5_2qh94,False
+1370464963.0,1fquhs,Anders Ulstein kritiserte Jens Stoltenberg på nettet for måten han handterte terroråtaket i Oslo 22. juli. Nokre veker seinare mista han jobben.,forteller,15,2,2,,t5_2qh94,False
+1368011982.0,1dxc0q,Fikk sjefsjobb foran bedre kvalifisert mann,JungelKarsten,15,2,6,,t5_2qh94,False
+1367584102.0,1dm5md,Frp vil stoppe franskmenn,Proxymate,19,5,12,,t5_2qh94,False
+1366799341.0,1d02l4,De fattige subsidierer de rike i boligmarkedet,forteller,15,3,6,,t5_2qh94,False
+1366376815.0,1coaxn,Kommer CISPA til å påvirke Norge på noen måte?,K00gle,15,1,17,,t5_2qh94,True
+1365950024.0,1cbr4p,Norske humler og andre bier trues,sailornoob,16,2,5,,t5_2qh94,False
+1364304917.0,1b1g8g,"Romerike politidistrikt opplyser at de har henlagt den mye omtalte saken der en ett år gammel gutt døde av dehydrering i 2011, Gutten døde etter å ha blitt tarmoperert på Ahus.",forteller,15,2,http://www.reddit.com/r/norge/comments/1b1g8g/romerike_politidistrikt_opplyser_at_de_har/,,
+1362436322.0,19nzfc,– Bankene terroriserer hele samfunn med en utpressing som rammer befolkningen uten å bidra til verdiskaping.,sjura,18,2,3,,t5_2qh94,False
+1361186857.0,18qva4,IT-bransjen raser mot myndighetenes brutte bredbåndsløfter,kimme,14,1,4,,t5_2qh94,False
+1360242276.0,1829bj,En ny skandinavisk virkelighet,kimme,18,4,3,,t5_2qh94,False
+1356710583.0,15krdn,De tre mest søkte ord på wikipedia Norge,enuffings,17,4,11," 1:[Schrøder](http://no.wikipedia.org/wiki/Schr%C3%B8der)
+
+Hvem er Alf Schrøder? Aldri hørt om ham.  
+Noen som har en forklaring på hvorfor han troner øverst?",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/15krdn/de_tre_mest_søkte_ord_på_wikipedia_norge/
+1355750745.0,14zq37,"Pirater, nå også i Norge",roschern,14,0,http://www.reddit.com/r/norge/comments/14zq37/pirater_nå_også_i_norge/,,
+1353830434.0,13r4an,"82-åring overlever to døgn i myrhull, spiste gjørme",vorastrix,26,11,http://www.reddit.com/r/norge/comments/13r4an/82åring_overlever_to_døgn_i_myrhull_spiste_gjørme/,,
+1353085851.0,13b18g,"ISFiT 2013 - Verdens største internasjonale studentfestival går av stabelen i Trondheim, i februar 2013.",h88s,22,8,http://www.reddit.com/r/norge/comments/13b18g/isfit_2013_verdens_største_internasjonale/,,
+1353003813.0,13921k,"For et halvt år siden ble vår venn PK savnet. Les/hør dokumentaren til P3 om psykiatrien, politikken, leteaksjonen og savnet. ",desouza3,18,2,False,
+1352300609.0,12srw8,Kunne lese all informasjon sendt over NRKs datanett: Fra 2006-2010 var det plassert en såkalt VDI-sensor på datanettet til NRK. Boksen er en del av et nettverk med sensorer utplassert hos en rekke statlige og private virksomheter. De er tilknyttet NorCERT som drives av Nasjonal Sikkerhetsmyndighet,forteller,17,4,0,,t5_2qh94,False
+1351786549.0,12gor4,Den internasjonale juristkommisjon Norges høringsuttalelse om forslag til utvidet terrorlovgivning mm,forteller,16,2,1,,t5_2qh94,False
+1350119608.0,11eq7j,"Rumenere stoppet med 520 000,- i kontanter på kaia i Kristiansand ",Gnurx,20,5,http://www.reddit.com/r/norge/comments/11eq7j/rumenere_stoppet_med_520_000_i_kontanter_på_kaia/,,
+1349778091.0,116u5h,"Oslo har like mange lommetyverier som Berlin, en by med syv ganger så mange innbyggere",eevar,17,4,http://www.reddit.com/r/norge/comments/116u5h/oslo_har_like_mange_lommetyverier_som_berlin_en/,,
+1349273081.0,10vi25,Statsråder nekter å svare på om de selv bruker privat legevakt,forteller,16,4,2,,t5_2qh94,False
+1344594116.0,xznzv,The Secret World flopper. Funcom må kutte.,oleeid,14,1,27,,t5_2qh94,False
+1343766737.0,xguxi,Hva finnes av norskspråklige PC-spill for voksne?,blaengdall,15,1,16,"Jeg har flere utenlandske venner som holder på å lære seg norsk. For å akselerere norskskillzene deres på en engasjerende måte tenkte jeg at det kunne være en grei idé for dem å prøve å spille noen norskspråklige PC-spill. Men så vidt jeg har skjønt
+
+* Den Lengste Reisen
+* Drømmefall: Den Lengste Reisen
+
+Disse ble begge laget av norske Funcom
+
+For spill oversatt fra engelsk bør det også helst være en viss kvalitet på oversettelsen,False,,t5_2qh94,False,,,t3_xguxi
+1343078671.0,x1cc5,"Pirat partiet Norge trenger 5000 underskrifter for 
+å bli ett parti! Hjelp til hvis du er interessert i et 
+slikt parti i Norge.",13,23,http://www.reddit.com/r/norge/comments/x1cc5/pirat_partiet_norge_trenger_5000_underskrifter/,,,False,t5_2qh94,False
+1341398005.0,w0ynb,"De Grønne går i mot ACTA - Udemokratisk og en trussel mot internett, grunnleggende rettigheter og tilgang på livsviktig medisin i fattige land",forteller,23,9,http://www.reddit.com/r/norge/comments/w0ynb/de_grønne_går_i_mot_acta_udemokratisk_og_en/,,
+1340462033.0,vhez8,John (97) fra Radøy kjempet i Normandie med den «norske» bataljonen.,kimme,16,2,0,,t5_2qh94,False
+1339834912.0,v4sm7,Løste BankID-krøll med lim,pivottofakie,18,6,5,,t5_2qh94,False
+1339183460.0,us0xo,Tiggere hevder politiet kjører dem langt ut av byen og forlater dem,forteller,20,7,6,,t5_2qh94,False
+1339018765.0,uonl6,Krysspost fra r/norway: Feil-tattoo,slarken,18,4,5,,t5_2qh94,False
+1337500112.0,tvrzo,Veldig rørande,kvikklunsj,18,4,2,,t5_2qh94,False
+1336303317.0,t9kw4,Partiet høyre går inn for å forby tigging etter debatt på landsmøtet.,PhantomStranger,21,7,13,,t5_2qh94,False
+1335555131.0,svqjd,Kristin Halvorsen vil ha ekstra studiepoeng for nynorsk - er det ikke nok diskriminering allerede?,henbruas,19,4,13,,t5_2qh94,False
+1335277588.0,spzdf,Norge trekker seg ut av Afghanistan,forteller,25,10,6,,t5_2qh94,False
+1334329364.0,s805n,Accenture kan selge Altinn. Og det uten at staten tjener en krone,forteller,20,5,2,,t5_2qh94,False
+1333199462.0,rmc4r,"Pass dere jenter, før voldsspillene tar dere",forteller,15,3,http://www.reddit.com/r/norge/comments/rmc4r/pass_dere_jenter_før_voldsspillene_tar_dere/,,
+1332855715.0,rftnd,"Hm, og eg som trudde at Valdres Teens var det éine realityprogrammet for tida der folk ikkje vart stemt ut…",tanketom,17,2,http://www.reddit.com/r/norge/comments/rftnd/hm_og_eg_som_trudde_at_valdres_teens_var_det_éine/,,
+1332707357.0,rd3p6,Med tøv skal landet bygges,larsga,16,4,24,,t5_2qh94,False
+1332598460.0,rbe3l,"Utmerket navn på dette crackpotteriet, må jeg si!",homeopathetic,15,0,http://www.reddit.com/r/norge/comments/rbe3l/utmerket_navn_på_dette_crackpotteriet_må_jeg_si/,,
+1332075955.0,r1zbo,Datatilsynet stopper GPS sporing av demente. Krever at de må forstå hva de er med på *facepalm*,Phexx,17,3,7,,t5_2qh94,False
+1331919114.0,qzmsb,Masse Digiatale kamera - FINN Torget (Årets Finn-annonse?) - Does not seem legit.,feenyx,17,3,3,,t5_2qh94,False
+1330296390.0,q78bo,"Se «Tuba Atlantic»﻿ - Norsk, Oscar-nominert kortfilm",forteller,16,2,http://www.reddit.com/r/norge/comments/q78bo/se_tuba_atlantic_norsk_oscarnominert_kortfilm/,,
+1329468594.0,pto67,"Tine vil stenge Brien ute -
+Aftenposten (egentlig all utenlandsk ost)",3,21,http://www.reddit.com/r/norge/comments/pto67/tine_vil_stenge_brien_ute_aftenposten_egentlig/,,,False,t5_2qh94,False
+1329408095.0,psf1u,Lekkasje avslører dollar-flom til klima-fornektere,forteller,16,3,6,,t5_2qh94,False
+1329296062.0,pqi2z,"Nyheter fra nettaviser, er det slik denne subredditten skal utvikle seg?",branato,21,7,http://www.reddit.com/r/norge/comments/pqi2z/nyheter_fra_nettaviser_er_det_slik_denne/
+
+En ting er å poste feks. lokalt stoff som man faktisk mener noe om eller som kan være til glede for andre
+Synspunkter?",,t5_2qh94,False,,,True,http://www.reddit.com/r/norge/comments/pqi2z/nyheter_fra_nettaviser_er_det_slik_denne/
+1328250851.0,p8yeh,Tired of not being able to speak to your neighboring countries? Join /r/nordiccountries today! ,Fisco,17,2,0,"Fellow citizen of the cold
+
+We are all curious about what goes on on the other side of the fence
+
+Brag about that time when your country won that thing here: /r/nordiccountries
+
+Spy on your neighboring countries in the name of the king here: /r/nordiccountries
+
+Basically
+
+EDIT: We've got almost 200 members already,False,,t5_2qh94,False,,,t3_p8yeh
+1327659646.0,oyzc6,I am considering moving to Norway.  Where would I look to find a job to see what my options are?  Thanks! ,pyrobyro,20,8,18,,t5_2qh94,True
+1323468342.0,n6r0t,TV2 bommer med sensuren,AyeGee,16,4,3,,t5_2qh94,False
+1322019060.0,mmao4,Slik blir vi enige om å fornekte alt vi vet om klima,forteller,15,0,0,,t5_2qh94,False
+1321444282.0,meamz,Hvilken politisk kontekst har dette bildet?,nawts,16,2,8,,t5_2qh94,False
+1376567094.0,1kevmx,- Svenskene kveler innvandringsdebatten,Strid,18,9,5,,t5_2qh94,False

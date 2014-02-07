@@ -1,0 +1,1592 @@
+created_utc,id,title,author,ups,downs,num_comments,selftext,subreddit_id,is_self
+1319130314.0,livnu,Rich Hickey - Simple Made Easy (talk),gravity,73,3,3,,t5_2qkej,False
+1362160411.0,19h24t,Clojure 1.5 released (tagged): overview of changes,,67,4,3,,t5_2qkej,False
+1350381995.0,11kav3,The consequences of not using paredit,scarredwaits,70,13,3,,t5_2qkej,False
+1363120548.0,1a63ub,Clojure: All grown up,mytrile,51,0,11,,t5_2qkej,False
+1282232181.0,d3228,Clojure 1.2 Released!,Raynes,54,2,3,,t5_2qkej,False
+1358708941.0,16xwtt,Leiningen 2.0.0 released -- 2013-01-19,agumonkey,54,8,8,,t5_2qkej,False
+1321305072.0,mc79z,Leiningen and Cake are joining forces!,Raynes,49,3,4,,t5_2qkej,False
+1311204674.0,ivayt,ClojureScript,icey,49,0,10,,t5_2qkej,False
+1375539988.0,1jmkys,Nightcode - a simple IDE for Clojure and Java (written in Clojure and seesaw),OmegaMinus,49,3,13,,t5_2qkej,False
+1355743160.0,14zmll,Blip.tv's Clojure videos are being rehoused on Youtube,AimHere,50,4,2,,t5_2qkej,False
+1260804325.0,aeix9,Funding Clojure,icey,44,1,2,,t5_2qkej,False
+1355416636.0,14shrw,blip.tv removed all of Rich Hickey's Clojure talks,is_computer_on_fire,49,4,17,,t5_2qkej,False
+1334337598.0,s86z6,Light Table - a new IDE concept: ,gtani,43,3,6,,t5_2qkej,False
+1332771043.0,re78n,The best Clojure Cheat Sheet yet (try hovering the links),redalastor,42,0,0,,t5_2qkej,False
+1356240803.0,15bcp5,Clojure 1.5.0 RC 1 released,rattboi,51,7,1,,t5_2qkej,False
+1342644396.0,ws2rv,Pac-Man in 1979 lines of Clojure,pac1979,46,3,18,,t5_2qkej,False
+1322426429.0,mr58i,The Clojure Community as summed up by Anthony Grimes (Raynes),CodeBlock,41,2,5,,t5_2qkej,False
+1316819545.0,kpk9c,Clojure 1.3 Released!,vagif,41,4,5,,t5_2qkej,False
+1367341600.0,1df6g9,Light Table 0.4.0,fixrich,41,3,12,,t5_2qkej,False
+1374482542.0,1isvef,"Not sure how active the mods are, but here's a suggestion for the subreddit",RHAINUR,40,1,http://www.reddit.com/r/Clojure/comments/1isvef/not_sure_how_active_the_mods_are_but_heres_a/, and found one massive difference between /r/Haskell and here: no sidebar
+
+The /r/Haskell sidebar is really great if you're new to the place. It lets you know of some good learning resources (and my assumption is that if a bunch of people have agreed on those being the best tutorial to link
+
+Now I grant that this is stuff that *can* be googled and I have done so right now,False,,t5_2qkej,False,,,t3_1isvef
+1370791775.0,1fzg2c,"Major new release of Incanter, an R-like statistical package for Clojure, featuring better matrix math performance and lots more.",kiwipete,39,10,False,
+1362070033.0,19ej3l,"New Light Table alpha is out, now with navigation :)",yogthos,42,3,http://www.reddit.com/r/Clojure/comments/19ej3l/new_light_table_alpha_is_out_now_with_navigation/,,
+1357847470.0,16bxmh,The 2nd edition of The Joy of Clojure is underway.,Gonzih,41,2,8,,t5_2qkej,False
+1352219740.0,12qhtx,Light Table Update,yogthos,44,7,14,,t5_2qkej,False
+1330977231.0,qizc4,Datomic,djhworld,37,0,6,,t5_2qkej,False
+1309355424.0,icadm,Guide to Programming in Clojure for Beginners,gtani,40,2,0,,t5_2qkej,False
+1369746043.0,1f730l,Improving your Clojure code with core.reducers,yogthos,39,5,6,,t5_2qkej,False
+1301430790.0,ge6u5,Peter Norvig's Sudoku solver - Clojure &amp; Python side by side comparison,mac,36,3,3,,t5_2qkej,False
+1370356059.0,1fnib9,"""My Clojure Workflow, Reloaded"" - by Stuart Sierra",mac,36,0,http://www.reddit.com/r/Clojure/comments/1fnib9/my_clojure_workflow_reloaded_by_stuart_sierra/,,
+1309888604.0,ihci0,Clojure Now Supported on Heroku,hirodusk,38,1,1,,t5_2qkej,False
+1354852577.0,14fbw2,The Unofficial Guide to Rich Hickey's Brain,nonrecursive,40,3,5,,t5_2qkej,False
+1334723095.0,sfi4k,Light Table now on Kickstarter,yena,34,0,6,The light table project is now on Kickstarter in case you want to support the transition of this interesting Clojure IDE from demo to reality (hopefully). Link: http://www.kickstarter.com/projects/306316578/light-table,t5_2qkej,True
+1363652801.0,1ak72f,Pedestal: An open source tool set for building web applications in Clojure,jjttjj,42,8,10,,t5_2qkej,False
+1320930815.0,m7d71,STATE...,scarredwaits,39,6,0,,t5_2qkej,False
+1266768026.0,b4obe,SICP in Clojure,EastCoastLA,39,5,2,,t5_2qkej,False
+1266446924.0,b3c0y,How a Clojure pet project turned into a full-blown cloud-computing web-app,hyp3rVigi1ant,34,1,1,,t5_2qkej,False
+1375900885.0,1jwfgs,Why Clojure will win,OmegaMinus,40,9,125,,t5_2qkej,False
+1372434499.0,1h95ce,ClojureScript: Lisp's Revenge,winkywooster,32,0,17,,t5_2qkej,False
+1364222174.0,1az39q,Amazonica: A comprehensive Clojure client for the entire Amazon AWS api,donjigweed,33,2,0,,t5_2qkej,False
+1344269713.0,xrrm9,Results of the 2012 State of Clojure survey ,yogthos,35,1,9,,t5_2qkej,False
+1317614536.0,kz0n3,4Clojure passes 50K solutions,4clojure,32,3,4,,t5_2qkej,False
+1276664678.0,cfhnt,"Clojure - Now way, way faster.",mac,36,6,http://www.reddit.com/r/Clojure/comments/cfhnt/clojure_now_way_way_faster/,,
+1255960226.0,9vieu,Using Clojure At Work (Anecdote),greml1n,34,2,1,,t5_2qkej,False
+1372962448.0,1hnb0g,core.async - A code walkthrough by Alex Miller,mac,32,0,4,,t5_2qkej,False
+1370960507.0,1g4e84,ClojureScript port of Notch's JS Minecraft demo by D Nolen,mac,32,3,2,,t5_2qkej,False
+1369392084.0,1eypje,LISP Books living again in Clojure,agumonkey,36,6,10,,t5_2qkej,False
+1336490706.0,td195,Reducers - A Library and Model for Collection Processing,hongminhee,32,0,3,,t5_2qkej,False
+1319980454.0,lu20k,Hammock-driven Development,sunng,31,0,0,,t5_2qkej,False
+1298590082.0,fs5ix,The Clojure Toolbox,mcanon,34,2,0,,t5_2qkej,False
+1374533388.0,1iufye,"ZeroMQ instead of HTTP, for internal services",augustl,35,4,http://www.reddit.com/r/Clojure/comments/1iufye/zeromq_instead_of_http_for_internal_services/,,
+1366179298.0,1cinvd,Clojure in the Enterprise?,leobm,34,2,4,,t5_2qkej,False
+1365152410.0,1bq1nk,Stuart Sierra - Functional Design Patterns,Gonzih,38,10,9,,t5_2qkej,False
+1364264456.0,1b0m4v,This Scala Coursera course has received good reviews. Any luminaries / experts considering following suit with Clojure?,kiwipete,37,5,10,,t5_2qkej,False
+1341862838.0,wab7h,ClojureC: Clojure -&gt; C Compiler,lastkarrde,30,0,2,,t5_2qkej,False
+1334758340.0,sg0gr,Clojure 1.4 Released,steeleforge,32,3,8,"[changelog](https://github.com/clojure/clojure/blob/master/changes.md)
+
+1 Deprecated and Removed Features
+
+*  Fields that Start With a Dash Can No Longer Be Accessed Using Dot Syntax
+
+2 New/Improved Features
+
+* 2.1  Reader Literals
+
+* 2.2 clojure.core/mapv
+
+* 2.3 clojure.core/filterv
+
+* 2.4 clojure.core/ex-info and clojure.core/ex-data
+
+* 2.5 clojure.core/reduce-kv
+
+* 2.6 clojure.core/contains? Improved
+
+* 2.7 clojure.core/min and clojure.core/max prefer NaN
+
+* 2.8 clojure.java.io/as-file and clojure.java.io/as-url Handle URL-Escaping Better
+
+* 2.9 New Dot Syntax for Record and Type Field Access
+
+* 2.10 Record Factory Methods Available Inside defrecord
+
+* 2.11  assert-args Displays Namespace and Line Number on Errors
+
+* 2.12 File and Line Number Added to Earmuff Dynamic Warning
+
+* 2.13 require Can Take a :refer Option
+
+* 2.14 *compiler-options* Var
+
+* 2.15 Improved Reporting of Invalid Characters in Unicode String Literals
+
+* 2.16 clojure.core/hash No Longer Relies on .hashCode
+
+* 2.17 Java 7 Documentation
+
+* 2.18 loadLibrary Loads Library Using System ClassLoader
+
+* 2.19 Java int is boxed as java.lang.Integer
+
+
+3 Performance Enhancements
+
+4 Bug Fixes",,t5_2qkej,True,,,True,http://www.reddit.com/r/Clojure/comments/sg0gr/clojure_14_released/
+1330385972.0,q8txw,Clojure Programming (the book),mobby1982,31,0,0,,t5_2qkej,False
+1373533586.0,1i2jew,"Vertigo: fast, idiomatic C-style structs by Zach Tellman",mac,29,0,http://www.reddit.com/r/Clojure/comments/1i2jew/vertigo_fast_idiomatic_cstyle_structs_by_zach/,,
+1373451471.0,1hzzgm,Functional Web Development with Clojure,clj-jvm,30,3,4,,t5_2qkej,False
+1370892363.0,1g2bo5,Interview with Rich Hickey creator of Clojure,ugtastic,33,4,9,,t5_2qkej,False
+1364678778.0,1bbmbf,"""Leiningen! You're insane!"" Read Leiningen vs the Ants, the short story your favourite build tool is named after.",redalastor,37,4,http://www.reddit.com/r/Clojure/comments/1bbmbf/leiningen_youre_insane_read_leiningen_vs_the_ants/,,
+1362418548.0,19nc7q,Rich Hickey - The Language of the System,ivank_,30,2,2,,t5_2qkej,False
+1340853466.0,vq013,4clojure Hits 200k Problems Solved!,vardig1,30,1,3,,t5_2qkej,False
+1307097174.0,hqooc,A (not so) Brief Overview of The Clojure Webstack,mac,29,0,2,,t5_2qkej,False
+1292858897.0,eosnp,InfoQ: Rich Hickey on Protocols and Clojure 1.3,choas,29,1,0,,t5_2qkej,False
+1258634354.0,a60nz,Building Clojure Projects with Leiningen,icey,32,4,1,,t5_2qkej,False
+1235893604.0,815s8,A fairly comprehensive introduction to the Clojure programming language,lauri,29,1,0,,t5_2qkej,False
+1374844266.0,1j3ez1,Try Clojure libraries with ease using lein-try,leobm,28,1,3,,t5_2qkej,False
+1367506046.0,1djx5x,The Clojure Philosophy,levicc00123,33,3,13,,t5_2qkej,False
+1366485986.0,1cr9e3,Truly concurrent user interfaces,augustl,30,1,7,,t5_2qkej,False
+1341633428.0,w5x86,A Clojure-themed wallpaper :),gnarmis,37,7,2,,t5_2qkej,False
+1336539306.0,te8dh,4Clojure is a resource to help fledgling clojurians learn the language through interactive problems. -- make sure checkout other people's solutions,number5,33,5,5,,t5_2qkej,False
+1335381381.0,ss7rh,"Clojure with a type system, as a library.",gtani,31,1,http://www.reddit.com/r/Clojure/comments/ss7rh/clojure_with_a_type_system_as_a_library/,,
+1331573447.0,qt5bb,Minor mods to ClojureScript compiler to compile Clojure to Scheme and then to C,jemeshsu,30,3,2,,t5_2qkej,False
+1281530299.0,czwpa,Racket vs. Clojure,mac,32,5,24,,t5_2qkej,False
+1372962395.0,1hnayl,Clojure core.async and Go: A Code Comparison,mac,27,0,0,,t5_2qkej,False
+1372355674.0,1h6x9k,Building an iOS weather app with Angular and ClojureScript,lauri,31,3,0,,t5_2qkej,False
+1357091691.0,15sucu,Clojure 2012 Year in Review by Stuart Sierra,yogthos,31,4,3,,t5_2qkej,False
+1345073406.0,yafqo,Is Clojure worth a try over Rails for rapid prototyping and production?,cyberdouche,33,6,39,"Folks
+
+I've been experimenting with Clojure for the past couple of months and I've found the language extremely fun and exciting and the community really tight-knit and supportive. I'll be frank
+
+I currently work on startupy stuff, there's a gem for everything (social integration, background jobs, even stuff like rubber which will can streamline AWS deployment immensely), ready-to-steal code all over Google and StackOverflow, tutorials for every single thing... I can very quickly put together code that works. 
+
+The big upside to Rails, the configuration is all over the place and god forbid you want to get more bang for your buck out of a good database engine e.g. add constraints, use postgre-specific datatypes, composite primary keys, remove primary key and so on. The framework will fight you tooth and nail to make it difficult to stray from the preferred path. Maybe I should just try ripping out ActiveRecord, but them I'm guessing that half of the gems will never work again.
+
+With Clojure, a bunch of really kind people put together Noir, Korma, Hiccup/Enlive, a CSRF-protection library and a few more. You can interop with Java, which I guess is almost as good of an ecosystem than the Rails one. You still however need to write user-management by hand (Devise is sorely missed!), automate the deployment (no rubber), implement solid logging
+
+What is your take on this? Is this actual risk or just perceived risk in my head? Any tips for how I can de-risk things? How do you
+
+Thanks!!",,t5_2qkej,1345076888.0,,,True,http://www.reddit.com/r/Clojure/comments/yafqo/is_clojure_worth_a_try_over_rails_for_rapid/
+1329621523.0,pw113,Clojure/huh? - Clojure's Governance and How It Got That Way (language/project history 2007-pres,gtani,28,3,0,,t5_2qkej,False
+1311253926.0,ivseg,Compiling Clojure to Javascript,gst,29,3,0,,t5_2qkej,False
+1310984201.0,ispdb,"clooj, a lightweight IDE for clojure",nathell,31,4,http://www.reddit.com/r/Clojure/comments/ispdb/clooj_a_lightweight_ide_for_clojure/,,
+1373747444.0,1i8i3d,Communicating Sequential Processes,OmegaMinus,27,0,0,,t5_2qkej,False
+1365229530.0,1bs9ry,macros vs monads,kittugadu,31,6,9,,t5_2qkej,False
+1349746064.0,1166lh,"Finally! New, official, community-driven Clojure documentation site
+",3,4,http://www.reddit.com/r/Clojure/comments/1166lh/finally_new_official_communitydriven_clojure/,,,False,t5_2qkej,False
+1345854135.0,ys7gq,Prismatic: 99.9% of backend pipeline and API servers are written in Clojure,lyrae,29,2,1,,t5_2qkej,False
+1323740186.0,nads9,Ring 1.0.0 released ,sunng,27,0,0,,t5_2qkej,False
+1321434371.0,me7wm,Clojure Conj 2011 : Ted Leung's review,sunng,27,1,0,,t5_2qkej,False
+1319979216.0,lu1pz,uncle bob's response to Hickey's talk on Strangeloop,sunng,27,0,0,,t5_2qkej,False
+1316115971.0,kgucl,Programming Clojure 2nd Edition now in Beta,abedra,27,3,3,,t5_2qkej,False
+1291734268.0,ehoiv,Learn Clojure,fogus,28,2,0,,t5_2qkej,False
+1276018588.0,cct2u,"Results from the State of Clojure, Summer 2010 Survey",mac,29,2,http://www.reddit.com/r/Clojure/comments/cct2u/results_from_the_state_of_clojure_summer_2010/,,
+1274793215.0,c7wg2,Announcing Clojure/core - Good news for Clojure sustainability.,dln,28,2,0,,t5_2qkej,False
+1267836253.0,b9usu,Rich Hickey interview: ,gtani7,27,3,0,,t5_2qkej,False
+1245245716.0,8t9vt,Five Things that Mildly Annoy Me in Clojure,icey,27,1,0,,t5_2qkej,False
+1374958354.0,1j6g6a,"Building a Forum with Clojure, Datomic, Angular, and Ansible",nonrecursive,2,,False
+1374095401.0,1iihax,fogus: An introduction to deep code-walking macros with Clojure,OmegaMinus,26,1,0,,t5_2qkej,False
+1373134642.0,1hrc1r,Musical Chains: Music Generation with Clojure,mac,25,0,0,,t5_2qkej,False
+1359582929.0,17l56p,"600k concurrent HTTP connections, with Clojure &amp; http-kit",yogthos,29,6,http://www.reddit.com/r/Clojure/comments/17l56p/600k_concurrent_http_connections_with_clojure/,,
+1359516299.0,17jfok,Prismatic open sourced their Plumbing/Graph libs,yogthos,26,2,0,,t5_2qkej,False
+1346079693.0,ywm8m,Clojure/Datomic creator Rich Hickey on Deconstructing the Database,deathapproaches,29,4,0,,t5_2qkej,False
+1341250581.0,vxl9i,Shall we use Clojure - my presentation - Andrew Jones,mobby1982,27,1,2,,t5_2qkej,False
+1340139512.0,vallv,What Sucks about Clojure...and Why You'll Love It Anyway,mobby1982,29,4,2,,t5_2qkej,False
+1334774703.0,sgfek,"""Light Table"", a new in-browser IDE concept, is on Kickstarter -- it will allow you to program Clojure in an entirely new way. Living code, function-oriented editing, get-out-of-your-way docs and autocompletion. (Smalltalk hackers: You may commence yelling ""I told you so!""... now.)",28,,t5_2qkej
+1332251657.0,r526c,defmacro - Functional Programming For The Rest of Us,mobby1982,26,0,0,,t5_2qkej,False
+1326312242.0,ocs3b,ClojureScript One: sample application with rich documentation to get started with ClojureScript web development,sfermigier,26,1,0,,t5_2qkej,False
+1307655390.0,hvuzx,Code Quarterly Q&amp;A with Rich Hickey by Michael Fogus,mac,25,0,0,,t5_2qkej,False
+1293106084.0,eqegq,"What's the ""big idea"" behind compojure routes? - Stack Overflow - The best and most detailed explanation I found so far",deverdev,27,1,0,,t5_2qkej,False
+1279128324.0,cpjge,Clojure docs in a wiki-like format -- add examples and comments!,phyzome,27,0,3,,t5_2qkej,False
+1272302862.0,bwbmd,Clojure Protocols - 30 min. screencast by Stuart Halloway,mac,27,1,0,,t5_2qkej,False
+1374136631.0,1ijqgr,Clojure and LLVM,OmegaMinus,24,0,0,,t5_2qkej,False
+1373385866.0,1hxwj6,Pedestal-app Tutorial is live!,rkneufeld,26,2,3,,t5_2qkej,False
+1372446840.0,1h9lne,Clojure core.async Channels,mac,26,3,7,,t5_2qkej,False
+1353169605.0,13csry,Lightning fast startup times for Clojure programs,yogthos,27,2,2,,t5_2qkej,False
+1351996075.0,12leue,Musings on Clojure: Beware of the mapcat,yogthos,29,5,12,,t5_2qkej,False
+1341503196.0,w2wsf,Another year of clojure,pyr,28,4,0,,t5_2qkej,False
+1322611707.0,mu0a8,Distributed State in Clojure: Avout,sunng,25,1,2,,t5_2qkej,False
+1314156488.0,jsh8z,Clojure: Towards The Essence Of Programming,icey,25,2,0,,t5_2qkej,False
+1287507221.0,dteax,Rick Hickey: Improving Clojure Contrib,,25,1,0,,t5_2qkej,False
+1285684127.0,dk05m,Clojure++ (Rich Hickey about fast numerical /primitives /precision/overflow,gtani7,25,1,0,,t5_2qkej,False
+1370437410.0,1fpvet,Lisp: A Language for Stratified Design,yogthos,25,2,0,,t5_2qkej,False
+1364333597.0,1b2gb9,Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure,yogthos,26,1,4,,t5_2qkej,False
+1361724629.0,194yqp,(def newsletter) - a weekly Clojure newsletter,jashmenn,26,1,3,,t5_2qkej,False
+1357291227.0,15xz0c,Clojure Style Guide,Gonzih,27,5,10,,t5_2qkej,False
+1357246318.0,15wosh,Clojure / Functional Programming books (site written in clojure),nonrecursive,25,4,11,,t5_2qkej,False
+1351177101.0,122ggi,A Practical Optional Type System for Clojure [PDF],Scriptorius,24,1,0,,t5_2qkej,False
+1346986549.0,zhiwx,From the mind of Rich Hickey: edn is an extensible data notation,yogthos,28,6,12,,t5_2qkej,False
+1346791940.0,zcsat, Intro to ClojureScript - Getting Started,Yakulu,29,4,0,,t5_2qkej,False
+1345689050.0,yoa6o,Rich Hickey Explains Reducers (While Making Pie),lyrae,28,5,2,,t5_2qkej,False
+1315812775.0,kcv2o,Writing Tetris in Clojure,lauri,25,3,0,,t5_2qkej,False
+1312899238.0,jdhox,"High performance pattern matching for Clojure
+",1,1,http://www.reddit.com/r/Clojure/comments/jdhox/high_performance_pattern_matching_for_clojure/,,,False,t5_2qkej,False
+1309972917.0,ii9dz,The special Clojure issue of PragPub,mytrile,24,0,0,,t5_2qkej,False
+1299067863.0,fvqp4,"Stuart Halloway: ""Simplicity Ain't Easy""",uochan,24,2,0,,t5_2qkej,False
+1277541654.0,cj815,clj - a Clojure REPL and package management system,mac,23,0,1,,t5_2qkej,False
+1262272771.0,ak9u2,Clojure 1.1 is released,dfan,26,2,0,,t5_2qkej,False
+1376814197.0,1klig2,David Nolen: Comparative Literate Programming,OmegaMinus,24,0,0,,t5_2qkej,False
+1365680486.0,1c4nc3,The Why and How of Clojure on Android,oakes,32,7,20,,t5_2qkej,False
+1364623781.0,1bah64,Clojure and 'Why calculating is better than scheming',nohtyp,28,5,0,,t5_2qkej,False
+1349111920.0,10rozi,Configuration Files in Clojure,trzmiel,26,4,4,,t5_2qkej,False
+1346938696.0,zg5sh,A nice writeup on handling large files in Clojure,yogthos,27,5,1,,t5_2qkej,False
+1346452568.0,z5qqu,Expert to Expert: Erik Meijer and Rich Hickey - Clojure and Datomic | Channel 9,lyrae,26,5,1,,t5_2qkej,False
+1345519015.0,yk84h,Profiling Clojure apps,yogthos,28,4,0,,t5_2qkej,False
+1345163332.0,ycm9v,"As promised, here's the first part of the Noir tutorial",yogthos,26,4,http://www.reddit.com/r/Clojure/comments/ycm9v/as_promised_heres_the_first_part_of_the_noir/,,
+1345001955.0,y8rlc,Performance tip – defining constants « Clojure Magic,yogthos,24,0,4,,t5_2qkej,False
+1341757968.0,w7zxj,The Caves of Clojure: Part 1,tomcsi,25,2,3,,t5_2qkej,False
+1330910260.0,qhvo8,Clojure static code analyzer,steeleforge,25,3,10,,t5_2qkej,False
+1322811652.0,mxayz,Initial experiences writing a web-app with Clojure's Noir framework,sunng,22,1,0,,t5_2qkej,False
+1322546301.0,mt1eb,Why Noir doesn't have controllers,sunng,23,3,0,,t5_2qkej,False
+1320626502.0,m2x9n,In Clojure We Trust,drguildo,23,0,1,,t5_2qkej,False
+1319855310.0,lsvg2,Spotlight on handy lesser-known Clojure libraries,technomancy,23,1,0,,t5_2qkej,False
+1318632243.0,lcl8j,"Why Clojure doesn’t need invokedynamic, but it might be nice",ndanger,22,0,http://www.reddit.com/r/Clojure/comments/lcl8j/why_clojure_doesnt_need_invokedynamic_but_it/,,
+1308844732.0,i78yk,Clojure/core reading list: Nice set of links if you're starting out,Scriptorius,25,1,0,,t5_2qkej,False
+1296815267.0,ff4e4,"Creating Android apps with Clojure, Part 1",spotter,23,0,http://www.reddit.com/r/Clojure/comments/ff4e4/creating_android_apps_with_clojure_part_1/,,
+1296452234.0,fc7hx,"tour of the Clojure landscape: lein, build tools, libs for testing, webapps, ",23,,t5_2qkej
+1292453644.0,emhbv,Solving the Expression Problem with Clojure 1.2,gtani7,24,1,0,,t5_2qkej,False
+1286545169.0,dojqv,Taking Uncle Bob to School,mac,24,2,0,,t5_2qkej,False
+1283274689.0,d7seu,Clojure or: How I Learned to Stop Worrying and Love the Parentheses,mac,26,4,0,,t5_2qkej,False
+1279040666.0,cp458,1.2 quick reference/cheat,gtani7,22,0,2,,t5_2qkej,False
+1274119998.0,c58ry,Clojure Library Coding Standards,mac,25,2,0,,t5_2qkej,False
+1257272873.0,a0kyv,Game programming in Clojure?,djork,24,1,4,"My friend is a decent artist and musician,,False
+1255882543.0,9v99b,Python vs Clojure - Reloaded,uiob,31,8,7,,t5_2qkej,False
+1249377183.0,97cao,transient data structures in clojure,,25,2,0,,t5_2qkej,False
+1372795234.0,1hiojq,Fluokitten - Category Theory in Idiomatic Clojure,OmegaMinus,21,1,0,,t5_2qkej,False
+1367822586.0,1ds2xv,Porta - generate Clojure abstractions for existing Java Classes,mac,21,2,6,,t5_2qkej,False
+1364448292.0,1b5ubp,DrClojure: Very newbie-friendly Clojure IDE (GUI REPL) written in Clojure itself.,steloflute,26,6,4,,t5_2qkej,False
+1362754008.0,19wvrw,"David Nolen on Logic and Constraint Programming, Core.logic, Mozart/Oz",yogthos,24,0,False,
+1361632841.0,192xpb,Datomic for Five Year Olds,nonrecursive,26,4,8,,t5_2qkej,False
+1354994237.0,14ibt8,a patched version of the ClojureScript compiler that compiles to ClojureScript,yogthos,24,4,0,,t5_2qkej,False
+1347657689.0,zwahz,Does anyone know the status of Incanter?,kiwipete,24,3,4,"I'm excited by its promise of being an R-like statistical environment built on top of a great general purpose language. However
+
+Does anyone know if development is still active somewhere?",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/zwahz/does_anyone_know_the_status_of_incanter/
+1347452954.0,zrghi,"ClojureScript: 4 Things That Might Worry You, but Shouldn't",Yakulu,26,5,http://www.reddit.com/r/Clojure/comments/zrghi/clojurescript_4_things_that_might_worry_you_but/,,
+1343566432.0,xc94x,Clojure’s Concurrent Agents in action - an intro for those new to Agents,atc,21,2,0,,t5_2qkej,False
+1330595730.0,qcrb7,Solving problems using random. (2nd try too...),MIndTwister,21,0,4,,t5_2qkej,False
+1326782180.0,okjfo,Screencast: ClojureScript One Overview ,sunng,22,3,1,,t5_2qkej,False
+1322732962.0,mvzi8,Clojure &amp; complexity (from a Common Lisp perspective),schaueho,23,2,10,,t5_2qkej,False
+1301379937.0,gdqyq,Joy of Clojure in print,gst,25,2,3,,t5_2qkej,False
+1291879107.0,eissi,"Clojure Libs and Namespaces: require, use, import, and ns",gtani7,2,,False
+1285591020.0,djggx,Clojure Cookbook - Getting Clojure ,gtani7,21,1,0,,t5_2qkej,False
+1281110880.0,cy666,Martin Odersky on Scala and Clojure ,mac,26,5,3,,t5_2qkej,False
+1275318068.0,c9x3h,Clojure Protocols &amp; Datatypes -A sneak peek,mac,23,2,1,,t5_2qkej,False
+1270786055.0,bogv0,Steve Jobs just ruined the iPhone for Clojure,fulldisclojure,28,9,1,,t5_2qkej,False
+1268766872.0,be6pa,Clojure IDEs -- The Grand Tour,fogus,25,4,3,,t5_2qkej,False
+1267468322.0,b7vri,"Circumspec, inferior-lisp, clojure, and slime - screencast by Stuart Halloway",mac,3,,False
+1265186296.0,axh0n,Clojure Cookbook,mac,24,1,0,,t5_2qkej,False
+1262088576.0,ajicl,Planet Clojure,zaph0d,25,4,0,,t5_2qkej,False
+1261873025.0,aisfg,New Features in Clojure 1.1 - Futures &amp; Promises [VIDEO],devslashnull,22,1,0,,t5_2qkej,False
+1254925657.0,9rpey,Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure | Going Deep | Channel 9,dvogel,24,3,0,,t5_2qkej,False
+1241746975.0,8irr2,Kudos to Relevance and Clojure,,23,2,0,,t5_2qkej,False
+1241442119.0,8hov6,Clojure 1.0 released,settrans,24,2,0,,t5_2qkej,False
+1376189486.0,1k4hnk,Clojure for the Brave and True - should I keep writing this?,nonrecursive,24,4,24,,t5_2qkej,False
+1374249366.0,1imyk3,ClojureScript Core.Async Todos,OmegaMinus,22,2,0,,t5_2qkej,False
+1373478742.0,1i0s2s,Introducing HipHip (Array): Fast and flexible numerical computation in Clojure,winkywooster,22,3,5,,t5_2qkej,False
+1371055062.0,1g7de6,Clojure Cookbook is now accepting contributions,rkneufeld,25,7,7,,t5_2qkej,False
+1367260482.0,1dcqm3,Great article on Prismatics ClojureScript dom manipulation library dommy,mac,26,6,2,,t5_2qkej,False
+1363221426.0,1a94rq,How Clojure Babies Are Made: Compiling and Running a Java Program,nonrecursive,21,2,3,,t5_2qkej,False
+1353460582.0,13jhxm,The Pragmatic Bookshelf | Growing a DSL with Clojure,yogthos,26,7,6,,t5_2qkej,False
+1348223136.0,108q87,Shake: Every Program Can Be a Clojure Function,sunng,28,6,3,,t5_2qkej,False
+1346246689.0,z0o6u,robbit: reddit api/bots in clojure,one_more_minute,26,5,6,"Alright
+
+[robbit on github](https://github.com/one-more-minute/robbit)
+
+The `reddit` namespace provides easy access to the reddit api. Highlights include the `api-call` macro and infinite sequences of items from a given page:
+
+    (-&gt;&gt; (subreddit ""clojure"") items (map :title) (take 150))
+
+(Titles of the 150 most ""hot"" items from the clojure subreddit)
+
+Then we have `robbit`
+
+    (robbit/start
+      ({:handler    (fn [_]
+                      {:reply ""Great comment!""
+                       :vote  :up})
+        :subreddits ""clojure""
+        :login      (reddit/login ""username"" ""password"")}))
+
+Yeah
+
+It's also very easy to make your own response types
+
+There's also the namespace `scp-bot`
+
+This is my first released project, just ask right here.",,False,,t5_2qkej,False,,
+1344631178.0,y0k7o,Chris Houser's reply to Steve Yegge regarding Clojure being Software Conservative,yogthos,24,3,3,,t5_2qkej,False
+1341733658.0,w7qzx,"There sure is no ""learn Clojure in a week""..",cyberdouche,25,4,21,"I've been powering through Chas Emerick's ""Clojure Programming"" for about a week now and I gotta say that the language is certainly not for the faint of heart. Years spent in the imperative realm (C++/C#) and a couple with Ruby (which exposes several functional concepts) do not exactly prepare you for the full switch to Clojure.
+
+The book has been super-highly recommended and is indeed very thorough and idiomatic, STM, agents and so on. The concept itself isn't necessarily hard, but once you start reading the sample code, you do get a bit light-headed. Especially once they present their implementations of the Game of Life and Wilson's Maze, whoa.
+
+Is this normal for someone who has little to no familiarity with functional and lisps before? Is the text perhaps not the ideal starting point?
+
+One thing I noticed is that despite the fact that everybody will tell you that the syntax is really basic
+
+Generally speaking I like to jump right into a language and start hacking around to learn as fast as possible
+
+Tips/tricks/kind-words-of-support?",,t5_2qkej,1341737281.0,,,True,http://www.reddit.com/r/Clojure/comments/w7qzx/there_sure_is_no_learn_clojure_in_a_week/
+1341267902.0,vy442,Factorial in Clojure without using alphanumeric characters,phyzome,26,7,3,,t5_2qkej,False
+1336998010.0,tmcuf,Lithium: an x86 assembler for Clojure,nathell,26,6,1,,t5_2qkej,False
+1335045158.0,slsll,Conjcraft: A Minecraft Mod implemented in Clojure,DanielRibeiro,21,0,0,,t5_2qkej,False
+1331623021.0,qu93x,ztellman on new lamina: close to the virtual machine,sunng,20,1,0,,t5_2qkej,False
+1331197569.0,qn4vg,[ANN] Leiningen 2.0.0-preview1,sunng,25,3,0,,t5_2qkej,False
+1328049146.0,p56k4,Clojure/core — First Conj 2011 Videos Available,mobby1982,22,0,0,,t5_2qkej,False
+1321926644.0,mkwd8,Full Disclojure 20 - Decorators,fulldisclojure,22,1,1,,t5_2qkej,False
+1319670929.0,lqagx,Enabling rich(er) interactions in the Clojure REPL,OmegaMinus,20,0,0,,t5_2qkej,False
+1319184834.0,ljq1o,Real World Clojure. ,snarkyturtle,21,2,0,,t5_2qkej,False
+1308638812.0,i51v3,NDC 2011 Clojure Talks (video),mac,21,2,2,"Robert C. Martin
+
+Clojure - The Last Programming Language
+
+http://ndc2011.macsimum.no/SAL7/Onsdag/1020-1120.wmv
+
+Stuart Sierra
+
+Clojure: Lisp for the Real World
+
+http://ndc2011.macsimum.no/SAL6/Tordag/1020-1120.wmv
+
+Stuart Sierra
+
+Rethinking Object-Oriented: Clojure and the Expression Problem
+
+http://ndc2011.macsimum.no/SAL6/Tordag/1140-1240.wmv
+
+Martin Jul
+
+Top 10 things to learn from Clojure that will make you a better developer in any language
+
+http://ndc2011.macsimum.no/SAL4/Fredag/Live%20stream%20archive%2010.06.2011%2013.36.wmv",,t5_2qkej,True,,,True,http://www.reddit.com/r/Clojure/comments/i51v3/ndc_2011_clojure_talks_video/
+1305722345.0,he5qd,"Simple path from zero to Slime, Emacs and Clojure",mac,23,2,http://www.reddit.com/r/Clojure/comments/he5qd/simple_path_from_zero_to_slime_emacs_and_clojure/,,
+1300949365.0,gabm6,All Clojure Conj Talks (video + slides),mac,21,0,0,,t5_2qkej,False
+1299517021.0,fz420,The Joy of The Joy of Clojure Closure,gst,25,3,1,,t5_2qkej,False
+1273601703.0,c2pkc,Better performance in google App Engine with Clojure,gtani7,21,1,1,,t5_2qkej,False
+1268118281.0,bb0g1,Clojure on the front page of current Linux Journal,mac,21,3,1,,t5_2qkej,False
+1263291763.0,aolb3,"Joy of Clojure, website of draft Manning book, Fogus and Houser",gtani7,23,9,False,
+1263037038.0,ani7z,Recommended JVM flags for Clojure,gtani7,21,3,0,,t5_2qkej,False
+1261873063.0,aisfk,New Features in Clojure 1.1 - Transients [VIDEO],devslashnull,21,2,3,,t5_2qkej,False
+1258138711.0,a44c2,Clojure ORM-ish stuff,greml1n,21,2,0,,t5_2qkej,False
+1255742825.0,9uw2v,Cupboard: embedded database library for Clojure,ericlavigne,22,1,0,,t5_2qkej,False
+1376581967.0,1kfas1,Frak - an entirely different approach to generating regular expressions,OmegaMinus,22,3,2,,t5_2qkej,False
+1376037260.0,1k0kkl,clojure-scheme: Compiling Clojure to Native Code via Scheme [InfoQ presentation],OmegaMinus,21,3,1,,t5_2qkej,False
+1371174246.0,1gb6qh,Clojure.core: Batteries (almost) included,rogerallen,21,2,0,,t5_2qkej,False
+1368827419.0,1ejkoi,"Clojure Debugging ’13: Emacs, nREPL, and Ritz",winkywooster,23,3,False,
+1365515097.0,1bzlau,Introducing Instaparse,agumonkey,25,7,5,,t5_2qkej,False
+1364831013.0,1bfeq7,Clochure - A Better Clojure,moogatronic,33,14,10,,t5_2qkej,False
+1361385079.0,18we6z,Controlling an A.R. Drone with the Kinect and Clojure,winkywooster,21,2,1,,t5_2qkej,False
+1360596625.0,18b8ku,A Concise Guide to Clojure,tcskeptic,22,2,3,,t5_2qkej,False
+1353860849.0,13rhma,Chris Ford - Functional Composition -- Music theory from waves to Bach,agumonkey,22,4,2,,t5_2qkej,False
+1352706261.0,131yk3,"ChromaShift, a ClojureScript multiplayer platform race by Chris Granger created in 48 hours (Node Knockout)",Yakulu,21,4,http://www.reddit.com/r/Clojure/comments/131yk3/chromashift_a_clojurescript_multiplayer_platform/,,
+1348502959.0,10ebmp,Clojure MindMap,sivajag,21,2,7,,t5_2qkej,False
+1333013324.0,rj0tb,Building the Wishlisted.org webapp in Clojure,shintoist,26,7,3,,t5_2qkej,False
+1332894881.0,rgqfh,The Newbie’s Guide to Learning Clojure,elangoc,19,0,0,,t5_2qkej,False
+1331851942.0,qyhzz,"Sam Aaron: ""Programming Music with Overtone""",grav,19,0,4,,t5_2qkej,False
+1329735780.0,pxny8,Why is Clojure so slow?,djhworld,28,10,11,,t5_2qkej,False
+1327632868.0,oyks8,Zach Tellman on Clojure Event-Driven Programming (Video),sunng,19,0,0,,t5_2qkej,False
+1323407723.0,n5wb6,Introduction to Logic Programming with Clojure ,sunng,22,3,1,,t5_2qkej,False
+1319211724.0,lk0e9,Building a Database-Backed Clojure Web Application,sunng,20,0,5,,t5_2qkej,False
+1315355995.0,k70im,The clojure ecosystem overview,sunng,22,3,0,,t5_2qkej,False
+1313773953.0,jo16n,David Nolen on Pattern Matching &amp; Predicate Dispatch (video),mac,19,0,3,,t5_2qkej,False
+1311739403.0,j0u08,ClojureScript Brings Clojure To The Browser via Javascript,gst,22,2,0,,t5_2qkej,False
+1309420952.0,id32s,Ferret - An Experimental Clojure to C++ Compiler,mac,20,0,1,,t5_2qkej,False
+1306873852.0,hoi1k,Clojure on Heroku,weavejester,22,2,10,,t5_2qkej,False
+1290093895.0,e84mg,Clojure-games.org,fogus,22,3,1,,t5_2qkej,False
+1289695700.0,e5s5n,The Ins and Outs of Clojure: Part One,ihodes,20,0,0,,t5_2qkej,False
+1288966537.0,e1omf,Clojure Web Infrastructure,fogus,21,1,1,,t5_2qkej,False
+1284716954.0,df4ry,"Uncle Bob Martin's ""Clojure - Up Close and Personal""",neotyk2,20,2,1,,t5_2qkej,False
+1283272524.0,d7rtf,"Emacs, Slime, Swank, Clojure and Leiningen – or – How to get started with Clojure in Emacs",gtani7,0,,False
+1280348749.0,cusi3,Clojure now sponsored by Contegix - what will it mean to the project?,mac,24,5,4,,t5_2qkej,False
+1280232469.0,cu6sk,Destructuring in Clojure,mac,20,2,0,,t5_2qkej,False
+1270131793.0,bl78s,Casting SPELs with Clojure,mac,21,3,1,,t5_2qkej,False
+1261310942.0,agq8x,Beating the Arc challenge — In Clojure,coutume1,21,4,0,,t5_2qkej,False
+1244649436.0,8re12,20 Clojure Links To Get You Up To Speed   ,icey,21,2,0,,t5_2qkej,False
+1375774129.0,1jsrj1,"Examples from Hoare's ""Communicating Sequential Processes"" rewritten in core.async",OmegaMinus,19,3,0,,t5_2qkej,False
+1372219896.0,1h35bh,Clojure Tradeoffs,chrisledet,19,1,0,,t5_2qkej,False
+1370345855.0,1fn9cg,Structured Clojure: Protocols and multimethods (oh my!),nohtyp,20,1,1,,t5_2qkej,False
+1365417247.0,1bwrmu,Drake - Make for data in Clojure,mac,20,3,3,,t5_2qkej,False
+1362976077.0,1a2c0i,Logic Programming is Underrated,yogthos,21,1,0,,t5_2qkej,False
+1362698451.0,19vkad,Achieving awesome numerical performance in Clojure,yogthos,23,4,2,,t5_2qkej,False
+1359420187.0,17gpul,Screencast: Introducing Friend and using a login form,xeqi,20,2,7,,t5_2qkej,False
+1354371609.0,143q2e,Is there an at least sort of up to date book for complete beginners on Clojure?,mullsork,23,7,22,"I've been reading some stuff about Clojure and I absolutely love it
+
+Most books out there that target beginners seem to target 1.3 or 1.2. Would a book about 1.3 be fine if I read up on the differences
+
+Programming Clojure by Stuart Halloway and Aaron Bedra seems to be a perfect fit
+
+Thanks for your help Reddit!",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/143q2e/is_there_an_at_least_sort_of_up_to_date_book_for/
+1354070526.0,13wtrl,Building A Clojure REST Service: Part One,3rddog,24,6,1,,t5_2qkej,False
+1352103727.0,12nqrv,Clojure at a Bank – Clojure Code Immaturity,Kuytu,21,2,0,,t5_2qkej,False
+1348839975.0,10m91v,"Bootstrapping Clojure (or, How to surreptitiously introduce it in your workplace)",icemaze,23,4,http://www.reddit.com/r/Clojure/comments/10m91v/bootstrapping_clojure_or_how_to_surreptitiously/,,
+1345471082.0,yithz,"bodil/catnip: Web based clojure IDE (with lein support, cool)",sunng,23,3,http://www.reddit.com/r/Clojure/comments/yithz/bodilcatnip_web_based_clojure_ide_with_lein/,,
+1336869299.0,tkbv2,Full Disclojure video tutorial series,drguildo,20,3,4,,t5_2qkej,False
+1331852956.0,qyisv,A Clojure trick I found useful for testing,yogthos,20,3,7,"Often you have some code that calls a backend, eg:
+
+    (ns foo)
+
+    (defn get-data []
+      ;gets some data from a db
+    )
+
+    (ns bar
+     (:require foo))
+  
+    (defn display-results []
+      (apply str (interpose ""
+ 
+    (ns tests
+      (:require foo bar))
+
+    (with-redefs [foo/get-data (fn[] [""Doe""
+       (is (= ""Doe
+
+now any code that references foo/get-data inside the with-redefs block will get [""Doe"",False,,t5_2qkej,True,,,t3_qyisv
+1331311746.0,qp1xy,Building Command Line Applications with Clojure,bwlucas,20,1,12,,t5_2qkej,False
+1323982695.0,ne8mg,Fractals in Clojure - Distributed Buddhabrot Fractal Using ClojureScript,nakkaya,19,2,0,,t5_2qkej,False
+1322009693.0,mm56d,clojure unconj,sunng,19,0,0,,t5_2qkej,False
+1321383407.0,mdd86,Seqs and Colls in Clojure,drguildo,20,0,0,,t5_2qkej,False
+1313194464.0,jha3e,Screencast demo of Clojurecraft -- a framework for writing Minecraft bots in Clojure,stevelosh,19,1,2,,t5_2qkej,False
+1311601685.0,iz61z,reddit.clj is a clojure wrapper for reddit API,sunng,19,0,0,,t5_2qkej,False
+1300728789.0,g8bkj,Why we are choosing Clojure as our main programming language ,gst,21,4,1,,t5_2qkej,False
+1300606175.0,g7hlc,Steve Yegge's foreword to Joy of Clojure ,gst,22,3,1,,t5_2qkej,False
+1296691315.0,fe5ae,Review for Chess engine in Clojure,zmyrgel,18,1,8,"I'm making a chess engine in Clojure. It's my first project using functional language and I'd like to have some peer review for it to get it to use more common Clojure style. 
+
+Any help on debugging why the XBoard won't detect that the game has ended or why reducing search depth to 3 or changing sides seems to make AI to behave oddly would be appreciated. 
+
+I'd also be interrested on how to get more performance out of the move generation. Currently I can use search depth of 4 and it takes about 30 sec for AI to pick a move. 
+
+The project can be found at [Github](http://github.com/zmyrgel/tursas).",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/fe5ae/review_for_chess_engine_in_clojure/
+1287902156.0,dvktj,An Illustrated guide to multi-core parallelism in Clojure,,20,0,4,,t5_2qkej,False
+1284580888.0,decdb,"""The Joy of Clojure"" review - inspiring, if bumpy introduction to ""The Clojure Way""",trzmiel,19,1,http://www.reddit.com/r/Clojure/comments/decdb/the_joy_of_clojure_review_inspiring_if_bumpy/,,
+1283584277.0,d9gw9,A* in Clojure (using priority-map),mac,18,0,0,,t5_2qkej,False
+1276622974.0,cfahx,Clojure I/O Cookbook,mac,19,1,3,,t5_2qkej,False
+1268430072.0,bcpfk,Stuart Halloway on Clojure and Functional Programming ,_mayo,20,1,3,,t5_2qkej,False
+1262621256.0,alf3t,On Language Design: My Problem With ClojureQL,gtani7,19,2,0,,t5_2qkej,False
+1261116411.0,ag0j5,"Clojure 1.1 RC1: Transients, Chunked Sequences ",gtani7,20,1,http://www.reddit.com/r/Clojure/comments/ag0j5/clojure_11_rc1_transients_chunked_sequences/,,
+1259344978.0,a8r5f,Clojure syntax cheat sheet,gtani7,19,3,0,,t5_2qkej,False
+1251463514.0,9f0tv,"Books that influenced Clojure, in no particular order",seths,21,2,http://www.reddit.com/r/Clojure/comments/9f0tv/books_that_influenced_clojure_in_no_particular/,,
+1249394277.0,97en2,Look at Clojure and JVM performance,berlinbrown,20,2,0,,t5_2qkej,False
+1248102554.0,92u8r,Initial Thoughts on Clojure,nflath,21,3,1,,t5_2qkej,False
+1247190123.0,8zuf2,Book Review of Programming Clojure,johnnyh749,23,4,2,,t5_2qkej,False
+1376078839.0,1k1pn3,Hitman - A Markdown parser in 66 lines of Clojure using Instaparse and Hiccup,chameco,19,2,2,,t5_2qkej,False
+1376033333.0,1k0i9f,What's next for Leiningen,OmegaMinus,19,2,0,,t5_2qkej,False
+1375377380.0,1ji7o2,CSP is Responsive Design,OmegaMinus,17,1,4,,t5_2qkej,False
+1375194650.0,1jclmx,Anatomy of a Clojure Macro,gilbertw1,21,5,5,,t5_2qkej,False
+1374798197.0,1j2cmz,"OSCON 2013: Carin Meier ""The Joy of Flying Robots with Clojure""",climatewarrior,18,2,3,,t5_2qkej,False
+1374714375.0,1izvys,core.async: A Different Approach to Asynchronous Programming with Clojure and ClojureScript,beandipper,20,3,0,,t5_2qkej,False
+1372002287.0,1gwun4,Clojure-based Machine Learning,yogthos,19,2,4,,t5_2qkej,False
+1370121099.0,1fheoo,A fun and easy way to get started with Clojure -- clojure-koans,lcedp,19,3,0,,t5_2qkej,False
+1367326405.0,1deocb,Algorithmic Classical Contemporary Music Composed With Clojure,mac,17,1,4,,t5_2qkej,False
+1365895102.0,1canpw,Clojure at Nokia Entertainment,yogthos,22,3,6,,t5_2qkej,False
+1360566558.0,18apx8,"Is Clojure Still Fast?
+",2,13,http://www.reddit.com/r/Clojure/comments/18apx8/is_clojure_still_fast/,,,False,t5_2qkej,False
+1359922656.0,17tmov,Graph: Composable Production Systems in Clojure,nohtyp,19,2,1,,t5_2qkej,False
+1358439631.0,16r9ym,My clojurescript project - a browser based bittorrent client,IPhotoDogsForKarma,24,6,6,,t5_2qkej,False
+1354024916.0,13vfwg,Polymorphism in Clojure,yogthos,22,5,0,,t5_2qkej,False
+1352583926.0,12zb3q,Detailed Breakdown of a Noir-less Web App,nonrecursive,20,4,0,,t5_2qkej,False
+1350411462.0,11kygv,Immutant 0.5.0 Released - an application server for Clojure,bobesponja,20,3,5,,t5_2qkej,False
+1348602342.0,10gsvw,Immutant 0.4.0 Released - an application server for Clojure,bobesponja,21,2,5,,t5_2qkej,False
+1347016958.0,zi20s,Rich Hickey - The Database as a Value | Channel 9,agumonkey,21,4,4,,t5_2qkej,False
+1346341423.0,z2y4u,A fast quicksort in Clojure,deathapproaches,21,4,0,,t5_2qkej,False
+1341348188.0,vzws6,core.logic.intro - Edmund Jackson at EuroClojure,tie-rack,21,2,3,,t5_2qkej,False
+1341155281.0,vvpgj,4clojure in emacs,dancluna,18,2,2,"Hi all
+
+I'm a Clojure newbie and I'm going through the 4clojure.com problems. I love emacs,False,,t5_2qkej,False,,,t3_vvpgj
+1340844291.0,vpr47,"Clojure desktop apps, is it worth it? how?",rafmagana,19,1,http://www.reddit.com/r/Clojure/comments/vpr47/clojure_desktop_apps_is_it_worth_it_how/, before starting with clojure I had an idea of a multi-platform desktop application to generate some images dynamically
+
+If so
+
+Thanks in advance.",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/vpr47/clojure_desktop_apps_is_it_worth_it_how/
+1334629371.0,sdivq,Changes to Clojure in Version 1.4,sunng,17,0,4,,t5_2qkej,False
+1330360594.0,q891h,"""Connecting to your creation"", as illustrated by a live-editable game written in Clojurescript. The most amazing feature is ""projection"", showing what *would* have happened in the previous few seconds if the code had been different. [xpost/programming]",phyzome,23,1,False,
+1327851639.0,p1qm4,On Beyond Beyond Lambda,mobby1982,18,1,1,,t5_2qkej,False
+1325675329.0,o2e4a,Clojure 2011 Year in Review,sunng,17,0,0,,t5_2qkej,False
+1321579643.0,mgdqc,Clojure conj review by fogus,sunng,17,0,0,,t5_2qkej,False
+1320202256.0,lx8sv,Immutant : JBoss goes Clojure,sunng,18,1,3,,t5_2qkej,False
+1314800498.0,k07au,Optimising Clojure,mac,17,0,0,,t5_2qkej,False
+1308183322.0,i0s0b,The 2011 State of Clojure Survey is Open ,gst,19,3,0,,t5_2qkej,False
+1306213285.0,hing1,3d Snake in Clojure (code + video) ,mac,18,1,2,,t5_2qkej,False
+1304788426.0,h6636,Check out this Clojure wallpaper I made!,KineticShampoo,22,6,3,,t5_2qkej,False
+1301817284.0,ghjk5,Scripting in clojure using jark,icylisper,17,0,0,,t5_2qkej,False
+1288830461.0,e0wru,"Yo dawg, I heard you like Clojure.",lyrae,18,2,http://www.reddit.com/r/Clojure/comments/e0wru/yo_dawg_i_heard_you_like_clojure/,,
+1284702352.0,df2kd,A bucket of Emacs tricks for Clojure,mac,19,1,0,,t5_2qkej,False
+1277731782.0,cjtxv,(take 8 (phil-hagelberg)),fogus,18,1,0,,t5_2qkej,False
+1271949111.0,bunqq,"install emacs, clojure, swank w/o ELPA, version everything in git",gtani7,0,,False
+1270021074.0,bkk5c,"The pitfalls of ""lein swank""",nathell,18,2,0,,t5_2qkej,False
+1269381350.0,bhb8u,-= Clojure's Mini-languages =-,mac,19,3,0,,t5_2qkej,False
+1260933371.0,af5bu,Widefinder 2 with Clojure,devslashnull,19,1,0,,t5_2qkej,False
+1258655731.0,a64rf,InfoQ: Clojars and Leiningen Automate Library and Dependency Management for Clojure,icey,20,5,0,,t5_2qkej,False
+1248709256.0,94z6i,Clojure + Mathematica = Clojuratica,tmountain,20,3,3,,t5_2qkej,False
+1236307540.0,82hwl,Clojure Monads,jstraszheim,19,2,0,,t5_2qkej,False
+1234730469.0,7xltf,Experimental branches of Clojure,burkadurka,18,1,0,,t5_2qkej,False
+1233306496.0,7tkhg,Got a clojure library?,ayrnieu,19,1,0,,t5_2qkej,False
+1376335517.0,1k84za,ClojureScript Core.Async Dots Game,bhauman,18,2,0,,t5_2qkej,False
+1375498438.0,1jlu2k,"100,000 Processes",OmegaMinus,17,3,http://www.reddit.com/r/Clojure/comments/1jlu2k/100000_processes/,,
+1375383571.0,1jig7g,Stock Simulation in Clojure,OmegaMinus,17,1,0,,t5_2qkej,False
+1375316785.0,1jgkju,Immutant | Immutant 1.0.0 Released (Finally!),deathapproaches,17,1,13,,t5_2qkej,False
+1368394591.0,1e7e4l,Static - Static Site Generator in Clojure,jjttjj,16,0,2,,t5_2qkej,False
+1364080729.0,1avvaf,Can learning Common Lisp help you code in Clojure?,mrstacktrace,19,3,18,"Hi
+
+I am a beginner in Clojure
+There are a couple of cool books on Common Lisp that I wanted to code-through: [Practical Common Lisp](http://gigamonkeys.com/book/) and [Land of Lisp](http://landoflisp.com).  
+
+I was wondering if it there would be any benefits in learning Common Lisp and Clojure simultaneously?   Or if there are any disadvantages or things to be aware of?",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/1avvaf/can_learning_common_lisp_help_you_code_in_clojure/
+1363335173.0,1ac9ec,Functional Programming Patterns in Scala and Clojure: Write Lean Programs for the JVM,seymores,17,1,0,,t5_2qkej,False
+1361883907.0,19996w,"Degrees of clojure reader safety: Unsafe, StillUnsafe and EDN",shreknel,19,1,http://www.reddit.com/r/Clojure/comments/19996w/degrees_of_clojure_reader_safety_unsafe/,,
+1356318409.0,15cspw,Luminus: my attempt at a Clojure web framework,yogthos,21,4,19,,t5_2qkej,False
+1354223293.0,140ico,"A ray tracer in Clojure
+ 
+ 
+ A Ray Tracer in Clojure - Google Project Hosting",4,5,http://www.reddit.com/r/Clojure/comments/140ico/a_ray_tracer_in_clojure_a_ray_tracer_in_clojure/,,,False,t5_2qkej,False
+1350460058.0,11mcoo,"Clojure: The real world of partitioning, interleaving, and regular expressions.",cljlover,22,0,False,
+1348740286.0,10k20j,The VAPOR principles for functional DSL design,Yakulu,18,2,0,,t5_2qkej,False
+1341905021.0,wbgdi,The Caves of Clojure: Part 3.1,tomcsi,17,1,3,,t5_2qkej,False
+1334231601.0,s61ad,Clojure 1.4's extensible Reader: custom notation for data without problems of Reader macros [12min vid],gtani,17,3,0,,t5_2qkej,False
+1334194634.0,s5eqg,A PDF generation library in Clojure,yogthos,18,2,10,"Recently I needed to generate PDF summaries for work
+
+It's still in pretty early stages, which is hopefully familiar to a lot of people. :) Internally, it's just a wrapper for the excellent iText library. Any comments, suggestions, forks, etc. are welcome.
+
+edit: Just noticed that iText version 2.1.7 and below is distributed under LGPL,False,,t5_2qkej,True,,,t3_s5eqg
+1330722040.0,qeyyn,10 Clojure One Liners,bwlucas,20,3,0,,t5_2qkej,False
+1328239317.0,p8qh7,Game of Life in Clojure GUI (seesaw),sunng,16,0,0,,t5_2qkej,False
+1327438295.0,ouyjb,"Clojure job in Hamburg, Germany",c0dep0et,17,3,http://www.reddit.com/r/Clojure/comments/ouyjb/clojure_job_in_hamburg_germany/
+
+* You are an excellent software developer and know many different paradigms from object oriented to functional and used your knowledge to create complex systems in many different languages like C++
+* Prior knowledge of Clojure is not required if you know another Lisp dialect.
+* You also know the basics of Linux systems programming and know how ethernet networks work.
+
+Full job description is here: http://gateprotect.com/de/download.php?url=2&amp;file=docs/Developer_Focus-Software_uk.pdf
+
+**important** You need a valid working permit for Germany (be a European citizen).
+
+Interested or you have questions? PM me!",,t5_2qkej,True,,,True,http://www.reddit.com/r/Clojure/comments/ouyjb/clojure_job_in_hamburg_germany/
+1324429081.0,nkm6y,The Road to Clojure  Survey,sunng,17,1,0,,t5_2qkej,False
+1322825349.0,mxfcq,Less painful GUIs in Clojure with Clarity - Talk,scarredwaits,17,0,0,,t5_2qkej,False
+1321656174.0,mhg7c,Sell Clojure to me,AeroNotix,22,7,87,"I absolutely love Lisp.
+
+I absolutely love Lisp.
+
+With that out of the way, esoteric and weird. This is a spare time thing, I am not trying to change the workspace by using something different. I just wish to use one of my favourite languages in an environment that I can keep up with improvements. Lisp feels like I am digging through bones and skellies trying to get to any deep information, I'm hoping with Clojure, that could be different.
+
+So,False,,t5_2qkej,False,,,t3_mhg7c
+1320255548.0,lxwfe,Clojure/West conference,fogus,16,0,4,,t5_2qkej,False
+1319926301.0,ltkgd,disclojure - public disclosure of all things Clojure,drguildo,17,0,0,,t5_2qkej,False
+1315409130.0,k7nvd,ClojureScript and Node.js,sunng,18,1,0,,t5_2qkej,False
+1314578601.0,jxgq4,clojurescript vs coffeescript,sunng,17,1,0,,t5_2qkej,False
+1313162484.0,jgto9,What is the best way to learn Clojure?,Ravicious,17,2,21,"I know Ruby,,False
+1311879971.0,j2g0x,BREPL - The browser repl for ClojureScript ,mac,16,0,1,,t5_2qkej,False
+1310484923.0,inhd2,No Stinking Mutants,icey,18,1,0,,t5_2qkej,False
+1294065172.0,evf8d,Scheme like syntax-rules for Clojure,zaph0d,17,1,0,,t5_2qkej,False
+1293764301.0,etz3e,Best In Class: Reddit Clone in 10 minutes and 91 lines of Clojure,rjray,19,2,2,,t5_2qkej,False
+1293048848.0,eq1rd,"Marginalia - lightweight literate programming for Clojure, inspired by docco",fogus,18,1,http://www.reddit.com/r/Clojure/comments/eq1rd/marginalia_lightweight_literate_programming_for/,,
+1289836880.0,e6f9e,Clojure's Solutions to the Expression Problem (video),fogus,17,0,0,,t5_2qkej,False
+1289577509.0,e5679,Porting Haskell’s Parsec (to Clojure),fogus,16,0,0,,t5_2qkej,False
+1286941729.0,dqi99,Introduction to Leiningen,,16,0,0,,t5_2qkej,False
+1284455013.0,ddlpd,Self-contained part-of-speech tagger in 300 lines of Clojure,mac,16,1,0,,t5_2qkej,False
+1283989357.0,dbcgz,ai-contest-planet-wars-clj - Clojure starter package for the Google AI contest (Planet Wars),choas,17,1,8,,t5_2qkej,False
+1281714856.0,d0tjm,Ironclad - strategy game in Clojure (run using JNLP),mac,18,2,5,,t5_2qkej,False
+1278501992.0,cmu1c,"aleph - an asynchronous web server, written in Clojure (built on Netty)",mac,17,1,http://www.reddit.com/r/Clojure/comments/cmu1c/aleph_an_asynchronous_web_server_written_in/,,
+1278436840.0,cmjqp,CDT - The Clojure Debugging Toolkit,mac,17,0,0,,t5_2qkej,False
+1277130012.0,chc46,"cajual - Use leiningen to keep your repl, swank, and clojure scripts up to date",mac,19,0,False,
+1276171733.0,cdic6,"Clojure, from a Ruby perspective",choas,17,1,http://www.reddit.com/r/Clojure/comments/cdic6/clojure_from_a_ruby_perspective/,,
+1273133676.0,c0i3f,Decoupling GUI and Business Logic using Clojure,mac,19,1,0,,t5_2qkej,False
+1266798098.0,b4sm4,Creating a Simple Game in Clojure,prospero,16,0,0,,t5_2qkej,False
+1265817439.0,b0etr,"or, foldl and foldr considered slightly harmful : Guy Steele",gtani7,19,2,http://www.reddit.com/r/Clojure/comments/b0etr/or_foldl_and_foldr_considered_slightly_harmful/,,
+1248352836.0,93ts1,Sweeping Networks with Clojure,tmountain,18,4,10,,t5_2qkej,False
+1243227086.0,8mz9m,Chouser's clojure-jna,,17,2,0,,t5_2qkej,False
+1233000798.0,7skq3,Clojure: Genetic Mona Lisa problem in 250 beautiful lines,icey,18,2,2,,t5_2qkej,False
+1225832300.0,7bc41,Programming Clojure beta PDF now available!,burke,20,3,8,,t5_2qkej,False
+1375682134.0,1jq41o,"Clojure or ""How I learned to Stop Worrying and Love the JVM"" - talk by Justin Reed (video)",mac,18,5,1,,t5_2qkej,False
+1372753994.0,1hhiel,Clojure in the Large,OmegaMinus,17,2,6,,t5_2qkej,False
+1371203849.0,1gbvmp,Isolating External Dependencies in Clojure,mac,15,0,4,,t5_2qkej,False
+1369343062.0,1exfdj,Livecoding a web app in Clojure and Scala - An intro and comparison (video),mac,16,3,2,,t5_2qkej,False
+1368714036.0,1eg9j8,A Whirlwind Tour of Datomic Query,winkywooster,19,1,1,,t5_2qkej,False
+1367142250.0,1d9kbf,"Clojure Cup 2013, September 28-29",teropa,19,3,http://www.reddit.com/r/Clojure/comments/1d9kbf/clojure_cup_2013_september_2829/,,
+1366795904.0,1d00vk,Video Course on Clojure Concurrency,mac,21,7,4,,t5_2qkej,False
+1365537568.0,1c0exw,Announcing: lein-simpleton,lauri,18,2,0,,t5_2qkej,False
+1359877842.0,17ss0a,"Great, quick Vim/Foreplay tutorial for Clojure",tcskeptic,19,3,http://www.reddit.com/r/Clojure/comments/17ss0a/great_quick_vimforeplay_tutorial_for_clojure/,,
+1359229035.0,17bu00,Overtone 0.8.0 Released!,rogerallen,16,1,1,,t5_2qkej,False
+1357140019.0,15ttxl,Get Started with ClojureScript with Leiningen Templates,trzmiel,18,2,0,,t5_2qkej,False
+1355779189.0,150hlq,"""ClojureScript Up and Running"" (Book Review)",trzmiel,16,2,10,,t5_2qkej,False
+1355373308.0,14rojn,"Clojure eXchange 2012: Rich Hickey on The Language of the System
+The Language of the System",3,1,http://www.reddit.com/r/Clojure/comments/14rojn/clojure_exchange_2012_rich_hickey_on_the_language/,,,False,t5_2qkej,False
+1354809591.0,14dz3k,Clojure + Datomic + Storm = Zolodeck,3rddog,17,2,0,,t5_2qkej,False
+1346611208.0,z8nma,Next installment of Noir tutorial - packaging and deploying apps,yogthos,17,1,0,,t5_2qkej,False
+1343666967.0,xecnc,The Caves of Clojure: Part 6 ,wordsmithie,16,2,0,,t5_2qkej,False
+1343587681.0,xcnln,An introduction to Clojure's (future) and (agent) for the uninitiated,atc,17,3,3,,t5_2qkej,False
+1340679393.0,vlxx9,Deeper Into the Land of Lisp: First Contact with Noir,nonrecursive,17,2,7,,t5_2qkej,False
+1339405706.0,uvx0h,"Separation of concerns, or let-map, birth of a clojure macro",gtani,17,0,False,
+1337972054.0,u4v9j,Ring authentication library,shreknel,15,1,2,,t5_2qkej,False
+1332742120.0,rdue3,Shen implemented in Clojure in &lt; 1000 LOC,lucyfor,20,4,1,,t5_2qkej,False
+1331557508.0,qsup5,"Announcing the Clojure Gazette: Free, Weekly email newsletter",ericwnormand,15,1,http://www.reddit.com/r/Clojure/comments/qsup5/announcing_the_clojure_gazette_free_weekly_email/,,
+1329932500.0,q15m6,Reading Files in Clojure,bwlucas,17,2,2,,t5_2qkej,False
+1329476335.0,ptquj,"Incanter: Clojure-based, R-like statistical computing and graphics environment for the JVM",larsyencken,16,1,http://www.reddit.com/r/Clojure/comments/ptquj/incanter_clojurebased_rlike_statistical_computing/,,
+1326765139.0,ok62m,VijayKiran.com – Web Application Development with Clojure – Part 2,sunng,16,1,0,,t5_2qkej,False
+1324939476.0,nrk6q,"""Clojure is one of our great passions"" (Clojure job, Germany)",mcanon,18,1,http://www.reddit.com/r/Clojure/comments/nrk6q/clojure_is_one_of_our_great_passions_clojure_job/,,
+1323367848.0,n539q,A Seesaw Tutorial. No Swing Knowledge Required.,daveray,16,1,2,,t5_2qkej,False
+1323053898.0,n0jxt,Book Review – Clojure In Action ,sunng,16,1,0,,t5_2qkej,False
+1321743862.0,migk8,"A bit old, but still one of the most comprehensive Clojure primers out there.",yogthos,16,2,http://www.reddit.com/r/Clojure/comments/migk8/a_bit_old_but_still_one_of_the_most_comprehensive/,,
+1320994662.0,m8gok,The Magical Island of Kanren – core.logic Intro Part 1 ,sunng,16,0,0,,t5_2qkej,False
+1313121804.0,jgfgc,Lacij - graph visualization library,deafmacro,17,2,1,,t5_2qkej,False
+1311487521.0,iy7jj,ClojureScript Demo : Convex Hull,lucyfor,16,0,2,,t5_2qkej,False
+1308716080.0,i5wo9,Screencast: Clojure + Emacs + slime + swank + cake + Overtone,lyrae,16,0,0,,t5_2qkej,False
+1301566582.0,gffon,Generating Scrabble plays with Clojure,deong,15,0,0,,t5_2qkej,False
+1294860067.0,f125l,clojurejs - A naive Clojure to javascript translator,funcall,16,0,3,,t5_2qkej,False
+1294599103.0,ez2c3,Building a Social Media Site in Clojure,mac,15,0,0,,t5_2qkej,False
+1291042574.0,edc86,How much Clojure do you know?,mac,17,1,1,,t5_2qkej,False
+1288296698.0,dxvyr,"Home at Last, or, The Last Programming Language I Will Ever Learn: LISP (Clojure)",,23,4,False,
+1284485275.0,ddrvu,Interactive Programming for Fun and Profit - example using Clojure Penumbra to make a OpenGL 3D Tetris,mac,15,0,0,,t5_2qkej,False
+1284386734.0,dd7ae,(take 6 (george-jahad)),fogus,16,1,0,,t5_2qkej,False
+1283867717.0,dam3n,Scheme felt minimalistic. Clojure doesn't. Is this advantageous?,myanche,19,3,15,"I learned Scheme in college a few years back and what struck me about it was how minimalistic it was. You could fit the core language documentation in a couple of pages. I'm giving Clojure a look and it has a lot more stuff built-in. Do you find this makes it more powerful/easier to use ? 
+
+Currently the primary lure of Clojure is the JVM. In your opinion,False,,t5_2qkej,False,,,t3_dam3n
+1283353937.0,d883o,"""Editing"" trees in Clojure with clojure.zip",mac,16,0,0,,t5_2qkej,False
+1281377635.0,cz5pb,ELC 2010: Rich Hickey and Joe Pamer - Clojure and F#,mac,16,1,0,,t5_2qkej,False
+1279957634.0,ct62w,"STM, CouchDB, and pushing 5500 docs/sec",mac,15,0,False,
+1276782423.0,cg0bs,Key things that the JVM is missing,fulldisclojure,17,2,4,,t5_2qkej,False
+1276515896.0,ces73,Clojure Presentations by Stuart Halloway,choas,17,3,0,,t5_2qkej,False
+1276239988.0,cdund,The Basics of Clojure Futures,mac,16,1,0,,t5_2qkej,False
+1274935147.0,c8jyu,Did you know about bound-fn?,mac,18,2,0,,t5_2qkej,False
+1274361630.0,c6aip,swank-clojure 1.2 new features,gtani7,16,1,0,,t5_2qkej,False
+1270565821.0,bn5nk,Full Disclojure Episode 16 - Enterprise Clojure,mac,15,2,4,,t5_2qkej,False
+1265950694.0,b14hl,Intro to Incanter datasets and charts,evgen,18,3,0,,t5_2qkej,False
+1265273910.0,axx6g,JVisualVM and Clojure,mac,17,0,1,,t5_2qkej,False
+1265220038.0,axno1,"Clojure REPL tips: Controlling run-away trains, onions, and exercise bikes.",chouser,19,0,False,
+1264006068.0,arzg1,"Clojure 1.1 and Beyond, incl. Clojure-in-Clojure",gtani7,18,1,http://www.reddit.com/r/Clojure/comments/arzg1/clojure_11_and_beyond_incl_clojureinclojure/,,
+1260262777.0,acaw5,Hadoop + Clojure - Tim Dysinger and Stuart Sierra [VIDEO],devslashnull,15,0,0,,t5_2qkej,False
+1256643076.0,9y79y,Clojure and Rails - the Secret Sauce Behind FlightCaster,skillet-thief,18,2,0,,t5_2qkej,False
+1254759108.0,9r0qk,Cascade: A Clojure web framework by the creator of Tapestry,icey,17,2,1,,t5_2qkej,False
+1252798784.0,9jyx8,Pong! (130 lines of Clojure),jgrant27,18,4,1,,t5_2qkej,False
+1376504032.0,1kd341,Clojure: Thinking in Hashmaps | Safari Books Online's Official Blog,countcet,19,4,1,,t5_2qkej,False
+1374740521.0,1j0lo3,PuppetDB: Clojure to manage and monitor thousands of production systems,OmegaMinus,14,0,0,,t5_2qkej,False
+1374279362.0,1io0yp,Escaping Callback Hell With Core Async,yogthos,17,2,5,,t5_2qkej,False
+1374050667.0,1ih3wj,Is nrepl.el no longer maintained? A discussion about the future of the project,bozhidarb,17,4,0,,t5_2qkej,False
+1372612667.0,1hdfcl,Graph Traversal with Clojure,OmegaMinus,18,5,3,,t5_2qkej,False
+1371665711.0,1go4xr,Web Application Architecture in Clojure - Getting Started,dgraydesign,21,5,0,,t5_2qkej,False
+1370087593.0,1fgl5g,"""REPRESENTING GAME DIALOGUE AS EXPRESSIONS IN FIRST-ORDER LOGIC"" using Clojure (pdf)",mac,18,3,1,,t5_2qkej,False
+1369451350.0,1f0f7g,what's new in lib-noir,yogthos,17,3,0,,t5_2qkej,False
+1368876808.0,1ekm7c,Search for any combination of clojure functions to get examples,toisanji,17,3,0,,t5_2qkej,False
+1367443089.0,1di9wm,fungp - A genetic programming library for Clojure,mac,15,2,0,,t5_2qkej,False
+1365379415.0,1bvtv4,Syntax threading macros for Clojure,mac,16,1,0,,t5_2qkej,False
+1364377679.0,1b3p0v,"I'm new to Clojure and I wrote Perjure, a static blog compiler. I'd love constructive criticism!",wjohansson,18,2,http://www.reddit.com/r/Clojure/comments/1b3p0v/im_new_to_clojure_and_i_wrote_perjure_a_static/,,
+1363635917.0,1ajjvh,How Clojure Babies Are Made: Understanding lein run,nonrecursive,15,3,1,,t5_2qkej,False
+1363203930.0,1a8hf9,I'm interested in learning Clojure. And I'm interested in doing some Android development. But I can't seem to find any good sources describing how to combine the two.,tjansson,18,3,15,"Edit: Just to clarify. My main goal is to learn Clojure. If it is possible to combine this with some form of Android development,,
+1361674159.0,194300,Are you interested in programming in Clojure?,yogthos,15,3,4,,t5_2qkej,False
+1361299183.0,18ty8j,Why Datomic?,sivajag,16,1,3,,t5_2qkej,False
+1352930671.0,137d1w,Logging in Clojure / JVM – Part 1 | Zolo Labs,sivajag,15,1,0,,t5_2qkej,False
+1346675749.0,za05j,Thinking in Data - presentation by Stuart Sierra,mytrile,16,3,3,,t5_2qkej,False
+1345318486.0,yfue8,Second part of the Noir tutorial is up,yogthos,17,5,9,,t5_2qkej,False
+1345209011.0,ydi1d,"Flurfunk, the Twitter-like service in Clojure is open sourced",yogthos,15,2,http://www.reddit.com/r/Clojure/comments/ydi1d/flurfunk_the_twitterlike_service_in_clojure_is/,,
+1344393421.0,xuy6a,SOLID Clojure,sunng,15,2,0,,t5_2qkej,False
+1342440262.0,wn1pi,Statistical Learning in Clojure Part 1: LDA &amp; QDA Classifiers,nonrecursive,14,1,1,,t5_2qkej,False
+1342374478.0,wlmf9,The Caves of Clojure: Interlude 1,tomcsi,15,2,0,,t5_2qkej,False
+1341415522.0,w18js,a microblog written with Noir,yogthos,15,3,2,,t5_2qkej,False
+1339642434.0,v101f,Structured logger for Clojure,yogthos,15,2,21,"I was reading [The Emacs Problem](https://sites.google.com/site/steveyegge2/the-emacs-problem) post from Steve Yegge
+
+https://github.com/yogthos/clj-log",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/v101f/structured_logger_for_clojure/
+1339203483.0,ushre,"Just a heads up for anybody interested, clj-pdf is nearing 1.0, with lots of new features.",yogthos,15,3,False,
+1336359825.0,talpq,Dave Ray - Practical Abstraction with Clojure - GLFPC 2012,sunng,18,3,3,,t5_2qkej,False
+1336115824.0,t6j9c,"Prismatic's first public feed experiment -- just for /r/Clojure's enjoyment and feedback
+",5,6,http://www.reddit.com/r/Clojure/comments/t6j9c/prismatics_first_public_feed_experiment_just_for/,,,False,t5_2qkej,False
+1331182322.0,qmwll,Start Learning Clojure Now - Slides from my talk at local user group.,billrobertson42,15,1,8,,t5_2qkej,False
+1330847002.0,qgypr,"Announcing Frinj, a practical unit-of-measure calculator DSL for Clojure",mtrojer,16,1,http://www.reddit.com/r/Clojure/comments/qgypr/announcing_frinj_a_practical_unitofmeasure/,,
+1326221194.0,ob4mp,What are you using Clojure for?,CritterM72800,16,0,36,"Just curious what you guys are doing with Clojure. 
+
+Personally,,False,,t5_2qkej,False,,True
+1325310925.0,nx872,Lein-cljsbuild - Share code between Clojure &amp; ClojureScript,emezeske,14,1,1,,t5_2qkej,False
+1321434030.0,me7so,fogus: The Macronomicon Slides,ckeen,17,3,0,,t5_2qkej,False
+1321231024.0,mb8k3,Clojure conj slides,sunng,15,0,0,,t5_2qkej,False
+1320401563.0,m04vt,"Clojure on hadoop, a new hope",sunng,15,0,http://www.reddit.com/r/Clojure/comments/m04vt/clojure_on_hadoop_a_new_hope/,,
+1319093665.0,ligte,A field trip into logic programming,OmegaMinus,17,2,0,,t5_2qkej,False
+1318053588.0,l4wue,A world in a ref,sunng,14,0,0,,t5_2qkej,False
+1315465202.0,k8knj,Visualize Google search results with Clojure,lauri,17,3,0,,t5_2qkej,False
+1313800847.0,jofce,The Church of the Least Fixed Point,yogthos,15,2,0,,t5_2qkej,False
+1305521873.0,hcbcl,"Seesaw and Tallyho, a match made in heaven",Raynes,15,1,http://www.reddit.com/r/Clojure/comments/hcbcl/seesaw_and_tallyho_a_match_made_in_heaven/,,
+1303667236.0,gwel7,Debugging Clojure,mac,15,0,0,,t5_2qkej,False
+1302676074.0,govbz,Clojure State Management,mac,15,1,1,,t5_2qkej,False
+1300861394.0,g9iyw,lein 1.5.0,gtani,14,0,0,,t5_2qkej,False
+1299790883.0,g1fzv,M.A.D - Music As Data - a language for livecoding music in Clojure and Processing,mac,15,3,3,,t5_2qkej,False
+1299474341.0,fyt6d,Part 1 of a tutorial on monads,gst,16,4,3,,t5_2qkej,False
+1295933450.0,f8k2n,Clojure-Java Interop: A Better Java than Java (Stuart Halloway),mcanon,14,0,0,,t5_2qkej,False
+1293668654.0,etd3f,Are clojure macros executed at runtime or compile time?  I cannot wrap my head around the apparent chicken/egg problem.,johnb,15,1,16,,t5_2qkej,True
+1293298772.0,ercbj,Kotka : About Clojure… What else?,nakkaya,16,0,0,,t5_2qkej,False
+1291123801.0,edw0r,(take 6 (justin-balthrop)),fogus,16,1,0,,t5_2qkej,False
+1290127281.0,e8e7u,An Indirect Guide To Getting Started With Clojure,Raynes,15,0,4,,t5_2qkej,False
+1290119592.0,e8cbl,ClojureQL - 1.0.0 now in beta (includes screencast),mac,15,2,2,,t5_2qkej,False
+1289602479.0,e5cxj,"New screencats series on Clojure, Emacs, Slime etc.",mac,16,0,False,
+1288669578.0,dzuxc,Command-line arguments to Clojure programs  (StackOverflow),phob,16,3,0,,t5_2qkej,False
+1288224485.0,dxgbd,Monkey in clojure: Markov chains,gtani7,14,0,0,,t5_2qkej,False
+1288026392.0,dw5i8,Polyglot Maven -- First-class support for Clojure in Maven 3,,16,1,1,,t5_2qkej,False
+1285769685.0,dkicp,New Release of the Clojure Debugging Toolkit ,gtani7,17,1,0,,t5_2qkej,False
+1283257504.0,d7ofw,Akamai looking to hire a Clojure developer to champion the language within the company,treerex,14,0,8,,t5_2qkej,False
+1282936588.0,d69pj,Random thoughts on Clojure Protocols,mac,14,1,0,,t5_2qkej,False
+1281650475.0,d0jji,Cake - a tasty build tool for Clojure,mac,17,2,5,,t5_2qkej,False
+1280927877.0,cx9gj,(take 5 (brenton-ashworth)),fogus,14,2,0,,t5_2qkej,False
+1280850195.0,cwvk8,Clojure Tetris,yogthos,15,0,10,,t5_2qkej,False
+1277466514.0,ciwtn,99 Clojure Problems (1-4),choas,16,0,8,,t5_2qkej,False
+1276407269.0,ceg2e,"Incanter executables - for OS X, Windows and Linux",mac,15,1,http://www.reddit.com/r/Clojure/comments/ceg2e/incanter_executables_for_os_x_windows_and_linux/,,
+1276101798.0,cd757,-= clojure.rb =-,mac,16,2,1,,t5_2qkej,False
+1274119427.0,c58mr,Building Battle Bots with Clojure,mac,14,0,0,,t5_2qkej,False
+1273474139.0,c1zzp,TryClojure - An online mostly-HTML-based REPL. My first web development project in any language.,Raynes,15,1,3,,t5_2qkej,False
+1271844606.0,bu179,Clojure - Scala Similarities — Twins separated at birth? (hint: the answer is no),mac,15,1,1,,t5_2qkej,False
+1268118441.0,bb0hh,Natural Language Processing in Clojure with clojure-opennlp,mac,14,0,0,,t5_2qkej,False
+1267863532.0,b9yeq,gen-class explained,mac,15,3,0,,t5_2qkej,False
+1264443968.0,atzz7,Full Disclojure - I need Topics!,fulldisclojure,16,4,29,"Hello everyone
+I'm having a blast making the Full Disclojure series.  It's one the
+best projects I've had a chance to work on.
+
+However
+topics left before I run out.  No more topics
+
+This is where you come in.  I'm interested in what the community (i.e.
+you) would like to see talked about.  It could be the core language
+contrib
+like-to-get-exposure
+everything.  If it's interesting enough
+it.  There are no bad suggestions.
+
+Thanks in advance
+Sean ",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/atzz7/full_disclojure_i_need_topics/
+1264238249.0,at6x8,Vijual graph library for Clojure - also does ASCII graphs. ,mac,17,2,0,,t5_2qkej,False
+1262212570.0,ak1sg,Full Disclojure - A series of videos designed to help teach the Clojure language,cag_ii,16,2,2,,t5_2qkej,False
+1261138638.0,ag44l,"release 1.1: list of new features, deprecations",gtani7,15,0,http://www.reddit.com/r/Clojure/comments/ag44l/release_11_list_of_new_features_deprecations/,,
+1256741511.0,9yn3k,Clojure Blog Source Code,greml1n,14,1,1,,t5_2qkej,False
+1245448597.0,8u0of,"Clojure's Agents: Scientists, Monkeys, and MD5",salts,17,0,False,
+1244603565.0,8r82c,clojure - compilation and class generation,,15,2,0,,t5_2qkej,False
+1243378532.0,8ngdq,Rich Hickey on Clojure's Features and Implementation,icey,15,1,0,,t5_2qkej,False
+1242072384.0,8jn0x,Clojure performance tips,gnuvince,18,3,0,,t5_2qkej,False
+1237561222.0,866uh,New Clojure release 20090320,,17,3,1,,t5_2qkej,False
+1376406367.0,1ka4qs,Red Tape: A Clojure library for working with user-submitted forms,stevelosh,18,5,0,,t5_2qkej,False
+1375074860.0,1j9ci5,The Evolution of a Macro,OmegaMinus,15,3,4,,t5_2qkej,False
+1374709162.0,1izpp9,"Nippy, a Clojure serialization library",yogthos,13,1,http://www.reddit.com/r/Clojure/comments/1izpp9/nippy_a_clojure_serialization_library/,,
+1374518699.0,1ituuz,FRP in ClojureScript with Javelin - excellent presentation by Alan Dipert (video),mac,14,0,1,,t5_2qkej,False
+1373900738.0,1iccmi,Purely functional data structures in Clojure: Red-Black Trees,OmegaMinus,14,0,0,,t5_2qkej,False
+1373320802.0,1hw5lh,core.async and Blocking IO,countcet,15,0,1,,t5_2qkej,False
+1369873516.0,1fazbv,Immutant | Immutant 1.0.0.beta1 Released,deathapproaches,14,0,0,,t5_2qkej,False
+1367492067.0,1djljg,Presentation on Functional Reactive Programming using CLJS and bacon.js (video),mac,13,1,2,,t5_2qkej,False
+1365567392.0,1c1jgv,Structural Editing Revisited,yogthos,17,4,1,,t5_2qkej,False
+1363457229.0,1af3l2,Angular Tutorial Rewritten to ClojureScript,trzmiel,13,1,0,,t5_2qkej,False
+1363376366.0,1ad92o,Show /r/clojure: monotonic.io - a very simple sequence service,nybble73,16,2,2,,t5_2qkej,False
+1362672277.0,19um44,Game of Life in a Tweet,mishadoff,15,1,1,,t5_2qkej,False
+1362016488.0,19d9kb,Can some explain why (every? ...) ends in a question mark while (some ...) does not?,jknecht,13,2,13,"Is there a logical reason for this discrepancy,,
+1361390926.0,18wlq9,What are some cool macros you have written or use that you wish were in core?,likesOldMen,14,2,8,"Every now and then I'm using `-&gt;` or `-&gt;&gt;` and one of my forms wants the accumulated expression to be placed somewhere other than where the macro wants to put it. So I wrote `_&gt;` and `_&gt;&gt;` whose usage is pretty obvious:
+
+    (_&gt;&gt; rdr
+      line-seq
+      (filter not-empty)
+      doall
+      count
+      (println ""there are"" _ ""non-empty lines in the file""))
+
+This is a dumb example
+
+What y'all got?",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/18wlq9/what_are_some_cool_macros_you_have_written_or_use/
+1360309806.0,184dzr,Tail call optimization in Clojure,huitseeker,16,2,17,,t5_2qkej,False
+1360094555.0,17y8rt,"David Nolen on ClojureScript, Javascript, Source Maps",yogthos,15,0,False,
+1359923798.0,17to29,DateTime Conversions in Clojure,canweriotnow,16,4,0,,t5_2qkej,False
+1359676787.0,17nuff,Why is this blowing the stack? Help need with tail call recursion,fj2010,16,4,12,"    (defn primes-below
+      ([nums primes]
+        ""Use sieve of Eratosthenes and two lists of numbers to generate primes""
+        (loop [n nums p primes]
+        (if (not (seq n))
+          (lazy-seq p)
+        (recur (remove #(zero? (rem % (first n))) n) (cons (first n) p)))))
+      ([n] 
+        ""All primes less than n"" 
+        (reverse (primes-below (range 2 n) []))))
+    
+    (primes-below 5000)  ; ok
+    (primes-below 10000) ; stack overflow
+
+I thought this was ok for tail call recursion
+
+Please note I'm doing this to learn
+
+Thanks!",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/17nuff/why_is_this_blowing_the_stack_help_need_with_tail/
+1357835866.0,16bjj4,A Clojure Autopilot for Parrot A.R. Drone,nakkaya,16,4,1,,t5_2qkej,False
+1357308727.0,15y88x,"Announcing bouncer, a validation library for Clojure Apps",mcanon,16,2,http://www.reddit.com/r/Clojure/comments/15y88x/announcing_bouncer_a_validation_library_for/,,
+1355598931.0,14wlew,Migrating from Noir to Compojure,yogthos,14,1,6,,t5_2qkej,False
+1353673594.0,13ny39,Nice looking JQuery with Clojuresript,pyr,16,3,0,,t5_2qkej,False
+1352743830.0,132mwg,immutant 0.6 released - an application server for Clojure,bobesponja,16,4,1,,t5_2qkej,False
+1351861073.0,12ifhy,Clojure blog application featuring S3/MongoDB/Logicless templates/Markdown/Heroku,drtide,17,6,11,,t5_2qkej,False
+1351286957.0,12586c,My experiences porting Clojure code to ClojureScript,yogthos,14,1,2,,t5_2qkej,False
+1348161662.0,107944,A Guide to Using The Parsatron (a Parsec-style library for Clojure),stevelosh,17,3,1,,t5_2qkej,False
+1346688027.0,za925,Another Noir tutorial installment: accessing files on the servlet classpath,yogthos,15,3,2,,t5_2qkej,False
+1346079605.0,ywm54,What defines a functional programming language?,deathapproaches,17,5,0,,t5_2qkej,False
+1345651428.0,yn5tk,Noir tutorial part 3 - file uploads/downloads,yogthos,16,3,0,,t5_2qkej,False
+1344029401.0,xn2o4,Crunching Numbers with Clojure - 11 Tips to Boost Your Performance,rogerallen,15,4,0,,t5_2qkej,False
+1343324899.0,x77vf,OCR with Clojure and ImageMagick - Xavier Shay's Blog,deathapproaches,16,3,2,,t5_2qkej,False
+1342076464.0,wfj3x,The Caves of Clojure: Part 3.3,tomcsi,14,1,2,,t5_2qkej,False
+1335723547.0,syf3n,Webcast: Starting Clojure,advinture,15,1,5,,t5_2qkej,False
+1331569173.0,qt1ym,Full Disclojure: SLIMV - Slime client for vim,fulldisclojure,13,0,0,,t5_2qkej,False
+1330018012.0,q2q2k,An invitation to FP for Clojure noobs,jemeshsu,17,3,3,,t5_2qkej,False
+1329944675.0,q1fug,Dsl Examples,mobby1982,13,1,0,,t5_2qkej,False
+1329126252.0,pnaxo,VijayKiran.com – Web Application Development with Clojure - Part 4,vijaykiran,13,0,0,,t5_2qkej,False
+1328082327.0,p5vq8,VijayKiran.com – Web Application Development with Clojure - Part 3,vijaykiran,14,1,0,,t5_2qkej,False
+1327974533.0,p3w57,"Mark McGranaghan: ""One Ring to Bind Them"" | Clojure on Blip",sunng,13,1,2,,t5_2qkej,False
+1327632747.0,oykow,@technomancy on project automation and the poison of nondeterminism in Leiningen,sunng,14,2,0,,t5_2qkej,False
+1326373163.0,oduou,VijayKiran.com – Web Application Development with Clojure – Part 1,sunng,13,0,9,,t5_2qkej,False
+1317190452.0,ktu44,ClojureScript browser-connected REPL (video),lauri,14,1,1,,t5_2qkej,False
+1317021212.0,krm9v,Couple of questions about Clojure,imjp,15,2,8,"Hey guys! 
+
+I have a couple of questions regarding Clojure
+
+**1. How big is the Clojure community?**
+The reason I'm asking this is because it's very hard to learn a language if the community is too small or inactive because I'd have a lot of trouble finding articles and help from others.
+
+**2. Are there any active Clojure job websites?**
+If in the future I'm looking to get some experience or looking for jobs related to Clojure
+
+
+Thanks in advance!",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/krm9v/couple_of_questions_about_clojure/
+1311521814.0,iyeo0,Escaping Javascript Callback Hell with ClojureScript Macros,mac,13,0,0,,t5_2qkej,False
+1309596247.0,ievzn,"Automatoon - HTML5 animation app with Compojure Appengine-magic, Appengine backend.",mac,14,0,http://www.reddit.com/r/Clojure/comments/ievzn/automatoon_html5_animation_app_with_compojure/,,
+1308474309.0,i3hmd,"Paper sizes, Recursion, Higher Order Functions and Clojure",jonaen,14,7,False,
+1308197802.0,i0xw4,Clojure and Akka: A match made in ...,mac,13,0,0,,t5_2qkej,False
+1306750105.0,hne0o,"Example Twitter application in Clojure, Compojure, and Coffeescript",mac,15,4,False,
+1306162470.0,hi2py,How We Thought We Could Use Scala and Clojure and How We Actually Did (video presentation),mac,15,3,0,,t5_2qkej,False
+1303785551.0,gxgle,"""Slamhound rips your ns form apart and reconstructs it. No Dutch surgeon required.""",daveray,14,1,0,,t5_2qkej,False
+1299814867.0,g1o4m,Clojure Libraries,gstamp,13,0,0,,t5_2qkej,False
+1298191437.0,fowwo,Auto-updating Swing GUI in Clojure via Atom Watches,kwertii,13,0,0,,t5_2qkej,False
+1294874731.0,f174z,Pattern Matching vs. Destructuring… to the death!,gtani,14,0,4,,t5_2qkej,False
+1294835749.0,f0ux5,"Mug, a JavaScript to JVM compiler built on Clojure",inerte,13,0,http://www.reddit.com/r/Clojure/comments/f0ux5/mug_a_javascript_to_jvm_compiler_built_on_clojure/,,
+1294558179.0,eyvcg,"DSLs, macros: enlive, clojureQL [[ pdf ]]",gtani,13,0,False,
+1293364298.0,erlvp,bebot - Clojure Bejeweled AI bot,mac,13,1,0,,t5_2qkej,False
+1291813886.0,ei9g5,Hammock-driven Development,fogus,13,1,0,,t5_2qkej,False
+1291381138.0,efktu,sexpbot is running on twitter,Raynes,13,0,0,,t5_2qkej,False
+1283879576.0,dap01,Corecursion in Clojure,OmegaMinus,13,0,0,,t5_2qkej,False
+1283791666.0,da8qq,Google's new AI challenge,lespea,15,2,5,,t5_2qkej,False
+1282988442.0,d6ig3,Ants.clj in Haskell,mac,14,2,1,,t5_2qkej,False
+1282229535.0,d31gs,(first clojure-conj),mac,14,2,0,,t5_2qkej,False
+1280099467.0,ctltq,Programming Hadoop with Clojure,mac,15,1,0,,t5_2qkej,False
+1279996022.0,ctaca,Developing and Deploying a Simple Clojure Web Application,mac,13,1,1,,t5_2qkej,False
+1277129973.0,chc3y,"dejour - provides an easy, works out of the box experience for the Clojure programming language",mac,15,1,http://www.reddit.com/r/Clojure/comments/chc3y/dejour_provides_an_easy_works_out_of_the_box/,,
+1276928011.0,cgo1v,Actors in Clojure — Why Not?,mac,14,1,0,,t5_2qkej,False
+1275508979.0,car20,difform - Diffing Clojure Forms,mac,13,0,0,,t5_2qkej,False
+1275141299.0,c9dbp,The Ideal Clojure Development Environment: ,gtani7,14,2,0,,t5_2qkej,False
+1274101094.0,c54g6,Programming Clojure by Stuart Halloway @ slashdot,choas,14,2,1,,t5_2qkej,False
+1271946601.0,bun0k,"Protocols: (extend), (extends?) , (extenders) ,(satisfies?)",gtani7,0,,False
+1271758437.0,btild,"On ""Scala Vs Clojure"", What the market thinks",gtani7,17,2,http://www.reddit.com/r/Clojure/comments/btild/on_scala_vs_clojure_what_the_market_thinks/,,
+1271124493.0,bq29h,"“Here is an example of e turning up unexpectedly."" - Curious? Clojure to the rescue! ",lyrae,14,0,3,,t5_2qkej,False
+1269535066.0,bi5ru,Why using Maven for Clojure builds is a no-brainer,mac,17,6,3,,t5_2qkej,False
+1266799565.0,b4stu,Making an RPG in Clojure (part one of many?),devslashnull,13,0,1,,t5_2qkej,False
+1265357989.0,aycpi,List Comprehensions in Clojure,mac,14,1,0,,t5_2qkej,False
+1263812186.0,aqyhj,Sean Devlin's Clojure screencasts incl. new episode on Abstraction Grafting,mac,14,1,1,,t5_2qkej,False
+1263338532.0,aouy4,"Fun with Clojure, OpenCV and Face Detection",devslashnull,13,0,http://www.reddit.com/r/Clojure/comments/aouy4/fun_with_clojure_opencv_and_face_detection/,,
+1259761137.0,aa9c5,Continuation Monad in Clojure,bwanab,16,3,0,,t5_2qkej,False
+1257365348.0,a0zxp,build.clojure.org: continuous integration and nightly build repository,technomancy,15,2,0,,t5_2qkej,False
+1255153988.0,9snev,MacSwing meets Enlive – Functional Social Webscraping!,uiob,15,1,0,,t5_2qkej,False
+1254903920.0,9rmb1,Ray Tracing in Clojure,0xG,15,1,0,,t5_2qkej,False
+1244793535.0,8rwqh,clojure decompiled,,15,3,0,,t5_2qkej,False
+1239128102.0,8aq09,"Practical Clojure with SWT, JUnit and Spring",serudla,16,2,http://www.reddit.com/r/Clojure/comments/8aq09/practical_clojure_with_swt_junit_and_spring/,,
+1238419387.0,88kt1,Java-Clojure interoperability,serudla,13,2,1,,t5_2qkej,False
+1232641407.0,7rnjj,Live Production Clojure Application Announced,serudla,14,2,0,,t5_2qkej,False
+1227283806.0,7eu67,Rich Hickey discusses Clojure at the JVM Languages Summit 2008 (InfoQ - video and slides),icey,17,3,1,,t5_2qkej,False
+1376799342.0,1kl84j,Show r/clojure: HTML To Hiccup,seabre,13,1,5,,t5_2qkej,False
+1375868701.0,1jvh2x,Learn Datalog Today - interactive Datomic Datalog tutorial by Jonas Enlund,mac,13,1,1,,t5_2qkej,False
+1375678386.0,1jq0sw,MAKING MUSIC WITH TECH[overtone]: META EX,rogerallen,13,0,1,,t5_2qkej,False
+1374048409.0,1ih2kh,David Pollak: Got my feet wet with Clojure,OmegaMinus,13,1,0,,t5_2qkej,False
+1373643983.0,1i5q17,Leiningen Download Stats,gphil,13,2,0,,t5_2qkej,False
+1373403280.0,1hykqn,Dijkstra's Algorithm as a Sequence,OmegaMinus,14,2,1,,t5_2qkej,False
+1372904328.0,1hlxau,Websockets with Clojure and http-kit,rsamrat,13,0,1,,t5_2qkej,False
+1372793920.0,1himo0,Tableflisp - Because desperate times call for desperate functions!,Branan,18,7,3,,t5_2qkej,False
+1370636351.0,1fvvax,Flow solver in Clojure,winkywooster,13,1,0,,t5_2qkej,False
+1368735390.0,1eh0eq,Getting Started with Pedestal on Client Side,trzmiel,12,1,3,,t5_2qkej,False
+1367474054.0,1djbio,Growing a lanugage with Clojure and Instaparse,mac,15,3,15,,t5_2qkej,False
+1366101596.0,1cg8xf,An example of Instaparse,leobm,17,3,2,,t5_2qkej,False
+1364066756.0,1avg7l,How Clojure Babies are Made: Leiningen's Trampoline,nonrecursive,19,6,3,,t5_2qkej,False
+1361335825.0,18va0t,Hash Maps as Mini State Machines,yogthos,15,3,0,,t5_2qkej,False
+1360843443.0,18id7m,Decaying lists: log scale for lists,agumonkey,13,1,0,,t5_2qkej,False
+1359498568.0,17iu2f,Conrad Barski has just added some documentation to WebFUI (angular.js in ClojureScript) library ,dannysatan,15,3,2,,t5_2qkej,False
+1359227133.0,17bryt,Using ZeroMQ from Clojure,augustl,14,2,3,,t5_2qkej,False
+1357836673.0,16bkhl,Clojure conj 2012 - first videos now available on Youtube,AimHere,14,1,0,,t5_2qkej,False
+1357760377.0,169k53,Monads explained in Clojure by Brian Marick,iamzeph,17,3,2,,t5_2qkej,False
+1355289484.0,14plk2,A Lazy Sequence: The Clojure web stack and the CRUD stack,yogthos,15,3,4,,t5_2qkej,False
+1354636274.0,149krs,Logging in Clojure / JVM – Part 2,sivajag,13,1,0,,t5_2qkej,False
+1354593218.0,148rhe,A series of tutorials on setting up ClojureScript projects,yogthos,13,2,2,,t5_2qkej,False
+1353747137.0,13pih9,Using Angular.js with ClojureScript,trzmiel,15,3,2,,t5_2qkej,False
+1350739973.0,11sov1,"Hello, Backbone and ClojureScript",trzmiel,14,2,http://www.reddit.com/r/Clojure/comments/11sov1/hello_backbone_and_clojurescript/,,
+1350385953.0,11kcl8,A monad is not a burrito - A concrete introduction to monads using Clojure (NSFW - Casual profanity),logaan,15,1,3,,t5_2qkej,False
+1346470705.0,z65yk,Another Noir tutorial is up (Ajax and serving JSON),yogthos,17,4,6,,t5_2qkej,False
+1345912593.0,yt760,"Noir tutorial part 4: page visibility, input validation, multi select form parameters",yogthos,15,3,False,
+1344204869.0,xqe3n,Blog engine updates,yogthos,13,2,10,"I've been hacking away at my [blog engine](https://github.com/yogthos/yuggoth) and have lots of updates,,
+1343405167.0,x93hk,Immutant | Tutorials,deathapproaches,14,2,0,,t5_2qkej,False
+1340856105.0,vq2gi,Light Table is available to download and eval,res0nat0r,14,1,2,,t5_2qkej,False
+1340657886.0,vlb7a,My first noir hack - avoiding cyclic load dependencies with url-for,nonrecursive,14,1,1,,t5_2qkej,False
+1339313201.0,uucpd,"kibit static analyzer: search for patterns of code
+that may be replaced by simpler functions. ",2,1,http://www.reddit.com/r/Clojure/comments/uucpd/kibit_static_analyzer_search_for_patterns_of_code/,,,False,t5_2qkej,False
+1337790763.0,u177e,Clojure for Netbeans 7.*,gtani,15,3,1,,t5_2qkej,False
+1337382212.0,ttz0u,Reading BZip2 Files in Clojure,kwertii,13,3,0,,t5_2qkej,False
+1332743846.0,rdvbf,EuroClojure 2012 (May 24-25 London) programme published,jemeshsu,14,1,0,,t5_2qkej,False
+1330274690.0,q6sx5,Regenemies: A very simple game in Clojure,jemeshsu,12,1,0,,t5_2qkej,False
+1329304614.0,pqkth,AI Programmer (Clojure) at ZenRobotics Helsinki,gtani,13,0,2,,t5_2qkej,False
+1327023746.0,oo72s,Introduction to Clojure : Videos,mobby1982,14,0,0,,t5_2qkej,False
+1326454053.0,ofc1x,Enlive reborn in ClojureScript - Enfocus (Dom Manipulation Lib),ckirkendall,12,0,0,,t5_2qkej,False
+1321127055.0,ma0bm,"This tiny test case gives a curious compile error: ""java.lang.ClassCastException: test.core.Person cannot be cast to test.core.Person""",phyzome,13,1,3,"    (ns test.core)
+    
+    (defrecord Person [name])
+    
+    (def fred (Person. :fred))
+    
+    (def test-direct ; fine
+      (.name ^Person fred))
+    
+    (def test-direct-no-hint ; fine
+      (#(.name %) fred))
+    
+    (def test-wrapped ; compile error
+      (#(.name ^Person %) fred))
+
+Can someone explain to me what is going on?",,t5_2qkej,True,,,True,http://www.reddit.com/r/Clojure/comments/ma0bm/this_tiny_test_case_gives_a_curious_compile_error/
+1318100958.0,l5baf,Incanter: Statistical Computing and Graphics Environment for Clojure,drguildo,14,1,1,,t5_2qkej,False
+1316626843.0,kmxpx,Taking the Emmys by Storm,icey,15,2,3,,t5_2qkej,False
+1313232113.0,jhm5i,CongoMongo - MongoDB wrappers for Clojure,pollodelamuerte,15,1,0,,t5_2qkej,False
+1311525636.0,iyfwm,Clojure Control - A clojure DSL for system admin and deployment with many remote machines,mac,13,2,0,,t5_2qkej,False
+1310751566.0,iql8q,New Enlive Tutorial,daveray,14,2,1,,t5_2qkej,False
+1306835415.0,ho4j4,noir - Chris Granger's (http://iwbyp.chris-granger.com/) Clojure web framework,mac,15,3,6,,t5_2qkej,False
+1303582264.0,gvu83,Clojure for Schemers by David Nolen,uochan,15,2,0,,t5_2qkej,False
+1302490728.0,gn3d1,Can has Meet Clojure website?,Raynes,21,7,3,,t5_2qkej,False
+1301046060.0,gb5yb,What is a good first project for Clojure?,StackedCrooked,13,1,8,"About a year ago I engaged myself to learning Clojure. It was a 3-fold approach:
+
+* Work through a good book. I picked [Programming Clojure](http://www.pragprog.com/titles/shcloj/programming-clojure) and [took notes](http://tiny.cc/my-clojure-cheat-sheet).
+* Consult StackOverflow whenever I don't understand something. (This is a [list of my questions](http://stackoverflow.com/search?tab=votes&amp;q=user%3a75889%20%5bclojure%5d).)
+* Create a non-trivial application. I created (yet another) [Tetris](http://code.google.com/p/stacked-crooked/source/browse/trunk/PlayGround/Clojure/Tetris.clj) in Clojure.
+
+All good and well. I got familiar with the syntax. However
+
+I'm thinking that the power of Lisp is mostly found in its metaprogramming abilities. Which leads me to think that API development could be one of Lisp's strongest points.
+
+Am I correct in my thinking here? What kind of project would be most beneficial for really grasping the power of Lisp?
+",,t5_2qkej,True,,,True,http://www.reddit.com/r/Clojure/comments/gb5yb/what_is_a_good_first_project_for_clojure/
+1299557250.0,fzil7,"jark - one tool to rule them all (persistent JVM, out of the box command-line interface and more)",deafmacro,14,3,http://www.reddit.com/r/Clojure/comments/fzil7/jark_one_tool_to_rule_them_all_persistent_jvm_out/,,
+1298916564.0,fufvx,Making an RPG in Clojure (part one of many?),gtani,14,1,1,,t5_2qkej,False
+1298619686.0,fsevt,Learning Clojure: Advice to a Newbie,gst,16,4,1,,t5_2qkej,False
+1295440992.0,f52lo,Thinking in Clojure for Java Programmers (Part 1 — A Gentle Intro),gtani,13,2,0,,t5_2qkej,False
+1294697869.0,ezt3q,Analemma - SVG charts in Clojure,mac,13,2,0,,t5_2qkej,False
+1293841005.0,eudc0,Chouser's 2011 snow show,foogoof,12,0,2,,t5_2qkej,False
+1292789092.0,eof6u,Bowling Kata in Clojure (incl. screencast),mac,13,0,1,,t5_2qkej,False
+1288609544.0,dzfvh,"Natural language processing in Clojure, Go and Cython",gtani7,12,0,http://www.reddit.com/r/Clojure/comments/dzfvh/natural_language_processing_in_clojure_go_and/,,
+1288296604.0,dxvxl,Clojure for Beginners,,13,1,0,,t5_2qkej,False
+1287124432.0,drio4,What's the difference between Cake and Leiningen?,lyrae,13,1,1,,t5_2qkej,False
+1287065855.0,dr62k,hm. there’s probably a better way,foogoof,13,0,0,,t5_2qkej,False
+1286508542.0,dodsk,Towards a Clojure Autopilot - First Steps,nakkaya,13,0,0,,t5_2qkej,False
+1286175993.0,dmi8q,Clojure Debugging Toolkit Screencast,mac,12,0,0,,t5_2qkej,False
+1285768953.0,dki6t,Thrush Combinator in Clojure,gtani7,12,0,0,,t5_2qkej,False
+1285602710.0,djj7m,Learning Clojure | Clojure Faster than Machine Code?,A119,13,2,2,,t5_2qkej,False
+1285325245.0,di9oa,"nREPL , Clojure network REPL provides REPL server and client",gtani7,13,1,http://www.reddit.com/r/Clojure/comments/di9oa/nrepl_clojure_network_repl_provides_repl_server/,,
+1283329336.0,d83na,What parens? All I see is the program.,frogking,12,0,5,,t5_2qkej,False
+1282846594.0,d5tcr,"Sparse Matrices: infer, Clojure and the jvm",mac,12,0,http://www.reddit.com/r/Clojure/comments/d5tcr/sparse_matrices_infer_clojure_and_the_jvm/,,
+1282242477.0,d34du,elein.el - leiningen functions for emacs,mac,13,1,0,,t5_2qkej,False
+1281301735.0,cyu8c,Clojure-like language for Flash,dig1,14,2,1,,t5_2qkej,False
+1281026701.0,cxrn8,Infix notation with Clojure,yogthos,20,8,0,,t5_2qkej,False
+1280173127.0,ctxdo,Corecursion in Clojure,trzmiel,13,0,0,,t5_2qkej,False
+1279049857.0,cp67x,Software Transactional Memory in Clojure (alter vs. commute),trzmiel,13,0,7,,t5_2qkej,False
+1277217566.0,chr08,(take 8 (david-edgar-liebke)),fogus,13,1,0,,t5_2qkej,False
+1273611205.0,c2rxx,A DSL to access the Google App Engine datastore from Clojure,mac,12,1,0,,t5_2qkej,False
+1272872092.0,bzb5e,Clojure Performance Guarantees - overview of the guarantees provided by the built-in data structures ,mac,14,2,2,,t5_2qkej,False
+1270102952.0,bl1ib,The Deadline - Clojure todo-app runnning on Google App Engine,mac,12,0,2,,t5_2qkej,False
+1268632403.0,bdgsw,Easy Enlive Tutorial,mac,13,1,0,,t5_2qkej,False
+1268204524.0,bbhgz,Free online Clojure course announced,zaph0d,15,2,0,,t5_2qkej,False
+1267265464.0,b75ef,Compojure app in a gist,mac,14,2,0,,t5_2qkej,False
+1263575802.0,aq2i2,"Keyword Arguments in Clojure, the Right Way",gtani7,13,1,http://www.reddit.com/r/Clojure/comments/aq2i2/keyword_arguments_in_clojure_the_right_way/,,
+1263389797.0,ap3id,A revised syntax for ClojureQL,zef,15,2,0,,t5_2qkej,False
+1263125906.0,ansvt,"book due Feb 2010: ""Practical Clojure"", Luke VanderHart ",gtani7,15,3,http://www.reddit.com/r/Clojure/comments/ansvt/book_due_feb_2010_practical_clojure_luke/,,
+1262191836.0,ajycp,Adia: A Week With Clojure And MongoDB,zefhemel,14,3,3,,t5_2qkej,False
+1255959573.0,9viar,Clojure Turned Two,greml1n,13,2,1,,t5_2qkej,False
+1245065306.0,8sm02,reduce your way into good clojure,,15,2,0,,t5_2qkej,False
+1244517804.0,8qwi3,macro design by example,,13,1,0,,t5_2qkej,False
+1238340580.0,88dis,Using JMusic with Clojure,mozinator,13,1,0,,t5_2qkej,False
+1376444185.0,1kbiz8,Making a streaming API from scraped data using Clojure,OmegaMinus,13,3,0,,t5_2qkej,False
+1376282001.0,1k6rlu,Clojure Namespace Declarations: As Simple As Possible,mybuddymichael,13,3,5,,t5_2qkej,False
+1375470683.0,1jkyi5,The State Machines of core.async,OmegaMinus,13,0,0,,t5_2qkej,False
+1375253919.0,1jeo68,Ask /r/Clojure: Should conferences be posted in the sidebar?,icey,12,0,7,"Would it be useful to add Clojure conferences outside of the Conj to the sidebar? There was recently a request to add http://skillsmatter.com/event/scala/clojure-exchange-2013 to the sidebar
+
+Please respond in the comments! ",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/1jeo68/ask_rclojure_should_conferences_be_posted_in_the/
+1374447085.0,1irxh4,A Taste of the λ Calculus,nonrecursive,16,4,0,,t5_2qkej,False
+1373560441.0,1i37j8,Clojure and Clojurians at Factual Needed at Factual // Functional Jobs,yogthos,11,0,2,,t5_2qkej,False
+1373363107.0,1hxcnz,Exploratory Genomics with Clojure,OmegaMinus,12,0,1,,t5_2qkej,False
+1371986369.0,1gwk6s,Lisp Hackers Interviews with 100x More Productive Programmers by Vsevolod Dyomkin,seymores,13,2,3,,t5_2qkej,False
+1370127847.0,1fhm18,RRB-Trees: Efficient Immutable Vectors in Clojure,mac,11,2,1,,t5_2qkej,False
+1367648959.0,1do1dh,Rhizome - graph and tree visualisation lib using Graphviz,mac,13,1,1,,t5_2qkej,False
+1363031864.0,1a3ld1,Clojure viable for 3d game development?,cyberdouche,12,1,36,"I've been thinking of messing around with developing a game in my spare time
+
+My problem is that after going back to working with ObjectiveC for a few weeks after a long streak in JavaScript, that feels like a poor use of one's time. C feels incredibly inconvenient after one gets used to using and abusing HoFs and lambdas all over the place, and I simply don't want to spend too much time on that type of languages if I don't have to. Been there, done that.
+
+Thus I'm trying to see what my options are as far as implementation is concerned. I'd like to stick to a very powerful and expressive language like Clojure
+
+I'm curious what the state of game development in Clojure is and if things have gotten any different since 3 years ago when this question has been asked a lot. 
+
+* Has anybody gotten very far with it?
+* Is it a losing battle
+* Are there perhaps other options out there that have not only the expressiveness I'm looking for, but that ultimately doesn't mean much if it's not properly optimized.
+
+Thanks!",,t5_2qkej,1363064961.0,,,True,http://www.reddit.com/r/Clojure/comments/1a3ld1/clojure_viable_for_3d_game_development/
+1361729226.0,195349,Why are Clojure function arguments vectors rather than lists?,mcandre,13,2,29,,t5_2qkej,True
+1360606272.0,18bjz1,Clojure runtime files now in Vim source,nohtyp,15,4,5,,t5_2qkej,False
+1360176081.0,180gnd,Shegon: Sprockets for ClojureScript – A library to serve and develop CLJS assets,va1en0k,15,4,0,,t5_2qkej,False
+1358970964.0,1752st,Job: Full-time Clojure Web Developer at DiligenceEngine. Inc.,akhudek,16,5,0,,t5_2qkej,False
+1358959426.0,174ny7,The Magic of Macros: Lighting-Fast Templating in ClojureScript,yogthos,14,3,0,,t5_2qkej,False
+1355238639.0,14o0xq,Building A Clojure REST Service: Part Two,3rddog,12,1,0,,t5_2qkej,False
+1354400206.0,144ebi,When to move from maps to records?,sonofherobrine,13,3,11,"What pain point pushes you to move from using maps to using records? Would there be any reason to start with records rather than maps?
+
+I have written good amounts of Clojure code without using records, good support from Leiningen, and nifty shortcuts like keywords-as-functions. This feeling makes me wonder whether I'm missing some specifically Clojure features in my use of the language.
+
+***ETA:*** Also,,False,,t5_2qkej,1354468234.0,,True
+1353735126.0,13pbg7,monads?,,15,7,20,"I'm a lowly programmer who dabbles in lisp. Was wondering what all the fuss is about with monads,,
+1353352175.0,13gp24,Clojure Quickstart with Sublime Text 2,3rddog,13,1,3,,t5_2qkej,False
+1353273936.0,13exve,Improved support for Clojure with Sublime Text,Foxboron,16,5,1,"Used Sublime Text for quite some time now
+I found a repo containing Clojure snippets and i converted them into Sublime format.
+Then i found a leining build file for some compile and run support!
+
+What i would like is help making sure the snippets are as handy as possible
+
+https://github.com/Foxboron/SublimeClojure",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/13exve/improved_support_for_clojure_with_sublime_text/
+1351329848.0,1261oo,ClojureScript and Node.js – an experience report,mac,13,3,0,,t5_2qkej,False
+1351182382.0,122ll8,Free Clojure Course,cljlover,22,10,6,,t5_2qkej,False
+1348496940.0,10e5xa,"Stack Exchange Code Review featured question: ""please review this Viterbi implementation""",Cygal,12,1,2,,t5_2qkej,False
+1345930794.0,yto65,Dissecting the Dumbest Clojure/Noir App in Existence (with full source),nonrecursive,14,2,2,,t5_2qkej,False
+1345471608.0,yitwt,Intro Recommendations,jzelinskie,17,4,10,"Hi
+
+I'm sorry if I'm the one asking this the millionth time. There should definitely be useful links added into the subreddit's sidebar.
+
+Edit: Thanks for all the responses guys!",,t5_2qkej,1345643648.0,,,True,http://www.reddit.com/r/Clojure/comments/yitwt/intro_recommendations/
+1345194526.0,ydazh,Current status of text editors / IDEs with regards to Clojure?,cyberdouche,13,2,31,"I heard it mentioned numerous times that Emacs is the de facto best editor on the block as far as Clojure is concerned
+
+I hear that Counterclockwise might be actually a close second
+
+Now, Nailgun is as close as I'm going to get to actually working ""in the REPL"". I'm open to the idea of trying out Emacs if the Clojure experience is going to absolutely blow my mind, but I figured I'd run it first by you folks.
+
+What's your take? Have you tried all sorts of different editors for the job and found one of them to be vastly superior? If so
+
+Also,False,,t5_2qkej,False,,,t3_ydazh
+1345078937.0,yaldd,"Stuart Halloway on Datomic, Clojure, Reducers",cyberdouche,14,4,False,
+1344852879.0,y4zub,"Aurinko - A very compact yet powerful networked 
+document database engine in Clojure",1,2,http://www.reddit.com/r/Clojure/comments/y4zub/aurinko_a_very_compact_yet_powerful_networked/,,,False,t5_2qkej,False
+1344440358.0,xvvhb,On mixing Clojure and Java,deathapproaches,14,4,0,,t5_2qkej,False
+1343514407.0,xbdxq,My attempt to show an application for macros,yogthos,12,3,3,,t5_2qkej,False
+1342175616.0,whrrg,The Caves of Clojure: Part 4,tomcsi,13,1,0,,t5_2qkej,False
+1341977170.0,wd73d,Clojure-Touch,0pple,13,2,0,,t5_2qkej,False
+1338615899.0,ugucq,Alternate Futures and Promises for Clojure,sunng,14,2,0,,t5_2qkej,False
+1336059715.0,t57uy,Learn Clojure's lazy-sequences through elementary automata,andrewvc123,11,2,1,,t5_2qkej,False
+1335901520.0,t1z3k,Vim color scheme as a rip-off of colors used by Chris Granger (Noir),responsible,12,0,5,,t5_2qkej,False
+1335023167.0,slck6,Are there clojure web frameworks that use the MVC model? ,J_M_B,11,2,6,"I've been really curious about lisp-based web development lately.  I've noticed that there a few lisp web frameworks out there. Noir looks to be about the most mature of the frameworks
+",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/slck6/are_there_clojure_web_frameworks_that_use_the_mvc/
+1334669379.0,se5nz,First hundred days of Clojure,larsyencken,15,3,1,,t5_2qkej,False
+1334292036.0,s7h5v,Clojure STM - What? Why? How?,gtani,11,0,7,,t5_2qkej,False
+1332460639.0,r966l,I've started a Tempest clone in ClojureScript,mrmekon,12,2,2,,t5_2qkej,False
+1332294198.0,r628p,Along Came Betty » Best of ClojureWest 2012,sunng,13,1,0,,t5_2qkej,False
+1331613614.0,qu3ic,jark 0.4 released,deafmacro,12,1,0,,t5_2qkej,False
+1330890929.0,qhhjz,Loading Data with Clojure. Building a simple stock quote database loader.,bwlucas,11,1,0,,t5_2qkej,False
+1329437819.0,pt3ke,All videos of ClojureConj are available,IsaGoksu,12,1,7,,t5_2qkej,False
+1329086499.0,pmkvt,Getting started with ClojureScript and Noir #1,djhworld,11,0,1,,t5_2qkej,False
+1328655232.0,pfc9x,How BugSense is using Clojure and Python in Google AppEngine,jonromero,13,2,0,,t5_2qkej,False
+1326570156.0,oh2bp,Netz: A Clojure Neural Network Library,nickewing,13,3,4,,t5_2qkej,False
+1325350051.0,nxlyq,Using JavaScript libraries in ClojureScript.,ndanger,12,1,0,,t5_2qkej,False
+1318284076.0,l7jw3,Markdown parser in Clojure,yogthos,11,0,3,,t5_2qkej,False
+1318224433.0,l6rs6,Updates of the new Clojure book: Meet Clojure ,sunng,13,2,0,,t5_2qkej,False
+1312004919.0,j3xs0,"Compiling Clojure to JavaScript, pt. 2 – Why No Eval?",gst,12,3,http://www.reddit.com/r/Clojure/comments/j3xs0/compiling_clojure_to_javascript_pt_2_why_no_eval/,,
+1311999182.0,j3vrp,"Getting started with La Clojure on Mac OS X, a visual guide ",gst,12,1,http://www.reddit.com/r/Clojure/comments/j3vrp/getting_started_with_la_clojure_on_mac_os_x_a/,,
+1310212960.0,ikuk5,Writing Elegant Clojure Code Using Higher-Order Functions,mac,14,3,2,,t5_2qkej,False
+1310036041.0,iixjl,"Trackr, an issue tracker written in clojure.",sunng,12,0,http://www.reddit.com/r/Clojure/comments/iixjl/trackr_an_issue_tracker_written_in_clojure/,,
+1308576770.0,i4az9,Unk -  memoization library for Clojure,mac,11,0,0,,t5_2qkej,False
+1307678092.0,hw3uk,Philisophical thoughts on sequences (and types),daveray,13,1,0,,t5_2qkej,False
+1307249655.0,hry0d,Parsec monadic parser ported to Clojure,mac,11,1,0,,t5_2qkej,False
+1304759475.0,h5zh4,Loading Clojure code with java.util.ServiceLoader,mac,11,2,0,,t5_2qkej,False
+1304658156.0,h5e7z,"jark 0.3 - Goodbye nailgun, welcome nrepl protocol",icylisper,12,0,http://www.reddit.com/r/Clojure/comments/h5e7z/jark_03_goodbye_nailgun_welcome_nrepl_protocol/,,
+1303324994.0,guoqi,Bearable XML Schema with Clojure,Sikul,11,0,0,,t5_2qkej,False
+1302899421.0,gr0i7,TryClojure update -- Addressing concerns and introducing new things,Raynes,12,0,0,,t5_2qkej,False
+1299733929.0,g0z90,Easy parallel processing : (pmap) and 8 queens,gtani,11,0,0,,t5_2qkej,False
+1299136732.0,fwdzn,Marginalia: Source Documentation Tool for Clojure,uochan,11,1,0,,t5_2qkej,False
+1299136131.0,fwdu9,Clojure to Javascript Compiler,uochan,11,0,1,,t5_2qkej,False
+1294557402.0,eyv6l,ClojureQL Overhaul from scratch,gtani,11,0,0,,t5_2qkej,False
+1293935276.0,eurco,A template for getting started with compojure and google app engine.,zitterbewegung,12,1,1,,t5_2qkej,False
+1290546022.0,eaq9m,"Gloss, a byte-format DSL",prospero,11,2,http://www.reddit.com/r/Clojure/comments/eaq9m/gloss_a_byteformat_dsl/,,
+1288224247.0,dxg97,"finger trees, Chouser slides from conj",gtani7,13,2,http://www.reddit.com/r/Clojure/comments/dxg97/finger_trees_chouser_slides_from_conj/,,
+1288073815.0,dwhfg,Setting Up a Clojure Development Environment,,11,0,4,,t5_2qkej,False
+1288031971.0,dw74l,"Using Clojure, NoSQL Databases and Functional-Style JavaScript to Write Gext-Generation HTML5 Apps",,11,0,http://www.reddit.com/r/Clojure/comments/dw74l/using_clojure_nosql_databases_and_functionalstyle/,,
+1286550126.0,dokzq,Clojure Library Coding Standards ,gtani,12,1,0,,t5_2qkej,False
+1285246207.0,dht7c,Programmatically Compiling Java Code Using Clojure,choas,11,1,1,,t5_2qkej,False
+1285051907.0,dgqbb,An Astonishing Macro of Narayan Singhal,gtani7,11,0,1,,t5_2qkej,False
+1284809112.0,dfloj,"ClojureConj, speakers and talk summaries",gtani7,11,0,http://www.reddit.com/r/Clojure/comments/dfloj/clojureconj_speakers_and_talk_summaries/,,
+1284235199.0,dcl5k,A *very* basic macro tutorial. How to get the compiler to write simple code for you.,arfle,14,2,1,,t5_2qkej,False
+1279486766.0,cqzfz,Hierarchical clustering with Clojure,mac,11,1,1,,t5_2qkej,False
+1279396440.0,cqppg,"Getting Started with Google App Engine and Clojure - article from ""The Functional Web"" magazine (pdf)
+",0,3,http://www.reddit.com/r/Clojure/comments/cqppg/getting_started_with_google_app_engine_and/,,,False,t5_2qkej,False
+1277285406.0,ci2m2,Clojure and Simplicty - video interview with Stuart Halloway,mac,12,1,0,,t5_2qkej,False
+1276788145.0,cg1i1,Denormalizing One million records with Clojure,mac,12,2,0,,t5_2qkej,False
+1274850093.0,c86b4,Trammel - Contracts Programming for Clojure,mac,11,1,0,,t5_2qkej,False
+1273159733.0,c0mol," In-Depth Look at Clojure Collections, Fogus/Houser",gtani7,12,1,http://www.reddit.com/r/Clojure/comments/c0mol/indepth_look_at_clojure_collections_fogushouser/,,
+1271878389.0,bu9fj,Use of Leiningen to build Clojure code - an in depth article,mac,15,3,0,,t5_2qkej,False
+1271607363.0,bsobb,Using Clojure to Connect to GMail via IMAP,gtani7,13,1,0,,t5_2qkej,False
+1270586388.0,bnavq,SICP Clojure Solutions - Exercise 1.9 - 1.18,tltjr,11,1,2,,t5_2qkej,False
+1269352707.0,bh3ux,Computing with units and dimensions in Clojure,mac,12,2,0,,t5_2qkej,False
+1265623229.0,azeh2,Clojure starter package for the Google AI Challenge,mac,12,2,0,,t5_2qkej,False
+1262605924.0,alcif,"clojure 1.2 fn Proposal: same &amp; multisame, converts output seq to same type as last argument ",gtani7,11,0,http://www.reddit.com/r/Clojure/comments/alcif/clojure_12_fn_proposal_same_multisame_converts/,,
+1261022283.0,afko6,Full Disclojure: How to write a Clojure reader macro,devslashnull,11,0,0,,t5_2qkej,False
+1260412320.0,ad0f9,Concur.next &amp; WF2 - Tuning Concurrent Clojure,devslashnull,14,2,0,,t5_2qkej,False
+1260132619.0,abqk3,"emacs, ELPA, slime, paredit, swank: ",12,,t5_2qkej
+1260077296.0,abkw7,"cheat sheet: data structures, sequences, macros, ..",gtani7,2,,False
+1258655792.0,a64rq,I'm turning into a Lisp snob,greml1n,17,6,0,,t5_2qkej,False
+1251670641.0,9fnrc,Examples for building Clojure apps with maven,yogthos,15,3,0,,t5_2qkej,False
+1242132104.0,8jtio,STMs vs. Locks,serudla,12,1,0,,t5_2qkej,False
+1234878806.0,7y1nt,Programming Clojure Beta 7 Is Out,icey,13,3,0,,t5_2qkej,False
+1233889631.0,7v9cx,Clojure: Adding Metadata to Java Objects and Proxies,anthropoid,12,1,0,,t5_2qkej,False
+1231179121.0,7njks,GitCred: PageRanking GitHub users - Written in Clojure,icey,13,1,1,,t5_2qkej,False
+1223753416.0,76l4o,Is Clojure the Next Big Thing?,burke,13,1,1,,t5_2qkej,False
+1376756549.0,1kk017,"""Everything is a Map"", am I doing this right?",pooya72,13,3,http://www.reddit.com/r/Clojure/comments/1kk017/everything_is_a_map_am_i_doing_this_right/,,
+1376636155.0,1kh3v3,A sampler of ClojureScript application designs,OmegaMinus,11,1,1,,t5_2qkej,False
+1376575044.0,1kf2a5,Datomic in the Browser,OmegaMinus,15,3,0,,t5_2qkej,False
+1376062997.0,1k14mj,A response to CSP is Responsive Design,logaan,12,2,0,,t5_2qkej,False
+1376019314.0,1k0633,Nightcode 0.0.5 is out (x-post from /r/Nightcode),oakes,11,0,1,"This Clojure/Java IDE is still in an early stage
+
+http://nightcode.info/
+
+https://github.com/oakes/Nightcode",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/1k0633/nightcode_005_is_out_xpost_from_rnightcode/
+1375712924.0,1jqotg,"Stuart Sierra: A Leiningen 2 template based on ""My Clojure Workflow, Reloaded""",OmegaMinus,10,1,http://www.reddit.com/r/Clojure/comments/1jqotg/stuart_sierra_a_leiningen_2_template_based_on_my/,,
+1374355898.0,1ips24,rewrite-clj: rewrite Clojure code and EDN in a whitespace-/comment-preserving way,xschemer,14,4,0,,t5_2qkej,False
+1372009058.0,1gx18g,Standalone version of the Counterclockwise Clojure IDE (release candidate),mac,12,2,6,,t5_2qkej,False
+1371903909.0,1gupi2,Interesting presentation on using Clojure for email analysis and visualisation. (video),mac,12,3,1,,t5_2qkej,False
+1371426566.0,1ghdla,Quite a few good Clojure code sample here... similar to a Cookbook approach,kanzenryu,12,3,2,,t5_2qkej,False
+1370611291.0,1fuyf8,Babar - A little language with Speech Acts implemented in Cloure using instaparse,mac,11,1,0,,t5_2qkej,False
+1370270099.0,1fkz58,Software Transactional Memory and Its Clojure Implementation (2009),nonrecursive,10,0,0,,t5_2qkej,False
+1370204402.0,1fjbvn,Programming Enchiladas - ClojureScript/canvas/SVG experiments,mac,11,0,3,,t5_2qkej,False
+1370038350.0,1ffjcp,Approximate Policy Iterajion - A Clojure reinforcement learner.,codyrioux,11,1,1,,t5_2qkej,False
+1369343259.0,1exfn5,Poor man's pattern matching in clojure,pyr,10,1,1,,t5_2qkej,False
+1367211637.0,1dbjbo,stories - BDD Clojure library,mac,11,3,4,,t5_2qkej,False
+1367060447.0,1d7lm3,"BODOL - a Shen, Haskell and ML inspired language built w Clojure",mac,16,7,http://www.reddit.com/r/Clojure/comments/1d7lm3/bodol_a_shen_haskell_and_ml_inspired_language/,,
+1366303624.0,1cm5d6,Parallel Programming Paradigms in Clojure,dgraydesign,18,8,6,,t5_2qkej,False
+1365803288.0,1c8fib,clojurewest2013 · slides,agumonkey,14,3,5,,t5_2qkej,False
+1365345131.0,1buq7p,Demo of Structured Clojure Editor,mac,13,4,0,,t5_2qkej,False
+1365096652.0,1bo8fj,Macro Tutorial: Beginner,kittugadu,11,1,2,,t5_2qkej,False
+1364582830.0,1b99mt,I wrote clj-uri (wrapper around java.net.URI) to expose myself to Clojure. Here's somewhat of a post-mortem.,danneu,11,1,15,"About two weeks ago I left the comfort of my Vim/Ruby womb to jump into Emacs (Evil-mode) and Clojure.
+
+I don't have a lot of experience writing libraries so I wrote a `java.net.URI` wrapper.
+
+I know it's been done before (like the `uri` library that can be found on Clojars) but I wanted to realize it from scratch without looking at another implementation until now.
+
+* Github: [clj-uri](https://github.com/danneu/clj-uri)
+* Here's a link to the actual source file: https://github.com/danneu/clj-uri/blob/master/src/clj_uri/core.clj
+
+Here's `clj-uri` in a nutshell:
+
+    (ns my-namespace.core
+      (:require [clj-uri :as uri]))
+
+    (def uri-str ""http://danneu:secret@my.example.com:8080/some/stuff.php?a=foo&amp;b=bar#yolo"")
+    (def uri (to-uri uri-str))
+
+    (uri/scheme uri)          ;=&gt; ""http""
+    (uri/path uri)            ;=&gt; ""/some/stuff.php""
+    (uri/port uri)            ;=&gt; 8080
+    (uri/query uri)           ;=&gt; ""a=foo&amp;b=bar""
+    (uri/query-map uri)       ;=&gt; {:a ""foo"" :b ""bar""} &lt;-- added convenience method
+    (uri/host uri)            ;=&gt; ""my.example.com""
+    (uri/user-info uri)       ;=&gt; ""danneu:secret""
+    (uri/user-info-map uri)   ;=&gt; {:user ""danneu"" :password ""secret""} &lt;-- added convenience method
+    (uri/fragment uri)        ;=&gt; ""yolo""
+    (uri/absolute? ""/me.php"") ;=&gt; false
+    ; and more...    
+
+However
+
+    ; using java.net.URI
+    (.getPort (java.net.URI/create ""http://example.com:8080"")) ;=&gt; 8080
+    (.getPort ""http://example.com:8080"") ;=&gt; Bzzzt. Error.
+
+So
+
+    ; using clj-uri
+    (port (to-uri ""http://example.com:8080"")) ;=&gt; 8080
+    (port ""http://example.com:8080"") ;=&gt; 8080
+
+Knowing nothing about macros and little of idiomatic Clojure
+
+## Attempt 1
+
+My first idea was writing a macro that let me do this:
+
+    (def-uri-method host)
+    (def-uri-method port)
+    (def-uri-method absolute?)
+
+And my macro would convert my Clojure fn names to underlying Java method names:
+
+    host to .getHost
+    port to .getPort
+    absolute? to .isAbsolute?
+
+But I didn't have enough control. Some Java methods start with `get`
+
+## Attempt 2
+
+So I needed a way to specify the underlying Java method name.
+
+Unfortunately
+
+    (defn split-hyphens [str] (split str #""-""))
+    (defn javaize-name [&amp; names]
+      (let [words (-&gt;&gt; names
+                       (map split-hyphens)
+                       flatten)
+            head (first words)
+            tail (-&gt;&gt; (rest words)
+                      (map capitalize))]
+        (-&gt;&gt; [""."" head tail]
+             flatten
+             (join """"))))   
+
+And my wrapper methods could look like this:
+
+    (def-uri-get-method path) -&gt; (javaize ""get"" ""path"") -&gt; "".getPath""
+    (def-uri-is-method absolute?) -&gt; (javaize ""is"" ""absolute"") -&gt; "".isAbsolute""
+    (def-uri-method hash-code) -&gt; (javaize ""hash-code"") -&gt; "".hashCode""
+
+But I still don't have much control and it's getting complex for now good reason.
+
+For instance
+
+Also
+
+My weak generalization was so complicated that I couldn't easily do these easy things. 
+
+## Attempt 3
+
+Then I came up with:
+
+    (def-uri-method path [uri] (.getPath uri)
+    (def-uri-method host [uri] (.getHost uri)
+    (def-uri-method port [uri] (let [port (.getPort uri)] (when (pos? port) port)))
+
+Now I can implement the wrapper methods as I wish.
+
+Here's the macro:
+
+    (defmacro def-uri-method
+      ""Allow our wrapper methods to handle Strings by first parsing them into URIs.""
+      [clojure-fn-name args &amp; body]
+      `(do (defmulti ~clojure-fn-name class)
+           (defmethod ~clojure-fn-name String ~args (~clojure-fn-name (to-uri ~(first args))))
+           (defmethod ~clojure-fn-name java.net.URI ~args ~@body)))
+
+And here's the pattern that it creates:
+
+    (defmulti host class)
+    (defmethod host String [uri-str] (host (to-uri uri-str)))
+    (defmethod host java.net.URI [uri] (.getHost uri))
+    (defmulti path class)
+    (defmethod path String [uri-str] (path (to-uri uri-str)))
+    (defmethod path java.net.URI [uri] (.getPath uri))
+
+At which point I finally asked myself: what am I actually try to abstract here? What labor am I trying to save?
+
+I'm just trying to create wrapper methods that accept strings as well as URIs.
+
+That's it.
+
+## Attempt 4 (final)
+
+I already have the machinery for that.
+
+I'll just apply `to-uri` to every argument to a wrapper method. My macro will just wrap the supplied function with a `ensure-uri-args` higher-order function
+
+So I can supply whatever functions I want:
+
+    (def-uri-method path [uri] (.getPath uri))
+    (def-uri-method host [uri] (.getHost uri))
+    (def-uri-method port [uri] (let [port (.getPort uri)] (when (pos? port) port)))
+    (def-uri-method query [uri] (-&gt; uri .getQuery query-&gt;map))
+
+I rewrote my `to-uri` function so that it can be applied to both Strings (which'll get parsed to a URI) and URIs (which'll just return the URI):
+
+    (defmulti to-uri class)
+    (defmethod to-uri String [uri-str] (java.net.URI/create uri-str))
+    (defmethod to-uri java.net.URI [uri] uri)
+
+Here's my `ensure-uri-args` fn that returns a fn that applies `to-uri` to args before processing:
+
+    (defn ensure-uri-args [f]
+      ""Returns a function where to-uri is first applied to the args
+       of wrapped function f before evaluated by f.""
+      (fn [&amp; args]
+        (apply f (map to-uri args))))
+
+And my macro becomes this:
+
+    (defmacro def-uri-method
+      [clojure-fn-name args &amp; body]
+      `(def ~clojure-fn-name
+         (ensure-uri-args (fn ~args ~@body))))
+
+And that's where we are today.
+
+The generalization still has shortcomings but it was good enough for me to decide to follow through with what I had.
+
+---------------------------------------
+
+## Questions
+
+* The [source code](https://github.com/danneu/clj-uri/blob/master/src/clj_uri/core.clj) is really simple if anyone can take a peek. If so
+
+* Any ideas for a better abstraction/generalization or ways to go about this?
+
+I'll take any feedback I can get.
+
+Future plans for this library:
+
+* Port over more java.net.URI documentation. I'm using the Codox library to generate docs and ideally clj-uri's docs should be good enough to where I don't have to read the underlying java.net.URI docs.
+* Wrap more of java.net.URI's methods
+* Improve my wrapper's convenience methods (like converting query strings into hash-maps)
+
+
+
+
+
+
+",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/1b99mt/i_wrote_cljuri_wrapper_around_javaneturi_to/
+1362976184.0,1a2c49,65K messages/sec,yogthos,11,1,0,,t5_2qkej,False
+1356117115.0,158oyh,"First clojar created, would love feedback - utilities for MVC web apps",nonrecursive,11,1,http://www.reddit.com/r/Clojure/comments/158oyh/first_clojar_created_would_love_feedback/,,
+1355599133.0,14wlls,Generating color palette from an image using K-means clustering,yogthos,11,1,1,,t5_2qkej,False
+1353445773.0,13j1qo,Strangeloop 2012 talk:  ClojureScript - Better Semantics at Low Low Prices!,rkenned,11,2,4,,t5_2qkej,False
+1353077010.0,13asqw,A Leiningen plugin to reject dependency graphs with common user surprises.,yogthos,12,1,1,,t5_2qkej,False
+1352433748.0,12wauo,"Carmine, Timbre, Tower, and Nippy go 1.0 - The ClojureWerkz Blog",yogthos,5,,False
+1350441964.0,11lwnu,fun with PDF reporting,yogthos,12,1,0,,t5_2qkej,False
+1350196845.0,11g9ym,Getting started with Clojurescript,rsamrat,11,2,2,,t5_2qkej,False
+1347557446.0,zty5f,Careful with def in Clojure,trzmiel,17,6,22,,t5_2qkej,False
+1346887331.0,zf40t,Ironclad: Steam Legions – Clojure game development battle report,deathapproaches,13,3,5,,t5_2qkej,False
+1345041386.0,y9gpz,Using records as functions in Clojure « Clojure Magic,llucifer,11,1,0,,t5_2qkej,False
+1344787452.0,y3hr3,Data visualization with Clojure,kzafra,11,0,7,"I have a project in mind to create a visual tool too explore a DB of music: bands, etc. Something like this: 
+http://prezi.com/mvcolkmub2nu/metal/?auth_key=58ebddaa519cd685a6d32adaf2f4a1a3487968db
+
+
+I have been reading that Clojure it's a good tool to manage data and create visual tools. Why? What does Clojure offer over python
+
+I want to have a good reason before starting to learn a new language.
+
+",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/y3hr3/data_visualization_with_clojure/
+1342297976.0,wk9t7,The Caves of Clojure: Part 5,tomcsi,12,1,0,,t5_2qkej,False
+1341604462.0,w57qp,Refactoring to Datamappers in Clojure,nonrecursive,11,0,0,,t5_2qkej,False
+1340380767.0,vfuo6,Clojure-powered Startups,mobby1982,14,4,1,,t5_2qkej,False
+1335645309.0,sx7vf,ClojureScript lightweight Markdown parser,yogthos,11,2,0,"I've got around to converting my MD parser to ClojureScript
+
+https://github.com/yogthos/markdown-clj
+
+a compiled version is included in js folder,False,,t5_2qkej,True,,,t3_sx7vf
+1334194469.0,s5el7,Friend: an extensible authentication and authorization library for Clojure Ring webapps and services,sunng,10,1,0,,t5_2qkej,False
+1333163820.0,rlxld,Functional Thinking in Clojure: Part 2,jemeshsu,12,3,0,,t5_2qkej,False
+1332868143.0,rg2y3,"Compiling Clojure to JavaScript, pt. 3 – The Himera Model",jemeshsu,12,0,http://www.reddit.com/r/Clojure/comments/rg2y3/compiling_clojure_to_javascript_pt_3_the_himera/,,
+1332094341.0,r28u5,"	
+Clojure/West 2012 slides [PDF,11,0,0,http://www.reddit.com/r/Clojure/comments/r28u5/clojurewest_2012_slides_pdf_mostly/,,,,,
+1331827328.0,qxwx5,Parallel SSH and system monitoring in Clojure,chrismcbride,15,4,0,,t5_2qkej,False
+1328768309.0,phhhl,levand/domina - A DOM manipulation library for ClojureScript ,sunng,10,1,0,,t5_2qkej,False
+1328361314.0,palfc,Clojure/core — Functional Relational Programming with Cascalog,sunng,11,0,0,,t5_2qkej,False
+1327506681.0,ow59y,String interpolation macro,mister-metaphor,10,0,10,,t5_2qkej,False
+1323697582.0,n9mv3,Newbie question here: Why is if a special form? Why isn't it just a function?,atc,10,2,10,,t5_2qkej,False
+1323542047.0,n7lnl,bliss: a functional sequencer for overtone/supercollider,krl,11,1,0,,t5_2qkej,False
+1320782870.0,m565e,"Is there a step-by-step ""hello world"" example that doesn't use Leiningen, Maven, ...?",A_guy_from_Germany,11,27, Maven,
+1318400370.0,l9a9h,"Pinot, A Clojurescript library for web development",sunng,13,3,http://www.reddit.com/r/Clojure/comments/l9a9h/pinot_a_clojurescript_library_for_web_development/,,
+1317917814.0,l33qm,Intro to Clojure,drguildo,11,2,0,,t5_2qkej,False
+1317870114.0,l2koe,"Show r/Clojure: New Seasons, a little Noir webapp (repo in comments)",stevelosh,11,2,http://www.reddit.com/r/Clojure/comments/l2koe/show_rclojure_new_seasons_a_little_noir_webapp/,,
+1314282299.0,ju1i1,import * for Clojure via Jython,etatsunisien,13,3,6,,t5_2qkej,False
+1312563032.0,ja079,Leiningen in Debian,,14,4,2,,t5_2qkej,False
+1310595730.0,iouyk,MapReduce with MongoDB and Clojure,mac,11,1,3,,t5_2qkej,False
+1310339362.0,ilx2o,Color your own Europe in Clojure!,nathell,11,1,0,,t5_2qkej,False
+1307892701.0,hxt0x,Functional Fluid Dynamics in Clojure,winkywooster,11,2,0,,t5_2qkej,False
+1306664089.0,hmrdr,"GUIFTW - Declarative GUI framework for Clojure, on top Swing or SWT",mac,11,1,http://www.reddit.com/r/Clojure/comments/hmrdr/guiftw_declarative_gui_framework_for_clojure_on/,,
+1303230700.0,gtpcs,Clojure Atlas: A visual reference and learning resource,uochan,11,1,0,,t5_2qkej,False
+1303069150.0,gs7t8,Giving Clojure some love in latest AI Challenge - community help needed.,spotter,11,0,4,,t5_2qkej,False
+1302162754.0,gkl0o,Here Comes Clojure: A Clojure Talk in Clojure,uochan,13,3,2,,t5_2qkej,False
+1298991269.0,fv2gp,Clojure: if-let and when-let,gst,13,3,0,,t5_2qkej,False
+1297098212.0,fgxyx,Clojure defmacro introspection with &amp;env and &amp;form.,spotter,10,1,0,,t5_2qkej,False
+1296440435.0,fc437,"Slice: A Web library for writing composable slices of html, css, and js in Clojure",zitterbewegung,12,0,False,
+1296104914.0,f9u5l,live-processing is a Processing clone with livecode capabilities (seen on disclojure),mcanon,10,0,2,,t5_2qkej,False
+1295844770.0,f7vky,Where can I find resources about GUI programming in Clojure?,bdesham,10,0,9,"I’ve recently finished reading Stuart Halloway’s *Programming Clojure* as an introduction to Clojure (and to functional programming in general).  I’ve learned a lot, or websites that focus on doing these things with Clojure,
+1294150841.0,evzs9,Duck Hunt with Arduino and Clojure,cnirrad,12,1,0,,t5_2qkej,False
+1291314550.0,ef4p8,A Simple Forth Interpreter in Clojure,nakkaya,11,1,0,,t5_2qkej,False
+1291084492.0,edo6c,Tetris with colors and scoring under 250 lines,yogthos,10,0,1,,t5_2qkej,False
+1291021445.0,ed8nd,Logos - Logic Programming for Clojure,mac,10,1,2,,t5_2qkej,False
+1290839468.0,ecdop,redis protocol in 40 lines of Clojure ,mac,14,4,0,,t5_2qkej,False
+1290412691.0,e9u6c,Dr. Evil - simple web debugger REPL,mac,12,1,0,,t5_2qkej,False
+1288151502.0,dwz99,A Clojure Reading List,,11,1,5,,t5_2qkej,False
+1286137221.0,dmb8u,Fun with Clojure: Turning Cats into Dogs in Hanoi,mac,10,2,0,,t5_2qkej,False
+1285187137.0,dhigr,How can I write this better?,MacMan45,14,2,18,"I have been using Clojure for about 2 weeks and while I am having a great time with it
+
+I needed a function that would go through a hashmap and replace any nil values with empty strings.
+
+The best I came up with was this:
+(defn cleanMap [m]
+  (let [cleanPairs (map (fn [[k v]]
+			  (if (= v nil)
+			    [k """"]
+			    [k v])) m)]
+    (reduce conj
+	    (map
+	     (fn [[k v]]
+	       (hash-map (name k) v)) cleanPairs))))
+
+
+It turns this:
+{:a 1 :b nil :c 3 :d nil}
+
+into:
+{:a 1 :b """" :c 3 :d """"}
+
+
+I am pretty sure my solution
+Is there someone more experienced that could give me advice?
+
+Thanks.",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/dhigr/how_can_i_write_this_better/
+1285102337.0,dh116,Lithp - A interpreter for John McCarthy's original Lisp.,neotyk2,11,2,6,,t5_2qkej,False
+1284421280.0,ddffy,Anti-Gravity Movement,nakkaya,10,0,0,,t5_2qkej,False
+1283283992.0,d7uv2,State of Clojure after Oracle's moves with Java(JVM)?,iberci,12,4,5,I am curious to know /r/clojure's opinion on what the state of Clojure is in after Oracle's aggressive moves and the potential repercussions it will have with the Java (and henceforth JVM) community.  ,t5_2qkej,True
+1282115616.0,d2hdj,Visualising the Wikileak's war logs using Clojure,mac,11,0,0,,t5_2qkej,False
+1278346067.0,cm630,alter-ego - A Reactive AI Library for Clojure,mac,11,0,0,,t5_2qkej,False
+1278174030.0,clnl5,Enhanced Clojure records,mac,10,1,1,,t5_2qkej,False
+1277789617.0,ck13z,Gaka - simple CSS generation lib for Clojure,mac,10,0,0,,t5_2qkej,False
+1274850234.0,c86bv,"Clojure Bucket Sort - quote ""Runs slightly faster than Clojure's built-in sort (at least on integers)""",mac,10,0,0,,t5_2qkej,False
+1274822378.0,c8291,clj-todo: todo annotations in Clojure,geko,10,0,0,,t5_2qkej,False
+1274199001.0,c5l45,"Refresh your cache - Best In Class has been baked: Enlive, Moustache , Clojure ",gtani7,11,0,False,
+1273707070.0,c3bvw,Short tutorial on extending Leiningen,mac,12,1,0,,t5_2qkej,False
+1273476784.0,c20fr,ClojureMind - Freemind Clojure plug-in that evaluates Cljoure code embedded in the mindmap.,mac,10,0,3,,t5_2qkej,False
+1272873953.0,bzbgd,Paul Graham's Binary Search Trees in Clojure ,mac,11,1,0,,t5_2qkej,False
+1272872667.0,bzb9g,Did you know about Clojures ::keywords?,mac,11,3,1,,t5_2qkej,False
+1272237987.0,bvzj5,"The Rule of Three: memoization, caching",gtani7,10,2,http://www.reddit.com/r/Clojure/comments/bvzj5/the_rule_of_three_memoization_caching/,,
+1272206477.0,bvuju,Technomancy details the upgrade process of Mire to the Clojure 1.2 master branch,foogoof,12,1,0,,t5_2qkej,False
+1269890435.0,bjtzh,Functional Fluid Dynamics in Clojure,mac,11,2,0,,t5_2qkej,False
+1267946295.0,ba8lc,clj-ssh - Clojure ssh lib (duh!) by Hugo Duncan,mac,14,4,1,,t5_2qkej,False
+1266751213.0,b4mhw,Overtone - Clojure based musical generation and manipulation system for live-coding and more.,mac,10,0,0,,t5_2qkej,False
+1265601521.0,azayg,Conway's Game of Life in Clojure,diffyQ,11,1,3,,t5_2qkej,False
+1265456641.0,aysw7,From Java to Clojure,mac,11,1,2,,t5_2qkej,False
+1264107699.0,ask1e,"Clojure Compiler in Clojure : Host independence, fully functional, no dynamic vars etc",gtani7,11,0,False,
+1263318554.0,aoqol,slice n dice: reddit JSON feed to cloj to hadoop,gtani7,11,2,0,,t5_2qkej,False
+1262690884.0,alqxj,"deploying clojure/compojure web apps: configure emacs, directory structure, classpath, .. ",gtani7,0,,False
+1262550143.0,al4ws,Clojure macros make swing code shorter and simpler.,gtani7,10,1,1,,t5_2qkej,False
+1261377920.0,agyqo,Cloning Pong Part 2 (Clojure + Arduino),devslashnull,10,1,0,,t5_2qkej,False
+1261377902.0,agyqi,Cloning Pong Part 1 (Clojure + Arduino),devslashnull,11,1,0,,t5_2qkej,False
+1257861991.0,a2v1l,"Be explicit about time and state unless we want our f(x) to become f(x,time).",seths,12,2,http://www.reddit.com/r/Clojure/comments/a2v1l/be_explicit_about_time_and_state_unless_we_want/,,
+1255538017.0,9u0gd,Python vs Clojure – Evolving,uiob,19,9,15,,t5_2qkej,False
+1254987969.0,9rysm,Exploring the Mandelbrot set with your GPU,prospero,14,5,0,,t5_2qkej,False
+1247837189.0,92364,AVL Tree Implementation in Clojure,Aseraphim,10,0,0,,t5_2qkej,False
+1246236320.0,8whsc,Writing a macro: for vs. doseq,seths,12,1,1,,t5_2qkej,False
+1234301772.0,7wdvq,Bowling w/ Clojure,jstraszheim,11,1,1,,t5_2qkej,False
+1230912779.0,7myzm,Using PostgreSQL with Compojure,icey,14,4,0,,t5_2qkej,False
+1224097373.0,77c3m,Creating Executable Jars with Clojure,burke,10,1,2,,t5_2qkej,False
+1222956197.0,74tlc,On Lisp -&gt; Clojure (Chapter 2 - redux),fogus,10,0,0,,t5_2qkej,False
+1376669072.0,1kht9q,Typed Clojure: Invariants via Immutability,OmegaMinus,11,1,0,,t5_2qkej,False
+1376408527.0,1ka7dh,Vert.x language implementation for Clojure,OmegaMinus,10,1,1,,t5_2qkej,False
+1375912051.0,1jwvii,e-4917 emulator in Clojure,-MrHus-,9,1,0,,t5_2qkej,False
+1375173575.0,1jc646,Introduction to Selmer - a new fast templating engine using a Django inspired syntaxt,mac,9,0,0,,t5_2qkej,False
+1375147664.0,1jbgvm,Automatically upgrade Project Dependencies and Plugins using lein-ancient,xschemer,10,1,0,,t5_2qkej,False
+1373753138.0,1i8o54,What's the status of Clojure in Clojure or Clojurescript in Clojurescript?,Jonovono,12,2,2,"I know there are plans to self host clojure or clojurescript so one would not have to boot up the JVM to compile/execute clojurescript code.
+
+I am wondering if anyone is working on this?
+
+I found: https://github.com/kanaka/clojurescript but it seems development has kinda halted. It looks like it has good progress but not yet complete.",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/1i8o54/whats_the_status_of_clojure_in_clojure_or/
+1373116638.0,1hqwjr,InfoQ: RESTful Clojure by Siva Jagadeesan,seymores,11,2,0,,t5_2qkej,False
+1372095571.0,1gzb9r,clj-wamp - WAMP WebSockets for Clojure and HTTP Kit,mac,12,4,1,,t5_2qkej,False
+1369944087.0,1fcvng,Client-Side Routing with Pedestal,trzmiel,9,0,0,,t5_2qkej,False
+1369902577.0,1fbqw9,Event Stream Processing Using Clojure and Esper,OmegaMinus,10,1,0,,t5_2qkej,False
+1368684421.0,1efq3a,pandect: A fast and easy-to-use Clojure message digest library,xschemer,9,0,0,,t5_2qkej,False
+1367515028.0,1dk8fv,Pulsar - Erlang-like Actors in Clojure,mac,14,6,0,,t5_2qkej,False
+1367434997.0,1dhyu1,Another excellent post on a Prismatic product - this time Graph,mac,9,0,0,,t5_2qkej,False
+1365340882.0,1bun3r,How Clojure Babies are Made: What Leiningen Is,nonrecursive,14,4,1,,t5_2qkej,False
+1364891417.0,1bi6dz,Tracking Toronto Streetcars with Clojure,mac,10,1,0,,t5_2qkej,False
+1363158831.0,1a7cl6,Syme - Instant collaboration on GitHub projects,mytrile,9,0,5,,t5_2qkej,False
+1362245844.0,19j3dl,A look at Clabango templating engine,yogthos,13,5,6,,t5_2qkej,False
+1361267461.0,18t7lk,Timelike: a network simulator (aka RapGenius vs Heroku investigation),shreknel,10,0,1,,t5_2qkej,False
+1358550383.0,16ufqu,Writing Clojure With Vim In 2013,mybuddymichael,12,2,1,,t5_2qkej,False
+1358466212.0,16s72b,"Dommy: ClojureScript templating based on Clojure's Hiccup html templating library, similar to Crate, but is much faster",yogthos,12,0,False,
+1355965610.0,15531l,Search trees and core.logic,dgtized,11,1,0,,t5_2qkej,False
+1355942734.0,154d3u,Multi-armed Bandit Optimisation in Clojure,yogthos,11,3,1,,t5_2qkej,False
+1355773638.0,150bes,Why Java programmers have an advantage when learning Clojure,sivajag,11,2,7,,t5_2qkej,False
+1355172046.0,14mfr8,David Nolen - THE REFINED CLOJURIST -- Clojure eXchange 2012,agumonkey,13,4,0,,t5_2qkej,False
+1346992701.0,zhoyt,A Look at Clojure Performance Tuning,gshayban,11,2,0,,t5_2qkej,False
+1346887150.0,zf3ui,"Liberator is a free, open-source web library for the Clojure programming language with an emphasis on REST",deathapproaches,12,5,http://www.reddit.com/r/Clojure/comments/zf3ui/liberator_is_a_free_opensource_web_library_for/,,
+1346165594.0,yyoyc,Functional thinking: Rethinking dispatch,deathapproaches,14,6,0,,t5_2qkej,False
+1344432283.0,xvoag,ClojureScript/Lua lives !,Yakulu,11,0,0,,t5_2qkej,False
+1339949263.0,v6jh8,log viewer UI for clj-log (screenshot inside),yogthos,11,1,2,"The log viewer parses the log s-expressions and displays them in a nice human readable format
+ 
+available here: https://github.com/yogthos/log-viewer 
+
+[screenshot](http://i.imgur.com/XJDmg.png)",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/v6jh8/log_viewer_ui_for_cljlog_screenshot_inside/
+1336154729.0,t76d4,Worth getting a book or online tutorials enough?,mogrim,13,4,9,"I saw the O'Reilly sale today
+
+Is it worth getting the book, too :)
+
+(Background: I'm a long term Java programmer, a bit of Python, etc... not a newbie to programming, but new to functional programming and Lisp...)
+",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/t76d4/worth_getting_a_book_or_online_tutorials_enough/
+1334890102.0,siz6n,Clojure/core — (take 5 daniel-spiewak),number23_cn,10,1,0,,t5_2qkej,False
+1334021356.0,s1sp5,Java object reader,yogthos,9,1,2,"I ended up having to do some testing in Java, so naturally I wrote a function to recursively convert Java objects into Clojure maps. 
+
+https://gist.github.com/2347762
+
+I figure somebody else might find it useful,False,,t5_2qkej,False,,,t3_s1sp5
+1333976319.0,s0pni,Parallelism and the Limits of Languages ,gtani,10,0,0,,t5_2qkej,False
+1333270240.0,rnpmw,Continuation Monad ,sunng,11,0,1,,t5_2qkej,False
+1332999228.0,riuoa,noir-async: seamless async webservices for clojure,andrewvc123,11,1,0,,t5_2qkej,False
+1330395321.0,q91oe,Overtone and ClojureScript,sunng,9,1,0,,t5_2qkej,False
+1329834238.0,pzbpv,fogus: Dancing monkey gibbers on about macros and such.,darrint,9,0,1,,t5_2qkej,False
+1326850745.0,olq8m,Clojure/West Session Schedule,sunng,10,0,0,,t5_2qkej,False
+1326113244.0,o989r,Hello NLP (with clojure) ,sunng,9,1,0,,t5_2qkej,False
+1321513384.0,mffw2,Why Clojure lx?,sunng,9,0,4,,t5_2qkej,False
+1319119342.0,lip6v,flatland/useful - Clojure commons functions,sunng,9,0,1,,t5_2qkej,False
+1317327513.0,kvnnh,"Screencasts, talks and tutorials on the Clojure programming language.",drguildo,12,3,http://www.reddit.com/r/Clojure/comments/kvnnh/screencasts_talks_and_tutorials_on_the_clojure/,,
+1314596895.0,jxpjo,JVM 7 support (invokedynamic) - Clojure ,sunng,12,2,0,,t5_2qkej,False
+1314171946.0,jsnzo,Object Oriented Macros,OmegaMinus,10,2,0,,t5_2qkej,False
+1313004042.0,jevp8,writing clojure wrappers for function composition (and great justice),pyr,11,2,2,,t5_2qkej,False
+1310723565.0,iqaim,Simple Persistence for Clojure,mac,10,0,1,,t5_2qkej,False
+1310147046.0,ik6ym,Separation of Concerns,mac,10,0,0,,t5_2qkej,False
+1308468382.0,i3gi9,Calling R from Clojure,mac,9,0,0,,t5_2qkej,False
+1307374357.0,hswmj,Simple Thrift in Clojure,mac,10,0,0,,t5_2qkej,False
+1305105903.0,h8tc1,Converting a Java Object to a Clojure Map,mac,11,1,0,,t5_2qkej,False
+1304407554.0,h2zdy,Runtime Dynamism + Performance: Have Your Cake and Eat It Too,mac,9,1,0,,t5_2qkej,False
+1303541678.0,gvlrx,Seesaw - Primordial Clojure Swing DSL by Dave Ray,mac,9,0,1,,t5_2qkej,False
+1303296521.0,gud5h,Perception and Action: An Introduction to Clojure's Time Model,4uurcupasoup,9,1,0,,t5_2qkej,False
+1303064538.0,gs696,The M.A.D. (music-as-data) presentation at Dyncon 2011,PanosJee,9,1,0,,t5_2qkej,False
+1303037708.0,gs03m,"Thinking of learning Clojure, what are the key differences from Python?",Teifion,10,1,http://www.reddit.com/r/Clojure/comments/gs03m/thinking_of_learning_clojure_what_are_the_key/
+
+As a followup question
+
+Cheers",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/gs03m/thinking_of_learning_clojure_what_are_the_key/
+1301949595.0,gil9x,The Universal (Clojure) Server,mac,10,2,2,,t5_2qkej,False
+1301856099.0,ghrif,Clojure v. Common Lisp size comparision,mac,12,3,0,,t5_2qkej,False
+1301700581.0,ggrzy,Tutorial for Lisp and Java coder?,Tiomaidh,10,2,14,"Hello
+
+This year I'm in two programming classes. One is a very laid-back class where we just write games. The other is an independent study where I'm learning Lisp. I've been learning Common Lisp
+
+Additionally, IMHO). So I'm pretty aware of the language and especially the API/stdlib.
+
+Back to my classes--I just finished a PyGame game, but I'm just kind of worn out about it and don't want to. Instead, I was thinking it might be a good opportunity to learn Clojure, which I've been interested in--but previously I haven't been able to justify learning it (it seemed more important to either do more work and get paid, or learn more Common Lisp). So I'm thinking it'd be reasonable to make something relatively simple (*Space Invaders* spinoff?) as an applet.
+
+I'm assuming that since I know a Lisp and a JVM language
+
+So does anyone have any suggestions? Any other general tips? Also...what's the most straightforward way to set up SLIME with both SBCL and Clojure?
+
+Thanks in advance.
+
+(PS: I'm hoping this is an okay post...I'm not sure where you guys stand on news vs. please-help-me self posts. I can (re)move it if desired.)",,t5_2qkej,True,,,True,http://www.reddit.com/r/Clojure/comments/ggrzy/tutorial_for_lisp_and_java_coder/
+1301072403.0,gbdqw,"Debunking the ""Supermoon"" with Clojure",awillis1,9,1,0,,t5_2qkej,False
+1298142586.0,fom3f,Continuation-Passing Style in Clojure,gtani,9,1,0,,t5_2qkej,False
+1297157671.0,fhew5,"Web Sockets , Clojure and jQuery ",gtani,9,0,http://www.reddit.com/r/Clojure/comments/fhew5/web_sockets_clojure_and_jquery/,,
+1295460808.0,f58uf,Explaining 'Meet Clojure',Raynes,11,2,1,,t5_2qkej,False
+1295063623.0,f2mw8,Clojure concurrency cheat sheet (D. Matuszek),gtani,9,1,2,,t5_2qkej,False
+1294904798.0,f1fkt,"FP flashcards: brush up on clojure, scala, haskell, prolog, f#, ocaml",0,False
+1294558273.0,eyvdh,clojure on Android/dalvik,gtani,10,1,2,,t5_2qkej,False
+1291999537.0,ejm4a,"customize Emacs for Clojure: elisp, slime, paredit",gtani7,9,1,False,
+1291545352.0,egi6t,Getting Started with Compojure using Leiningen,choas,10,0,0,,t5_2qkej,False
+1290444156.0,ea09h,Time-lapse photography with Clojure,nakkaya,9,0,0,,t5_2qkej,False
+1289628878.0,e5hwc,Lisp magic: Redshank.  Could be ported to work with Clojure...,phob,9,0,2,,t5_2qkej,False
+1289243446.0,e31t5,"implement ""inheritance"": just use map functions (assoc), (merge)",gtani,10,1,http://www.reddit.com/r/Clojure/comments/e31t5/implement_inheritance_just_use_map_functions/,,
+1287474619.0,dt7v3,"Clojure, Protocol Buffers and ZeroMQ, oh my!",mac,9,0,False,
+1287445128.0,dt235,Physics with Clojure,TTamm,10,2,1,,t5_2qkej,False
+1285905214.0,dlc2h,Clojure: Another Testing Framework - Expectations,gst,11,3,1,,t5_2qkej,False
+1285603198.0,djjby,Unificycle - A Unification Library for Clojure,mac,9,0,2,,t5_2qkej,False
+1285051069.0,dgq65,"Mycroft, a generic inspector for the Java Virtual Machine.",gtani7,9,1,http://www.reddit.com/r/Clojure/comments/dgq65/mycroft_a_generic_inspector_for_the_java_virtual/,,
+1285044636.0,dgoy3,Taming HTML Forms with Clojure,mac,9,0,0,,t5_2qkej,False
+1285043976.0,dgotv,appengine-magic - Clojure lib for easy use of Google App Engine,mac,9,0,0,,t5_2qkej,False
+1285013698.0,dginv,Clojure Unsupervised Part-Of-Speech Tagger Explained,mac,10,2,0,,t5_2qkej,False
+1282715443.0,d55fe,Compojure Demystified with an example - Part 4,sivajag,9,1,3,,t5_2qkej,False
+1282685563.0,d50ef,Reduce not scary,mac,11,2,0,,t5_2qkej,False
+1282201123.0,d2wuy,Micro languages in Clojure - part 2,mac,9,0,6,,t5_2qkej,False
+1282151985.0,d2no1,Learning to switch from (a) common lisp to idiomatic clojure,mac,9,1,0,,t5_2qkej,False
+1281642119.0,d0hn0,Micro languages in Clojure via macros and let,mac,12,2,0,,t5_2qkej,False
+1280668579.0,cw39v,"Around the World, in Clojure",frogking,11,2,http://www.reddit.com/r/Clojure/comments/cw39v/around_the_world_in_clojure/
+The song has 4 verses consisting of 8
+All in all
+
+This [gist](http://gist.github.com/503331) will print out the lyrics correctly.
+
+",,t5_2qkej,False,,,True,http://www.reddit.com/r/Clojure/comments/cw39v/around_the_world_in_clojure/
+1280211957.0,cu41x,Clojure's edge on Node.js,mac,9,0,1,,t5_2qkej,False
+1280175725.0,ctxwq,7 Rules for Writing Clojure Programs,mac,11,2,1,,t5_2qkej,False
+1278789544.0,co4kd,Lorenz Attractor in Clojure,yogthos,9,0,1,,t5_2qkej,False
+1276462717.0,celnd,ClojureCheck is back.,mac,13,4,0,,t5_2qkej,False
+1276174964.0,cdivg,Primitive types support for fns coming to a Clojure branch near you,mac,10,1,0,,t5_2qkej,False
+1275910599.0,cca8k,Clojure.core/lazy-seq makes sense,neotyk2,11,2,0,,t5_2qkej,False
+1275856283.0,cc35r,Video lectures &amp; presentations about Clojure,choas,9,2,2,,t5_2qkej,False
+1275545153.0,cax0c,"Simple Orbital Simulator in Clojure (from 
+Bob Martin)",2,0,http://www.reddit.com/r/Clojure/comments/cax0c/simple_orbital_simulator_in_clojure_from_bob/,,,False,t5_2qkej,False
+1275513972.0,cas33,Understanding the Clojure `trampoline',mac,9,1,0,,t5_2qkej,False
+1275402337.0,ca902,Path Finding Using A-Star in Clojure,mac,10,0,0,,t5_2qkej,False
+1275314280.0,c9whf,Grokking Functional Data Structures,gtani7,11,1,0,,t5_2qkej,False
+1275218335.0,c9lf9,Clojure and a PicoLisp database via HTTP,prodevtips,10,0,0,,t5_2qkej,False
+1274785591.0,c7ven,Extending Clojure's STM with external transactions,dln,11,1,2,,t5_2qkej,False
+1274360735.0,c6acj,Swank clojure setup for hardcore Emacs users (no ELPA),,10,3,0,,t5_2qkej,False
+1272693119.0,bymyq,Yet Another Brute Force Sudoku Solver - in Clojure,mac,11,3,1,,t5_2qkej,False
+1271449539.0,brzuq,"Installing Clojure with Emacs and SLIME: so easy, yet so hard",gtani7,10,2,http://www.reddit.com/r/Clojure/comments/brzuq/installing_clojure_with_emacs_and_slime_so_easy/,,
+1271226300.0,bqn7x,Adding LaTeX equations to Incanter Charts,mac,10,1,0,,t5_2qkej,False
+1270529895.0,bmyow,Scaling Clojure Web Apps with Google AppEngine,mac,10,1,0,,t5_2qkej,False

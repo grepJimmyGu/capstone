@@ -1,0 +1,2743 @@
+created_utc,id,title,author,ups,downs,num_comments,selftext,subreddit_id,is_self
+1350496813.0,11n31d,Still Can't Vertically Center CSS,adamzx3,154,25,26,,t5_2qifv,False
+1366076986.0,1cfl5z,After 45 min trying to figure out the proper hierarchy...,leoatneca,148,36,30,,t5_2qifv,False
+1345081691.0,yaoal,256 classes beats 1 ID,infinite0ne,50,2,20,,t5_2qifv,False
+1374114754.0,1ij63w,a solar system made entirely of CSS markup and it animates too.,naeem288,44,0,6,,t5_2qifv,False
+1371480981.0,1ginwv,25 Cool CSS3 Hover Effects,ericawebdev,46,5,2,,t5_2qifv,False
+1369217012.0,1etqp2,I played around way too long with this (I'm not the author),ger_phpmagazin,44,3,1,,t5_2qifv,False
+1369749471.0,1f7609,"Pure: A set of small, responsive CSS modules",joshuacc,50,7,http://www.reddit.com/r/css/comments/1f7609/pure_a_set_of_small_responsive_css_modules/,,
+1349318986.0,10wxub,The Mona Lisa in pure CSS,uhwuggawuh,54,12,11,,t5_2qifv,False
+1375851097.0,1jv49x,blink-polyfill: Preserving the history of the web one tag at a time,ContraContra,43,1,1,,t5_2qifv,False
+1368520629.0,1eaykk,Colors.,malign_,43,4,6,,t5_2qifv,False
+1347107118.0,zjx2b,Creating an iPhone using CSS3 with only a single Div,jrv,46,6,10,,t5_2qifv,False
+1361876090.0,1994z3,"Made some loading animations in CSS3, figured I'd share",tistdrive,43,6,http://www.reddit.com/r/css/comments/1994z3/made_some_loading_animations_in_css3_figured_id/,,
+1343029040.0,x08wz,10 CSS Rules Every Web Designer Should Know,caisah,47,11,13,,t5_2qifv,False
+1366650726.0,1cvgiz,My quick attempt to recreate the iTunes store album carousel with CSS3 [x-post from /r/web_design],vaskemaskine,37,4,8,,t5_2qifv,False
+1357562843.0,1648mj,Check out this error page some guy made using all css. No images were used at all! :O,emusauce,48,14,20,,t5_2qifv,False
+1369007271.0,1entbi,Pure CSS3 Star Wars Lightsaber Checkboxes,scotchio,38,5,23,"Hey guys
+
+I was bored today
+
+For those who don't know what that is
+
+This is how it's done:
+
+    input[type=checkbox]:checked ~ div { }
+
+So here's my code
+
+Thanks all!
+
+[Landing Page](http://scotch.io/demos/pure-css3-star-wars-lightsaber-checkboxes)
+
+[codepen](http://codepen.io/ncerminara/pen/KzurJ)
+
+[GitHub](https://github.com/scotch-io/Pure-CSS3-Star-Wars-Lightsaber-Checkboxes)",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1entbi/pure_css3_star_wars_lightsaber_checkboxes/
+1351740676.0,12fuof,CSS3 Form Styling Cheat Sheet,tiffbitsays,41,9,7,,t5_2qifv,False
+1342355237.0,wla9c,Making websites compatible across all browsers is like passing through the 7 layers of hell,SEGnosis,41,8,23,"* First Circle (Limbo) - You endlessly go in circles. For every div you align
+
+* Second Circle (Lust) - You contemplate using tables and dreamweaver
+
+* Third Circle (Gluttony) - You add a div to fix a div to fix a div to fix a div
+
+* Fourth Circle (Greed) - You take all the fixes you can find online and stack them together
+
+* Fifth Circle (Anger) - You curse the browser developers for not making all CSS standard and equal 
+
+* Sixth Circle (Heresy) - You float every div
+
+* Seventh Circle (Violence) - You remove features and blocks of your site to not have to fix their css
+
+* Eighth Circle (Fraud) - You convince yourself that you don't need it to work on every browser. That everyone should use your browser or go to hell
+
+* Ninth Circle (Treachery) - You use javascript to correct the css
+",,t5_2qifv,1342378582.0,,,True,http://www.reddit.com/r/css/comments/wla9c/making_websites_compatible_across_all_browsers_is/
+1331547733.0,qsqwu,I decided to document and share my high-level CSS best practices.,csswizardry,39,6,10,,t5_2qifv,False
+1349621982.0,1137he,Design it &amp; Code it,Idered,37,2,3,,t5_2qifv,False
+1332183093.0,r3t8u,The height of CSS Zen.,theLaika,38,6,21,,t5_2qifv,False
+1363005151.0,1a2u21,I created a digital watch in CSS. Here's how I did it.,yesiamben,31,2,8,,t5_2qifv,False
+1360308636.0,184d6v,Anyone notice a problem with the CSS in this subreddit about CSS?,GrizzledBastard,38,6,17,,t5_2qifv,False
+1328507820.0,pcum6,This is what I do when I get bored. Homer Simpson in CSS,radium-v,42,7,9,,t5_2qifv,False
+1313201415.0,jhcum,ASCII,RadioactiveRhino,35,2,6,,t5_2qifv,False
+1331630376.0,qubvm,"Learning HTML,CSS,JS the new way, the Walkthroughs way!",binarydreams,5,,False
+1355762663.0,14zznd,CSS px's don't have anything to do with screen pixels.,leonjohnson,33,2,11,,t5_2qifv,False
+1348072831.0,1055jx,Pure CSS Loading animation.,rlemon,33,3,10,,t5_2qifv,False
+1335159363.0,snrzm,Simple yet amazing CSS3 border transition effects,ruby_on_tails,32,4,4,,t5_2qifv,False
+1311661561.0,izxtl,Your mother is so fat...,hadricus,38,8,10,"...she breaks her parent container's max-width:100%; property
+
+UPDATE: Your mother is so ugly,False,,t5_2qifv,True,,,t3_izxtl
+1362505947.0,19pv12,I created a clock in CSS. Here's how I did it.,yesiamben,29,1,4,,t5_2qifv,False
+1350139599.0,11eyg5,15 Handy Tools for Easier and Quicker CSS Development,waqasjaffar1991,32,3,3,,t5_2qifv,False
+1322005184.0,mm2ij,Pure CSS Slider,teapoted,30,1,8,,t5_2qifv,False
+1369322016.0,1ewnml,Stylify Me creates style guides for any site,ger_phpmagazin,32,4,8,,t5_2qifv,False
+1323550911.0,n7qnk,"Internet Explorer 10 says, ""Use CSS3, not DX filters""",claird,28,4,False,
+1376328950.0,1k7vxw,Is this shape possible in css only?,xposedbones,28,3,24,,t5_2qifv,False
+1369992882.0,1fe8t3,off-text-border effect,rdkll,27,2,7,"here's a neat little trick i came up with: 
+having text slightly hang over a box and make the box-border look like it's going around the box and the text.
+
+how it works: draw the caption 2x times on top of each other. one with stroke and one without. cut everything of the stroked caption that's inside the box using clip-path.
+
+[screenshot](http://imgur.com/DeQlhNB)
+
+[code](https://gist.github.com/jkrstn/5683859)
+
+**update:** here is a [javascript version](http://codepen.io/jkrstn/pen/wtkLA) calculating the clip-path. it's still a bit glitchy but by far better than the previous version which relied on magic numbers",,t5_2qifv,1370252387.0,,,True,http://www.reddit.com/r/css/comments/1fe8t3/offtextborder_effect/
+1355344222.0,14qrs9,Shift - Color Changing Background Animation,joeyhoer,26,3,7,,t5_2qifv,False
+1352483347.0,12x7zj,Why isn't r/css tricked out? ,dwieeb,32,9,34,Shouldn't we try to make a beautiful subreddit with the very tool we're discussing? ,t5_2qifv,True
+1336652514.0,tgd68,CSS 3 Shape: “Inverse Circle”,cruise02,28,3,1,,t5_2qifv,False
+1370351269.0,1fndka,I just read this article about responsive web design. Quite interesting.,Vaaale,28,6,4,,t5_2qifv,False
+1369141168.0,1ereqq,Why I don’t deeply nest SASS and LESS rules and neither should you,ChrisLTD,28,5,11,,t5_2qifv,False
+1363797208.0,1ao5si,How to Build a Kick-Butt CSS3 Mega Drop-Down Menu,aa41,31,5,4,,t5_2qifv,False
+1374174832.0,1iktyt,Troubleshooting CSS - Common issues and how to solve them,gnost,24,2,1,,t5_2qifv,False
+1373275275.0,1hus7x,"CSS3 ""loading"" Shuriken",AdonisK,27,6,2,,t5_2qifv,False
+1358281464.0,16myl5,Chrome Dev Tools (or Firebug) tips you wish you'd known a long time ago... and go.,foxroses,26,5,29,"TIL that Chrome Dev tools can show you what CSS rules are being overridden and from what file. It's under computed style: http://d.pr/i/GrGn
+
+Before that it was discovering how to toggle hover/active/selected states (the dotted box/arrow icon on the Styles tab.)
+
+What are your favorite Inspector tips and tricks?",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/16myl5/chrome_dev_tools_or_firebug_tips_you_wish_youd/
+1353870918.0,13rqdv,Favorite dev tools?,,31,7,62,"Hey guys
+
+I develop in Coda on a Mac and use Chrome to view my sites. I use Chrome Developer Tools to inspect and fix CSS issues. Then I use sites like css3generator.com for help with CSS3 gradients
+
+I also love frameworks like Twitter Bootstrap, but CSS-related) jQuery UI.
+
+What about you?",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/13rqdv/favorite_dev_tools/
+1347912677.0,101fjd,Customize Twitter Bootstrap To Not Look Bootstrap-y,antjanus,26,4,7,,t5_2qifv,False
+1337351429.0,ttapf,Make a stopwatch using CSS3 without images or javascript,ruby_on_tails,27,5,2,,t5_2qifv,False
+1375112485.0,1ja57s,"Introduction to CSS Transforms, Part 1 of 3 - 2D Transforms",assafgelber,23,2,http://www.reddit.com/r/css/comments/1ja57s/introduction_to_css_transforms_part_1_of_3_2d/,,
+1366567574.0,1ct6w6,The Clown Car Technique for Responsive Images,joshuacc,26,5,3,,t5_2qifv,False
+1365704098.0,1c5eg9,Foundation 4 vs. Bootstrap 3,chronixSC,22,0,25,"I am starting a new project soon and i want to know what people think about those two in comparison.
+
+I am pretty experienced with Bootstrap v2. Made several layouts with it and know my way around in LESS.
+
+In Foundation i just looked into v3 a bit last summer. Made some basic SASS tutorials but thats about it.
+
+So starting with Foundation 4 would be definately harder for me but i hear alot of good things about it. So i am curious.
+
+**My question:**
+
+Is it worth learning and switching to Foundation 4? What do you guys really like about it and what are some definate advantages/cons over Bootstrap?
+
+Or should i just stay with Bootstrap and if so,False,,t5_2qifv,False,,,t3_1c5eg9
+1364858648.0,1bgz8y,Proving how good you are at CSS in ways your resume can't handle,Rubyer,30,8,13,,t5_2qifv,False
+1337147529.0,tpkjl,Rounded Shadow Horizontal Rule (is this a new thing?),dwighthouse,24,2,4,,t5_2qifv,False
+1323643476.0,n8wmz,Inventors of the :hover state; We salute you!,schizoduckie,27,5,10,,t5_2qifv,False
+1362655493.0,19u973,See what CSS properties you need to prefix,davidhund,22,1,12,,t5_2qifv,False
+1328056349.0,p5cl2,CSS3 Crash Course looks like a useful book :),joelparkerhenderson,23,2,4,,t5_2qifv,False
+1328050232.0,p57go,Reddit Alien in CSS,Slimasaurus,23,3,4,,t5_2qifv,False
+1372342148.0,1h6fwn,Nifty Modal Window Effects [x-post from /r/webdev],nrogers64,22,1,4,,t5_2qifv,False
+1342210052.0,wil8u,Good Tutorial to Learn CSS Positioning.,matematikaadit,21,1,1,,t5_2qifv,False
+1341956111.0,wclnz,"Styling the unstylable: you can style &lt;title&gt; and &lt;html&gt;, too",,23,2,http://www.reddit.com/r/css/comments/wclnz/styling_the_unstylable_you_can_style_title_and/,,
+1332818781.0,rfbn2,I searched for a pure CSS3 tab system which allows nesting but couldn't find any. I created one. What do you think?,Faryshta,20,0,4,,t5_2qifv,False
+1330454875.0,qa0ey,Learning SASS - Free tutorials,scotty_pimmpen,24,5,16,,t5_2qifv,False
+1305653882.0,hdimm,Came here by the random button. I am shocked. Why does this reddit not use css?,hyperhopper,22,2,4,,t5_2qifv,True
+1296175644.0,faega,Here’s Something Interesting About the CSS Color Property,scbalazs,21,0,5,,t5_2qifv,False
+1374682366.0,1iyonw,A 3kb responsive grid system that's actually useful on mobile.,brantleye,24,7,2,,t5_2qifv,False
+1374423424.0,1ir772,Smooth Scroll to Top Using CSS3 Animations!,Mitgux,27,8,5,,t5_2qifv,False
+1373280011.0,1huunf,Explain Like I'm Five: What is SASS and LESS?,samjb2,23,4,10,Something to do with css but that's as far as I am at this point in time.,t5_2qifv,True
+1373073561.0,1hq3mm,Where did everyone first learn CSS?,AlphaWolf101,20,2,26,"Hey everyone,,False
+1367667363.0,1do9wq,CSS best practices? Been horribly messy with CSS since I started,changeh,22,5,30,"I'm wanting to write css in a more professional approach for my university project. I've always written CSS in such a disgusting messy way and I'm looking for some guide which will help me structure it better instead of writing down the first thing I can think of without any decent ordering.
+
+Can anyone link me to some source where it can teach me how to code CSS in a more structured and proper way?
+
+Are there specific techniques such as having resets on the top and then font styling then div styling?",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1do9wq/css_best_practices_been_horribly_messy_with_css/
+1365357299.0,1bv2na,Tools to work with CSS? validation? cleaning? extensions? What's your experience? here's mine..,rabexc,19,2,13,"I was working to re-factor a fairly old site of mine. What turned out to be the most painful job was cleaning up the CSS
+
+I tried an extension for chrome which didn't work
+
+However... this identified all unused selectors
+
+Since thousands of them were unused
+
+I discovered cssutils for python, cssparse, csscombine. I discovered csstidy, and several sites doing validation and cleaning.
+
+Overall
+
+So.. here's the question: what are tools to work with CSS that worked well for you? some that didn't work? Do you use command line tools,False,,t5_2qifv,False,,,t3_1bv2na
+1364604051.0,1b9ysy,What can I do to improve my calculator?,MountainDewChapStick,24,5,16,,t5_2qifv,False
+1335381312.0,ss7pc,5 years later: print CSS still sucks | Stoyan Stefanov,mikael12,21,2,3,,t5_2qifv,False
+1321330148.0,mcnym,InstaCSS | Instant CSS Documentation Search,requiemderseele,19,1,8,,t5_2qifv,False
+1374963659.0,1j6n8o,"Created something awesome in css, i am a noob but still like to have fun",ZombieJonathan,21,5,http://www.reddit.com/r/css/comments/1j6n8o/created_something_awesome_in_css_i_am_a_noob_but/,,
+1365793462.0,1c82hf,"Awesome homepage, need feedback !",E0x4,23,4,http://www.reddit.com/r/css/comments/1c82hf/awesome_homepage_need_feedback/,,
+1358792277.0,1701b6,One div - The single element HTML/CSS icon database,tosbourn,25,6,4,,t5_2qifv,False
+1351211809.0,123j7k,A little chrome tip,digital_tacos,22,5,8,"So I was finishing the front end of my website over the last part of yesterday and some this morning. I was sitting there just pulling out ideas out of the back of my head why my CSS was getting overwritten by element.style. It was hiding and collapsing my new scrolling javascript ads.... I spent a good 3 hours trying to figure out why IE and Firefox displayed it properly.
+
+So after many google searches and a couple javascript rewrites (I thought jQuery was breaking my balls) I walked over to a friends workstation. I had her open it in Chrome and BAM there were my stupid little ads. Guess who still had Ad Blocker Plus enabled? Fuck.
+
+TLDR; Don't be dumb and leave ABP on while developing.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/123j7k/a_little_chrome_tip/
+1344854954.0,y50t3,Code smarter CSS with Sass,caisah,23,7,30,,t5_2qifv,False
+1329693930.0,pwzum,My CSS3 heavy portfolio. Feedback appreciated.,michaelkc,22,2,36,,t5_2qifv,False
+1373756385.0,1i8rku,CSS layout frustrates me to no end. Help a noob?,rasori,18,2,19,"Hi all
+
+I find that I spend hours upon hours trying to ""fix"" CSS layout problems because things just don't work the way I expect them to. Ever.
+
+There are two things I'm asking for here:
+
+1) General resources for picking up CSS layouts. Anything that's helped you understand what the hell is going on under the hood is appreciated.
+
+2) It seems like my biggest gap in my understanding is what gets inherited and what gets overwritten. EG: If the innermost element is set to display: inline, this somehow actually results in the child and ""uncle"" displaying inline. Wat?
+
+Any help/resources would be greatly appreciated.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1i8rku/css_layout_frustrates_me_to_no_end_help_a_noob/
+1370789393.0,1fzdz5,5 CSS3 features explained,dakervk,29,10,6,,t5_2qifv,False
+1369915077.0,1fbxt8,CSS-Guidelines by csswizardry on GitHub,mikael12,19,3,4,,t5_2qifv,False
+1360262943.0,182uqr,A suggestion for /r/CSS,illa4rillakilla,18,0,8,"I absolutely love the community here
+
+I understand that most newbies with Css will not know which answer given is correct
+
+example:
+
+""help with a floated div...""  [Solved]
+
+EDIT: spelling.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/182uqr/a_suggestion_for_rcss/
+1334472586.0,sajfa,Fancy Hover Effects with CSS3 Transitions,kennyooi,23,5,4,,t5_2qifv,False
+1324296513.0,nif39,Create progressively enhanced 3D CSS rollovers,olindb,18,1,0,,t5_2qifv,False
+1316643947.0,kn8bw,"Why, hello!  Allow me to introduce myself.",airmandan,22,5,http://www.reddit.com/r/css/comments/kn8bw/why_hello_allow_me_to_introduce_myself/, and hadn't posted in here in over two years
+
+What does that mean for you?  Nothing too drastic.  I like this community and would like to see it continue to operate the way it has independently, you'll know that I have a very hands-off approach to moderating.  I don't feel the need to micromanage a community.
+
+As you can see
+
+1. No spam.
+2. Be nice.
+
+The sidebar spends some time explaining those two items
+
+That last point, why does it need me?  To answer, I'll give you an aviation metaphor: even the best autopilot needs a person to land the plane (which is not actually true anymore, but just give me enough leeway to say that it is for our purposes).  I won't interfere with your posting, but if your posts accidentally get stuck in the spam filter, now you have someone to ask to dig it out.  I will also try to grow this community so that we have a robust userbase with a lot of knowledge and experience to draw on.
+
+Finally, I will take what I've learned about styling reddit and apply it here in a way that makes us look both unique and innovative.
+
+If you have any questions or comments
+
+- Dan",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/kn8bw/why_hello_allow_me_to_introduce_myself/
+1311026019.0,it7ky,So why the f*ck can't you vertically align in CSS easily?,gojirra,25,7,30,"I'm confounded by all the hacks required to make CSS work,False,
+1372775192.0,1hhxsl,SASS or LESS?,folk_zombie,21,4,33,"Been using LESS on my past few projects. Is one better than the other and what do you prefer and why?
+
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1hhxsl/sass_or_less/
+1371233014.0,1gcomf,"A handy little tool, responsive web design formula calculator",naeem288,19,4,http://www.reddit.com/r/css/comments/1gcomf/a_handy_little_tool_responsive_web_design_formula/,,
+1367459048.0,1diufp,Some (potentially helpful) CSS3 Patterns,danfog67,18,2,12,,t5_2qifv,False
+1361383493.0,18wc5w,[video] Paul Irish: The Performance Of CSS Opacity (1 minute long),joshuacc,20,6,4,,t5_2qifv,False
+1361057320.0,18nv4c,"I wrote a vw,vh &amp; vmin polyfill. Anybody interested I open the source?",SaabiMeister,19,3,http://www.reddit.com/r/css/comments/18nv4c/i_wrote_a_vwvh_vmin_polyfill_anybody_interested_i/
+
+It works pretty decently and can handle complex css code such as media queries
+
+Having said that, you'll just write code using vmin and the shim will do the translation to 'vm' for you.
+
+Let me know and I'll set it up on github.
+
+EDIT: For the time being, and perhaps require.js to load it dynamically.
+
+Also,False,,t5_2qifv,1361058479.0,,,t3_18nv4c
+1352213300.0,12qb1z,"IE10 CSS ""hack""",a-t-k,19,3,9,,t5_2qifv,False
+1349021961.0,10pqdm,"inuit.css—Sass based, OOCSS framework",csswizardry,17,1,http://www.reddit.com/r/css/comments/10pqdm/inuitcsssass_based_oocss_framework/,,
+1348703942.0,10jaj2,I've been playing around with CSS only loading animations. Here is my latest.,rlemon,24,8,12,,t5_2qifv,False
+1346810681.0,zdcoz,Metro UI CSS,netghost,20,3,12,,t5_2qifv,False
+1346262979.0,z143y,I didn't know CSS could do that!,ajrdesign,20,4,39,"When I first learned about CSS animations I got really excited! I really enjoy making subtle animations in my designs
+
+What aspects of CSS did you get really excited about when you first found out?",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/z143y/i_didnt_know_css_could_do_that/
+1329506382.0,pu8r1,"Tired of fighting with widths, padding, and borders making your layouts look strange? Use box-sizing: border-box, and all your problems go away",Paradox,9,,False
+1298638970.0,fsiks,The Colour Clock,ubershmekel,17,0,1,,t5_2qifv,False
+1376326354.0,1k7sf7,another great css3 generator,frieder94,45,29,9,,t5_2qifv,False
+1374253239.0,1in3s9,What's your 'stack' for building a simple page quickly but cleanly?,Rocketkar,18,2,7,"I'm a designer who's comfortable with PHP, javascript and a little Ruby. Lately what I've been building is small
+
+
+I'm confused as hell, clean set of code, with tools that make the job easier, not require you to spend days learning and configuring them.
+
+
+I learned Compass and have been using it (it's really good for making cross-browser stuff less of an issue and gives you CSS variables, but it doesn't interact with compass. Right now I've got HTML5 boilerplate with its css ripped out and compass spitting out its css, plus the zen grid compass plugin. I can't help but think: this should be a lot simpler. This is too many plugins for your plugins, a rabbit hole of github projects and framework-ception.
+
+
+So what's your 'stack'? Is the one I described not actually that complicated? What's a realistic toolkit for what I'm doing?
+
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1in3s9/whats_your_stack_for_building_a_simple_page/
+1373637434.0,1i5i6o,Animated Books with CSS 3D Transforms [x-post from /r/webdev],nrogers64,16,0,1,,t5_2qifv,False
+1370879220.0,1g1tfz,A simple responsive off-canvas menu,naeem288,16,3,2,,t5_2qifv,False
+1353721895.0,13p0ok,Native CSS feature detection via the @supports rule,ltackett,16,0,4,,t5_2qifv,False
+1352916606.0,136wyz,Animated CSS Mask Icons,joeyhoer,20,3,0,,t5_2qifv,False
+1345448011.0,yii7o,TIL How to create speech bubbles using only CSS,caisah,19,5,2,,t5_2qifv,False
+1344027983.0,xn1ab,-webkit-var (CSS variables) now works as of Chrome 22.0.1218,checksinthemail,19,5,3,,t5_2qifv,False
+1341661235.0,w6b8n,Interesting CSS technique - half pixel borders for high resolution devices,skuvnar,16,1,6,,t5_2qifv,False
+1339611106.0,v06om,CSS Dropshadow issue,mandrig,16,0,16,,t5_2qifv,False
+1336490758.0,td1aw,CSS-Only Pinterest-style Column Layout,pixleight,18,4,4,,t5_2qifv,False
+1335329337.0,srac3,Google HTML/CSS Coding Styleguide,binarydreams,20,3,9,,t5_2qifv,False
+1329922119.0,q0xt1,I built a css3 animation generator. Hopefully not too many bugs... it only makes left to right at the moment but its perfect for carousels.,SirEnt,17,2,13,,t5_2qifv,False
+1328796685.0,phrkx,Co-chairman of the W3C CSS Working Group wants you to stop breaking the web.,0xbeef,16,0,18,,t5_2qifv,False
+1373651553.0,1i60kf,Effeckt.css - Performant CSS transitions &amp; animations,naeem288,17,3,2,,t5_2qifv,False
+1371638109.0,1gnbsc,What are the benefits of preprocessors?,tomjhume,15,0,12,"I have a solid grasp of HTML
+
+Any information would be great.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1gnbsc/what_are_the_benefits_of_preprocessors/
+1367412250.0,1dh7i8,Could someone explain specificity to me?,cgimusic,17,3,16,"I am having trouble understanding CSS specificity. My web design lecturer told me that every time you see an ID in a rule you add 100 to the specificity value
+
+I would understand that fine but I made the following page:
+
+    &lt;p id=""test"" class=""a b c d e f g h i j k""&gt;Blah&lt;/p&gt;
+
+With the CSS:
+
+    #test{
+        color:blue;
+    }
+    .a.b.c.d.e.f.g.h.i.j.k{
+        color:red;
+    }
+
+From my understanding the text should be red because it has 11 classes and hence a specificity value of 110 whilst the first rule has a value of 100. When I load the page the text is blue. Can someone explain to me what I am missing here?
+
+Thanks.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1dh7i8/could_someone_explain_specificity_to_me/
+1362970014.0,1a25d2,Could somebody explain why Chrome and Firefox react so differently to this code? What am I doing wrong?,ZynuxIRDC,15,1,11,,t5_2qifv,False
+1358880614.0,172i35,"I'm working on lightbase-css. A lightweight, responsive, percent-based CSS grid template and I would love your feedback.",SoBoredAtWork,17,11,False,
+1356710067.0,15kqxw,LESS / SASS vs OOCSS: What do you guys think?,,17,4,25,"I am at a point where I want to streamline my workflow and have been finding all sorts of pre-processors that seem very popular.
+
+My question is why would one use a pre-processor over the ideas outlined by OOCSS? Is OOCSS a better practice than one of the pre-processors? ",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/15kqxw/less_sass_vs_oocss_what_do_you_guys_think/
+1355384964.0,14ry2o,Hyphenation works!,nfol01,16,3,7,,t5_2qifv,False
+1353683992.0,13o3nh,CSS only - simple fading slideshow,yzoja,15,2,2,,t5_2qifv,False
+1351164812.0,12274q,Problems using CSS gradient background,_archer_,15,1,5,,t5_2qifv,False
+1350435593.0,11lpu2,A tool to cleanup really bad style sheets ,lex148,17,4,5,,t5_2qifv,False
+1343125735.0,x2f6k,"Fx 16 is unprefixing CSS Gradients, Transitions, Animations and Transforms",teoli,17,7,False,
+1335877406.0,t1gev,CSS3: Viewport Sized Typography,f0ad,18,4,1,,t5_2qifv,False
+1328884359.0,pjdjh,Someone had to do it: boobs. (wasn't me btw),Toberoni,19,3,4,,t5_2qifv,False
+1327438738.0,ouywt,Can someone explain the uses of :before and :after?,,17,4,16,"Hi
+
+So I've seen the pseudo-classes :before and :after being used a lot and lots of blogs are talking about them. Can someone explain their use and cool things which can be achieved with them?
+
+Thanks.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/ouywt/can_someone_explain_the_uses_of_before_and_after/
+1376687198.0,1kig3c,Absolute Horizontal And Vertical Centering In CSS,shelob9,14,0,3,,t5_2qifv,False
+1373998384.0,1iffv1,Looking for CSS best practices,mart187,13,0,25,"Hey guys
+I'm trying to improve my CSS
+Thanks in advance.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1iffv1/looking_for_css_best_practices/
+1373752522.0,1i8ng3,A trick/hack to change the font-size of &lt;select&gt; menus in Mac webkit browsers,dangoodspeed,14,2,8,"I don't know about you,,
+1371066075.0,1g7t79,morse code in CSS,vicapow,15,2,5,,t5_2qifv,False
+1370278694.0,1fl9ke,Build a mobile layout using CSS3,grdnlndn,14,1,0,,t5_2qifv,False
+1365158981.0,1bq50b,The Star Wars intro in pure CSS3,tzr,16,5,2,,t5_2qifv,False
+1364907233.0,1bifwx,Create Responsive YouTube Videos w/ CSS,jsurda,18,4,1,,t5_2qifv,False
+1353603569.0,13mjz2,In Defense of Descendant Selectors and ID Elements,nfol01,16,4,0,,t5_2qifv,False
+1352317315.0,12tahw,CSSRefresh for Instant CSS Testing,jalbertbowden,14,1,10,,t5_2qifv,False
+1352049610.0,12m9uv,Used to be a front-end web developer (really a three tier type of guy) but changed careers 10 years ago. Would like to pick it back up. Where do I start?,,15,2,12,"I'm interested in learning more than the basics of modern css/html. I want to learn how to create elegant code that is manageable across desktop and mobile environments and strategies for addressing large scale projects.
+
+I know... baby steps. But  that's where I want to be headed.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/12m9uv/used_to_be_a_frontend_web_developer_really_a/
+1348655289.0,10i0zt,CSS Regions Aren't Just For Columns,Bemuzed,13,0,0,,t5_2qifv,False
+1346080282.0,ywms2,"Circular progress meter with CSS only, no JavaScript!",frontendlab,15,2,http://www.reddit.com/r/css/comments/ywms2/circular_progress_meter_with_css_only_no/,,
+1345662615.0,ynhyd,Extreme specificity overriding a CSS ID,f0ad,16,3,5,,t5_2qifv,False
+1342399023.0,wm8ok,Being a CSS @keyframe Power User,jeremyckahn,15,4,2,,t5_2qifv,False
+1341582374.0,w4mm0,zeitgeist.css - Simple CSS that reflects the spirit of the time in web design.,rfreebern,22,10,6,,t5_2qifv,False
+1338540599.0,ufdj8,Free HTML5 and CSS Templates for Web Developers ,sdfgsdsdwe4r,37,26,1,,t5_2qifv,False
+1329764520.0,py465,"A Responsive CSS3 Slider Without Javascript* (all modern browsers fine, ie9 functional)",teapoted,14,2,http://www.reddit.com/r/css/comments/py465/a_responsive_css3_slider_without_javascript_all/,,
+1323346812.0,n4r70,How to structure your CSS,olindb,14,1,13,,t5_2qifv,False
+1318892088.0,lfng2,Oops. Don't position floating buttons over page content!,sparr,15,1,2,,t5_2qifv,False
+1376646486.0,1kh9zc,Useful tips to writing better CSS,naeem288,15,2,1,,t5_2qifv,False
+1376067852.0,1k1axf,Equal height columns,batpad,14,3,3,,t5_2qifv,False
+1373688601.0,1i78tz,What's the modern thing to do updating an existing site so it's mobile friendly?,redonculous,13,1,13,"Hey /r/css/ it's a while since I've had to update an old site like this
+
+Obviously you'd create a responsive/fluid site if you were building from scratch
+
+Would you just swap out the CSS file with a mobile version?
+
+Luckily the site is coded well with divs so it's not too bad and is easy to style.
+
+Would you still use:
+
+    &lt;link rel=""stylesheet"" href=""http://site.com/mobile.css"" type=""text/css"" media=""handheld"" /&gt;
+
+or is something more modern used?",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1i78tz/whats_the_modern_thing_to_do_updating_an_existing/
+1373051665.0,1hpfvh,Understanding CSS Blend Modes,naeem288,13,0,2,,t5_2qifv,False
+1371573036.0,1glcer,Can I shame Webkit into fixing an 8-year-old bug?,maestershake,14,2,8,"Webkit has a border-collapse bug where sometimes table-cell borders get applied to colspan&gt;1 elements and sometimes they don't
+
+https://bugs.webkit.org/show_bug.cgi?id=20840
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1glcer/can_i_shame_webkit_into_fixing_an_8yearold_bug/
+1369513257.0,1f1nmm,Is it possible to toggle div visibility with CSS?,Kmlkmljkl,13,0,14,"For instance: I place a div
+
+Can this be done with CSS,False,,t5_2qifv,False,,,t3_1f1nmm
+1366877848.0,1d2lf3,A good responsive and light css framework?,zombiesatepavlovsdog,16,3,23,"It's that time of the month again where someone asks for a good framework recommendation. I'm new to bootstrap (And responsive design) and my original plan was to create a child theme in wordpress based on it but I'm pretty much just using it for its grid and easy to implement responsiveness. So it's probably better to just use a much lighter framework for this project. 
+
+I would like something light (css only and maybe some JS to handle really shitty old browsers), cross browser compatibility, and nice clean and organized code that a noob can easily follow. 
+
+My original choice was ""skeleton"" but reading a comparison review on vermilion made me second guess that choice:
+
+""Responsive considerations seem like a bit of an afterthought. Examples: tabs do not stack for mobile versions; 1-column images (tiny
+
+Any suggestions?",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1d2lf3/a_good_responsive_and_light_css_framework/
+1356390163.0,15e8ln,Could someone *pretty please* explain positioning to me like I'm 5?,JohnSmithus12,14,2,14,"Hey /r/css
+
+I've recently begun my adventures of learning HTML, however, when it comes to positioning elements with CSS, I'm still a bit hazy.  I've done my research and put it into practice, but I still can't wrap my head around the difference between absolute and relative positioning.  In my head it makes sense, but I feel like when I try to practice it, I always get unexpected results.  So, the different between Absolutely positioning a Div, tricks,
+1354510575.0,146osn,Staticy SMPTE Color Bars,joeyhoer,15,3,0,,t5_2qifv,False
+1350682575.0,11rpg4,first time making anything out of pure CSS/HTML. Let know what you guys think?,makandcheeze,15,1,11,,t5_2qifv,False
+1344273316.0,xrvht,Scalable CSS using preprocessors and object-oriented CSS ,cwebbdesign,12,0,0,,t5_2qifv,False
+1343339800.0,x7p3g,CSS3 Isometric Text Demo,appletreecore,13,1,0,,t5_2qifv,False
+1340521036.0,vimgo,"Stylie, a fun CSS animation tool",jeremyckahn,14,2,http://www.reddit.com/r/css/comments/vimgo/stylie_a_fun_css_animation_tool/,,
+1336748882.0,ti8u5,Page Curl Box Shadow | CSSDeck,pixleight,13,1,6,,t5_2qifv,False
+1333977309.0,s0q82,Beginners guide to HTML and CSS,binarydreams,15,1,0,,t5_2qifv,False
+1314244213.0,jtnzf,why doesn't r/css have awesome CSS for itself,chrislouden,12,0,8,at least better than [r/apple](http://www.reddit.com/r/apple),t5_2qifv,True
+1299114936.0,fw759,Any tools to discover unused CSS?,icithis,15,3,5,"I have a master.css file that has about 5500 lines of deliciousness. Unfortunately I came onto this project when it was at 4900. I'm looking for some sort of site crawler that will compare my css file to the pages and what css declarations are called to
+
+Edit: Wow you guys are awesome! Thanks!",,t5_2qifv,True,,,True,http://www.reddit.com/r/css/comments/fw759/any_tools_to_discover_unused_css/
+1284399373.0,ddacm,CSS3 Please! The Cross-Browser CSS3 Rule Generator,dpatrick86,14,1,0,,t5_2qifv,False
+1376489492.0,1kck1j,CSS cheat sheet poster,wulfricin,11,0,9,"Hello
+
+I am looking for a gift for a friend's birthday. since he is a web-developer
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1kck1j/css_cheat_sheet_poster/
+1375304686.0,1jg4ka,3D Transforms - Part 2 of a 3 part series,assafgelber,12,1,0,,t5_2qifv,False
+1368116301.0,1e0b9x,How do I get my text to center vertically within a div?,94CM,12,1,22,,t5_2qifv,True
+1366814926.0,1d0frx,CSS color style question,jakechance,11,0,15,"My team and I were having a debate over using colors in CSS (applies to Sass and SCSS as well).
+
+The main issue is should you mix 3 and 6 character hex codes in your CSS.
+
+For black or white it's easy and obvious to do:
+
+    color: #000;
+
+and
+
+    color: #fff;
+but to match a mockup you may end up doing this later
+
+    background-color: #282825;
+
+Should the sheets be consistent by expanding white and black to `#ffffff` and `#000000` respectively?
+
+Finally
+
+    color: blue;
+
+but it wouldn't be uncommon to use
+
+    color: white;
+    background-color: black;",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1d0frx/css_color_style_question/
+1366728957.0,1cxsi4,Looking for a good HTML/CSS class for people with some beginner level experience. Can you help?,PleaseDontStalkMe,12,1,8,"I work at an email marketing company,False,
+1365071209.0,1bni8g,Is indenting CSS bad or good practice?,lonebeta,12,2,41,"Is the indenting the css as I have done below a good or bad idea/practice?
+
+#intro {	
+	background-image:url('../images/intro-bg.jpg');	
+}
+
+	#intro h1 {
+		text-transform:uppercase;
+		color:#999999;
+		font-size:72px;
+		font-family:Arial
+	}
+		#intro h1 span {			
+			font-size:72px;
+		}
+
+#gender {
+	
+}
+
+	#gender #women {
+		
+	}
+	
+	#gender #men {
+		
+	}",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1bni8g/is_indenting_css_bad_or_good_practice/
+1352750076.0,132u3v,Making an amazing CSS layout using a functional and awesome grid system.,namanyayg,18,5,5,,t5_2qifv,False
+1352136285.0,12oc5m,Multi-line Text Fading,joeyhoer,11,0,8,,t5_2qifv,False
+1345485029.0,yj7kt,Is there a way to apply CSS to forums and newspages I read?,OktoberStorm,13,1,4,"There's particularly one forum I visit quite frequently,,False
+1344627331.0,y0g8b,Make the HTML elements roll on mouse hover through CSS and JavaScript.,frontendlab,14,2,9,,t5_2qifv,False
+1344387463.0,xus2y,Flexbox will kick your dog and pee on your rug,Demon1,14,4,1,,t5_2qifv,False
+1344153601.0,xphzb,Object-oriented CSS &amp; CSS Preprocessors (guide | pt.1),cwebbdesign,12,2,0,,t5_2qifv,False
+1341481820.0,w2k6v,Pure CSS3 Progress Bars,kennyooi,13,1,1,,t5_2qifv,False
+1338921466.0,umh41,Use LESS to make CSS development suck less (part II),MariaNas,26,15,9,,t5_2qifv,False
+1328723302.0,pghvm,"Chris Eppstein: ""...it is time for variables, it is time for user-defined functions, it is time for better syntax. Actually, I take that back. It’s way past time."" ",averyvery,1,,False
+1326041408.0,o8292,Meanwhile on r/css,,28,17,14,"&gt;Subreddit on CSS
+
+Doesn't use css",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/o8292/meanwhile_on_rcss/
+1325450037.0,nyvfd,This crappy method to make equal-height column layouts with CSS makes me long for the days when using table-based layouts was acceptable.,onionbubs,11,0,17,,t5_2qifv,False
+1322757689.0,mw9oc,"What, in your opinion, is the best site/subreddit to learn CSS?",Kimba_the_White_Lion,15,11,False,
+1292368339.0,elw4b,How to Convert a PSD Web Design to HTML and CSS (screencast),fswmacguy,16,5,7,,t5_2qifv,False
+1289942134.0,e75z1,Mac OS X Finder replicated in pure CSS3. ( Chrome or Safari recommended for the mere purpose of the current CSS3 support ),CapnGoat,11,0,1,,t5_2qifv,False
+1276518625.0,cesji,Pure CSS Twitter Fail Whale,Drunken_Monkey,12,1,1,,t5_2qifv,False
+1375928238.0,1jxfz8,Flatit - a new Chrome Extension that improves reddit's css,gimmethel00t,18,7,8,,t5_2qifv,False
+1375217511.0,1jdhjw,[CSS] Could someone explain a situation in which this would be useful? [x-post],HovarTM,10,1,15,"Here:
+
+
+&gt;p:nth-child(4){
+&gt;
+&gt;
+&gt;font-family:Verdana;
+&gt;
+&gt;
+&gt;
+&gt;}
+&gt;
+
+Why not just make an ID or a class?
+
+Repost from /r/codecademy.  I'd just like to know if it's something that's going to be useful and if I should memorize it.
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1jdhjw/css_could_someone_explain_a_situation_in_which/
+1374831224.0,1j36q3,Setting subheads with CSS,naeem288,14,3,1,,t5_2qifv,False
+1371129817.0,1g9ktd,Custom Bootstrap Build vs. Resets…performance…cleanliness?,thomasmurphymusic,12,0,10,"Hi all
+I realized that I tend to use the full Bootstrap package from a CDN (for speed) and then reset what I don't want to carry from it. Is this a problematic practice for generating best performance
+
+Thanks!",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1g9ktd/custom_bootstrap_build_vs/
+1368813018.0,1ej3a5,One of our awesome users submitted the Coderbits logo in CSS!,thabofletcher,14,3,1,,t5_2qifv,False
+1367505124.0,1djw55,Horizontal CSS Menu Breaking Lines,t3hchipmunk,11,0,8,"I have a [horizontal menu](http://imgur.com/a/FISLn) that is breaking. I have tried changing the padding and margins on the li
+
+    [css]
+    #site-navigation.main-navigation {
+        background:url(images/navigation-gradient-background.png) repeat-x scroll left top white;
+    }
+    
+    #site-navigation.main-navigation ul {
+        min-height: 51px;
+        font-size: 1.063em;
+        font-family: arimo
+    }
+    
+    #site-navigation.main-navigation ul li {
+        list-style-type: none;
+        display: inline-block;
+        margin: 0;
+        padding: 18px 0 0 11px;
+    }
+    
+    #site-navigation.main-navigation a {
+        color: #f36c2e;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+    
+    #site-navigation.main-navigation a:hover
+    #site-navigation.main-navigation li.current_page_item a {
+        color:#82b246;
+    }
+
+    [html]
+    &lt;nav role=""navigation"" class=""main-navigation"" id=""site-navigation""&gt;
+        &lt;h3 class=""menu-toggle""&gt;Menu&lt;/h3&gt;
+        &lt;a title=""Skip to content"" href=""#content"" class=""assistive-text""&gt;Skip to content&lt;/a&gt;
+        &lt;div class=""menu-quick-links-container""&gt;
+            &lt;ul id=""menu-quick-links"" class=""nav-menu""&gt;
+                &lt;li id=""menu-item-101"" class=""menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-101""&gt;
+                    &lt;a href=""{redacted}""&gt;Home&lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li id=""menu-item-102"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-102""&gt;
+                    &lt;a href=""{redacted}""&gt;About Rachael&lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li id=""menu-item-103"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-103""&gt;
+                    &lt;a href=""{redacted}""&gt;Appearances&lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li id=""menu-item-105"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-105""&gt;
+                    &lt;a href=""{redacted}""&gt;Speaking&lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li id=""menu-item-104"" class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-104""&gt;
+                    &lt;a href=""{redacted}""&gt;Presentation Outlines&lt;/a&gt;
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/nav&gt;
+
+Any help is appreciated. If you want a link I can post it.
+
+**edit: added some HTML**",,t5_2qifv,1367506854.0,,,True,http://www.reddit.com/r/css/comments/1djw55/horizontal_css_menu_breaking_lines/
+1365212844.0,1brut1,"Little ironic, but /r/CSS is 4 years old, and yet there's no special CSS styling?",mrmcpowned,32,20
+
+Edit: Why not have a CSS Style-off? Would be interesting to see some different ways to have this subreddit styled and we could all vote on it.",,t5_2qifv,1365295439.0,,,True,http://www.reddit.com/r/css/comments/1brut1/little_ironic_but_rcss_is_4_years_old_and_yet/
+1357637250.0,166cli,All about z-index,spikeyleaves,14,2,5,,t5_2qifv,False
+1355183662.0,14mtk1,Scrum development: keeping CSS clean,bfink13,11,2,4,"Recently,,
+1350429135.0,11lioh,Learn Sass the AWESOME WAY!!,anotheruiguy,15,5,6,,t5_2qifv,False
+1342513242.0,woy7x,"Introduction into CSS3 Grid Layout, one of the most interesting modules in the family of CSS3",caisah,15,4,http://www.reddit.com/r/css/comments/woy7x/introduction_into_css3_grid_layout_one_of_the/,,
+1340963548.0,vsf13,Idiomatic CSS,wild_oats,13,4,1,,t5_2qifv,False
+1340891952.0,vqnzr,Building books with css3,mebekah,12,3,0,,t5_2qifv,False
+1338334834.0,ub6qv,How to embed fonts?,therealaustralian,11,2,14,"I've being trying to embed HoboStd
+I have the .otf file in the site directory so the code looks like this:
+
+@font-face {
+	font-family: HoboStd;
+	src: url('HoboStd.otf');
+}
+
+html {
+        font-family: ""HoboStd""
+}
+
+The font is showing up as Arial. Am I missing something? Thanks.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/ub6qv/how_to_embed_fonts/
+1335362594.0,srr1e,Accordian Slider in CSS3 without JS,ruby_on_tails,12,3,6,,t5_2qifv,False
+1330128529.0,q4sw8,"CSS buttons, over 40+ of your favorite services like 
+facebook,tranceparadize,19,8,3,http://www.reddit.com/r/css/comments/q4sw8/css_buttons_over_40_of_your_favorite_services/,,False,,http://web.bogdanteodoru.com/development/css-buttons-powered-with-font-face-icons/
+1329477432.0,ptr6m,Craig Buckler's article: The Impending CSS Vendor Prefix Catastrophe,ronsman,11,1,1,,t5_2qifv,False
+1328977174.0,pkuok,CSSWARP - CSS Text to Path Generator,AhSaElDin,10,0,2,,t5_2qifv,False
+1325251580.0,nw85j,How does this CSS triangle shape work?,cruise02,11,1,4,,t5_2qifv,False
+1311935570.0,j33s2,Is it possible to do this (for every browser)?,unimatrix,12,1,25,"[Click here to see image](http://i.imgur.com/vnNzN.png)
+
+So the idea is simple. Split a box into two sub-boxes.
+The trick is that everything should be percentual - no fixed sizes (EDIT: apart from potential margins).
+
+One way to do it is setting a *float:left* to both sub-boxes and their *width*s to 80% and 20% respectively. The problem with this method is that some browsers will break the second box into a new line. This can be avoided by setting the widths to 79% and 19% or something similar
+
+So how do we do this cross-browser without any gaps?
+
+And another thing,False,,t5_2qifv,True,,,t3_j33s2
+1311755502.0,j0zu0,align an unknown number of elements horizontally with even spacing,crash86,10,1,4,"I have a photo gallery
+
+    1  2  3  4  5
+    6   7   8   9
+    10    11   12
+
+basically what i want is text-align:justify; for elements.
+
+does anyone know anyway i can do this in css?
+
+edit: solved! comment below.",,t5_2qifv,True,,,True,http://www.reddit.com/r/css/comments/j0zu0/align_an_unknown_number_of_elements_horizontally/
+1283529332.0,d97au,CSS Stuff - Free Neat... Stuff,burt_flaxton,12,2,2,,t5_2qifv,False
+1275020555.0,c8xcu,The Ultimate Guide to CSS Typography,aspenang,10,1,1,,t5_2qifv,False
+1375744847.0,1jrvmv,How do I isolate an &lt;a&gt; tag?,test_tickles,13,5,18,"I need to be able to control the color of a separate set of links. One set for light text on dark,False,
+1375121974.0,1jaia5,Automagically prefix your CSS in Sublime,sindresorhus,13,3,10,,t5_2qifv,False
+1371808861.0,1gsby7,Is there a negative impact of breaking CSS up in to lots of files and using @imports?,Dark_place,9,1,11,Is there an issue created when having lots of @imports?,t5_2qifv,True
+1371590796.0,1gm1ft,"I just starting web design (started learning HTML/CSS two days ago) and I made a mock website for myself, hoping to get some help.",marinojesse,11,0,http://www.reddit.com/r/css/comments/1gm1ft/i_just_starting_web_design_started_learning/
+
+One thing I haven't been able to fix on my own is getting the text in the three divisions centred vertically. Also
+
+
+
+Edit: I seem to have fixed my vertical issues. Just a few more questions. It now seems to have a white bar at the top when you scroll down
+
+Edit 2: The white bar at the top doesn't seem to be appearing anymore, and soundcloud pages. Any advice on that? And thanks again, you guys have been amazing. :)",,False,,t5_2qifv,,http://www.reddit.com/r/css/comments/1gm1ft/i_just_starting_web_design_started_learning/
+1370338593.0,1fn55u,CSS Help - Sprites,horizon14,9,0,5,"Okay
+and http://lukezammitdesign.tumblr.com/",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1fn55u/css_help_sprites/
+1365729660.0,1c6ddg,Has anyone here ever made their own frontend framework? Do you feel like it was worth it?,pegasus_527,10,2,7,,t5_2qifv,True
+1364510713.0,1b7fs0,"Forkable, gistable style swatches for devs and designers with CSS, SCSS and Compass, or Stylus and Nib.",lightyrs,1,,False
+1363906017.0,1arhhc,Full screen columns and other adventures,thathockeyguy,9,0,12,"This seems like it should be so easy
+
+
+-Two columns side-by-side
+
+-A logo that's always in the centre (horizontal and vertical) of the page.
+
+-Two divs, they should always be in the centre of their respective containers. 
+
+
+I feel like I've tried everything here - I've googled and googled some more,False,,t5_2qifv,False,,,t3_1arhhc
+1362951554.0,1a1l0j,Recommended reading on organizing CSS (best practices),calendaronmymonitor,12,5,7,"I understand I should keep the CSS for my Headings next to each other
+
+But say I have CSS for Headings
+
+Should they go in alphabetical order:
+
+/ * Headding * /
+
+/ * Navigation * /
+
+/ * Paragraph * /
+
+/* Table * / 
+
+
+????",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1a1l0j/recommended_reading_on_organizing_css_best/
+1361126898.0,18pabk,Suggested resources for learning CSS for layout (experienced programmer),fried_green_baloney,12,2,9,"Subject says it all:  Any resources
+
+Getting colors right, I have all that.  It's the layout that is confusing me.",,False,,t5_2qifv,False,,
+1358707442.0,16xv6g,I am having a lot of mobile CSS issues as of lately. Anyone have recommendations for mobile CSS view tools? ,maaseyracer,10,1,13,"I just finished a site and the initial HTML mock up works great on my iPhone. However
+
+What are some of your preferred tools out there for comparing or test mobile CSS? 
+
+Also if anyone has any tips on how to get my sites homepage to render like my test page does on the iPhone please let me know. I have been starring at CSS lines for a few hours and my eyes feel crossed.
+
+Test Site:
+http://www.andersoncanyon.com/anderson-html/
+
+Actual Site:
+http://www.andersoncanyon.com/",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/16xv6g/i_am_having_a_lot_of_mobile_css_issues_as_of/
+1358241352.0,16lz30,SEO effects of ::before &amp; ::after psuedo-elements -&gt; revisited,opus-thirteen,11,1,8,"Ok
+
+After much searching I finally found a 'Near English' phrase that had 0 Google results (it was a hell of a lot harder than I thought it would be).  'staminified dawg' was my key.
+
+I have a domain that I use for random css/php/js tests that was registered on March 23
+
+    .petal:before {
+    content: ""staminified dawg"";
+    display: none
+    }
+
+
+    .petal:after {
+    content: ""staminified dawg"";
+    visibility: hidden
+    }
+
+
+(The display and visibility were used separately to see if there was any effect from either scenario)
+
+
+At the same time I linked a new page off the index.html and checked webmaster tools to see the index status.  All the other pages had been indexed.  3 weeks later... the page has been botted since
+
+So what do we know?  Only that ""staminified dawg"" has yet to be indexed --we still don't know if the {display: none} and {visibility: hidden} tags have had an effect.  
+
+The next step is to make the {content: """"} tags visible on the page and get somethign else indexed at the same time  I guess we'll get a little bit more of an answer then.
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/16lz30/seo_effects_of_before_after_psuedoelements/
+1355480033.0,14u5ce,unfolding effect using css and jquery,nick_27,11,3,2,,t5_2qifv,False
+1354027445.0,13vhul,"Listamatic: one list, many options -  Using CSS and a simple list to create radically different list options",emegeve,10,1,http://www.reddit.com/r/css/comments/13vhul/listamatic_one_list_many_options_using_css_and_a/,,
+1350569566.0,11otxb,CSS3Pie -The fix for Internet Explorer,karmakazze,16,9,10,,t5_2qifv,False
+1349788531.0,116zql,Is the use of classes and id's determined solely by convention or are there actual ramifications using id's as classes and vice versa?,fucking_leverpostej,13,4,17,,t5_2qifv,True
+1347003640.0,zhwa3,Do you use IDs in selectors?,hiii,10,1,21,Do you use Ids in selectors...why/why not?,t5_2qifv,True
+1346174601.0,yyy1x,Make items move with dropdown,ffxpwns,9,1,6,"So I have some dropdowns that drop on click
+
+My [HTML / jquery](http://pastebin.com/Kh9vFqb1)
+
+and my [CSS](http://pastebin.com/aWFwErPN)
+
+For everyone else,False,,t5_2qifv,1346186611.0,,,t3_yyy1x
+1343900402.0,xk19a,"With todays high dpi fluctuation from device to device, does it make sense to move to pt for font-sizes?",quakenul,8,1,http://www.reddit.com/r/css/comments/xk19a/with_todays_high_dpi_fluctuation_from_device_to/,False,
+1343596557.0,xcvhv,Can someone help me with this?,Edgy_Insomniac,10,3,8,"[My work](http://dabblet.com/gist/3201858) 
+
+I would like link5 and link6 to be on the same Y-axis but lower on the sidebar. I have tried for 2 hours on this and still can't get what I want. Can someone help?
+
+Edit: [Poopio solved my problem](http://www.reddit.com/r/css/comments/xcvhv/can_someone_help_me_with_this/c5lbh93)",,t5_2qifv,1343606982.0,,,True,http://www.reddit.com/r/css/comments/xcvhv/can_someone_help_me_with_this/
+1340726273.0,vmu78,Use LESS to make CSS development suck less (part III),MariaNas,20,13,14,,t5_2qifv,False
+1339141303.0,ur9yk,Pure CSS responsive drop-down collapse to clickable accordion.,teapoted,12,2,3,,t5_2qifv,False
+1338425945.0,ud1x4,Pure CSS Slideshow Effect for Presentation,kennyooi,13,3,2,,t5_2qifv,False
+1337362636.0,ttjf1,HUSL: a human-friendly alternative to HSL. Currently works with Stylus. I may port it to Ruby + Sass. What do you guys think?,boronine,11,2,2,,t5_2qifv,False
+1334061250.0,s2fvg,Responsive design - Images,gregsfriend,10,1,11,"Hi all
+
+I am converting an existing website to a responsive design. The main issue I am having is with images when I want them to re-size. What is the correct way to re-size an image for a responsive design? I did try using ""max-width"" but I lose some of the image quality. ",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/s2fvg/responsive_design_images/
+1333642042.0,rus5r,Ultimate CSS Gradient Generator,morkle13,11,3,1,,t5_2qifv,False
+1330035447.0,q34vu,.hidden_css_feature{position:absolute;right:10px;left:10px} Anyone use this?,zzzwwwdev,10,0,7,,t5_2qifv,False
+1320081510.0,lvcuo,New Version of W3C Validator,sdleihssirhc,9,1,1,,t5_2qifv,False
+1316432310.0,kke1m,Not sure if this can be done with CSS...,burningmonk,10,1,10,"I have a few pages on my [photo site](http://lkazphoto.com/) and I would like a simple and effective way to standardize the navigation menu between pages. As it is now
+
+Is there some way to do the menu layout once, I change it in the menu's source file and the change will appear on each and every page with the menu.
+
+Hopefully my explanation was clear. Please help!!",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/kke1m/not_sure_if_this_can_be_done_with_css/
+1313140928.0,jgmcl,Please explain how this wizardry in CSS Page Width resizing is done,SuperRoach,9,0,7,"http://css-tricks.com/
+
+When resizing the page
+
+There are even basic animations when Javascript is disabled on the page
+
+I was wondering what method they are using - I'd like to mock up a basic page using similar ideas.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/jgmcl/please_explain_how_this_wizardry_in_css_page/
+1310646350.0,ipdfi,Any free CSS online books out there? Looking for something similar to diveintohtml5.org and progit.org. Ta!,milkmiruku,11,2,5,,t5_2qifv,True
+1292229349.0,ekx32,Fun with CSS3: Flexible Box Layout Module,moreyes,9,0,0,,t5_2qifv,False
+1284022986.0,dbil3,Advanced CSS Prettifier with some unique formatting styles and several customizable options,3zzy,9,0,0,,t5_2qifv,False
+1279278568.0,cq929,"Now use some CSS3 feautures in IE 6, 7 &amp; 8",snuzi,11,1,http://www.reddit.com/r/css/comments/cq929/now_use_some_css3_feautures_in_ie_6_7_8/,,
+1264132367.0,asoie,text-shadow is awesome. that is all.,qubitsu,11,4,10,"A few years ago, highlighted the drop-shadowed text, and found a single text-shadow property working all the magic.  Now I notice the text drop shadows on nearly every [pretty website](http://www.data.gov.uk/blog/public-site-launch) I visit.
+
+Things really do get better,False,,t5_2qifv,False,,,t3_asoie
+1375521071.0,1jmaud,Collection of best front End frameworks,based2,9,2,0,,t5_2qifv,False
+1375382806.0,1jifb9,Fullpage animations using CSS,tzr,15,6,5,,t5_2qifv,False
+1373167062.0,1hs8rr,How does floating an element affect the display property?,T96,9,2,3,"This may be a silly question
+
+* When floating
+* Although it it's a block element
+
+Or am I mis-understanding this,False,,t5_2qifv,1373199184.0,,,t3_1hs8rr
+1372051748.0,1gyalp,Star Wars: Attack of the DOM,scotchio,11,2,4,"Hey guys
+
+So I don't know how many of you all got to see my last submission
+
+So check it out, etc).
+
+Here are the links:
+
+[Full Demo with CSS3 Intro and Scrolling Text](http://scotch.io/demos/star-wars-attack-of-the-dom)
+
+[Attack your site!](http://scotch.io/apps/star-wars-attack-of-the-dom)
+
+[Simple CodePen](http://codepen.io/ncerminara/pen/gwbKs)
+[Source Code](https://github.com/scotch-io/Star-Wars-Attack-of-the-DOM)
+
+
+Let me know what you guys think. I hope you all like it! All just for fun
+
+Thanks
+
+Edit: Sound warning,False,,t5_2qifv,1372072519.0,,,t3_1gyalp
+1370457997.0,1fqkt1,The Image Locator: Tool automatically positions multiple cropped images against a large background,zeckdude,9,1,2,,t5_2qifv,False
+1369853681.0,1fa9ob,"All elements lined up = 100px, parent element 100px, IE wraps the last element while other browsers do not. Help?",_atwork,9,6
+
+Internet explorer wraps the last element
+
+Is this a known issue or do I need to go digging and see if there's some sort of obscure thing I'm missing.
+
+And yes I know I am terrible at writing a good title.
+
+
+**UPDATE:** I was zoomed out to 95%.  This causes the issue in any browser.  Any ideas on making that not be an issue?  Using percents might fix the issue instead of pixel widths for these individual elements,False,,t5_2qifv,1369854802.0,,,t3_1fa9ob
+1367516652.0,1dkaix,"Nav bar is moved down when opened in chrome, but moves to the correct spot when refreshed",goatsegonewild,8,0,http://www.reddit.com/r/css/comments/1dkaix/nav_bar_is_moved_down_when_opened_in_chrome_but/
+
+Hi everyone
+
+I'm pretty new to css and I know troubleshooting is an important way to learn
+
+I've played with the logo size as well as the nav bar width
+
+http://brianchristensen.webege.com/
+
+**edit** Apparently it doesn't seem to happen when I click the link from this post
+
+",,t5_2qifv,1367517613.0,,,True,http://www.reddit.com/r/css/comments/1dkaix/nav_bar_is_moved_down_when_opened_in_chrome_but/
+1366981558.0,1d5g0f,Antialiasing text in Firefox,quantumoranges,11,4,3,"I've just come across a CSS trick that I wanted to share. I've been using the font-import to use other font sets on a website
+
+In webkit
+
+&gt; -webkit-font-smoothing: antialiased;
+
+Of course
+
+&gt; text-shadow: 0 0 1px rgba(0,0.2);
+
+It gives the rendered text a nice,,False,,t5_2qifv,False,,True
+1365025623.0,1bm7s1,Singularity 1.0 (grid system),devoinregress,8,1,8,,t5_2qifv,False
+1363237650.0,1a9nxo,Should I use sprite sheets?,SevenSeasOfRhye,10,2,9,"Are sprite sheets worth using in CSS? For example
+
+How the #@#$ do I use a sprite sheet in CSS? I have not been able to find anything useful through google about how to use one.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1a9nxo/should_i_use_sprite_sheets/
+1362765224.0,19x8fk,Just starting out in SASS. I want to use the HTML boilerplate and normalize.css. Is there a way to 'import' them in to SCSS?,Police_Telephone_Box,9,1,18,I am using compass since I am really green on the command lines.,t5_2qifv,True
+1362735408.0,19wkph,Is there any way to have a selector:hover only trigger when a child element is NOT also hovered over?,Gemini4t,8,0,7,"html:
+
+    &lt;div class=""outer""&gt;&lt;div class=""inner""&gt;&lt;/div&gt;&lt;/div&gt;
+
+css:
+
+    body {
+    	background-color: #000000
+    }
+    
+    .outer {
+    	background-color: #FF9900;
+    	width: 205px;
+    	height: 63px;
+    	border-top-left-radius: 32px;
+    }
+    
+    .inner {
+    	background-color: #000000;
+    	width: 105px;
+    	height: 45px;
+    	border-top-left-radius: 16px;
+    	position: relative;
+    	top: 18px;
+    	left: 100px;
+    }
+    
+    .outer:hover {
+    	background-color: #FFCC99;
+    }
+
+(For background information
+
+The child element serves as negative space providing the inner curve of the element, it won't change the color of the ""outer"" class?",,False,,t5_2qifv,False,,
+1361827319.0,197qmk,Twitter Bootstrap like Alerts with no JS dismiss.,rlemon,9,1,0,,t5_2qifv,False
+1354861978.0,14fkyj,"Is there a way to do this?  ""@media screen and (min-height: 1080px) OR (min-height: 1920px) {""",dangoodspeed,11,2,13,"I'm making a responsive site with a fixed 1920x1080 background where I also want to apply some special styles in the rare cases that the width is greater than 1920 or the height is greater than 1080.  Since they'd be the same changes,,
+1351785419.0,12gnk3,CSSLoad.net V2 - CSS3 loading animations generator version 2 has just been released.,pratamishus,8,0,1,,t5_2qifv,False
+1348620864.0,10hcgo,"When you build an email newsletter, are you still supposed to build it in tables, or can it be divs and CSS now?",,9,20,False,
+1347662798.0,zwfe5,jQuery UI Bootstrap – A New Bootstrap-inspired Theme For Your Widgets,ashishnaicker,10,3,2,,t5_2qifv,False
+1347375828.0,zplqk,"When browser resizes, page elements squish together.",UnclePenn,9,1,http://www.reddit.com/r/css/comments/zplqk/when_browser_resizes_page_elements_squish_together/
+
+I am pretty new at CSS and I have mad my first attempt to create a website with a liquid layout.  I have a container div setup with relatively positioned elements inside.  
+
+The page looks fine until I expand or shrink the browser size and then everything moves.  How can I prevent that from happening?
+
+Thanks for any advice,False,,t5_2qifv,False,,,t3_zplqk
+1345618534.0,ymkdb,15 Responsive CSS Frameworks &amp; Boilerplates,caisah,14,6,3,,t5_2qifv,False
+1339435015.0,uwedh,"Let's Talk SMACSS, Man",inchworm,12,3,http://www.reddit.com/r/css/comments/uwedh/lets_talk_smacss_man/,,
+1337018504.0,tmrlp,Print CSS for academic papers,snifty,9,2,17,"I'm wondering if anyone here has experience typesetting an academic paper with CSS. I know it won't get to LaTeX-level of precision
+
+Once challenge in particular is to figure out the right font sizes...",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/tmrlp/print_css_for_academic_papers/
+1332459781.0,r95gf,Can someone explain why the vertical margining on these boxes isn't the same as the horizontal?,jimdoescode,8,0,9,,t5_2qifv,False
+1332160810.0,r3dgu,"Maintaining CSS Style States using ""Infinite"" Transition Delays",Zevas,9,0,4,,t5_2qifv,False
+1328297600.0,p9mxf,Quite Amazing CSS3 Animated Smileys! ,zack84,8,1,2,,t5_2qifv,False
+1324047894.0,nf7j9,How To Create a Stylish Drop Cap Effect with CSS3,peepingtomhanks,8,0,1,,t5_2qifv,False
+1323030205.0,n02ek,Path menu in pure CSS3,pastr,9,2,4,,t5_2qifv,False
+1319825971.0,lsfys,Why CSS will never catch up with design,sdleihssirhc,14,4,7,,t5_2qifv,False
+1319740126.0,lr8db,Harry Roberts is doing a CSS Build-Along,sdleihssirhc,10,2,0,,t5_2qifv,False
+1311611878.0,izao6,Pure CSS gradients! Yay!,LookingForRat,12,6,12,,t5_2qifv,False
+1304452733.0,h3ekh,I apologize in advance....,,9,2,15,"...if you see this post every other day
+
+I am relatively advanced back-end web developer, that isn't what I'm looking for. I want to actually *learn* CSS. 
+As it stands I can add some basic things to a page. I simply can't seem to make anything professional
+
+I know a lot of this comes with practice
+
+Thank you for any help",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/h3ekh/i_apologize_in_advance/
+1304285391.0,h1lvl,I thought of an addition to the CSS3 color module,Caraes_Naur,9,1,9,"I was playing with the design of one of my sites earlier
+
+This grew into a crude draft of a syntax for computing a color value based on another color value.
+
+For example, say 20% lighter, only once.
+
+Any channel of a color value (red, saturation, lightness; alpha) could have some simple arithmetic (add, subtract, multiply, divide) applied to produce a new color.
+
+I went through the CSS www-style mail list archives basck into 2008
+
+Is this a capability that others would be interested thin?  Does it follow the spirit of CSS?  Would it end up being too computationally expensive?  I think this is a pretty cool idea,False,,t5_2qifv,False,,,t3_h1lvl
+1295824080.0,f7q1c,Float Containment: Best Practices,designonthemind,10,0,1,,t5_2qifv,False
+1288094915.0,dwkti,Two Lines CSS Framework,vladocar,11,5,8,,t5_2qifv,False
+1282649359.0,d4t0v,"If you make a style theme for Reddit that makes Reddit look like an Excel spreadsheet, 1 month Reddit Gold to you! ",,11,2,http://www.reddit.com/r/css/comments/d4t0v/if_you_make_a_style_theme_for_reddit_that_makes/,,
+1272392961.0,bwv8e,apple-style pill buttons in CSS,asaturn,9,0,6,,t5_2qifv,False
+1376679555.0,1ki6q1,Rounded corner not rendering in Firefox when on top of embedded Youtube video.,cuddlyogre,7,0,2,"[Link](http://www.cuddlyogre.com/2013/08/07/tech-support/)
+
+Bug happens when you open the ""Keep In Touch"" menu.
+
+In Firefox 23.0, I  If I were to delete the node containing the video, it displays properly. Using my test environment, I have verified this happens to any corner that is rendered on top of the video. The issue is not present when viewing the site in IE or Chrome and does not happen anywhere that the video is not present, including the very same page. 
+
+I am using jquery 1.10.2 to set sub-menu to display:block when clicked.
+
+Anyone have a clue what's happening?",,t5_2qifv,1376773874.0,,,True,http://www.reddit.com/r/css/comments/1ki6q1/rounded_corner_not_rendering_in_firefox_when_on/
+1376421236.0,1kap97,Userscript to prettify CSS,sindresorhus,11,5,1,,t5_2qifv,False
+1375045983.0,1j8h96,CSS image sizes are different in Safari?,restlessdreams,8,1,7,"For some reason
+
+SOLVED",,t5_2qifv,1375113415.0,,,True,http://www.reddit.com/r/css/comments/1j8h96/css_image_sizes_are_different_in_safari/
+1373949834.0,1ie5ib,Im stuck. CSS rookie,jc_13_jc,9,1,5,"So im trying to learn some HTML and CSS coding just in my spare time and im stumped.. http://jc13jc.comuf.com
+
+this is a layout i like the look of (not the colors....) but as im a rookie i have no idea what i have done! if you notice when you make the window a smaller size (iv only tried this is firefox so far) the text goes behind the nav bar on the left.... Any help would be greatly appreciated
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1ie5ib/im_stuck_css_rookie/
+1373694812.0,1i7e84,Bootstrap + carousel type image background,keepitclose,7,0,7,"hey dudes
+
+I want to make something like this with an image that takes up the full width
+
+Any ideas on how to accomplish this?
+
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1i7e84/bootstrap_carousel_type_image_background/
+1372967869.0,1hnh39,Can anyone recommend a simple (text only) accordion menu for a sidebar?,hobbitlover,7,1,10,"I'm putting together a simple writing portfolio,,
+1372096404.0,1gzcae,Question: Are there any sites that scroll UP?,iamataco,9,2,14,"Hi
+Longtime lurker. I have a potential project and was wondering if there are any examples of parallax scrolling sites that actually go the other way (up)?.
+
+If not
+thanks in advance!",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1gzcae/question_are_there_any_sites_that_scroll_up/
+1371349345.0,1gflcv,Good books explaining SASS?,nilogram,8,0,6,Looking to read up more about this was hoping for some suggestions.. Ty,t5_2qifv,True
+1370592810.0,1fun6h,Thought of a neat little way to make spoiler tags.,DrunkOtter,8,0,11,"This replaces the ~~strikethrough~~ text.
+
+    del {
+      background: #000;
+      color: #000;
+      text-decoration:none;
+    }
+      del:hover {
+      color: #fff;
+    }
+
+[Example](http://codepen.io/Kmlkmljkl/pen/GgnEj) (If you can't see anything
+
+I didn't really like the fact that current spoiler tags mostly link to a /spoiler page,,False,,t5_2qifv,1370593535.0,,True
+1369600796.0,1f3khm,Position:Fixed Header messing up my body's text,ZeSexyPanda,7,0,8,"Hey guys I wanted to created a fixed header the moves when the reader scrolls. The header displays and works fine but it causes all of my inner body text to move all the way to the top of the page. This is what my header looks like :
+
+    #header {
+    	height:50px;
+    	left:0;
+    	right:0;
+    	background-image:url(../images/header_slice.png);
+    	background-repeat:repeat-x;
+    	position:fixed;
+    	z-index:-1000;
+    }
+
+My body's text:
+    
+    #wrap .heading_title {
+    	position:absolute;
+    	color:#333;
+    	font-family:'Ubuntu'
+    	font-size:18px;
+    }
+    
+    #wrap .body_text {
+    	position:absolute;
+    	width:960px;
+    	text-align:justify;
+    }
+
+This is what it looks like:  http://imgur.com/L4gDl43
+
+When I remove position:fixed and change it to position:absolute the page looks fine.
+
+(I know that I set z-index to -1000 it's so you guys can see where the text was.)
+
+Do you guys know what I'm doing wrong? Thanks!   ",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1f3khm/positionfixed_header_messing_up_my_bodys_text/
+1368474836.0,1e9jbr,"This is my current design for a Web Programming project, are there any good CSS alternatives for the iframe?",MaceFresh,10,2,http://www.reddit.com/r/css/comments/1e9jbr/this_is_my_current_design_for_a_web_programming/
+
+http://i.imgur.com/6BQPiym.png
+
+The project has to be completed in HTML/CSS/PHP
+
+Any tidbits of advice or criticism are also definitely appreciated. I'm trying to do the best on this as I possibly can.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1e9jbr/this_is_my_current_design_for_a_web_programming/
+1366929402.0,1d44sw,Trying to create a color wheel in css - Help with hovers/jquery?,Dabien,8,2,4,"I'm trying to create a color wheel (almost identically to this http://dylon.co.uk/colours.htm) - However using CSS/JQuery. So far I've created each color slice as a seperate div,False,
+1366224534.0,1cjtgl,Image Hover CSS Question,bakedbeansinmymouth,8,1,13,"Does anyone know how to add an opaque color over the top of an image on hover like [this site](http://modernfarmer.com/) does at the top? I thought it was a -webkit trick,,
+1364948963.0,1bjyg8,Starting up a new subreddit. No clue on how to CSS. Point me in the right direction?,inpursuitofknowledge,8,1,9,"Title speaks for itself really. I want to get my sub off the ground, etc. that i should read? Tutorials?
+
+Alternate solution: Any experienced CSS guys/gals out there want to hook up my subreddit? Id be massively appreciative
+
+**tl;dr** Need css help for my subreddit. Where can i learn? Anyone willing to jazz it up for me?
+
+**edit** Thanks everyone for the reccomendations! Its nice to see swift replies in favor of swift downvotes. Im on a path to getting better at CSS,False,,t5_2qifv,1365033836.0,,,t3_1bjyg8
+1362609050.0,19syl7,What do YOU like to use to design the look of your personal website,calendaronmymonitor,8,0,16,"I'm learning HTML and CSS at the same time. My project(s) are personal gardening note book/blog
+
+I'd really like to write the code by hand - I anticipate to make templates to paste monthly data into. These are largely self data collection projects. 
+
+I only have Photoshop Elements; no guide rules like in Photoshop CS. Is there a good free tool that'll make dimensions easy to track? I'm not opposed to just using colored pencils and paper; as long as I'm not unaware of what exactly my options are (if the pencils are the most practical choice than so be it).
+
+I am concurrently trying to decide what I want to learn how to code and what I'd like the content too look like. 
+
+
+
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/19syl7/what_do_you_like_to_use_to_design_the_look_of/
+1362094578.0,19fev9,"x-post from r/csshelp: IE CSS issue: 2 pages using same stylesheet and most of the same divs, one displays correctly in IE and one does not",elcapgal,8,0,http://www.reddit.com/r/css/comments/19fev9/xpost_from_rcsshelp_ie_css_issue_2_pages_using/
+      
+      body {
+      font-family: Verdana
+      background-color: #FFF;
+      margin: 0;
+      height:100%;
+      padding: 0;
+      font-size:0px
+      width:1300px;
+     }
+
+    .container {
+      margin: 0 auto;
+      width: 960px;
+     }
+     #header {
+      height: 270px;
+
+     }
+
+     #image {
+      height: 243px;
+      margin: 0 auto;
+    }
+
+    #text {
+      height: 50px;
+      margin: 0 auto;
+      font-family: Verdana;
+      font-size:18px;
+      margin-top:-20px;
+      }        
+         
+     #subheader {
+      height: 320px;
+             
+     }     
+
+    #subheader2 {
+     height: 280px;
+     font-size: 14px;
+     font-family: Verdana; 
+     margin: 0 auto;
+     width: 960px;
+    }   
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/19fev9/xpost_from_rcsshelp_ie_css_issue_2_pages_using/
+1360636322.0,18cnpp,Front end css/html framework,somethingconcon,8,0,11,I've heard of Zurb Foundation. I've heard of Twitter Bootstrap. Are there any other front end frameworks out there that are built in the same style? ,t5_2qifv,True
+1359155593.0,17a9jj,Using a div like a checkbox?,guardianfx,8,0,11,"I am curious if it is possible to make an entire div selectable. Say I have a div in the shape of a box with some stuff (images / text) inside the div. I want it so when the entire box is clicked
+
+I looked into creating a div checkbox
+
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/17a9jj/using_a_div_like_a_checkbox/
+1358686409.0,16xefd,Business Card Design Using CSS,bebraw,9,2,4,,t5_2qifv,False
+1358367051.0,16pc5n,"Attempting liquid layout, working pretty well on desktop, but hosed on mobile, any suggestions?",Torisen,0, where I have a container div where width=% holding a bunch of floating divs with 300px width.
+
+It looks pretty good and behaves correctly on desktop browsers
+
+* The container div isn't growing for the floating divs
+
+* I want the mobile display to make the container div resize
+
+Any advice on fixing these is very much appreciated!
+ ",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/16pc5n/attempting_liquid_layout_working_pretty_well_on/
+1354908772.0,14giyl,CSS Table Generator ,CodeConsultant,10,5,2,,t5_2qifv,False
+1354336625.0,14391h,SASS question: how can I include another CSS file verbatim?,nrogers64,10,2,12,"I'm a SASS noob. I'm wondering if there is a way that I can include a CSS file in a SCSS file in such a way that when the SCSS file gets output to a regular CSS file
+
+**EDIT:** To clarify
+
+**_include_test.scss:**
+
+    /*!
+     * This is a long comment
+     * This is a long comment
+     */
+
+    body {
+    	background-color: red;
+    }
+    
+    header
+    {
+    	background-color: red;
+    }
+
+**test.scss:**
+
+    @import ""_include_test.scss"";
+    
+    footer {
+    	background-color: red;
+    }
+
+**Output I expect (included file is *exactly* the same):**
+
+    /*!
+     * This is a long comment
+     * This is a long comment
+     */
+
+    body {
+    	background-color: red;
+    }
+    
+    header
+    {
+    	background-color: red;
+    }
+    
+    /* line 3
+    footer {
+      background-color: red;
+    }
+
+**Output I actually get:**
+
+    /*
+     * This is a long comment
+     * This is a long comment
+     */
+    /* line 6
+    body {
+      background-color: red;
+    }
+    
+    /* line 11
+    header {
+      background-color: red;
+    }
+    
+    /* line 3
+    footer {
+      background-color: red;
+    }",,t5_2qifv,1354421704.0,,,True,http://www.reddit.com/r/css/comments/14391h/sass_question_how_can_i_include_another_css_file/
+1354336456.0,1438w2,I want to Cache images in my CSS,zcleaver,9,1,5,"I know you can do it,,
+1354162419.0,13z54n,Munee - Optimising Your Assets,meenie,8,1,0,"Hey Guys
+
+I've recently released a PHP5.3 library to easily run all CSS through lessphp (LESS). And when your project goes live
+
+You can find out more here: http://mun.ee
+
+If anyone has any questions or suggestions
+
+Hopefully this will help you guys out :).",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/13z54n/munee_optimising_your_assets/
+1353995163.0,13uz0j,"I messaged the creator of thisiswhyimbroke.com for advice, need help understanding it.",Lord_of_Lords,10,2,http://www.reddit.com/r/css/comments/13uz0j/i_messaged_the_creator_of_thisiswhyimbrokecom_for/
+
+So
+
+&gt;to ThisIsWhyImBroke sent 2 days ago
+Hi
+
+&gt;[–] from ThisIsWhyImBroke sent 2 days ago
+It's a custom built theme. All you need is a &lt;ul&gt;&lt;/ul&gt;
+
+&gt;[–] to ThisIsWhyImBroke sent 2 days ago
+Thanks so much!
+
+I have no idea what he means unfortunately. CSS code is over my head right now until I learn. Can you help me know what he meant? Also
+
+Also 1 last thing sorry to keep bothering you.  How do I make each post appear uniform in length?",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/13uz0j/i_messaged_the_creator_of_thisiswhyimbrokecom_for/
+1353304808.0,13fsgn,"Losing the very bottom of my pages, and can't figure out why.",emote_control,8,1,http://www.reddit.com/r/css/comments/13fsgn/losing_the_very_bottom_of_my_pages_and_cant/
+
+This is my index.html (trimmed for clarity):
+
+    &lt;body&gt;
+        &lt;div id=""container""&gt;
+            &lt;div id=""header""&gt;
+                Header Stuff
+            &lt;/div&gt;
+            &lt;div id=""content""&gt;
+			    &lt;iframe src=""home.html"" frameborder =""0"" name=""mainframe""&gt;&lt;/iframe&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/body&gt;
+
+This is the page that appears in the iframe
+
+    &lt;body&gt;
+		&lt;div class=""contentdiv""&gt;
+            Frame content
+        &lt;/div&gt;
+    &lt;/body&gt;
+
+And here's my CSS:
+
+    html
+{
+height:100%;
+}
+
+    body
+{
+min-height:100%;
+height:100%;
+background-color:#953b3b;
+font-family: 'Lato'
+overflow:hidden;
+}
+
+    #container
+{
+position:absolute;
+width:100%;
+height:100%;
+}
+
+    #header
+{
+text-align:center;
+z-index:50;
+height:15%
+}
+
+    #content
+{
+position:relative;
+height:85%;
+width:100%;
+}
+
+    iframe
+{
+position:relative;
+height:100%;
+width:100%;
+}
+
+    .contentdiv
+{
+position:relative;
+height:100%;
+overflow-y:scroll;
+}
+
+When I do this, just a teeny bit.  It's almost exactly 3% when I have my browser on fullscreen.  If I set the height of .contentdiv to 97%, it more or less exactly fixes it.  But if I shrink it to a window, I can see that the smaller I make the window, the more extends below the bottom.  When I put content inside the contentdiv, the bottom of the scroll bar is cut off too.
+
+I cannot figure out what the heck is going on.  What is forcing my div to be bigger than the window
+
+Thanks to anyone who can help me figure this out.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/13fsgn/losing_the_very_bottom_of_my_pages_and_cant/
+1351361370.0,126jl3,CSS3 Animation With jQuery Fallbacks.,tzr,8,1,1,,t5_2qifv,False
+1350005281.0,11ccao,How to softness...,bastian1343,10,2,8,"I am working on a mockup which makes heavy use of ""soft""
+
+Is there a way to do this without PNG-backgrounds or similar?
+
+Or in other words: If there is one,False,,t5_2qifv,False,,,t3_11ccao
+1348498670.0,10e7gf,Is there a way to reference the difference between and even table row and an odd?,AD6,10,3,19,"I am transforming an XML document using XSLT into multiple tables (these tables are pretty big).  I am trying to avoid using an id or class on each row.  Using a id/class for each row is causing me an issue because I am using xsl:if statements for row data -  So the table changes depending on what data is needed.  If I could easily say - if the row is odd the background color is yellow
+
+EDIT:  Thanks!",,t5_2qifv,1348504159.0,,,True,http://www.reddit.com/r/css/comments/10e7gf/is_there_a_way_to_reference_the_difference/
+1346006599.0,yv2e7,Cards stack effect on hover for photo albums with CSS,frontendlab,7,1,1,,t5_2qifv,False
+1345824751.0,yrd2y,CSS only double click using a round robin of anchors and animations for timing.,419928194516,8,2,5,"[jsfiddle](http://jsfiddle.net/419928194516/3Ffvh/)
+
+This demo will only take you to the second link if you click within 500ms. Otherwise it returns to the next default state (red or blue in this case
+
+Basically, so the transition is seamless. Instead going back to the original state it goes to a new position that display another link that is identical to the first except for its href. Clicking this new link animates again and then returns us to phase 1. 
+
+I used a viewport and movement to get this effect
+
+It might be overly complex,False,,t5_2qifv,False,,,t3_yrd2y
+1344899669.0,y664u,command to have circle navigation move with sliding panels,coding_chick,7,0,8,"I'm very much a beginner at css/html so most things you guys know are not obvious to me.  I have sliding panels on my webpage with circle navigation underneath the pictures.  The slides move on their own, circle 2 is highlighted...etc. is there a specific command for this that I could simply add to my code
+Thanks!",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/y664u/command_to_have_circle_navigation_move_with/
+1343923881.0,xkhht,Chris Eppstein's (Compass creator) interactive slides from his CSS Summit presentation on what Sass can do are pretty awesome.,infinite0ne,10,2,7,,t5_2qifv,False
+1343698403.0,xfahj,Having some CSS issues with IE9... halp!,garetth8,8,3,11,"I thought I could finally move away from this project
+
+If anyone could offer any insight on why this isn't working properly
+
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/xfahj/having_some_css_issues_with_ie9_halp/
+1343657238.0,xe3bw,I watched the HTML5 Boilerplate getting started video and have a few questions,YorickA,11,5,7,"[In the video she demonstrated some helper classes.](http://youtu.be/NMEB78VX2P0)  When dealing with collapsing containers she applies the clearfix class hack to the container.  Why apply nonsemantic classes instead of just using overflow: hidden on the container?  Doesn't floating the container also prevent it from collapsing?  The same goes for .ir image replacement class using -999em text-indent.  Why not just use a normal img tag with alt=""whatever text for screen readers and spiders""?  I could have sworn I've either seen a video from a google dev or read a blog post where he says google is designed to pick up alt text and that text-indent tricks aren't needed anymore.   
+  
+These questions are probably basic,False,,t5_2qifv,False,,,t3_xe3bw
+1342545430.0,wpko2,Having a hard time troubleshooting a display problem in IE7 and 8,1pixelmatters,9,2,3,"Here is [the site](http://duncanday.com/ph/)
+
+Here are screenshots of what's happening:  [Navigation](http://i.imgur.com/aJAKK.jpg)
+
+I'm on a mac, and of course the IE7 and 8 browser modes offered in IE9, however the emulation isn't very accurate, and I'm unable to reproduce these problems.  Anyone out there with an IE7 or 8 testing environment, or serious CSS-fu, care to take a look at what could be going on?  Much appreciated, and thanks,,False,t3_wpko2
+1340391144.0,vg4wj,CSS performance vs graphics ?,bradgillap,9,2,16,I'm seeing a lot of people building graphics in pure CSS around this subreddit and although I find it all very interesting I wonder what kind of performance hit this has vs actual PNG's.  One of the guys from engadget said on Twit the other day they were planning on converting as much of the site as possible from graphics to CSS in the future.  I believe we can probably do more with less bytes in CSS but the clientside processing performance seems to take a hit with the more things you add where as images are rendered fairly quickly even on older machines.,t5_2qifv,True
+1339184675.0,us20o,Automatically reload newly changed css files without reloading the page ,desmoulinmichel,9,3,7,,t5_2qifv,False
+1338388697.0,uc57v,how does other people's CSS load so fast?,Phlexonance,9,3,5,"I've dabbled in CSS for the first time in [/r/greysanatomy](/r/greysanatomy) and I thought all of the pics being in total &lt;70 kb should be good enough for it to load well
+
+Other subreddits don't have that issue
+
+What did I do wrong?",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/uc57v/how_does_other_peoples_css_load_so_fast/
+1333748150.0,rwxv1,gridpak.js responsove grid generator &gt; What do you guys think of the grid &amp; media query output of this thing?,infinite0ne,8,1,2,"I've been playing around with [this tool](http://gridpak.com/) and I am liking it. I am still cutting my teeth on responsive design
+
+
+    /*!
+     * Gridpak Beta CSS
+     *
+     * Generator - http://gridpak.com/
+     * Created by @erskinedesign
+     */
+     
+     
+    
+    /* Reusable column setup */
+    .col {
+        border:0px solid rgba(0,0);
+        float:left;
+        -webkit-box-sizing:border-box;
+        -moz-box-sizing:border-box;
+        box-sizing:border-box;
+        -moz-background-clip:padding-box !important;
+        -webkit-background-clip:padding-box !important;
+        background-clip:padding-box !important;
+    }
+    
+    
+    
+        /* 1. 1 Column Grid 0px - 479px 
+        ----------------------------------------------------------------------------- 
+        
+        Span 1:    100%
+        
+        ----------------------------------------------------------------------------- */
+    
+        @media screen and (min-width: 0px) and (max-width: 479px) {
+            
+            .col {
+                margin-left:1%;
+            	padding:0 1.5%;
+            }
+            
+            .row .col:first-child {
+                margin-left:0;
+            }
+            
+            
+            /*
+            Add your semantic classnames in alongside their corresponding spans here. e.g.
+            
+            .span_3
+            .my_semantic_class_name {
+                ...
+            }
+            */
+            
+            .span_1 {
+                margin-left:0;
+                width:100%;
+            }
+        }
+    
+        /* 2. 6 Column Grid 480px - 679px 
+        ----------------------------------------------------------------------------- 
+        
+        Span 1:    15.8333333333%
+        Span 2:    32.6666666667%
+        Span 3:    49.5%
+        Span 4:    66.3333333333%
+        Span 5:    83.1666666667%
+        Span 6:    100%
+        
+        ----------------------------------------------------------------------------- */
+    
+        @media screen and (min-width: 480px) and (max-width: 679px) {
+            
+            .col {
+                margin-left:1%;
+            	padding:0 0.5%;
+            }
+            
+            .row .col:first-child {
+                margin-left:0;
+            }
+            
+            
+            
+            .span_1 {
+                width:15.8333333333%;
+            }
+            .span_2 {
+                width:32.6666666667%;
+            }
+            .span_3 {
+                width:49.5%;
+            }
+            .span_4 {
+                width:66.3333333333%;
+            }
+            .span_5 {
+                width:83.1666666667%;
+            }
+            .span_6 {
+                margin-left:0;
+                width:100%;
+            }
+        }
+    
+        /* 3. 8 Column Grid 680px - 879px 
+        ----------------------------------------------------------------------------- 
+        
+        Span 1:    11.625%
+        Span 2:    24.25%
+        Span 3:    36.875%
+        Span 4:    49.5%
+        Span 5:    62.125%
+        Span 6:    74.75%
+        Span 7:    87.375%
+        Span 8:    100%
+        
+        ----------------------------------------------------------------------------- */
+    
+        @media screen and (min-width: 680px) and (max-width: 879px) {
+            
+            .col {
+                margin-left:1%;
+            	padding:0 0.5%;
+            }
+            
+            .row .col:first-child {
+                margin-left:0;
+            }
+            
+            
+            
+            .span_1 {
+                width:11.625%;
+            }
+            .span_2 {
+                width:24.25%;
+            }
+            .span_3 {
+                width:36.875%;
+            }
+            .span_4 {
+                width:49.5%;
+            }
+            .span_5 {
+                width:62.125%;
+            }
+            .span_6 {
+                width:74.75%;
+            }
+            .span_7 {
+                width:87.375%;
+            }
+            .span_8 {
+                margin-left:0;
+                width:100%;
+            }
+        }
+    
+        /* 4. 10 Column Grid 880px - 1099px 
+        ----------------------------------------------------------------------------- 
+        
+        Span 1:    9.1%
+        Span 2:    19.2%
+        Span 3:    29.3%
+        Span 4:    39.4%
+        Span 5:    49.5%
+        Span 6:    59.6%
+        Span 7:    69.7%
+        Span 8:    79.8%
+        Span 9:    89.9%
+        Span 10:    100%
+        
+        ----------------------------------------------------------------------------- */
+    
+        @media screen and (min-width: 880px) and (max-width: 1099px) {
+            
+            .col {
+                margin-left:1%;
+            	padding:0 0.5%;
+            }
+            
+            .row .col:first-child {
+                margin-left:0;
+            }
+            
+            
+            
+            .span_1 {
+                width:9.1%;
+            }
+            .span_2 {
+                width:19.2%;
+            }
+            .span_3 {
+                width:29.3%;
+            }
+            .span_4 {
+                width:39.4%;
+            }
+            .span_5 {
+                width:49.5%;
+            }
+            .span_6 {
+                width:59.6%;
+            }
+            .span_7 {
+                width:69.7%;
+            }
+            .span_8 {
+                width:79.8%;
+            }
+            .span_9 {
+                width:89.9%;
+            }
+            .span_10 {
+                margin-left:0;
+                width:100%;
+            }
+        }
+    
+        /* 5. 10 Column Grid 1100px - Infinity 
+        ----------------------------------------------------------------------------- 
+        
+        Span 1:    9.1%
+        Span 2:    19.2%
+        Span 3:    29.3%
+        Span 4:    39.4%
+        Span 5:    49.5%
+        Span 6:    59.6%
+        Span 7:    69.7%
+        Span 8:    79.8%
+        Span 9:    89.9%
+        Span 10:    100%
+        
+        ----------------------------------------------------------------------------- */
+    
+        @media screen and (min-width: 1100px) {
+            
+            .col {
+                margin-left:1%;
+            	padding:0 0.5%;
+            }
+            
+            .row .col:first-child {
+                margin-left:0;
+            }
+            
+            
+            
+            .span_1 {
+                width:9.1%;
+            }
+            .span_2 {
+                width:19.2%;
+            }
+            .span_3 {
+                width:29.3%;
+            }
+            .span_4 {
+                width:39.4%;
+            }
+            .span_5 {
+                width:49.5%;
+            }
+            .span_6 {
+                width:59.6%;
+            }
+            .span_7 {
+                width:69.7%;
+            }
+            .span_8 {
+                width:79.8%;
+            }
+            .span_9 {
+                width:89.9%;
+            }
+            .span_10 {
+                margin-left:0;
+                width:100%;
+            }
+        }
+    ",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/rwxv1/gridpakjs_responsove_grid_generator_what_do_you/
+1333166793.0,rlzks,CSS object shift on my blog for the first second of loading. ,jjkmk,9,1,10,"When my site first loads the content on the page is scattered in the wrong location
+
+Here is the link to my blog: http://www.sultansolutions.com
+
+If you keep your eye on the ""request quote button"" that is where it is the most obvious. Any ideas or suggestions would be greatly appreciated.
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/rlzks/css_object_shift_on_my_blog_for_the_first_second/
+1330455136.0,qa0nh,"CSS: From Screen to Print and Beyond: The Page Model sets the stage for a paged versus continuous media experience, so desktop and mobile websites look right on the printed page.",expertvoice,7,1,http://www.reddit.com/r/css/comments/qa0nh/css_from_screen_to_print_and_beyond_the_page/,,
+1328440697.0,pbqxi,Conway's Game of Life (1970 idea) implemented in 3D using only CSS! (and JS for logic) Only WebKit browsers.,w84death,9,1,3,,t5_2qifv,False
+1327173666.0,oqhto,List of subreddit CSS codes?,TWI2T3D,9,2,9,"Hi
+
+I don't want to bother you with individual questions about customising a subreddit with CSS
+
+Being an absolute beginner
+
+Cheers.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/oqhto/list_of_subreddit_css_codes/
+1323543048.0,n7m7u,The CSS profilers are coming,sdleihssirhc,9,4,1,,t5_2qifv,False
+1323310140.0,n473l,Google Fonts API (quick tips),agerber23,8,0,1,,t5_2qifv,False
+1322165282.0,mo62z,"Last nights posts got me thinking (coding), here's something I mocked up. What do you think?",KaHole,8,0,http://www.reddit.com/r/css/comments/mo62z/last_nights_posts_got_me_thinking_coding_heres/,,
+1320708128.0,m43lj,How to Write a Standard: An Inside View of the CSS Working Group at W3C,sdleihssirhc,8,3,1,,t5_2qifv,False
+1316061107.0,kg6gw,External CSS... I must be retarded because it's not working :( ,HatMatrix,10,4,9,"I'm taking a computer class and our CSS style sheet HAS to be external for our assignment.
+
+I did my html and it worked fine when I loaded it to my site
+
+This is the code I have between the &lt;head&gt; element:
+
+&lt;link rel=""stylesheet"" href=""portfolio.css"" type=""text/css"" media=""screen"" /&gt;
+
+My css sheet is named portfolio.  They are saved in the same folder on my computer (the name of my class) and they are within the htdocs folder in the same folder again named after my class.  
+
+The effff",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/kg6gw/external_css_i_must_be_retarded_because_its_not/
+1308609957.0,i4qb3,IDs as a selector - do or don't?,applextrent,8,1,17,"I've been using CSS for close to 8-years now
+
+I'm curious to know what ever else's opinion is on this?",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/i4qb3/ids_as_a_selector_do_or_dont/
+1292846547.0,eoq8h,CSS3 Chat Bubbles,vladocar,9,2,1,,t5_2qifv,False
+1291229637.0,een59,I need something that will automatically format/indent my CSS.  I got a stylesheet from someone who puts all their properties on one line.  I want to group them indented after the selector.  ,Clayburn,7,0,5,,t5_2qifv,True
+1274444548.0,c6nvn,CSS Mini Reset,vladocar,7,2,2,,t5_2qifv,False
+1264363046.0,atmhs,10 Common CSS Browser Compatibility Issues/Bugs You Must Know,tutorialfeed,8,0,0,,t5_2qifv,False
+1375955503.0,1jy3j0,CSS background shapes and lines – help needed please,dwair,6,0,6,"I have this ([a small green and red box split horizontally down the 45deg line](http://i.imgur.com/UjODj52.jpg)) created in CSS by using:
+
+    .box1 {border-top: 20px solid green; border-right: 20px solid red; font-size: 0px; line-height: 0%; width: 0px;}
+
+How can I add a two pixel coloured line ([like this](http://i.imgur.com/W16tach.jpg)) horizontally to the top (and I will need a version at the bottom as well) of the box? 
+
+Is it possible with out using an image? I have had an experiment with inset shadows but I can’t make them work with the border. This has been doing my head in for a day and I can’t seem to find any examples on the web I can use as a tutorial.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1jy3j0/css_background_shapes_and_lines_help_needed_please/
+1375667734.0,1jpptq,What's possible with 1 kibibyte of css,0195311,11,6,5,,t5_2qifv,False
+1374269498.0,1inppu,Question about using !important,facewook,9,2,24,"I'm using !important
+
+But when I do this:this; !important the change is very different.  So what exactly is the difference between the two?  Should the latter not be used at all?
+
+thanks!",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1inppu/question_about_using_important/
+1373985212.0,1iey35,How SHOULD i layout a pure CSS3 HTML5 gallery,jjvonjack,7,0,4,I have a 4x6 grid of images i need to display centered in the middle of a content article. the images must always be in line with the edges of the content article relevant to zoom and browser,t5_2qifv,True
+1373153880.0,1hrwag,Workflow-like Grid / Table,weeeny,8,1,7,"What I want:
+http://i.imgur.com/O4rpbIm.jpg
+
+However I don't know how to approach this. I end up failing to position those black div's. I need to position them based on a given date
+
+I can work with a margin-left to get to the correct date
+Thanks",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1hrwag/workflowlike_grid_table/
+1372439442.0,1h9bpx,IE equivalent for Stylebot?,MathiasaurusRex,8,2,5,"Is there an Internet Explorer equivalent to stylebot? 
+
+Stylebot is a chrome plugin that allows users to create custom styles that will appear locally in their browser.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1h9bpx/ie_equivalent_for_stylebot/
+1372414440.0,1h8nw5,The CSS Shredder!,naeem288,8,3,0,,t5_2qifv,False
+1371934954.0,1gvhcm,Advice on positioning of &lt;div&gt;'s.,marinojesse,6,0,6,"Hello /r/css
+
+I have a mock website and am having some trouble with the positioning of my &lt;div&gt; tags.
+
+Here's the website: https://dl.dropboxusercontent.com/u/31206290/Website%20Mockup/Home.html
+
+What I'm trying to do is get the three left &lt;div&gt; tags to be stacked on top of each other on the left side of the screen while the content tag stays on the right side.
+
+I've floated the tags to the left and right though it seems it's stacking them horizontally rather than vertically when I do that. Is there a simpler solution to moving my tags to the side of the screen or is it my method of vertical positioning that's the issue.
+
+As always
+
+Edit: You guys are awesome,False,,t5_2qifv,1371942751.0,,,t3_1gvhcm
+1371847896.0,1gtgit,How do I get something to be the full width rather than ~4px of white on each side?,Kmlkmljkl,6,1,10,"I'm trying to recreate a (part of the) reddit page,False,
+1371801163.0,1gs7um,"what is content:""""; doing?",Pantstown,8,1,12,"So I'm following a tutorial for a pure CSS dropdown menu
+
+nav ul:after {
+
+	content: “”;
+
+	clear: both;
+
+	display: block;
+
+}
+
+the HTML is a standard &lt;ul&gt;
+
+What is that accomplishing?
+
+[Here's the tutorial.](http://line25.com/tutorials/how-to-create-a-pure-css-dropdown-menu) ",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1gs7um/what_is_content_doing/
+1370969023.0,1g4pke,"Hey all, can someone help me make this table more user-friendly?",Stephen_foster,6,0,http://www.reddit.com/r/css/comments/1g4pke/hey_all_can_someone_help_me_make_this_table_more/
+
+This table is a mess. I would to add scroll bars on the right and make the table header be fixed. I have tried numerous suggestions. Like position:fixed, and lines up with the columns below. I cannot figure it out!
+
+I am hoping someone here can help me,False,,t5_2qifv,False,,,t3_1g4pke
+1370626859.0,1fvi09,[Firefox-specific] Do there exist any zoom-independent sizing units? (Please read before judging!),Sophira,7,1,4,"I have a question which a lot of people here will take to mean a lack of understanding of Web design
+
+*I am not developing a Web page* or anything that is going to be used by anyone except me. Rather
+
+Secondly, and so on. I have a [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) userscript that I made that allows me to style these pages.
+
+So
+
+    body.userscript-ff-imagedocument img.decoded {
+      background-image: url(""data:image/png;base64
+      background-size: 5px auto !important;
+      background-color: rgb(240
+      box-shadow: 0 0 1em rgba(0, 0.75);
+    }
+
+(""userscript-ff-imagedocument"" is the class which my userscript adds to the BODY tag when it detects an `ImageDocument`.)
+
+This background image allows me to easily see where transparency exists in the image. However, which makes it difficult to tell where the image really has transparency and where that's just part of the image. (The `background-size` property makes it a bit easier because the background will move around a little when zooming due to Firefox quirks, but this is obviously not optimal.)
+
+So
+
+(And it should go without saying that if you're wanting to use zoom-independent units in actual Web design,,False,,t5_2qifv,False,,True
+1370031109.0,1ffakl,Cross-browser box sizing / flexboxes,admiralteal,7,1,3,"I'm trying to figure out the absolute best-possible cross-browser support for flexboxes for a personal project I'm working on.  This is more idle curiosity than anything concrete.
+
+I know Compass already contains something like this, but it's a fun project nevertheless.
+
+Here's what I have:
+
+    .display-flexbox {
+      display: -webkit-box;
+      display:    -moz-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display:         flex; }
+    
+    .align-items
+      -webkit-box-align: center;
+         -moz-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+              align-items: center; }
+    
+    .flex {
+      -webkit-box-flex: 1;
+         -moz-box-flex: 1;
+          -ms-box-flex: 1;
+           -o-box-flex: 1;
+                  flex: 1; }
+    
+    .flex-order
+      -webkit-box-ordinal-group: 2;
+         -moz-box-ordinal-group: 2;
+          -ms-box-ordinal-group: 2;
+           -o-box-ordinal-group: 2;
+      -ms-flex-order: 2;
+               order: 2; }
+    
+    .flex-direction {
+      -webkit-box-orient: horizontal;
+         -moz-box-orient: horizontal;
+          -ms-box-orient: horizontal;
+           -o-box-orient: horizontal;
+              box-orient: horizontal;
+      flex-direction: row; }
+
+The class names are just demonstrating which property each is attempting to effect.
+
+Any comments?  Have I put in anything unnecessary
+
+Anyone have a good setup for dealing with justify-content in the most-possible browsers?
+
+edit: left out my box-sizing one.  Nothing to it
+
+    .box-sizing {
+      -webkit-box-sizing: border-box;
+         -moz-box-sizing: border-box;
+          -ms-box-sizing: border-box;
+           -o-box-sizing: border-box;
+              box-sizing: border-box; }
+
+-------------------------
+
+Here's my updated ones fresh from my SCSS output:
+
+    .display-flexbox {
+      display: -webkit-box;
+      display: -moz-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex; }
+    
+    .flex {
+      -webkit-box-flex: 2;
+      -moz-box-flex: 2;
+      -webkit-flex: 2;
+      -ms-flex: 2;
+      flex: 2; }
+    
+    .align-items
+      -webkit-box-align: center;
+      -moz-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center; }
+    
+    .flex-order
+      -webkit-box-ordinal-group: 2;
+      -moz-box-ordinal-group: 2;
+      -ms-flex-order: 2;
+      -webkit-order: 2;
+      order: 2; }
+    
+    .flex-direction {
+      -webkit-box-orient: horizontal;
+      -moz-box-orient: horizontal;
+      -ms-box-orient: horizontal;
+      box-orient: horizontal;
+      flex-direction: row; }",,t5_2qifv,1370052985.0,,,True,http://www.reddit.com/r/css/comments/1ffakl/crossbrowser_box_sizing_flexboxes/
+1369592200.0,1f3b9l,ELI5: CSS frameworks and grid systems,NickStig,9,4,5,"I need to learn CSS frameworks like Bootstrap and Codeignitor for a job I will be starting soon,,False
+1369426573.0,1ezpgy,New to CSS: Help editing header and background of a tumblr theme.,TWERKLE,6,0,2,"Hey guys
+
+Because they are .gifs I'm having trouble uploading them to Tumblr. I'm trying to figure out how to add the code to the CSS so that everything is in place but am having trouble. I was able to get the background to tile but not extend beyond the area where the post are displayed. I was also able to get the header picture changed but it only displayed a small portion of it. I'm sure the fix is easy but I've searched everywhere and couldn't figure it out. Let me know if yall could help,False,,t5_2qifv,False,,,t3_1ezpgy
+1368939974.0,1em89e,Looking for help with my wife's website.,sunamonster,8,3,3,"Hello! So we just started using a new theme on my wife's website
+
+
+
+http://www.elegantthemes.com/demo/?theme=Gleam
+
+
+
+In the live preview they run, we got these funky black bars running across the thumbnails.
+
+
+
+http://www.jessicaanders.com
+
+
+
+It's doing it in Firefox, now that I've been testing these black bars, does the gallery load really, sluggishly slow for you guys? Each time I loaded the site in a different browser the gallery was painfully slow.
+
+
+
+Thanks in advance for any help or advice anyone might have!",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1em89e/looking_for_help_with_my_wifes_website/
+1368602293.0,1edcs3,I've been up late and I feel I've forgotten something stupid,JBlitzen,8,0,7,"In this jsfiddle: http://jsfiddle.net/absPV/1/
+
+How do I set the surrounding div to conform itself to the size of the image inside it?  In other words
+
+I don't want to have to specify a fixed height and width if I can avoid it
+
+TIA for any suggestions!",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1edcs3/ive_been_up_late_and_i_feel_ive_forgotten/
+1368427935.0,1e8da8,Why do my objects Crunch when I minimize my browser window?,mejle12,9,3,6,"I'm working on a website project and I just can't seem to keep my objects in one place. Every time I minimize my menu they crunch together. I don't know the code to fix it. I am using (position:absolute;). 
+
+If you want to see my code give me a site to upload it to and I'll throw it there!
+
+Thanks,False,,t5_2qifv,False,,,t3_1e8da8
+1366067344.0,1cf7yc,What is the best way to detect CSS3 3D support?,timack,6,0,10,"I've built a [Three Card Monte](http://ackroyd.co.nz/lab/three-card-monte/) game using CSS3 - it won't work properly in IE so I was wanting to display a warning to IE users to that effect. I've used [this](https://gist.github.com/lorenzopolidori/3794226]) script - to identify browsers that don't support 3d,,
+1365762067.0,1c75cj,Kendo gauge with three pointers — Aligning 3 gauges on top of each other problems using CSS,een54,7,1,1,"Hi
+I created [this](http://stackoverflow.com/questions/15967726/kendo-gauge-with-three-pointers-aligning-3-gauges-on-top-of-each-other-proble) post over on StackOverflow
+
+Basically I have a container &lt;div&gt; and three Kendo gauges within it and each with their own &lt;div&gt;. I am trying to have them on top of each other so it effectively looks like one gauge with three pointers.
+
+However after a lot of research and hours of trial and error I still can't get it to work
+
+My code is displayed if you use the link above.
+
+Thanks in advance.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1c75cj/kendo_gauge_with_three_pointers_aligning_3_gauges/
+1365710379.0,1c5n9x,CSS Experiment: Interactive Tree Menu,rlemon,9,3,6,,t5_2qifv,False
+1364226543.0,1az86h,Advice for resume CSS from 2004....,criswell,9,3,32,"I have a neat HTML resume that I've been using for years. It can be seen here http://criswell.bitbucket.org/
+
+It's actually evolved into an Open Source project https://bitbucket.org/criswell/sam_resume (CC0 1.0 Universal license) and is built using [Jinja](http://jinja.pocoo.org/)
+
+The problem? I'm not a web designer guy (I'm usually the low-level internals guy) so my CSS sucks. Further
+
+Since I'm *not* much of a CSS guy
+
+Any helpful advice or tips on how I can make this CSS better? And if you are familiar with hg and/or bitbucket and feel particularly kind,False,,t5_2qifv,False,,,t3_1az86h
+1364088416.0,1aw33h,"Pinterest / Groupon ""card"" style help. ",guardianfx,6,0,12,"I have been looking for a good example
+
+I need an example of how Pinterest and Groupon style their cards or tiles. By this I mean, or repin. I understand that I could use z-index to create a stackable overlay, but what I can't wrap my head around is making the entire div selectable, or how to implement the z-index properly. 
+
+Any help would be great. I have done this using z-index,False,,t5_2qifv,False,,,t3_1aw33h
+1363798665.0,1ao7ua,Css3&amp;Html5 - Create a Sticky Note Effect in 5 Steps,aa41,9,1,2,,t5_2qifv,False
+1363715173.0,1alshr,How to track down CSS issues in IE?,brentwilliams2,6,0,11,"I know how to work through CSS issues in Chrome and Firefox,False,
+1363377649.0,1adamt,Weekend Challenge with Border-Radius,Mahbam42,10,5,17,"I'm converting a [png flyer](http://i.imgur.com/LVj0nAg.png) to HTML for work and my boss told me to ignore the swoopy border in the lower right because he didn't want to use an image or let me waste time playing with CSS. So our mission should you choose to accept it
+
+I think it can be done with border radius. and a few stacked divs. So I'm going to play with it over the weekend but I want to see what everyone else can come up with too! 
+
+Good luck and I look forward to the results! ",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1adamt/weekend_challenge_with_borderradius/
+1360534531.0,189p7m,"CSS Problem with max-height:70% on container, and child images with height:auto;",xtinctin,7,1,http://www.reddit.com/r/css/comments/189p7m/css_problem_with_maxheight70_on_container_and/
+
+Does that question make sense?
+
+
+edit:
+
+I wanted to bound a container to the height/width of the viewport, but when it comes to constraining children elements the computed CSS for max-height is not being used as an override for the height css of the container.
+
+I know the other solution for this would be avoiding height all together and just using positioning with left, bottom all set **but I am confused by why the CSS engine isn't rendering the max-height to constrain children elements**.
+
+I will make a better fiddle set up tomorrow to explain the bug.",,t5_2qifv,1360569247.0,,,True,http://www.reddit.com/r/css/comments/189p7m/css_problem_with_maxheight70_on_container_and/
+1360120967.0,17z75h,Is it possible to float a picture to the bottom right of a div AND have text flow around the top and sides of it?,mattcoady,8,3,21,"Basically as the title says. Here's an example of what I'm trying to achieve.
+
+http://i.imgur.com/mjGO46W.png
+
+Is this possible?",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/17z75h/is_it_possible_to_float_a_picture_to_the_bottom/
+1356592076.0,15icax,SEO effects of ::after psuedo-elements,opus-thirteen,10,4,14,"Does a psuedo-element,False,
+1356375936.0,15dvl9,Why are these font sizes different?,2orangey4crows,8,3,7,"Hi all
+
+I hope someone can help with this.
+
+There are two websites which use the same code. The only differences are their language files (English version &amp; Spanish version) and their character encoding (ISO-8859-1 &amp; UTF8).
+
+Problem: in certain places the font sizes are inconsistent.
+
+Example: 
+
+Go to http://m.corkjobs.ie and click ""Show Search Options""
+Go to http://m.empleosvalencia.es and click ""Mostrar opciones de búsqueda""
+
+Notice the font size in both forms is different. The Spanish text is larger.
+
+I do not understand why this is happening as they have the exact same CSS properties.
+
+Do any of you know why this is happening?
+
+Thank you.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/15dvl9/why_are_these_font_sizes_different/
+1356069110.0,157p6y,css vertical margin collapsing - what is the benefit?,balinx,7,1,5,"I undererstand the specification
+
+A good articles on the reality of the topic:
+http://reference.sitepoint.com/css/collapsingmargins
+
+Does this design of collapsing really help anyone?  
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/157p6y/css_vertical_margin_collapsing_what_is_the_benefit/
+1354114691.0,13xoco,can anyone help me position a div?,lonestarbeer,7,1,10,"i've got to make a slideshow-ish website and i've got things pretty well how i want them
+  
+[here is a preview of what i mean.](http://i.imgur.com/sjfHC.jpg) the gray portion is the place in question. i can post up the code if needed,False,,t5_2qifv,False,,,t3_13xoco
+1353582705.0,13m7hs,Code smells in CSS,StathisG,9,2,0,,t5_2qifv,False
+1351609505.0,12c98w,Centering Ideas/Help. Is there something new I don't know about!?,totalmajor,7,2,8,"So I'm trying to center this menu on a wordpress theme I'm working on for my friend's company (http://troyrealtyltd.com/troyrealtyltd/). I went with the whole width:500px; margin:auto and that worked for awhile but now that I've added more to the menu
+
+Right now I'm just centering the whole div not ul
+
+Thanks!",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/12c98w/centering_ideashelp_is_there_something_new_i_dont/
+1351568047.0,12bj1i,"""Pinked"" SVG border image with drop shadow",joeyhoer,7,2,5,,t5_2qifv,False
+1350575838.0,11p00f,Proper overflow without using javascript to set a static height?,boblauer,6,0,12,"The problem is simple:
+
+http://jsfiddle.net/boblauer/wfLGG/
+
+In the left example, it doesn't work, because I don't know what my scrolling div's height should be, because it's sharing that space with another element.  If I set it to 100%, it overflows from its container, causing the 2nd scrollbar that you see in the example.
+
+I know I can use javascript to set the .scroll-container's height to (container height - height of the header), I have to recalculate the size of the scrolling div.",,False,,t5_2qifv,False,,
+1350561434.0,11oo62,Centering a horizontal unordered list within a div,Soupr,7,0,13,"I wish i knew what i was searching for
+
+    margin:0 auto;
+
+this just isnt working it moves the entire enclosing div about 10 px
+
+[CSS](http://pastebin.com/x8mh1CP8)
+
+[html](http://pastebin.com/e2uFQvzv)
+
+I have realised to late that i need to use the same li/ ul selectors down the side of my page but with properties
+
+sorry",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/11oo62/centering_a_horizontal_unordered_list_within_a_div/
+1349860986.0,118t9i,Need some help with a diagonal striped pattern. Can't match the 'resolution'.,derblub,8,1,7,,t5_2qifv,False
+1349660656.0,11468l,Pure CSS3 iTunes Icon,jjshammas,11,6,11,,t5_2qifv,False
+1348166279.0,107e3f,"Something simple is wrong, and I can't see it. Could any one tell me why :hover isn't working for any of my buttons? [jsfiddle]",Mahbam42,7,0,http://www.reddit.com/r/css/comments/107e3f/something_simple_is_wrong_and_i_cant_see_it_could/,,
+1347948591.0,102fz4,New to CSS. Need help.,8oh8,6,1,6,"I just uploaded my website www.hellocomputerfix.com
+I put it together using Acquia-Drupal. It has a custom Zen theme. It looked good, it would totally crap up. Specially on mobile devices. So I went back and fixed it, made all the DIVs have a static size and made the container have a minimum-width. So now it kinda works, except when I'm viewing a page or node, or anything that's not the front page. The #content element doesn't have the padding as it does in front page. Any thoughts? I think this is the kinda problem an experience CSS person would solve in a minute and then kinda laugh at me.",,False,t5_2qifv,True
+1347332681.0,zotxv,Simple Inline Editing With CSS,netghost,8,3,3,,t5_2qifv,False
+1347289422.0,znlfo,Screencast on how to test CSS in your browser,cburgmer,8,1,5,,t5_2qifv,False
+1346612224.0,z8ojw,How do I get text to align in the center of a list-style-image?,splishsplashsplish,6,0,5,"    li {
+    list-style-image: url(""../images/homepage/bulletShot.png"");
+    }
+
+Is my code.  I tried adding to it and making it
+        li {
+    list-style-image: url(""../images/homepage/bulletShot.png"");
+    vertical-align: middle;
+        }
+
+But that still made my text appear at the bottom of the image I was using as a bulletpoint.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/z8ojw/how_do_i_get_text_to_align_in_the_center_of_a/
+1345489901.0,yjcxz,"CSS Newbie Here, creating a Pizza Menu for practice. Ran into a few issues.",darkNiGHTS,6,0,http://www.reddit.com/r/css/comments/yjcxz/css_newbie_here_creating_a_pizza_menu_for/
+
+This my menu I am creating. **I am not going for great looks now**
+
+Questions
+
+* How do I get the side menu to not change the width of the id #toc?  
+* I am mostly using IDs because these things I will only use once. Is this correct usage?  
+* Is &lt;br /&gt; the correct way to go to the next line? Or should I use &lt;ul&gt; for things like the address/phone number box?  
+* Why doesn't #toc's grey background go all the way to the bottom? I want it to go all the way to the bottom of the #items.
+
+And if you have any other pointers that would help me, let me know! I'm trying to learn, so let me have it if I'm coding something wrong. Thanks!
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/yjcxz/css_newbie_here_creating_a_pizza_menu_for/
+1345023933.0,y96fq,Single Element MacBook Pro with CSS3,darthnuri,6,1,1,,t5_2qifv,False
+1344542123.0,xyfq3,"Been working on something I thought to be simple for way, way too long.. help with making table of images fixed",suprknowva,6,0,http://www.reddit.com/r/css/comments/xyfq3/been_working_on_something_i_thought_to_be_simple/, the ""sticky"" navigation bar that the guy wants is seemingly impossible. 
+
+http://jquerytest.thepeoplesmarketing.us/reallanding/
+As you can see, the part I'm having problems  with is, as I said the fixed scroll nav (what is now a fixed scroll logo). I'm doing it using jQuery, tried CSS.
+So I guess my direct question is how can I make a class/div of images stay fixed in their ""exact"" spots rather than them all clamoring to go to 0?",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/xyfq3/been_working_on_something_i_thought_to_be_simple/
+1343320763.0,x735p,Quick tip: Draw border on the inside of an element using CSS,postal2600,6,0,1,,t5_2qifv,False
+1339096836.0,uq8r7,How do I put borders or a background on containers with floated content?,thebeat42,7,1,10,"Since floats take the content out of the workflow
+
+PS: I'm *relatively* new to CSS,False,,t5_2qifv,False,,,t3_uq8r7
+1339017122.0,uolw0,AskCSS experiment: Change content of link text with 'content' on :hover,styless,6,1,12,"I'm playing around with pseudo-classes and the content property and thought: is it possible to replace the text of
+
+I know CSS is for styling and not for content
+
+Adding content using :after or :before works fine:
+a:hover:after { content: 'Companəə'; }
+- but 'CompaneeCompanəə' is not what I'm after.
+
+I also tried adding a &lt;span&gt; inside the &lt;a&gt; and use the :first-child to change the content
+
+Any ideas?",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/uolw0/askcss_experiment_change_content_of_link_text/
+1337211234.0,tqrkj,"Stop Using ""ease""! Define Your Own Easing.",OutThisLife,9,4,2,,t5_2qifv,False
+1334700426.0,sexc1,Help with floating-ish effect (sorry it's a bit of a strange request),aidan---,9,2,5,EDIT: The problem is solved now thanks andrewembassy! :),t5_2qifv,True
+1333777538.0,rxja8,Fancy Image Gallery with CSS3 Transitions,kennyooi,10,3,3,,t5_2qifv,False
+1333650759.0,ruzvt,Comma separated values in LESS,infinite0ne,7,1,12,,t5_2qifv,False
+1333555890.0,rt1v5,Computer History Museum's Logo as a CSS3 Pattern  ,glanthomas,11,4,7,,t5_2qifv,False
+1326726803.0,ojc84,Classes vs IDs: Best Practices,redkait,8,2,30,I'm self taught with CSS and wondering what are some best practices when using div id's or div classes.  When should I use one versus the other?  ,t5_2qifv,True
+1322075592.0,mn0nw,IE8+ Tabbed Content Area. No JS. Tab key enabled. :focus using.,teapoted,9,4,6,,t5_2qifv,False
+1315839473.0,kd41l,cdncss.com - the next step,,8,1,1,,t5_2qifv,False
+1313579972.0,jlhon,A Responsive Grid System with Sass ,atariboy,10,3,0,,t5_2qifv,False
+1313054258.0,jfjfl,"I don't know any CSS, but would someone be willing to whip a little up to hide the upvote and downvote buttons on our subreddit, /r/steamgameswap?",DemanRisu,7,2,False,
+1308695351.0,i5npa,Anyone want to help me with my tiny CSS drop-down nav problem?,frankzeye,6,0,5,"[The site](http://drlinklove.com/drew/)
+
+
+On the nav items with a drop down there is like 5 px of space that if you hover over the sub-nav disappears before you can click it.  I've tried everything and can't figure out how to fix it.
+
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/i5npa/anyone_want_to_help_me_with_my_tiny_css_dropdown/
+1300749195.0,g8ihq,Explain CSS to a Visual Designer,magoogle,6,0,13,"I posted a similar query in the Web_Design reddit without much success.  So I'll ask you guys.  
+
+I'm familiar with design and do not need to learn about color theory or organizational hierarchy.  I need to learn how to code what I can see in my head
+
+Thanks!  Any help is appreciated.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/g8ihq/explain_css_to_a_visual_designer/
+1295560822.0,f62nc,Xeo CSS a No coding online css3 editor,ajumell,8,2,0,,t5_2qifv,False
+1293373255.0,ermru,Should You Reset Your CSS?,mehcore,6,0,4,,t5_2qifv,False
+1278926155.0,cokhn,[stylish] reddit fixed header,pentothal,6,1,0,"    @namespace url(http://www.w3.org/1999/xhtml);
+    
+    @-moz-document domain(""reddit.com"") {
+        #sr-header-area {
+            position:fixed;
+        }
+        #header-bottom-left {
+            padding-top: 20px !important;
+        }
+        .drop-choices.inuse {
+            position:fixed !important;
+        } 
+   }",,t5_2qifv,True,,,True,http://www.reddit.com/r/css/comments/cokhn/stylish_reddit_fixed_header/
+1272649289.0,byfpt,Coding Horror: What's Wrong With CSS,suzukimilanpaak,8,2,1,,t5_2qifv,False
+1259904901.0,aaxzj,"50 Fresh CSS Techniques, Tutorials and Resources",Bemuzed,7,2,http://www.reddit.com/r/css/comments/aaxzj/50_fresh_css_techniques_tutorials_and_resources/,,
+1252319282.0,9i29e,3 Easy and Fast CSS Techniques for Faux Image Cropping | Css Globe,xyxjasilixyx,11,5,1,,t5_2qifv,False
+1376674561.0,1ki05n,Is there a way to get input:before (or something like it) to work in browsers other than Safari 6?,dangoodspeed,6,1,10,"I realize it's not official CSS spec,False,
+1376314545.0,1k7emq,Is BEM the Perfect Structure for CSS?,joelbywan,12,6,7,,t5_2qifv,False
+1375484128.0,1jlfeo,What is the best way to preview CSS changes without updating live stylesheet? (wordpress),DickTrickle,9,3,17,"Been hacking my way through CSS for a while by manually entering CSS properties on the html page of wordpress posts. I finally got around to learning the correct way to do it and am ready to start applying to my websites. 
+
+The first hurdle that popped into my head was how do you preview things you are doing without actually changing the live stylesheet? Do you have to constantly make changes
+
+Sorry for the noob question,False,,t5_2qifv,False,,,t3_1jlfeo
+1375482711.0,1jldss,Having some difficulties changing the colors on post text,OktoberStorm,7,2,12,"Hi.
+For posts that contain the words ""Please read"" I use this to change the post to white on black:
+
+    .thing a.title[href*=""Please read""]
+
+This works fine. Then I add another line for ""September 13"" to turn green on white:
+
+    .thing a.title[href*=""September 13""]
+
+This
+
+My level of CSS is that I think up what I want,False,,t5_2qifv,False,,,t3_1jldss
+1375467544.0,1jkucq,Linking two events,JayRyGeo,6,0,5,Is there a way to link two different events together.  Say I want to have a div element change colors when a different div element is hovered over.  Is this at all possible?,t5_2qifv,True
+1371738340.0,1gq873,CSS Hover help!,Godera,7,1,16,"I'm learning CSS still and when I find a cool looking page/site I try to do a mockup of it to practice my CSS/HTML. I came across this page:
+
+http://www.winstonflowers.com/Collection/Design-of-the-Month-Club/Collection
+
+And wanted to try and remake it on my own
+
+http://jsfiddle.net/tUrAT/
+
+When you hover over my buttons they are moved and the border doesn't surround the entire button. Would appreciate any help!",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1gq873/css_hover_help/
+1371343667.0,1gfg3e,Need a little help amending a website menu bar.,london_m,6,1,5,"At the moment I have a very plain menu bar as shown [here](http://imgur.com/GpgBc0L).
+
+I am not familiar with CSS at all. Please can you tell me how I would add white lines to separate each of the menu items.
+
+I tried border:1px solid white; but that added a border around the individual menu items like [this](http://imgur.com/CbxSnu5),False,,t5_2qifv,False,,,t3_1gfg3e
+1371242031.0,1gd0hw,nth-child Calculator,vertigo25,5,1,1,,t5_2qifv,False
+1370727273.0,1fy3jw,What are some resources for learning advanced CSS?,tomjhume,5,0,6,,t5_2qifv,True
+1369702848.0,1f65h1,A discussion regarding the trouble with wobbles in CSS3 animations…,thomasmurphymusic,6,1,5,"Hi
+I've been fighting the wobblies when increasing the width on a submit button during a :hover for the past hour,False,,t5_2qifv,False,,,t3_1f65h1
+1368930039.0,1elzai,Help with fixed nav bar and scrolling content bellow overlapping,ZephyrSide,5,0,4,"I'm basically trying to recreate this page    
+http://imgur.com/gallery/gp9K2
+
+I'd like to keep the top nav bar fixed. I've tried adding a margin-top of the scrolling content to say 50px but it brings the nav bar
+
+Here's where I'm at right now.    
+http://codepen.io/anon/pen/KFrGm",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/1elzai/help_with_fixed_nav_bar_and_scrolling_content/
+1368039868.0,1dy62b,REALLY simple placement question,ChicagoGeek84,6,1,5,"Hey
+
+In the lower right corner,False,,t5_2qifv,False,,,t3_1dy62b
+1367829378.0,1ds6qi,[HELP] One pixel missing between last two columns,Upward_Spiral,7,2,8,"[SOLVED]
+
+I have a table with 5 columns, there's always one less pixel between columns 4 and 5. [Here's a picture of it.](http://i.imgur.com/PsZyYCv.png) It's noticeable if you're looking for it. I've included the relevant HTML and CSS lines. Why does this happen? Is there a way to correct it? If necessary, I will link to the site in question. 
+
+    &lt;div id=""table_container""&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+    &lt;table border=""0"" align=""center""&gt;
+      &lt;tr&gt;
+        &lt;td valign=""top"" id=""col1""&gt;&lt;img src=""images/col1.jpg""&gt;&lt;/td&gt;
+        &lt;td valign=""top"" id=""col2""&gt;&lt;img src=""images/col2.jpg""&gt;&lt;/td&gt;
+        &lt;td valign=""top"" id=""col3""&gt;&lt;img src=""images/col3.jpg""&gt;&lt;/td&gt;
+        &lt;td valign=""top"" id=""col4""&gt;&lt;img src=""images/col4.jpg""&gt;&lt;/td&gt;
+        &lt;td valign=""top"" id=""col5""&gt;&lt;img src=""images/col5.jpg""&gt;&lt;/td&gt;
+    &lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+
+     &lt;!-- CSS --&gt;
+    #col2, #col5 {
+	    padding-left: 5px;
+    }",,t5_2qifv,1367837432.0,,,True,http://www.reddit.com/r/css/comments/1ds6qi/help_one_pixel_missing_between_last_two_columns/
+1367601710.0,1dmoef,Prolonging :active with only css?,tripj33,7,2,11,"Is it possible to prolong the active state of an object when it is clicked? I'm trying to make a responsive nav bar with only css. I am able to make it slide down when it's clicked(similar to the twitter bootstrap navigation),False,
+1367522497.0,1dkiar,To someone looking to take on the biggest challenge of their CSS life,c_hawkthorne,8,2,5,"I want a cool logo for my subreddit,False,
+1367347321.0,1dfe6l,Having trouble with applied Footer CSS rules. Any suggestions.,eighthourblink,6,1,17,"Trying to set up a footer section for a site I'm working on.  http://imgur.com/uJkiIer
+
+CSS Code
+
+THe problem I am having is the CSS Rules are not being applied to the HTML code.  When I look at the site using Inspect Element in Chrome and highlight the Footer section
+
+Any suggestions on what is happening. If more information is needed,False,,t5_2qifv,False,,,t3_1dfe6l
+1366041895.0,1ce8wz,Paul Irish Interview on the Future of Vendor Prefixing and Blink,swinginggorilla,7,2,2,,t5_2qifv,False
+1364491090.0,1b6ri8,"Introducing Nintendo Web Framework, a development environment based on WebKit technologies, HTML5, CSS3, and Javascript [x-post from r/html5]",7,,t5_2qifv
+1364297915.0,1b1b08,CSS: Responsive Cycle and Jquery,casenote,6,2,2,"I'm having a problem
+
+The problem I'm having is my CSS in conjunction with my jquery cycle is the height of the largest content and does not scale properly.
+
+http://aestheticprint.com/cycle_problems/a.html
+
+I would also love for the width to scale dynamically (when resizing the browser manually)
+
+I think this is a problem with my css!
+
+Any help would be great!
+
+Thanks,False,,t5_2qifv,False,,,t3_1b1b08
+1362088596.0,19f75j,"Just updated my object-oriented CSS library on Github: Stylist.css, What do you think?",bishopZ,6,1,http://www.reddit.com/r/css/comments/19f75j/just_updated_my_objectoriented_css_library_on/,,
+1361849537.0,198jq5,Any tutorials on using Grids? How to use column system?,SevenSeasOfRhye,5,1,7,"So I would say I know a good amount of CSS/HTML/Javscript but for some reason at seems as though I missed the concept of using columns like frameworks use? Sort of like this: http://foundation.zurb.com/grid.php
+
+If anyone could refer me to any tutorials on how to use columns that frameworks often use that would be awesome. Thanks!",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/198jq5/any_tutorials_on_using_grids_how_to_use_column/
+1361507076.0,1903rk,Can someone please help me with a problem I'm having? [x-post from r/wordpress],washablememe,5,1,3,"www.parkwaybusinesssolutions.com
+I'm using a WooTheme for my friend's website and it has a ""featured"" box that loops blog posts tagged ""featured."" I was removing one today by simply removing the ""featured"" tag from the specific post, but I know my way around basic html/css... and removing a featured tag as far as I know should have little or nothing to do with the css that's holding the featured box together. I tried re-tagging the post just to make sure it wasn't removing it that broke the box, but it hasn't gone back to the way it was. Any advice will be appreciated. Thanks, guys.",,False,,False,t3_1903rk
+1361406429.0,18x5zb,Learning CSS and need help with div/padding issues. ,koberg,5,2,8,"Hey, one for the header
+
+When I comment out, but I want to add a 5% padding to the left and right so there's some spacing between the left and right of the body text. When I add 5% padding to the left, the left side of the page looks fine, but it pushes the text of the div off the right side of the page and requires side-scrolling to get the rest of the information. 
+
+As for the menu, and on my larger, external monitor, the menu items are all horizontally listed, but when I disconnect my monitor and work on my laptop monitor, the menu items get stacked on top of each other.
+
+How can I 1) get the padding for the main text fixed
+
+CSS:
+
+    body{
+    	background-color:#800000;
+    	margin:0px;
+    }
+    ul.nav{
+    	list-style-type: none;
+    	margin:0px;
+    	padding:0;
+    	overflow:hidden;
+    }
+    li.nav{
+    	float:left;
+    }
+    a.nav{
+    	display:block;
+    	width:125px;
+    	color:white;
+    	font-weight:bold;
+    	text-align:center;
+    	text-transform:uppercase;
+    	text-decoration:none;
+    }
+    div.header{
+    	background-color:#660000;
+    	width:100%;
+    	margin:0px;
+    	padding:0px;
+    }
+    img.header{
+    	display:block;
+    	margin-left:auto;
+    	margin-right:auto;
+    	border:none;
+    	padding:0px;
+    }
+    div.nav{
+    	width:50%;
+    	margin-left:auto;
+    	margin-right:auto;
+    	padding:5px;
+    }
+    div.main{
+    	background-color:#8D1919;
+    	color:white;
+    	width:100%;
+    	margin-left:auto;
+    	margin-right:auto;
+    }
+
+
+HTML:
+
+    &lt;!DOCTYPE HTML&gt;
+    &lt;html&gt;
+    	&lt;head&gt;
+    		&lt;link rel=""stylesheet"" type=""text/css"" href=""bbhs.css""&gt;
+    		&lt;link rel=""shortcut icon"" href=""favicon.ico"" /&gt;
+    		&lt;title&gt;
+    		BBHS Reunion 2013
+    		&lt;/title&gt;
+    	&lt;/head&gt;
+    	
+    	&lt;body&gt;
+    	&lt;!--header--&gt;
+    		&lt;div class=""header""&gt;
+    			&lt;img class=""header"" src=""images\tigereyes.png"" alt=""Tiger Eyes"" /&gt;
+    		&lt;/div&gt;
+    	
+    	&lt;!--navigation bar--&gt;
+    		&lt;div class=""nav""&gt;
+    			&lt;ul class=""nav""&gt;
+    				&lt;li class=""nav""&gt;&lt;a class=""nav"" href=""index.html""&gt;Home&lt;/a&gt;&lt;/li&gt;
+    				&lt;li class=""nav""&gt;&lt;a class=""nav"" href=""calendar.html""&gt;Calendar&lt;/a&gt;&lt;/li&gt;
+    				&lt;li class=""nav""&gt;&lt;a class=""nav"" href=""contact.html""&gt;Contact&lt;/a&gt;&lt;/li&gt;
+    				&lt;li class=""nav""&gt;&lt;a class=""nav"" href=""photos.html""&gt;Photos&lt;/a&gt;&lt;/li&gt;
+    				&lt;li class=""nav""&gt;&lt;a class=""nav"" href=""about.html""&gt;About&lt;/a&gt;&lt;/li&gt;
+    				&lt;li class=""nav""&gt;&lt;a class=""nav"" href=""donate.html""&gt;Donate&lt;/a&gt;&lt;/li&gt;
+    				&lt;li class=""nav""&gt;&lt;a class=""nav"" href=""shop.html""&gt;Shop&lt;/a&gt;&lt;/li&gt;
+    			&lt;/ul&gt;
+    		&lt;/div&gt;
+    	
+    	&lt;!--main content--&gt;
+    		&lt;div class=""main""&gt;
+    			&lt;p&gt;Lorem ipsum dolor sit amet
+    			Etiam pulvinar nibh sed mi faucibus vel sodales leo imperdiet. Donec suscipit nisi et sem varius cursus consequat nunc auctor.
+    			Donec nec diam a nulla tincidunt porttitor sed sit amet justo. Donec quis felis ac magna aliquam condimentum non ut lorem.
+    			Suspendisse vel risus neque. Vestibulum sit amet lacinia odio. Sed et eros vel justo porttitor sollicitudin.
+    			Maecenas vel quam id justo semper porttitor. Aliquam ligula odio
+    			Curabitur id consectetur ipsum. Donec interdum suscipit erat
+    			Vivamus a dui eget justo pulvinar accumsan eget et justo.&lt;/p&gt;
+    			&lt;p&gt;Nulla ac egestas nulla. Aliquam adipiscing libero ultrices dolor hendrerit quis rutrum magna condimentum.
+    			Curabitur pretium, ut aliquet eros erat eu nisl.
+    			Suspendisse eu est odio. Pellentesque mi enim
+    			Etiam id ipsum sed ante luctus laoreet. Sed placerat adipiscing ullamcorper. Pellentesque eget tortor vitae justo mattis auctor sed non nibh.
+    			Quisque et rutrum est. Mauris quis ligula purus. Morbi suscipit volutpat dolor
+    			In hac habitasse platea dictumst. Nunc sit amet nibh dui
+    			Phasellus porttitor laoreet eros
+    			&lt;p&gt;Nunc vel tortor euismod nunc accumsan rhoncus. Vestibulum luctus feugiat tempor. Aenean fringilla ornare libero eu congue.
+    			Sed vulputate eros ut dolor vulputate condimentum. Nulla at tortor id elit lacinia faucibus sit amet feugiat ligula.
+    			Nunc ornare, congue pharetra diam tellus sit amet enim. Morbi in magna nunc.
+    			Suspendisse eget justo nulla. Suspendisse dapibus tristique magna
+    			&lt;p&gt;Aliquam id fermentum est. Vivamus in nibh diam
+    			Etiam metus ligula
+    			Quisque non justo ultricies elit vestibulum facilisis quis eu urna. Suspendisse adipiscing ullamcorper diam ac dapibus.&lt;/p&gt;
+    			&lt;p&gt;Nunc venenatis tincidunt ullamcorper. Cras eget tellus faucibus urna accumsan mollis.
+    			Nunc ut aliquam dui. Suspendisse euismod est et justo pellentesque faucibus. Integer tincidunt pretium diam sit amet lacinia.
+    			Sed posuere pulvinar nisl
+    			Praesent blandit dolor in lectus molestie in commodo quam dictum. In iaculis sodales erat
+    			Aenean eget erat quis lorem bibendum lobortis eu quis ipsum. Aenean ante lorem
+    			Proin posuere laoreet hendrerit. Curabitur eu cursus purus. Morbi eget nibh quis odio rhoncus luctus quis eu libero.
+    			Praesent turpis diam, ac dapibus erat consectetur eu.&lt;/p&gt;
+    		&lt;/div&gt;
+    	&lt;/body&gt;
+    
+    &lt;/html&gt;",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/18x5zb/learning_css_and_need_help_with_divpadding_issues/
+1360662155.0,18dcah,YouTube video frame with dark background,Raggarcowboy,5,0,2,"Hi
+
+The page should have some icons of videos and when clicking on one
+
+Now I have absolutely no idea how to do this so if you could teach me some tricks that I could use to accomplish this or just link to a good site where I can get help
+
+// Simon",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/18dcah/youtube_video_frame_with_dark_background/
+1360093557.0,17y7gh,How to make two side-by-side images centered in a page?,Boots135,6,0,3,"This is the code I'm using so far:
+
+**HTML:**
+
+    &lt;div class=""auto-insurance-buttons""&gt;
+    &lt;a href=""#""&gt;&lt;img src=""auto-comparison.png""/&gt;&lt;/a&gt;&lt;a href=""#""&gt;&lt;img src=""auto-quote.png""/&gt;&lt;/a&gt;
+    &lt;/div&gt;
+
+**CSS:**
+
+    .auto-insurance-buttons a img{
+    display:block;
+    margin:0 auto;
+    }
+
+So far,False,,t5_2qifv,False,,,t3_17y7gh
+1360010380.0,17vxap,Why isn't my &lt;li&gt; lining up horizontally? + One other small issue,totalmajor,6,1,6,"Hey everyone
+
+If you take a look at my site
+
+Also
+
+Thanks
+Peter
+
+EDIT: I appreciate the help,False,,t5_2qifv,1360205533.0,,,t3_17vxap
+1359962619.0,17uul6,SEO effects of ::before &amp; ::after psuedo-elements -&gt; re-re-visited,opus-thirteen,9,2,5,"Just a quick update on the SEO effects of Psuedo elements
+
+ http://www.reddit.com/r/css/comments/15icax/seo_effects_of_after_psuedoelements/
+
+http://www.reddit.com/r/css/comments/16lz30/seo_effects_of_before_after_psuedoelements/
+
+Well, but ""staminified dawg was ignored, and is not a result for that term, even a couple weeks after an on page link was indexed.
+
+I can accept that.
+
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/17uul6/seo_effects_of_before_after_psuedoelements/
+1359697407.0,17oi6t,"Code works at home but not at work. Same browser, same code :(",solarbang,7,2,http://www.reddit.com/r/css/comments/17oi6t/code_works_at_home_but_not_at_work_same_browser/
+
+
+http://pastebin.com/VXnHN2Bf &lt;---CODE
+
+
+Edit#1 New Code---&gt;  http://pastebin.com/KmaHHkwD
+
+Edit#2 for whatever reason it is working now and I have changed nothing. Thanks everyone for the help all the same.
+",,t5_2qifv,1359871796.0,,,True,http://www.reddit.com/r/css/comments/17oi6t/code_works_at_home_but_not_at_work_same_browser/
+1359679294.0,17nxha,Facebook's sexy CSS3 graph search logo animation,christiangenco,6,1,0,,t5_2qifv,False
+1357978149.0,16fh3s,Possible to have all photos resized?,MILFHunterHearstHelm,6,0,7,I tried googling all the answers to no avail. I have a photo blog that I set up on wordpress. All of the photos are 900x600 because that's the size I upload them into flickr as. I would like to keep the dimension for flickr but was wondering if there was a way to have CSS automatically downsize them to a more user friendly size?,t5_2qifv,True
+1357742917.0,1690kn,Single-line classes,KabouterPlop,6,0,13,"A colleague just added this to our project.
+
+    &lt;ol class=""numbered-list list-inside"" start=""1""&gt;
+
+    .numbered-list
+    {
+        list-style-type: decimal;
+    }
+    .list-inside
+    {
+        list-style-position: inside;
+    }
+
+Am I missing something here or is this just as bad as inline CSS? Isn't it better to do something like this?
+
+    &lt;ol class=""info-list"" start=""1""&gt;
+
+    .info-list
+    {
+        list-style-type: decimal;
+        list-style-position: inside;
+    }
+
+Another example to show what I mean:
+
+    &lt;p class=""red big""&gt;Hello&lt;/p&gt;
+
+    .red
+    {
+        color: red;
+    }
+    .big
+    {
+        font-size: 1.5em;
+    }
+
+A month later you decide it would look better if it's green.
+
+
+[Stack Overflow](http://stackoverflow.com/questions/14237222/single-line-classes) seems to think I'm going crazy,False,,t5_2qifv,False,,,t3_1690kn
+1355317495.0,14q1ss,"Extreme newbie attempting to learn CSS, question about width percentage",Twitchyy,7,1,http://www.reddit.com/r/css/comments/14q1ss/extreme_newbie_attempting_to_learn_css_question/
+
+Part of HTML body: 
+
+    	&lt;body&gt;
+    
+    		&lt;div class=""wrap""&gt;
+    			&lt;h1&gt;My Website&lt;/h1&gt;
+    			&lt;div class=""box""&gt;&lt;/div&gt;
+    		&lt;/div&gt;
+    
+    	&lt;/body&gt;
+CSS:
+
+    .wrap {
+    	min-width: 600px;
+    	width: 70%;
+    	margin: auto;
+    }
+    .box {
+    	min-width: 600px;
+    	width: 70%;
+    	height: 100%;
+    	background: #9e9e9e;
+    	position: absolute;
+    }
+    body {
+    	font-family: sans-serif;
+    	background: #b5b5b5;
+    }
+
+Similarly
+
+Thank you. Really enjoying learning CSS/HTML,False,,t5_2qifv,False,,,t3_14q1ss
+1355089422.0,14keg5,Is there a way to keep the last element in the content flow but make it display at the bottom if there is not enough content to cause scrolling?,sunrise_review,5,1,3,"Essentially I have a series of &lt;div&gt; tags that are positioned vertically.The last one contains some sponsor images
+
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/14keg5/is_there_a_way_to_keep_the_last_element_in_the/
+1354342424.0,143dkd,Fixed div isn't fixed. A separate div is moving it out of place.,bion2,5,0,5,"Here is the example HTML. I just don't understand what they mean when they say ""Relative to the browser window"" when another div knocks it out of place.
+
+ &lt;!DOCTYPE html&gt;
+
+&lt;html lang=""en-us""&gt;
+
+&lt;head&gt;
+
+&lt;title&gt;Test&lt;/title&gt;
+
+&lt;style type=""text/css""&gt;
+
+body {
+
+font-family: Helvetica;
+
+font-size: 16px;
+
+}
+
+#topbar {
+
+border: 1px solid black;
+
+position:fixed;
+
+left: 0px;
+
+right: 0px;
+
+background-color: white;
+
+height: 50px;
+
+}
+
+#content {
+
+margin-top: 60px; /* If #content doesn't have a margin-top
+
+}
+
+&lt;/style&gt;
+
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=""topbar""&gt;
+
+asdfasdfasdfasdfasdf
+
+&lt;/div&gt;
+
+&lt;div id=""content""&gt;
+
+ 	Lorem ipsum dolor sit amet, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/143dkd/fixed_div_isnt_fixed_a_separate_div_is_moving_it/
+1353440373.0,13ivkp,"New to HTML/CSS, how do I go about creating this ""base container"" for my page?",HeresToMe,7,3,http://www.reddit.com/r/css/comments/13ivkp/new_to_htmlcss_how_do_i_go_about_creating_this/, I would like to have a gray background, then I start to use &lt;div&gt; to divide up the sections for title
+1353373722.0,13hdkl,CSS Padding Issue,Williugly,7,2,3,"The smaller box in the picture provided is continuing to reside on the outer box no matter how the padding/margin is changed. If would be helpful if someone could identify my mistake :( Thank you!
+
+Link:
+http://i.imgur.com/rDRb2.png
+
+EDIT: Nevermind I got it :) Added a &lt;br&gt; tag and removed one padding to move it into place. ",,t5_2qifv,1353375073.0,,,True,http://www.reddit.com/r/css/comments/13hdkl/css_padding_issue/
+1352673910.0,13141m,Responsive Viewport Issues,opus-thirteen,6,1,3,"A friend asked me to try converting a simple, android phone
+
+[link to site mockup](http://www.shootersmark.com/)
+
+What am I missing?  The last mobile conversion i did worked just fine with a 'width=device-width
+
+Note: crossposted from /r/web_design (here)[http://www.reddit.com/r/web_design/comments/1304sl/responsive_viewport_issues/] 
+
+UPDATE -------------------------------- */
+
+Fixed in the worst way possible.  
+
+&lt;meta name=""viewport"" content=""initial-scale = 0.1
+
+Was the winning viewport config.  How? By trying a multitude of combinations O_o",,t5_2qifv,1352704494.0,,,True,http://www.reddit.com/r/css/comments/13141m/responsive_viewport_issues/
+1349299761.0,10wbtu,Considering CSS -  macwright.org,tmcw,5,1,2,,t5_2qifv,False
+1349288750.0,10vz0k,Resizing an image when another element is targeted?,conchamaior,5,1,4,"Hey guys. I'm putting together a proof of concept for an interactive graphic for a class project. The idea I had is to have pictures of different foods
+
+I can't seem to get this to work. Here's the HTML I have:  
+
+    &lt;a href=""#tag1""&gt;Tag 1&lt;/a&gt; &lt;a href=""#tag2""&gt;Tag 2&lt;/a&gt; &lt;a href=""#tag3""&gt;Tag 3&lt;/a&gt;
+
+    &lt;div id=""tag1""&gt;
+    &lt;div id=""tag2""&gt;
+    &lt;div id=""tag3""&gt;
+    &lt;div class=""sourcreamstandard""&gt;&lt;img src=""sourcream.jpeg"" /&gt;&lt;/div&gt;
+     &lt;div class=""sourcreamtag1""&gt;&lt;img src=""sourcream.jpeg"" /&lt;/div&gt;
+     &lt;div class=""sourcreamtag2""&gt;&lt;img src=""sourcream.jpeg"" /&gt;&lt;/div&gt;
+     &lt;div class=""sourcreamtag3""&gt;&lt;img src=""sourcream.jpeg"" /&gt;&lt;/div&gt;
+     &lt;/div&gt;
+     &lt;/div&gt;
+     &lt;/div&gt;
+
+And the CSS:
+
+     .sourcreamstandard img {
+     	height:50px;
+     	weight:50px;
+     }
+
+     .sourcreamtag1 img {
+     	height:50px;
+     	weight:50px;
+     	position: relative;
+     	top: -50px;	
+	
+     }
+
+     .sourcreamtag2 img {
+     	height:50px;
+     	weight:50px;
+     	position: relative;
+     	top: -100px;	
+     }
+
+     .sourcreamtag3 img {
+     	height:50px;
+     	weight:50px;
+     	position: relative;
+     	top: -150px;	
+     }
+
+     .sourcreamstandard
+     	display:none;
+     }
+
+     .sourcreamtag1 #tag1:target img {
+     	height:400px;
+     	weight:400px;
+	
+	
+     }
+
+     .sourcreamtag2
+     	display:none;	
+     }
+
+     .sourcreamtag3
+     	display:none;	
+     }
+  
+And so on, the images while take on the CSS classes which hide them or resize them when appropriate. I'll go through and add some CSS3 stuff to get smooth transitions for image resizing once I get this working.
+
+I want my end result to function like [this](http://www.nytimes.com/interactive/2010/07/02/sports/soccer/facebook-worldcup.html), if anyone can give me some direction on how to achieve my idea that way.",,False,,t5_2qifv,1349289455.0,,
+1348946854.0,10oftp,Simple question about boxes and div tags.,Benjammin1391,5,0,10,"Hello!
+
+Ive just started learning CSS and Im working on a little project
+
+My question is this: I have a div tag in my stylesheet, and such. Im wondering if there is a way to change the inside color of the box to something different than the background color for the website. Can anyone tell me if this is possible?
+
+EDIT: Making it inside a class did the trick. Thanks for the help! :)",,t5_2qifv,1348948458.0,,,True,http://www.reddit.com/r/css/comments/10oftp/simple_question_about_boxes_and_div_tags/
+1348855317.0,10mo0v,I'm not that great with CSS and could use some help.,queen_rush,6,1,13,"I'm building a website and trying to conquer CSS(3).
+
+[This](http://terminol.net) is the website I'm working on. [This](http://terminol.net/web.css) is my CSS so far.
+
+Ideally, to be centered immediately below the main header. What is the simplest way to accomplish this? Am I nesting my div structure correctly or is there an easier way to create the basic style structure of my site?
+
+I'm really just looking for basic feedback,False,,t5_2qifv,False,,,t3_10mo0v
+1348839109.0,10m8hh,Easily compare styles of two HTML elements in your Chrome,konradzikusek,7,2,0,,t5_2qifv,False
+1348524022.0,10ey0x,Repeating a pattern over multiple elements?,Clyktose,7,2,9,"I have a frame of four different rectangular elements so they align to form a ""frame"" around my content. I'm wondering if it's possible to align a pattern across all four. As is I have to apply the patten to each one separately. This make the pattern restart with each elements which makes it not much of a pattern.
+
+I'm guessing this is impossible,False,,t5_2qifv,False,,,t3_10ey0x
+1348222303.0,108py9,Need help with CSS. When I zoom out of my website a banner drops out of his place. Can someone help?,iRomijn,7,1,4,"Hi Reddit
+
+I have a problem with [my website](http://www.sbi.nl). When I use CTRL + Scroll to zoom out of the page - the right banner moves out of his place. I tried everything but I can't seem to solve this.
+
+Can somebody point me in the right direction? Thanks!
+
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/108py9/need_help_with_css_when_i_zoom_out_of_my_website/
+1346712491.0,zaytf,"Blurring DOM elements with a simple approach (also, a jQuery plugin)",nbartlomiej,5,1,http://www.reddit.com/r/css/comments/zaytf/blurring_dom_elements_with_a_simple_approach_also/,,
+1346445220.0,z5jgq,"Hey CSSReddit, I'd really appreciate some help styling my localStorage TODO list ""application""",csshorizontalscroll,6,1,http://www.reddit.com/r/css/comments/z5jgq/hey_cssreddit_id_really_appreciate_some_help/
+
+It's a simple localStorage based TODO list application that I've been using for over a year now.
+
+The issue: I want it to scroll horizontally if I've got more todo lists than the screen can cover. The whole app is basically one giant hack and I don't know which parameters to tune. I already added some documentation so that it's easier for you to dive in.
+
+I already played around with `display: inline-block; white-space: nowrap;` but nothing worked.
+
+EDIT: https://github.com/jonashaag/todo/pull/1",,t5_2qifv,1346520299.0,,,True,http://www.reddit.com/r/css/comments/z5jgq/hey_cssreddit_id_really_appreciate_some_help/
+1346331621.0,z2pir,Styling file upload.,MrDeath2000,5,1,20,"Hey guys
+
+Here is what I have http://jsfiddle.net/dG95h/1/
+
+Problem is that this will only work in chrome. ",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/z2pir/styling_file_upload/
+1346211988.0,z0324,"Inner Shadows, Help! (picture included)",in4mation3rror,6,0,http://www.reddit.com/r/css/comments/z0324/inner_shadows_help_picture_included/
+
+I'm trying to include an inner shadow effect on the LEFT and RIGHT edges of my wrapper. 
+
+However
+Is there some way to create inner shadow left and right borders? Or just add tiny gradients to my borders?
+
+Here is a sliver of the top of the page. As you can see
+
+http://i.imgur.com/d3L9j.png
+
+Thanks!
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/z0324/inner_shadows_help_picture_included/
+1345663743.0,ynjad,Can you help me figure out why my mobile css is off the screen?,barroomhero,7,1,10,"http://narffl.com/
+
+I'm sure I made a small dumb little mistake but I just can't see it. 
+
+Thanks in advance. ",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/ynjad/can_you_help_me_figure_out_why_my_mobile_css_is/
+1345414682.0,yhpgr,how do i stretch with a set border on each side?,cascer1,5,2,12,"hello
+
+i'm working on a site and i want it to fill everyones screen
+
+how the hell do i do this?
+
+(it's for this page: www.sergeantsclan.com/index.html)
+
+you can find my current css file at www.sergeantsclan.com/style.css
+
+
+thanks a lot.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/yhpgr/how_do_i_stretch_with_a_set_border_on_each_side/
+1345036848.0,y9d4r,Floating Div/iFrame Help,tris203,5,0,8,"I have made a floating div on my website. which works great on a PC browser.
+
+But on mobile safari (testing on my iPhone) when you pinch zoom it floats all over the page.
+
+How can I make it so it can only move up and down but not left and right?
+
+example at www.whatthedrop.com",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/y9d4r/floating_diviframe_help/
+1345007419.0,y8wqj,"Just finished designing, graphic making, and coding adpiucb.org by myself. Its simple and the coding has some issues with it, but I'm proud.",cccaceres,0, i knew absolutely nothing about html
+
+Now that the main thing is complete, how much do you think I could have gotten for it?",,False,,t5_2qifv,False,,
+1344650455.0,y11w7,:target pseudo-class help,atnms,5,2,5,"I'm trying to create a css-only slide-in menu like the kind you see on mobile devices. I'm in the very beginning stages just trying to get it to actually work. 
+
+I'm trying [here](http://jsfiddle.net/42yUW/) to use the :target pseudo class to trigger the menu and content to slide out 300px from the left. It seems to me like it should work
+
+Please help me! Thank you! ",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/y11w7/target_pseudoclass_help/
+1344478444.0,xx0yy,Help with responsive design,harasho,5,1,6,"So I have a responsive nav bar that I would like to keep responsive
+
+This is how it looks when it is shrunk:
+http://i.imgur.com/gx65j.png
+
+As you can see
+http://pastebin.com/KzMp7qRY    
+
+Any help would be greatly appreciated. Thank you in advance!
+
+Edit: I solved my problem. Thanks again!",,t5_2qifv,1344489087.0,,,True,http://www.reddit.com/r/css/comments/xx0yy/help_with_responsive_design/
+1344386373.0,xur0f,Need some CSS help...,grodasy,6,1,8,"Hey
+
+[This is the site](http://www.bsharman.com.au/hcc/) 
+What I would like to do
+
+I'm making the site in wordpress and at the moment I've got them sitting in a text widget within the sidebar.
+
+The site's still very much a WIP,False,,t5_2qifv,False,,,t3_xur0f
+1343910436.0,xk5x6,What fonts look good in WebKit when hardware acceleration is enabled?,behrangsa,7,1,11,"As you know
+
+However if you want to use 3D CSS transforms
+
+Some fonts don't look nice at all when HW acceleration is enabled
+
+Is there a list of fonts/font-sizes that look reasonably nice with 3D HWA enabled?",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/xk5x6/what_fonts_look_good_in_webkit_when_hardware/
+1343771483.0,xgz6r,DIV assistance,Edgy_Insomniac,6,0,2,"[What I've gotten so far.](http://dabblet.com/gist/3220929)
+
+How can I get a blank space 500px wide to the right side of the div. The div should cover the rest of the page.",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/xgz6r/div_assistance/
+1343649200.0,xdy1s,Background image align help,gregsfriend,6,0,6,"Hi
+
+I am trying to align a background image to the left of the text but having some problems with it.
+
+http://jsfiddle.net/dv57H/1/
+
+",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/xdy1s/background_image_align_help/
+1343384808.0,x8pcs,Help with lists (UL) presented as multiple columns /rows ,SleepingFaster,6,2,7,"Apologies for the level of this question
+
+
+I'm attempting to use &lt;UL&gt; to present a multi-column layout for navigation (popped in the middle of a page; in this case several vertical lists presented next to each other
+
+
+A good example of what I mean is the footer navigation on Reddit.
+
+
+Doing this for three lists presented side by side seems to work OK
+
+
+An example of what I mean
+
+
+With a bit of googling there seems to be some nice tricks in CSS3 to achieve this
+
+
+Thanks for any help",,t5_2qifv,1343386318.0,,,True,http://www.reddit.com/r/css/comments/x8pcs/help_with_lists_ul_presented_as_multiple_columns/
+1342790741.0,wvenq,Pears - Common patterns for markup and style,skuvnar,5,1,0,,t5_2qifv,False
+1342567890.0,wq9nf,"Need Help Finding Code For A Drop ""Up"" Menu",Josh5321,8,3,4,"So I am making a footer for my professors website. He wants to have a drop ""up"" menu. I am having a hard time finding out how to alter the code to reverse a drop down menu. I came across this http://www.webmasterworld.com/css/3989853.htm but it didnt help much.",t5_2qifv,True
+1339566963.0,uzeae,Help aligning menu buttons in IE9,shloimtotheE,7,1,4,"The menu buttons on my website align properly in firefox and chrome
+
+www.outgrow.me",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/uzeae/help_aligning_menu_buttons_in_ie9/
+1338511883.0,uetj5,Is the recommendation to include CSS before JavaScript invalid?,cruise02,7,1,4,,t5_2qifv,False
+1338217655.0,u8rmh,footer,KaosKing,6,1,10,"so, even though it has room to move that it should be on the bottom.
+
+should i link my website?",,t5_2qifv,False,,,True,http://www.reddit.com/r/css/comments/u8rmh/footer/
+1335236886.0,spcp4,What's the best way to make a background like this?,DrewChambersDC,10,5,8,,t5_2qifv,False
+1333943864.0,s0a4e,Need help with text flowing over a div element,JoJokerer,6,1,2,"http://i.imgur.com/pu5qT.jpg
+
+Hi. The above image is the relevant part of the website. The three bold headings (name email and declaration) are dt items in a definition list. The text under each is obviously the dd items for each.
+
+The css I've used to position the menu and style it is as below.
+
+    #menu /* menu position */
+    {
+    	width:210px;
+    	height:300px;
+    	float:right;
+    	text-align:left;
+    	margin-top:-30px;
+    	margin-left:-300px;
+	
+    }
+
+    ul  /* list decoration (removal) */
+    {
+      list-style: none;
+    }
+
+    #menu a /* menu static link decoration */
+    {
+    text-decoration:none;
+    color:#dddddd;
+    }
+
+    #menu a:hover /* menu hover link decoration */
+    {
+     text-decoration:underline;
+    }
+
+    #menu ul
+    {
+    border:1px solid #7a7a7a;
+    padding:0px;
+    width:200px;
+    }
+
+    #menu li /* menu */
+    {
+    	border:1px solid #dc5d72;
+    	padding:5px;
+      	background-color:#b51032;
+    	border-left:8px solid #741617;
+    }
+
+    #link_menu /* menu heading */
+    {
+    	font-weight:bold;
+    	margin:0px;
+    	color:black;
+    	background-color:#dddddd;
+    	text-align:center;
+    	border-left:0px;
+     	font-size:25px;
+     }
+
+    #menu li:first-child /* menu */
+    {
+     	border:0px;
+    	padding:0px;
+    }
+
+
+I'd like to stop all the &lt;dd&gt;s from flowing over the top of the menu div. I've tried applying clear:both; and clear:right; to each of the separate children in the details section but none make it stop :(
+
+Please help :D
+
+
+**EDIT: Fixed it. The #menu{margin-left:-300px;} meant that the div wasn't actually where it was. I had it there because the &lt;hr/&gt; above the details section was cutting off ~400px before the right side of the page. I must have deleted some padding somewhere because now,,False,,t5_2qifv,True,,True
+1332356650.0,r7562,Do you create separate .box-radius classes?,beardedlinuxgeek,6,2,16,"Create a single class like
+
+        .box-radius-8 {
+        	-webkit-border-radius: 8px;
+        	   -moz-border-radius: 8px;
+                    border-radius: 8px;
+        }
+and apply it to all the elements with an 8px border radius,False,,t5_2qifv,False,,,t3_r7562
+1331754116.0,qwm5o,Absolute positioning within a relative div?,triad_entrue,6,1,15,"I have a 900px relative div that acts as a console for the rest of the site content.  Positioning things within the console div has proven to be a PITA so I'd like to ""absolutely"" position elements within it.  Is there any way to do that?
+
+Where this is coming from:  At the top left of the console is a 200px wide logo div.  At the top right is a nav div with a few links.  Below both of these divs I wanted to put a 900px wide div to hold content
+
+Any links to good positiong tuts would be appreciated.
+
+The code: http://jsfiddle.net/rsy8E/1/
+
+(I'd also like to note that this is the first time in a *long* time that I've done any web design so please be gentle.)",,t5_2qifv,True,,,True,http://www.reddit.com/r/css/comments/qwm5o/absolute_positioning_within_a_relative_div/
+1330356349.0,q8623,Background Image problem in IE8,,5,1,1,,t5_2qifv,False
+1329820337.0,pz69v,CSS3 3D Transforms Animation – Cube Rotation Effect,kennyooi,6,1,4,,t5_2qifv,False
+1327861105.0,p1vva,HTML-CSS Grid alternative layout structure,adardesign,5,2,1,,t5_2qifv,False
+1321667028.0,mhm97,Screen readers and CSS,sdleihssirhc,6,2,0,,t5_2qifv,False
+1321283160.0,mbtx8,Google closure style sheet compiler open sourced.,lennelpennel,5,1,0,,t5_2qifv,False
+1320855371.0,m67dt,Best source for a complete noob?,trollollollollolloll,5,0,12,"Hi guys, for someone new to css?",t5_2qifv

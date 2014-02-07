@@ -1,0 +1,1894 @@
+created_utc,id,title,author,ups,downs,num_comments,selftext,subreddit_id,is_self
+1269486717.0,bhvhz,"The Onion Uses Django, And Why It Matters To Us",westononion,307,60,http://www.reddit.com/r/django/comments/bhvhz/the_onion_uses_django_and_why_it_matters_to_us/, so a bit late. Sorry if this is duping any existing threads.
+
+Why
+
+This is not a Drupal vs Django fight, but The Onion decided to stop using Drupal a long time ago. The Onion deployed a Drupal site back in 2005, at the time it was the right decision given the resources, yet even then we were interested in using Python whenever possible. We feel it is a vastly better designed language than PHP and of course any framework you're using is only as good as the language. We started rolling out other projects, like The A.V. Club, in Django. Just this past weekend we switched over The Onion proper, and we're seeing immediate gains in speed, and stability. As a team we have a pretty broad base of experience and I know we're all in agreement that what we've got now is better, VPS's. So this isn't just about The Onion using Django (and recommending it)
+
+How
+
+It took us about 3 months to convert our old Onion site to Django while we also maintained and built on our other sites. We already had some components written for A.V. Club, so we could rerun importing old data into the new system and fix and tweak. There is an enormous advantage using Django, sorl and PIL for creating image crops based on templatetags which gives the editorial and design folk flexibility they need (no more css cropping odd-sized images into place). Again, lots of work went into actually cleaning a site that goes back to 1996, Django allowing for a relatively minimal amount of coding -- particularly when it comes to the admin side for content entry, Django trunk we found almost ready to go as-is (something we did not find with previous Django). That we could use the Django admin rather than create custom entry forms I think saved us 2 months work.
+
+Because
+
+Cleaner. Much cleaner. Proper unit testing. Real reusable components across applications. An ORM rather than a just a series of functional query helpers. Tighter conventions (q: how often do people using Python argue about bracing styles? a: they don't). We can update then test a Django core change without worrying about having to take apart our applications, much more readable code. Every member of the tech team can meaningfully contribute because there are fewer specialized or hacked together pieces. We can move more quickly on large changes because of all these reasons. And we're more stable because of all the previously expressed points.
+
+-- The Onion Tech Team
+",,t5_2qh4v,True,,,True,http://www.reddit.com/r/django/comments/bhvhz/the_onion_uses_django_and_why_it_matters_to_us/
+1310604334.0,ioyvs,I think I just won at Django,dustinechos,114,15,30,,t5_2qh4v,False
+1357319929.0,15yihy,"""No, i did NOT mean 'Django Unchained'""",sleepingmartyr,116,23,http://www.reddit.com/r/django/comments/15yihy/no_i_did_not_mean_django_unchained/,,
+1358445967.0,16rh9q,Two Scoops of Django: Best Practices for Django 1.5,kennethlove,110,21,35,,t5_2qh4v,False
+1332524497.0,ra8od,Django 1.4 released,dalore,94,11,11,,t5_2qh4v,False
+1269361097.0,bh64f,theonion.com is now Django-powered!,ddipaolo,87,4,19,,t5_2qh4v,False
+1361908844.0,19a02b,"Django 1.5 released
+",8,7,http://www.reddit.com/r/django/comments/19a02b/django_15_released/,,,False,t5_2qh4v,False
+1363965120.0,1asvv9,Kickstarter for a better South (by the author of South),,85,2,22,,t5_2qh4v,False
+1274121495.0,c594i,Django 1.2 released,edavis,89,4,4,,t5_2qh4v,False
+1363713122.0,1alpn5,Malcolm Tredinnick has passed away,masklinn,88,7,8,,t5_2qh4v,False
+1323509235.0,n7at7,Django now has {% elif %} in templates,lordlarm,84,3,14,,t5_2qh4v,False
+1289437159.0,e4c25,"Big win for django, the new pbs.org website is built on django cms",,78,2,http://www.reddit.com/r/django/comments/e4c25/big_win_for_django_the_new_pbsorg_website_is/,,
+1322897526.0,myjey,I didn't realize Instagram was powered by Django,servercobra,74,8,0,,t5_2qh4v,False
+1329712474.0,pxcxk,If I can just overclock the unix django ...,tsaylor,77,8,6,,t5_2qh4v,False
+1366301684.0,1cm2t9,11 Things I Wish I Knew About Django Development Before I Started My Company: — CS + Math,jordimaister,69,12,3,,t5_2qh4v,False
+1309444043.0,id9o7,Django Advice (or: a few tips and tricks I've learned working with Django full-time for a year and a half),stevelosh,62,5,8,,t5_2qh4v,False
+1300859632.0,g9ige,Django 1.3,orcus,69,11,6,,t5_2qh4v,False
+1340487562.0,vhy4d,What are your favorite django apps ?,hhh333,67,13,21,"I'll start with my own list:
+
+ - [django-grappelli](https://github.com/sehmaschine/django-grappelli)
+ - [django-modeltranslation](https://github.com/hyperweek/django-modeltranslation) (fork)
+ - [easy_thumbnails](https://github.com/SmileyChris/easy-thumbnails)
+ - [south](http://south.aeracode.org/)
+ - [userena](https://github.com/bread-and-pepper/django-userena/)
+ - [django-guardian](https://github.com/lukaszb/django-guardian/)
+
+I will add more later with links to projects repos (I'm on mobile right now)
+
+**Update:**
+
+Some have been quicker than me
+
+ - [django-elasticsearch](https://github.com/aparo/django-elasticsearch)
+ - [django-haystack](https://github.com/h3/django-seoutils)
+ - [django-tastypie](https://github.com/toastdriven/django-tastypie)
+ - [django-reversion](https://github.com/etianen/django-reversion)
+ - [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar)
+ - [django-generic-flatblocks](https://github.com/bartTC/django-generic-flatblocks)
+ - [django-positions](https://github.com/jpwatts/django-positions)
+ - [django-mptt](https://github.com/django-mptt/django-mptt)
+
+
+Those are some I developed and use frequently:
+
+ - [django-seoutils](https://github.com/h3/django-seoutils)
+ - [django-courier](https://github.com/h3/django-courier)
+ - [grappelli-fit](https://github.com/h3/grappelli-fit)
+ - [django-frontadmin](https://github.com/h3/django-frontadmin)",,t5_2qh4v,1340685934.0,,,True,http://www.reddit.com/r/django/comments/vhy4d/what_are_your_favorite_django_apps/
+1338303291.0,uae3s,Django's CBVs were a mistake,spookylukey,61,7,17,,t5_2qh4v,False
+1307158534.0,hra0e,Dear NASA.. you are doing it wrong.,hhh333,67,9,19,,t5_2qh4v,False
+1255127030.0,9skmk,Critical Django security updates released (0 day exploit in the wild),tghw,58,4,2,,t5_2qh4v,False
+1364484092.0,1b6ipt,Effective Django,sebasmagri,59,8,0,,t5_2qh4v,False
+1253784146.0,9nlr3,New django CMS website,palmTree,56,4,5,,t5_2qh4v,False
+1358880883.0,172ig7,Getting Started with Django - Part 1 (Django video tutorial series),halike,57,2,26,,t5_2qh4v,False
+1351210935.0,123iap,"Django 1.5 alpha 1 released (including configurable User models, Python 3)",pjdelport,58,6,http://www.reddit.com/r/django/comments/123iap/django_15_alpha_1_released_including_configurable/,,
+1353051998.0,13afx2,"Bootstrap your Django admin in 3 minutes, and do it without changing your codebase",riccardoforina,61,5,http://www.reddit.com/r/django/comments/13afx2/bootstrap_your_django_admin_in_3_minutes_and_do/,,
+1351099192.0,120k2j,Starting a Django 1.4 Project the Right Way ,jknupp,55,0,22,,t5_2qh4v,False
+1261497589.0,ahi27,Django multiple database support lands,kingkilr,52,0,10,,t5_2qh4v,False
+1370720585.0,1fxwdt,Using Django querysets effectively,etianen,56,7,5,,t5_2qh4v,False
+1361384626.0,18wdlq,"Getting Started With Django, Lesson 02: Microblog Kitchen Sink",kennethlove,51,2,http://www.reddit.com/r/django/comments/18wdlq/getting_started_with_django_lesson_02_microblog/,,
+1265438235.0,ayqmu,Django 1.2 beta 1 released,ubernostrum,55,0,2,,t5_2qh4v,False
+1341427916.0,w1jdb,I tried django and now I don't like php,blindgirlrunning,57,6,53,"I have been working with php since 2000. I wanted to learn something different so recently created a simple app by following the tutorial on djangoproject. 
+
+I don't want to go back to php,False,,t5_2qh4v,False,,,t3_w1jdb
+1335951367.0,t3297,"Ubuntu, Django, Postgresql and Nginx, a rock solid web stack.",p0bailey,5,,False
+1375797508.0,1jt7iw,Security advisory: BREACH and Django | Weblog,equinoxel,53,2,6,,t5_2qh4v,False
+1362096123.0,19fgr5,"""Two Scoops of Django"" is now out in beta",kennethlove,54,8,16,,t5_2qh4v,False
+1351561177.0,12bayy,We just open sourced our Django drip email app.,bryanhelmig,54,2,7,,t5_2qh4v,False
+1262771860.0,am6mx,Django 1.2 alpha 1 released,imbaczek,53,2,10,,t5_2qh4v,False
+1356639335.0,15j8qu,Complete Single Server Django Stack Tutorial,apreche,60,14,26,,t5_2qh4v,False
+1302420135.0,gmlxc,A Guide to Testing in Django ,gst,52,4,5,,t5_2qh4v,False
+1298475954.0,fr35t,"Wordpress 3.1 was just named ""Django"". How sad.",cjoudrey,71,27,24,,t5_2qh4v,False
+1283892046.0,darzd,Scaling the World's Largest Django App,vangale,53,4,7,,t5_2qh4v,False
+1363577120.0,1ai5o4,"Newsblur, open source RSS reader written in django",zarl0ck,54,6,http://www.reddit.com/r/django/comments/1ai5o4/newsblur_open_source_rss_reader_written_in_django/,,
+1359110148.0,17906a,Django 1.5 final release delayed,halike,50,1,2,,t5_2qh4v,False
+1329366667.0,prupj,Django 1.4 Beta 1 Release,myusuf3,54,7,10,,t5_2qh4v,False
+1302243217.0,glcok,Russian developers are the best,ares623,50,2,12,,t5_2qh4v,False
+1298583436.0,fs327,I made a little logo modification for r/django ,skazhy,65,16,13,,t5_2qh4v,False
+1285784472.0,dkm7h,Jacob Kaplan-Moss: Improving our decision-making and committer process,gthank,47,3,12,,t5_2qh4v,False
+1286732130.0,dpdah,An Object Lesson in How to Respond to Criticism,,49,4,1,,t5_2qh4v,False
+1287426736.0,dsx5l,Django trunk gets class based generic views!,frankwiles,46,5,5,,t5_2qh4v,False
+1251716995.0,9ftbs,Top 10 tips to a new django developer,ramavadakattu,51,9,7,,t5_2qh4v,False
+1335663003.0,sxkr8,Moving Django to GitHub: the postmortem,craig081785,52,7,0,,t5_2qh4v,False
+1335596466.0,swjk8,Django officially on Github,lastkarrde,53,6,8,,t5_2qh4v,False
+1326458315.0,ofdeq,Justin.tv wants to port their site from Rails to Django?,thisiscam,46,2,5,,t5_2qh4v,False
+1354627247.0,149dvs,Common Pitfalls with Django and South,andrewingram,47,2,3,,t5_2qh4v,False
+1350514227.0,11nn8f,Django 1.3.4 and 1.4.2 are out for security patches,Nitron,45,4,0,,t5_2qh4v,False
+1316596528.0,kmkla,  Unbreaking Your Django Application ,kev009,49,4,7,,t5_2qh4v,False
+1308727415.0,i60ts,DjangoCon US 2011,idangazit,61,23,0,,t5_2qh4v,False
+1300861038.0,g9iur,Django 1.3 released,bleachedanus,48,6,3,,t5_2qh4v,False
+1331068930.0,qkoo2,Our startup open sourced our Django knowledge base/help desk app as django-knowledge.,bryanhelmig,45,2,6,,t5_2qh4v,False
+1320514409.0,m1jkh,Deploying Django is a mess.  Here's how to fix it.,edavis,50,8,12,,t5_2qh4v,False
+1316639193.0,kn5gf,DjangoCon US 2011 videos are available,ebartels,46,5,5,,t5_2qh4v,False
+1300740661.0,g8gcg,Django 1.3 cheat sheet from revsys.com,frankwiles,47,7,2,,t5_2qh4v,False
+1248230619.0,93d06,Django 1.1rc1 is here!,SmileyChris,42,3,3,,t5_2qh4v,False
+1365720833.0,1c61qc,Two Scoops of Django sample chapter available!,pydanny,46,6,11,,t5_2qh4v,False
+1299218453.0,fx3jc,Django 1.3 RC1 released,freakboy3742,44,3,0,,t5_2qh4v,False
+1366239130.0,1ckef4,Two Scoops of Django is in print!,pydanny,41,2,9,,t5_2qh4v,False
+1360130667.0,17zhyq,Committers Needed For Tastypie (webservice API framework for Django) &amp; Haystack (modular search for Django),nicklo,44,3,6,,t5_2qh4v,False
+1334783079.0,sgnqv,Ep.io is closing down,jellofiend84,44,4,20,,t5_2qh4v,False
+1324655631.0,no055,Django 1.4 Release Notes! This is exciting.,miserlou,46,8,7,,t5_2qh4v,False
+1263965027.0,arrjw,I've been using this for about 12 hours and suddenly CSS is tolerable again. SASS for Django (or anything!),slow_as_light,48,7,12,,t5_2qh4v,False
+1259579632.0,a9fqc,Haystack 1.0 Final Released - The goal of Haystack is to provide modular search for Django. ,gst,41,4,6,,t5_2qh4v,False
+1372432293.0,1h92no,Django 1.6 beta 1 released,Siraf,40,3,4,,t5_2qh4v,False
+1372347862.0,1h6msl,Django Best Practices/Conventions/Basic Checklist for Freelancers,michaelherman,39,3,7,"As a freelance developer, etc. as well as analyzing the codebase in general.
+
+I would love to hear from other Django freelancers to hear how you handle the onboarding process. What questions do you ask? How do you look at the code? Do you focus on unit tests to find hotspots? Etc.",,t5_2qh4v,1372360428.0,,,True,http://www.reddit.com/r/django/comments/1h6msl/django_best_practicesconventionsbasic_checklist/
+1348760262.0,10kf0a,Swappable auth.User added!,servercobra,46,7,8,,t5_2qh4v,False
+1345042720.0,y9hwn,Django on Python 3!,metl_lord,43,7,2,,t5_2qh4v,False
+1330448227.0,q9v4r,"Early version of Django 1.4 b2, groups custom commands by app. Very Sexy!",mariocesar,41,4,http://www.reddit.com/r/django/comments/q9v4r/early_version_of_django_14_b2_groups_custom/,,
+1273937068.0,c4hoc,"Django 1.2 to be released on Monday, May 17, 2010.",AlphaCentauri,39,4,False,
+1264534050.0,aug90,jQuery now ships with Django and is used in the Admin contrib application,clintecker,41,4,10,,t5_2qh4v,False
+1376417015.0,1kajak,"Django Security Releases Issued - 1.4.6, 1.5.2, and 1.6 beta 2",br05,38,1,False,
+1339048870.0,updnj,Why django sucks -- kennethreitz,bike-curious,46,8,9,,t5_2qh4v,False
+1280081115.0,ctjc4,Thoughts about Rails from a Django guy,edavis,41,4,0,,t5_2qh4v,False
+1272142899.0,bvn6i,Minimal Django,olifante,39,1,26,,t5_2qh4v,False
+1369634903.0,1f4hmc,Django 1.6 alpha 1 released | Django weblog,chowmeined,37,3,9,,t5_2qh4v,False
+1297610173.0,fkkdf,Is Django Now More Popular Than Ruby On Rails?,googleinsights,42,8,15,,t5_2qh4v,False
+1284016170.0,dbhn2,"Why Django Sucks, and How we Can Fix it",gst,48,15,http://www.reddit.com/r/django/comments/dbhn2/why_django_sucks_and_how_we_can_fix_it/,,
+1279290761.0,cqayu,"Django/Celery Quickstart (or, how I learned to stop using cron and love celery)",gthank,39,1,http://www.reddit.com/r/django/comments/cqayu/djangocelery_quickstart_or_how_i_learned_to_stop/,,
+1264787966.0,avria,Top 10 tips to a new Django developer,cumhur,43,5,7,,t5_2qh4v,False
+1262505954.0,al04y,DjangoCon 2009 Videos ,gst,38,3,3,,t5_2qh4v,False
+1231493567.0,7ohgy,"Announcing the Django Book, second edition ",gst,37,1,http://www.reddit.com/r/django/comments/7ohgy/announcing_the_django_book_second_edition/,,
+1366130171.0,1cgwyy,RevSys Django cheat sheet updated for Django 1.5,frankwiles,36,0,3,,t5_2qh4v,False
+1353263424.0,13enkz,I made a Django report builder. Basically a GUI for Django ORM targeting admins and end users.,bufke,38,4,5,,t5_2qh4v,False
+1346023245.0,yvi8x,A Better Way To Initialize Django Forms,scwoodal,40,6,22,,t5_2qh4v,False
+1345232994.0,ye5wz,"django-skeleton - a standard folder structure for a Django 1.4 project, includes Twitter Bootstrap",ckyourself,45,9,http://www.reddit.com/r/django/comments/ye5wz/djangoskeleton_a_standard_folder_structure_for_a/,,
+1322257385.0,mp8mw,"I've made good progress in porting Django to Python 3, and could use some help! (x-post from /r/Python/)",vsajip,45,11,http://www.reddit.com/r/django/comments/mp8mw/ive_made_good_progress_in_porting_django_to/,,
+1315652624.0,kb1nr,Django - Security releases issued,gitarr,37,1,3,,t5_2qh4v,False
+1375715222.0,1jqre9,Testing in Django (part 1) - Best practices and examples,FletcherHeisler,38,5,7,,t5_2qh4v,False
+1368516743.0,1eawic,Django Graphos - Django charting made *really* easy.,shabda,38,3,9,,t5_2qh4v,False
+1339248111.0,ut4jl,"Why Django Sucks, Except When It Doesn’t «  Coffee on the Keyboard",itsucharo,39,8,http://www.reddit.com/r/django/comments/ut4jl/why_django_sucks_except_when_it_doesnt_coffee_on/,,
+1331458660.0,qrdun,Django presentations from PyCon,PressedWeb,37,4,12,"http://pyvideo.org/video/604/introduction-to-django
+
+http://pyvideo.org/video/610/django-in-depth
+
+---
+
+El slides:
+
+http://media.b-list.org/presentations/2012/pycon/django-in-depth.pdf",,t5_2qh4v,True,,,True,http://www.reddit.com/r/django/comments/qrdun/django_presentations_from_pycon/
+1327123057.0,opw50,Django By Example,jackhammer2022,40,3,8,,t5_2qh4v,False
+1324602776.0,nnchg,Django now supports Selenium and other in-browser testing frameworks,svartalf,40,3,2,,t5_2qh4v,False
+1251381706.0,9eoik,"
+Django-SocialAuth - Login via twitter, yahoo, google using a single app.",shabda,38,2,1,,t5_2qh4v,False
+1359695898.0,17ogql,"Hi /r/django, I would like to introduce you my latest project: django-editlive",hhh333,39,7,http://www.reddit.com/r/django/comments/17ogql/hi_rdjango_i_would_like_to_introduce_you_my/,,
+1358320804.0,16o9tu,"First live Django project, ""Is this DST?""",milkandtang,38,6,http://www.reddit.com/r/django/comments/16o9tu/first_live_django_project_is_this_dst/
+
+Geolocates you and figures your timezone, but it should work for anywhere in the world and be accurate. If it's wrong for you, let me know!
+
+As to the implementation, and [pipeline](https://github.com/cyberdelia/django-pipeline) for css/script minification.
+
+Other packages used include [pytz](http://pypi.python.org/pypi/pytz) for timezone calculations and [boto](https://github.com/boto/boto) for automated upload of static assets to [S3](http://aws.amazon.com). [Zurb Foundation](http://foundation.zurb.com) was used for the frontend—totally overblown for the scope
+
+Anyway
+
+EDIT: Source code is now available on [GitHub](https://github.com/fardog/isthisdst). I will take all judgements,False,,t5_2qh4v,1358488099.0,,,t3_16o9tu
+1349805403.0,117fyo,IDE / Text Editor of Choice for Django?,nrogers64,35,0,56,"If you use plugins,,
+1343690987.0,xf2x4,Security releases (Django 1.4.1 and 1.3.2) issued,martey,36,6,14,,t5_2qh4v,False
+1310407241.0,imlf9,33 projects that make developing django apps awesome,gitarr,42,9,6,,t5_2qh4v,False
+1293080793.0,eq9vd,Security releases issued,gst,34,3,1,,t5_2qh4v,False
+1286229126.0,dmswf,Django finally gets logging,kickme444,36,4,9,,t5_2qh4v,False
+1279819032.0,csjdj,Websocket support for Django!,gremu,40,5,2,,t5_2qh4v,False
+1268189174.0,bbemn,Django 1.2 Delayed,wabber,34,1,9,,t5_2qh4v,False
+1267096802.0,b6bzr,"Django Advent, Day 14: Scaling Django (Mike Malone)",idangazit,34,4,http://www.reddit.com/r/django/comments/b6bzr/django_advent_day_14_scaling_django_mike_malone/,,
+1265679722.0,azpf4,Django now includes a messages framework. Replacing messages from django.contrib.auth.,vvangelovski,33,0,0,,t5_2qh4v,False
+1331839704.0,qy7bb,Ajax and Django Views,tehjones,35,6,6,,t5_2qh4v,False
+1331825513.0,qxvio,Highlights of Django 1.4,silent1mezzo,32,3,10,,t5_2qh4v,False
+1323003843.0,mzplj,"Python 3 port - all tests now pass on 2.5.4, 2.6.2, 2.7.2 and 3.2.2 with the same codebase (x-post from /r/Python/)",vsajip,41,0,False,
+1318980952.0,lguw3,"Speeding up a Django web site without touching the 
+code",8,3,http://www.reddit.com/r/django/comments/lguw3/speeding_up_a_django_web_site_without_touching/,,,False,t5_2qh4v,False
+1300277265.0,g533u,Use Django and jQuery to create a spreadsheet app,Ashiro,36,2,1,,t5_2qh4v,False
+1292287332.0,elbos,Django 1.3 release schedule -- Update,logic,34,2,0,,t5_2qh4v,False
+1260990561.0,affgr,RedditGifts was build using django ... can anyone help get the word out?,kickme444,33,3,10,"Dont know if you've seen the recent press about the site I built at redditgifts.com but techcrunch and a bunch of sites picked it up.  I have tried like hell to get django into these peices with no luck.  I really was hoping to get the django community some press with this project as I believe it wouldnt have been possible without django for a number of reasons.
+
+If any of you are bloggers ... you should blog about it or something.  I am not a blogger :(
+
+Anyway,False,,t5_2qh4v,False,,,t3_affgr
+1256315599.0,9x310,Django 1.2 Accepted Feature List,kingkilr,34,0,1,,t5_2qh4v,False
+1255855935.0,9v6rp,Django Version 1.2 Proposed Features,rfugger,33,2,3,,t5_2qh4v,False
+1255640472.0,9uha4,(a start to) The Perfect Django Settings File,blackrobot,34,0,14,,t5_2qh4v,False
+1369844021.0,1f9x9o,"(Screencast) Build a 'Hacker News' clone with Django, Part I",sleepingmartyr,36,4,http://www.reddit.com/r/django/comments/1f9x9o/screencast_build_a_hacker_news_clone_with_django/,,
+1368257045.0,1e4as7,Django-xadmin by sshwsfc,mafinar,34,1,5,,t5_2qh4v,False
+1363291273.0,1aayq8,Are there any topics or aspects of Django that people are confused or unsure about? I'm looking for topics to write blogs posts or tutorials on.,pastylegs,34,5,73,"I keep a simple blog [on my portfolio site](http://timmyomahony.com/) for things I come across that might be useful or confusing with Django
+
+Are there any parts of Django that people find particularly confusing or worthy of explanation,False,,t5_2qh4v,False,,,t3_1aayq8
+1355604754.0,14wqso,"Shortcomings in the Django ORM and a look at Peewee, a lightweight alternative",coleifer,41,7,http://www.reddit.com/r/django/comments/14wqso/shortcomings_in_the_django_orm_and_a_look_at/,,
+1351444937.0,128528,Anything you wish you knew when you were just getting started?,terrorTrain,36,6,37,"I developed in php for a long time before I went to college. Now that I have almost graduated
+
+Are there any neat tips/tricks that you wish someone would have told you when you were just starting out?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/128528/anything_you_wish_you_knew_when_you_were_just/
+1338388518.0,uc53c,Django's CBVs are not a mistake (but deprecating FBVs might be),gthank,35,7,14,,t5_2qh4v,False
+1328167171.0,p7fje,Current Favorite Django Packages?,keithasaurus,36,5,17,"I'll start
+
+Django Filebrowser (and Django Grappelli to a lesser extent)
+
+Django Debug Toolbar
+
+Django South
+
+Django Extensions
+
+Django Registration",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/p7fje/current_favorite_django_packages/
+1293558772.0,esmvi,Django 1.3 beta 1 released,logic,33,2,1,,t5_2qh4v,False
+1282105625.0,d2fqc,Announcing Django Packages!,gst,36,6,2,,t5_2qh4v,False
+1277426951.0,cirih,Django Hidden Hires,rfugger,36,3,7,,t5_2qh4v,False
+1271940636.0,buli9,Django 1.2 release schedule - Update 6,shiloa,33,1,2,,t5_2qh4v,False
+1269468165.0,bhs7n,Best practices in web development with Python and Django,atlbeer,34,5,7,,t5_2qh4v,False
+1267410740.0,b7me4,Johnny Cache,gthank,31,0,0,,t5_2qh4v,False
+1261557917.0,ahrp5,Django | Multiple Databases ,gst,31,0,4,,t5_2qh4v,False
+1316781765.0,kozs5,"Payment processing for Django. (Paypal, Auth.net, Braintree, Eway, G Checkout,shabda,http://www.reddit.com/r/django/comments/kozs5/payment_processing_for_django_paypal_authnet/,
+1309230813.0,iay4m,Am I the only one who think that A) Django Generic Class based view documentation seriously lack some code examples and B) this subreddit is stagnating ?,hhh333,43,10,19,Just wondering.,t5_2qh4v,True
+1303105627.0,gsjtj,A Guide to Testing in Django #2 ,gst,33,4,5,,t5_2qh4v,False
+1294080679.0,evjh9,Django Application Conventions ,gst,33,7,0,,t5_2qh4v,False
+1274705920.0,c7izz,Jacob Kaplan-Moss keynote: respect the pony ,gst,35,4,2,,t5_2qh4v,False
+1257228158.0,a0elo,"Large Problems in Django, Mostly Solved: Search ",gst,31,1,http://www.reddit.com/r/django/comments/a0elo/large_problems_in_django_mostly_solved_search/,,
+1248851606.0,95jvu,Django 1.1 release notes ,gst,32,2,0,,t5_2qh4v,False
+1245389975.0,8tszv,Many Excellent Django Tips &amp; Features,scorpion032,31,1,0,,t5_2qh4v,False
+1241548113.0,8i2wu,Django Heresies,gst,32,4,0,,t5_2qh4v,False
+1371068087.0,1g7w3v,Django Salted - One-click development environment with Vagrant,wunki,35,6,5,,t5_2qh4v,False
+1365839737.0,1c9dks,django-allauth 0.10.0 released -- with Python 3 support,pennersr,30,1,6,,t5_2qh4v,False
+1364849092.0,1bgc4n,Django Code of Conduct - feedback wanted,jacobian,38,9,61,,t5_2qh4v,False
+1357763810.0,169ooh,django-hyperadmin - REST framework &amp; Admin alternative - Feedback wanted,zbyte64,32,4,21,,t5_2qh4v,False
+1349564139.0,1129fp,DjangoCon 2012 Videos (Youtube),Nitron,30,3,9,,t5_2qh4v,False
+1337896453.0,u3fvn,We're hiring a django developer for redditgifts.  Interested?,kickme444,35,6,15,,t5_2qh4v,False
+1337378525.0,ttw9y,Test driven development with Django ,maloney7,36,7,5,,t5_2qh4v,False
+1312573628.0,ja5wc,[27 min] Future of Django talk by Alex Gaynor,lastkarrde,31,4,14,,t5_2qh4v,False
+1277361596.0,ciga8,"Large Problems in Django, Mostly Solved: Delayed Execution ",gst,31,3,http://www.reddit.com/r/django/comments/ciga8/large_problems_in_django_mostly_solved_delayed/,,
+1269864871.0,bjnz3,"A better WSGI script from Graham Dumpleton, mod_wsgi's creator",idangazit,33,3,http://www.reddit.com/r/django/comments/bjnz3/a_better_wsgi_script_from_graham_dumpleton_mod/,,
+1265912580.0,b0xof,Eleven Django blog engines you should know,gst,29,0,0,,t5_2qh4v,False
+1263772788.0,aqshj,Evaluating Django Caching Options,codysoyland,31,2,1,,t5_2qh4v,False
+1241120749.0,8gunb,django-piston - A mini-framework for Django for creating RESTful APIs.,gst,30,1,3,,t5_2qh4v,False
+1376776263.0,1kkl2t,A diagram showing the entire Django Class Based View system inheritance and mixins.,kingdomsprite,29,0,4,,t5_2qh4v,False
+1364570924.0,1b8uxj,"I wrote up a how-to on running Django on Ubuntu 12.04 with apache 2, mod wsgi and virtualenv in a, somewhat, structured manner. ",,5,,False
+1355154128.0,14lvng,Django Performance Tuning Tips,servercobra,34,6,22,,t5_2qh4v,False
+1339685403.0,v1pia,Using Schemaless in Django with Postgres,craig081785,32,5,4,,t5_2qh4v,False
+1324616991.0,nnl54,Django 1.4 alpha 1 released,edavis,30,3,3,,t5_2qh4v,False
+1315516927.0,k99q8," Setting up your Django Environment - Using virtualenv, pip and git ",brusselsguy,32,4,http://www.reddit.com/r/django/comments/k99q8/setting_up_your_django_environment_using/,,
+1314834749.0,k0qri,Interested in a double-entry accounting app?,elbiot,30,2,26,"I am amazed that this doesn't exist for django yet.  A couple folks have tried a little
+
+So, we could talk about ideas.  I wouldn't take this on by myself because for something like this I'd really want a few heads to scrutinize the plan.
+
+App would need to have:
+
+*nested accounts
+
+*split transactions
+
+*reconciliation
+
+*basic reporting
+
+
+and that's all I care about.  We (I work at a private school) use nested accounts for our budgeting and it works great.  If folks wanted graphs, the basics above and python would make such extensions very possible (later).
+
+edit: my intention is for this is open source.",,t5_2qh4v,True,,,True,http://www.reddit.com/r/django/comments/k0qri/interested_in_a_doubleentry_accounting_app/
+1312401409.0,j820e,Beginners Guide : pip and virtualenv,myusuf3,30,1,0,,t5_2qh4v,False
+1311037014.0,itcqg,Where is the Django community?,edavis,36,9,21,,t5_2qh4v,False
+1307963453.0,hyfdt,Tag {% placekitten %} to easily include kitten place-holder images in your Django templates,Ibuildwebstuff,30,3,5,,t5_2qh4v,False
+1307640716.0,hvo17,Logging Django Performance,tpk1024,29,1,0,,t5_2qh4v,False
+1304484188.0,h3qwe,"django-haystack 1.2.0 released. Haystack provides modular search for Django. It features a unified, familiar API that allows you to plug in different search backends (such as Solr, Whoosh, Xapian, etc.) without having to modify your code.",31,,t5_2qh4v
+1300218555.0,g4mbu,User registration and account management with django-userena | have you tried?,emonk,31,4,16,,t5_2qh4v,False
+1294162762.0,ew3a7,"Django database migration tool: south, explained",gthank,30,2,http://www.reddit.com/r/django/comments/ew3a7/django_database_migration_tool_south_explained/,,
+1285862035.0,dl1w1,Django 1.3 release schedule,krelian,31,4,0,,t5_2qh4v,False
+1275582470.0,cb2rs,Postgres site will migrate to Django,wabber,29,3,0,,t5_2qh4v,False
+1272527101.0,bxnn0,Django 1.2 release schedule - Update 7,shiloa,32,2,3,,t5_2qh4v,False
+1265856333.0,b0mvq,django-devserver: A drop in replacement for Django's built-in runserver command,mikeful,32,3,0,,t5_2qh4v,False
+1265500003.0,ayyp5,The role of designers in the Django community,edavis,29,1,0,,t5_2qh4v,False
+1238224535.0,88573,Real World Django,yaw,28,1,0,,t5_2qh4v,False
+1369748654.0,1f759y,Django System Monitor,fthrkl,31,4,5,,t5_2qh4v,False
+1344953372.0,y7b54,Using metaclasses to make awesome Django field choices,freakingthefuckout12,30,2,13,,t5_2qh4v,False
+1343936675.0,xkvtw,South 0.7.6 released,mariuz,29,2,1,,t5_2qh4v,False
+1342977515.0,wz0gb,Google OAuth2 SSO with Django,ghickman,31,2,6,,t5_2qh4v,False
+1331214478.0,qnann,Any Django podcasts still around?,Circlefusion,29,1,3,"I am a fan of good dev podcasts. I've been listening to [The Changelog](http://thechangelog.com/) recently
+
+I'm looking for more of a conversational podcast between developers rather than a ""training"" podcast. Perhaps I can fall back to a python podcast,False,,t5_2qh4v,False,,,t3_qnann
+1330974741.0,qixak,What We Use,tehjones,31,3,2,,t5_2qh4v,False
+1327071020.0,oov9r,Django in Production: Part 3 - Automation &amp; Monitoring,servercobra,28,1,0,,t5_2qh4v,False
+1322166766.0,mo6sd,Django-nonrel maintainers stop development on all their open source projects,phernand3z,30,3,2,,t5_2qh4v,False
+1321381578.0,mdbyu,Using Varnish with Django for high performance caching,flukes1,31,2,1,,t5_2qh4v,False
+1320138870.0,lw9gl,"Your favorite IDE, if any at all, for Django?",arcticblue,34,78,,False
+1312188974.0,j5jfk,The Django Dash 2011 is over - Look at all the awesome stuff people have built in 48 hours,UloPe,30,3,9,,t5_2qh4v,False
+1311785075.0,j1abs,Scaling Django to a Global Audience with Playdoh,,31,6,4,,t5_2qh4v,False
+1311601635.0,iz610,"Setup a complete Django server, deploy, rollback - all in one powerful script. | Ask The Pony",ymirpl,33,2,False,
+1309778483.0,igbnv,Django Performance Patterns 1: Measuring Performance,gst,30,3,3,,t5_2qh4v,False
+1305479571.0,hbx5m,The state of eCommerce in Django,gst,30,1,3,,t5_2qh4v,False
+1297929993.0,fn2np,I’m a designer who learned Django and launched her first webapp in 6 weeks ,gst,37,11,13,,t5_2qh4v,False
+1297250207.0,fhy73,Security releases issued,gthank,31,3,0,,t5_2qh4v,False
+1296658153.0,fdti4,Django 1.3 release schedule - Update 3,UloPe,30,5,2,,t5_2qh4v,False
+1296149369.0,fa53u,"Django-CMS Levels Up (major release 2.1.0, new site)",kennethreitz,30,4,http://www.reddit.com/r/django/comments/fa53u/djangocms_levels_up_major_release_210_new_site/,,
+1295333531.0,f4ai6,Django Deployment Workshop By Jacob Kaplan-Moss,delibaltas,32,5,3,,t5_2qh4v,False
+1294107082.0,evr4x,Gondor — effortless production Django hosting,hober,34,7,12,,t5_2qh4v,False
+1276531923.0,cev0g,"Announcing Sore Thumb, a thumbnail and image processing module for Django",willm,31,3,http://www.reddit.com/r/django/comments/cev0g/announcing_sore_thumb_a_thumbnail_and_image/,,
+1275497596.0,caoqp,On Django And Migrations,gst,31,5,0,,t5_2qh4v,False
+1273157466.0,c0ly9,Django 1.2 release candidate available,rockhoward,31,4,0,,t5_2qh4v,False
+1272040257.0,bv6zy,"Basic Django deployment with virtualenv, fabric, pip and rsync",caktus,30,0,False,
+1263477964.0,apk1z,Using Django forms,shabda,36,9,7,,t5_2qh4v,False
+1263402970.0,ap6i3,Tools of Pro Django developers – aka What powers dinette.,shabda,28,1,9,,t5_2qh4v,False
+1231448314.0,7od8c,What is django.contrib?,gst,27,0,0,,t5_2qh4v,False
+1374668143.0,1iy9ei,Deploying a Django App on Dokku,michaelherman,27,1,0,,t5_2qh4v,False
+1373382080.0,1hxrrg,TIL - F Objects,turkeysaurusrex,33,7,13,"I had a model with two columns that I needed to compare. For example: 
+
+    Class Box:
+
+        height = integerField
+
+        width = integerField
+So how do you write a filter to find all boxes with heights less than widths? [F Objects!](http://stackoverflow.com/questions/12380448/how-to-create-a-django-queryset-filter-comparing-two-date-fields-in-the-same-mod)  - [(docs)](https://docs.djangoproject.com/en/dev/topics/db/queries/#filters-can-reference-fields-on-the-model)
+
+    from django.db.models.expressions import F
+    Box.objects.filter(height__lt=F('width'))
+
+Pretty specific
+
+",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/1hxrrg/til_f_objects/
+1372125661.0,1h0drv,MVC is not a helpful analogy for Django,gthank,30,4,9,,t5_2qh4v,False
+1367090059.0,1d8ac9,Lessons learned defying Joel Spolsky with Django,AncientPC,34,10,5,,t5_2qh4v,False
+1365633736.0,1c3g2h,Deploy Django apps to Google App Engine with django-deployer in 5 minutes,sebasmagri,28,3,3,,t5_2qh4v,False
+1354394211.0,1448fl,Getting ready to learn Django.,moltez,43,16,8,,t5_2qh4v,False
+1354054731.0,13wbhn,Django 1.5 beta 1 released,gthank,30,4,0,,t5_2qh4v,False
+1323759077.0,naq3o,DevOps Django - Part 2 - The Pain of Deployment,rdegges,28,4,2,,t5_2qh4v,False
+1314906426.0,k1n3o,20 Django apps that you probably never heard of,hhh333,33,7,5,,t5_2qh4v,False
+1309843422.0,igxrv,DjangoCon Europe 2011 Videos,idangazit,30,3,5,,t5_2qh4v,False
+1307444423.0,htn6d,"Bitbucket, lessons learned - Jesper Noehr (djangocon.eu) ",gst,33,7,http://www.reddit.com/r/django/comments/htn6d/bitbucket_lessons_learned_jesper_noehr_djangoconeu/,,
+1304903254.0,h6z14,Django Application Conventions,Simplecoder,29,3,1,,t5_2qh4v,False
+1304065626.0,h00c3,The Perfect Django Settings File,rdegges,30,4,11,,t5_2qh4v,False
+1302883063.0,gqtjv,"We are currently developing a mobile admin interface for Django which use jQuery mobile, give it a try !",hhh333,29,3,http://www.reddit.com/r/django/comments/gqtjv/we_are_currently_developing_a_mobile_admin/
+ * Username: **admin**
+ * Password: **admin**
+
+I will eventually set a cron job which updates it automatically everyday and reset the database. Meanwhile please stay classy or I'll just pull the plug :p
+
+The project uses [Django mobiladmin](https://github.com/jezdez/django-mobileadmin) to handle templates/user agents and jQuery mobile for the UI. 
+
+As for the theme
+
+Contributors are more than welcome. The project's page is:
+http://code.google.com/p/django-jqmobile/
+
+And finally
+
+**Edit:** I made a cron job which revert the database and updates the projects hourly,False,,t5_2qh4v,True,,,t3_gqtjv
+1294344880.0,exfwh,"Django Devs, what's your development environment like?",dassouki,39,12,http://www.reddit.com/r/django/comments/exfwh/django_devs_whats_your_development_environment/, extras,
+1279217630.0,cpz9x,"I finally finished my first, comprehensive Django App, but I feel it could be a lot less redundant. Care to share any common DRY'ing techniques that you use?",idontlikebacon,30,11,False,
+1275859070.0,cc3iz,Building a Bucketlist Site with Django,edavis,28,2,2,,t5_2qh4v,False
+1270706072.0,bnzvi,Django 1.2 release schedule - Update 4,gst,27,1,0,,t5_2qh4v,False
+1248630467.0,94pvc,Open Source Google Wave compliant server written in Python+Django,clintecker,28,2,5,,t5_2qh4v,False
+1232023703.0,7pwpd,Aggregate support now available in Django's ORM,uggedal,31,3,3,,t5_2qh4v,False
+1201245465.0,66kc0,Django People - location-based community site for Django developers,simonw,32,5,0,,t5_2qh4v,False
+1367988719.0,1dwxhj,Eighteen months of Django,vangale,26,1,6,,t5_2qh4v,False
+1365715144.0,1c5u23,Excellent open source Django projects to learn from?,transpostmeta,27,2,10,"I have worked on, but feel I could profit immensely from doing so.
+
+Are there any open source Django projects that have high quality code that I can read?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/1c5u23/excellent_open_source_django_projects_to_learn/
+1363121278.0,1a64uj,Deploying Django with Salt Stack,esacteksab,27,3,6,,t5_2qh4v,False
+1361307738.0,18u9et,"Security releases issued for 1.3.5, 1.4.3 and 1.5rc1",halike,26,2,http://www.reddit.com/r/django/comments/18u9et/security_releases_issued_for_135_143_and_15rc1/,,
+1347998390.0,103gsm,"Automated deployment with Ubuntu, Fabric and Django",ilian,25,0,http://www.reddit.com/r/django/comments/103gsm/automated_deployment_with_ubuntu_fabric_and_django/,,
+1341797214.0,w8wld,The Beautiful Simplicity of an nginx and uWSGI (Emperor) Deployment,truebosko,26,0,2,,t5_2qh4v,False
+1339743893.0,v33i7,DjangoCon Europe 2012 Videos,gitarr,28,2,5,,t5_2qh4v,False
+1333874744.0,rz1u2,Ubuntu Uses Django For New Metal As A Service Administration,servercobra,29,5,2,,t5_2qh4v,False
+1333221860.0,rmptj,"Setup a Django VM with Vagrant, VirtualBox, and Chef",michaeljsmalley,28,0,False,
+1331699227.0,qvprs,"Update on the Django 1.4 situation 
+",5,1,http://www.reddit.com/r/django/comments/qvprs/update_on_the_django_14_situation/,,,False,t5_2qh4v,False
+1329330395.0,pr03q,Optimizing Django Views With C++,jknupp,28,3,7,,t5_2qh4v,False
+1329162632.0,pnvgf,How to use Django-Uni-Form with Twitter Bootstrap CSS,dekomote,26,2,5,,t5_2qh4v,False
+1322600409.0,mts1e,django-sopa - A django app for censoring content,fcurella,30,4,1,,t5_2qh4v,False
+1318561918.0,lbmlb,"Django (1.3) / JQuery beginner tutorial, making a flashcard quiz game (updated)",jarv,31,7,http://www.reddit.com/r/django/comments/lbmlb/django_13_jquery_beginner_tutorial_making_a/
+
+[Part 1](http://jarv.org/2011/10/django-jquery-tutorial-part1/) / [Part 2](http://jarv.org/2011/10/django-jquery-tutorial-part2/) / [Part 3](http://jarv.org/2011/10/django-jquery-tutorial-part3/) / [Part 4](http://jarv.org/2011/10/django-jquery-tutorial-part4/)
+
+App - http://wordconfusion.com
+
+Code - https://github.com/jarv/wordconfuse/
+",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/lbmlb/django_13_jquery_beginner_tutorial_making_a/
+1309993546.0,iiisr,The most comprehensive Django deployment tutorial I have found so far,,41,13,5,,t5_2qh4v,False
+1309287240.0,ibjmt,Is there a market for paid Django apps?,gthank,30,5,8,,t5_2qh4v,False
+1298874812.0,fu5aw,Djangy - we've decided to discontinue work on Djangy,gst,33,8,5,,t5_2qh4v,False
+1296819274.0,ff50m,"Streamline your Django deployment with Fabric and 
+Git",3,1,http://www.reddit.com/r/django/comments/ff50m/streamline_your_django_deployment_with_fabric_and/,,,False,t5_2qh4v,False
+1292922089.0,ep8qa,"Hi Reddit. I'm starting a weekly newsletter about Django, sign up and enjoy!",JonAtkinson,28,4,http://www.reddit.com/r/django/comments/ep8qa/hi_reddit_im_starting_a_weekly_newsletter_about/,,
+1284478176.0,ddpzo,I bet shirt.woot.com had no idea they'd cater to the Django crowd with this one.,wamberg,27,2,2,,t5_2qh4v,False
+1284418663.0,ddewo,Apps I heard about at DjangoCon 2010,jammons,31,5,4,,t5_2qh4v,False
+1282233647.0,d32eo,Djangy -- Seems to be a Heroku clone for Django apps,stevelosh,29,4,4,,t5_2qh4v,False
+1269080588.0,bfuci,Django query analyzer,gst,27,2,0,,t5_2qh4v,False
+1269006967.0,bfhc5,South 0.7 RC1,tmjoen,28,1,2,,t5_2qh4v,False
+1267806266.0,b9p72,"Django Advent, Day 20: Small Things (Jacob Kaplan-Moss)",jayfehr,27,2,http://www.reddit.com/r/django/comments/b9p72/django_advent_day_20_small_things_jacob_kaplanmoss/,,
+1250775529.0,9cfqk,How are you adding full text search capabilities to a django project? ,ramavadakattu,28,3,22,,t5_2qh4v,True
+1248882483.0,95oeo,Django development workflow,gst,27,2,0,,t5_2qh4v,False
+1226002991.0,7btn7,Secrets of the Django ORM,gst,28,3,0,,t5_2qh4v,False
+1374778329.0,1j1mnv,A Thousand Papercuts,gthank,29,5,3,,t5_2qh4v,False
+1366420616.0,1cppyh,Shrink size of CSS files with Genetic Algorithms and Python.,einsiedler,25,2,3,,t5_2qh4v,False
+1364332530.0,1b2es7,Testing (Microblog) | Lessons  | Getting Started with Django,kennethlove,27,3,4,,t5_2qh4v,False
+1358053022.0,16h6nv,How to Create a Realtime Django App Using Node.js and Socket.IO,mburst,33,9,14,,t5_2qh4v,False
+1346617359.0,z8tee,Cacheback - asynchronous cache refreshing for Django,codeinthehole,25,1,1,,t5_2qh4v,False
+1344043989.0,xng8y,Django Dash 2012 Registration has Begun,BuddyLindsey,26,2,6,,t5_2qh4v,False
+1341603011.0,w56bd,Created this using django. Github link in comments!,ScreamChlorine,28,6,12,,t5_2qh4v,False
+1336683942.0,th37f,Choosing an API framework for Django,gthank,25,0,8,,t5_2qh4v,False
+1333974609.0,s0orj,"Creating a blog in 30 mins with Django 1.3, a Video Tutorial",firedioxide,25,3,http://www.reddit.com/r/django/comments/s0orj/creating_a_blog_in_30_mins_with_django_13_a_video/,,
+1330529575.0,qbe38,15 Key Resources to Learn Django ,expertvoice,28,2,4,,t5_2qh4v,False
+1301728362.0,ggz9i,Start to finish: Serving Django with Nginx/uwsgi on EC2.,adambard,28,2,0,,t5_2qh4v,False
+1295997150.0,f909k,How Django was ported to Python 3,gthank,33,8,2,,t5_2qh4v,False
+1295766914.0,f7fc2,Disqus: Scaling the World's Largest Django Application [VID],spleeyah,25,2,0,,t5_2qh4v,False
+1291008702.0,ed6a6,"django-cities: Countries, Regions, Cities and Districts for Django",gst,27,3,False,
+1289460962.0,e4hbj,Django 1.3 alpha 1 released,ubernostrum,25,1,2,,t5_2qh4v,False
+1288025207.0,dw56k,Django 1.3 alpha 1 -- Update,gst,26,1,0,,t5_2qh4v,False
+1286792259.0,dpnfr,"Fabric, Django, Git, Apache, mod_wsgi,gst,http://www.reddit.com/r/django/comments/dpnfr/fabric_django_git_apache_mod_wsgi_virtualenv_and/,
+1286190093.0,dmk2k,"reddit, what is your favorite editor for Django projects?",lordlarm,32,6,http://www.reddit.com/r/django/comments/dmk2k/reddit_what_is_your_favorite_editor_for_django/, addons etc. 
+I'm having problem finding a texteditor for my OSX which has the correct markup. Which one do you use?
+
+**EDIT:** Thanks for replies
+
+* [Textmate](http://macromates.com/) with [Django addon](http://code.djangoproject.com/wiki/TextMate)
+
+* Vim with [NERDTree](http://www.vim.org/scripts/script.php?script_id=1658)
+
+* Emacs with [nxhtml](http://ourcomments.org/Emacs/nXhtml/doc/nxhtml.html) , [rope + ropemacs](http://rope.sourceforge.net/ropemacs.html)
+
+* [PyCharm](http://www.jetbrains.com/pycharm/buy/index.jsp)
+
+* [Notepad++](http://notepad-plus-plus.org/)
+
+* [E-texteditor](http://www.e-texteditor.com/) 
+
+* [Gedit](http://projects.gnome.org/gedit/)
+
+* [Coda](http://www.panic.com/coda/) with [addon](http://weblog.bignerdranch.com/?p=49)
+
+* [WingIDE](http://www.wingware.com/)
+
+* [Komodo Edit](http://www.activestate.com/komodo-edit)
+
+* [Eric IDE](http://eric-ide.python-projects.org/)",,t5_2qh4v,True,,,True,http://www.reddit.com/r/django/comments/dmk2k/reddit_what_is_your_favorite_editor_for_django/
+1285438496.0,ditao,You're using render_to_response()? Psh! Here's direct_to_template(),agscala,28,6,15,,t5_2qh4v,False
+1282247367.0,d35hy,What happens if your SECRET_KEY is found out?,edavis,26,2,8,,t5_2qh4v,False
+1281800953.0,d15g8,Django superuser login trapdoor,edavis,27,2,0,,t5_2qh4v,False
+1266926891.0,b5fhz,"Django Advent, Day 12 - jQuery in the Admin",vvangelovski,25,2,http://www.reddit.com/r/django/comments/b5fhz/django_advent_day_12_jquery_in_the_admin/,,
+1257587786.0,a1wo1,The Django community in 2009,gst,24,0,0,,t5_2qh4v,False
+1254204479.0,9p1h9,Django ponies: Proposals for Django 1.2,gst,26,2,0,,t5_2qh4v,False
+1241730834.0,8iq0b,Django 1.1 status update,gst,26,2,0,,t5_2qh4v,False
+1235068683.0,7ypno,Washington Times releases open source projects,gst,26,1,1,,t5_2qh4v,False
+1233230756.0,7tbei,F() expressions to query language committed to trunk,vangale,25,2,3,,t5_2qh4v,False
+1370464104.0,1fqt9z,DjangoCon Europe 2013 Talks (30 videos à ~30 min),einsiedler,26,3,4,,t5_2qh4v,False
+1369425667.0,1ezoe0,Using AJAX with Django,v0lta_7,24,1,29,"I'm a complete newbie to AJAX so I've to ask this question.
+
+I'm starting a project for a web app using Django as the framework. It'll be heavily AJAX dependent
+One
+Two
+
+If anyone's used both of these here,False,,t5_2qh4v,False,,,t3_1ezoe0
+1366806130.0,1d06wu,"Install and configure Nginx, uWSGI and Django on Ubuntu",panta34,24,1,http://www.reddit.com/r/django/comments/1d06wu/install_and_configure_nginx_uwsgi_and_django_on/,,
+1361952439.0,19bfqg,"What makes an ""experienced"" Django developer ?",southof40,25,2,18,"Sometimes in jobs ads the employer ask for an ""experienced"" Django developer.
+
+What qualities does an employee expect in a developer when they're an ""experienced"" Django developer as opposed to a relative noob ? 
+
+I'm interested in specific parts of Django/add-ons that employees think an experienced developer might be familiar with.",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/19bfqg/what_makes_an_experienced_django_developer/
+1354570385.0,147zyi,"I wrote a quick tutorial on how to use fabric, git and django together to deploy your projects.",Troebr,29,5,http://www.reddit.com/r/django/comments/147zyi/i_wrote_a_quick_tutorial_on_how_to_use_fabric_git/,,
+1340324694.0,ves5e,Measuring the Django Community: The Django community in 2012,wordsmithie,25,3,0,,t5_2qh4v,False
+1330633598.0,qddq4,Our Custom Mixins,kennethlove,28,5,14,,t5_2qh4v,False
+1329253668.0,ppn1t,"django-jhouston -- ""Houston, we have a Javascript problem""",pennersr,25,3,http://www.reddit.com/r/django/comments/ppn1t/djangojhouston_houston_we_have_a_javascript/,,
+1324499274.0,nlns6,Using Django and Celery with Amazon SQS,caktus,24,2,0,,t5_2qh4v,False
+1317759056.0,l0vgr,Anyone looking for a full time Django dev position in the Boston area? (developer and senior developer positions),Soriven,27,5,0,"I know the hiring managers for two open Django dev positions near Quincy
+
+- [Senior web developer position](http://jobview.monster.com/Manager-Web-Development-Job-Randolph-MA-US-102901832.aspx?fwr=true) 
+- [web developer](http://jobview.monster.com/Web-Developer-for-a-well-funded-B2B-Startup-Job-Quincy-MA-US-102683593.aspx?fwr=true)",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/l0vgr/anyone_looking_for_a_full_time_django_dev/
+1313385905.0,jj36j,How true are Aaron Swarz's criticisms of django today?  Does it suffer from a poor api and magic code?  (see linked blog post),earstwiley,26,5,23,,t5_2qh4v,False
+1307205258.0,hrkg8,Munin-like dashboard for django websites,coleifer,28,5,0,,t5_2qh4v,False
+1303931664.0,gyml5,My company is looking to hire an awesome Python/Django developer.  Interested?,stevelosh,28,5,9,,t5_2qh4v,False
+1298060235.0,fo3kj,Django 1.3 patterns for older django versions,coderanger,24,1,2,,t5_2qh4v,False
+1294589332.0,eyzxc,Django Social Auth,omab,28,4,10,,t5_2qh4v,False
+1289900961.0,e6vqr,PHP to Django: Changing the engine while the car is running ,gst,29,4,2,,t5_2qh4v,False
+1288679217.0,dzwxc,What's your favorite Django app?,gst,27,6,2,,t5_2qh4v,False
+1270556631.0,bn3je,Writing a non-relational Django backend,wkornewald,24,3,11,,t5_2qh4v,False
+1266404648.0,b32zv,"Django Advent, Day 8: Template Caching (Alex Gaynor)",idangazit,25,2,http://www.reddit.com/r/django/comments/b32zv/django_advent_day_8_template_caching_alex_gaynor/,,
+1265996604.0,b1cnj,Have you heard of PyCharm IDE yet? PyCharm is the environment for programming using Python and for web-development with Django framework. ,gst,27,3,13,,t5_2qh4v,False
+1263931091.0,arl8n,Benchmark of different Django deployment techniques,vvangelovski,27,3,5,,t5_2qh4v,False
+1259476453.0,a94jc,Getting Started with Testing in Django,gst,24,3,0,,t5_2qh4v,False
+1218059266.0,6v7lx,Django just became way faster (Signals performance),niels,23,0,4,,t5_2qh4v,False
+1217977052.0,6v1pu,GeoDjango has been merged into Django trunk!,emilbjorklund,24,1,1,,t5_2qh4v,False
+1372278673.0,1h4riu,Great talk from DjangoCon EU 2013 that I found while trying to wrap my head around class-based views,djiivu,24,0,1,,t5_2qh4v,False
+1370278532.0,1fl9ct,Adding /admin/ as a wink to Django developers,coderanger,29,7,7,,t5_2qh4v,False
+1369549162.0,1f2k5w,"Django, AngularJS, and CSRF/XSRF protection",whitehat2k9,25,5,False,
+1368662874.0,1ef2q1,DjangoCon US Site is up and registration is open!,Mengeskhan,24,4,14,,t5_2qh4v,False
+1367931140.0,1dux2u,Django REST framework 2.3 released: Introduces ViewSets and Routers,pydanny,25,3,2,,t5_2qh4v,False
+1346607059.0,z8jpv,Any redditors at DjangoCon US this year?,dustinmm80,23,2,31,"If so,,
+1331013865.0,qjt7e,Learning from the Rails incident: Is there something newbs should know about django security?,bike-curious,22,0,16,,t5_2qh4v,True
+1330742308.0,qfe49,"""Django's architecture - the good, the bad, and the ugly"" by Andrew Godwin",ch0wn,28,1,False,
+1326108860.0,o96rv,Getting started with South,shabda,28,6,1,,t5_2qh4v,False
+1322310184.0,mptpy,Anyone out there using Pinax? Last post I see mentioning Pinax is about a year old. ,F4il3d,24,1,11,,t5_2qh4v,True
+1318050835.0,l4vw2,Test-Driven-Django-Tutorial - GitHub,naithemilkman,26,6,3,,t5_2qh4v,False
+1317877752.0,l2p7s,Pro-tip: add manage.py cleanup to cron,cptwngr,23,1,20,"I never realized that Django stores sessions in a table (django-session) and that they need to be cleaned out occasionally. If this is ignored for long enough,,
+1288150961.0,dwz4m,Django on Google App Engine via SQL (not nonrel),tinio,22,0,2,,t5_2qh4v,False
+1282670319.0,d4x13,What is the history of Python Django? ,gst,26,2,0,,t5_2qh4v,False
+1282024578.0,d20r3,Lessons Learned From The Dash: Easy Django Deployment ,gst,24,4,0,,t5_2qh4v,False
+1273185351.0,c0ski,A consolidated list of changes in Django 1.2,gst,23,3,0,,t5_2qh4v,False
+1271837155.0,btzvl,Favorite Django Tips ,gst,26,3,0,,t5_2qh4v,False
+1270150364.0,blbz4,Django 1.2 release schedule - Update 3,gamer13,23,2,2,,t5_2qh4v,False
+1265628199.0,azfa1,Django Advent 1.2,idangazit,31,10,0,,t5_2qh4v,False
+1265379894.0,aygct,"Large Problems in Django, Mostly Solved: Documentation",gthank,24,1,http://www.reddit.com/r/django/comments/aygct/large_problems_in_django_mostly_solved/,,
+1262665522.0,almwb,Model Validation Lands!,kingkilr,24,4,5,,t5_2qh4v,False
+1260362962.0,acrfj,Fixing Django Management Commands,gst,25,5,1,,t5_2qh4v,False
+1257435087.0,a1a3z,Django's ManyToMany Refactoring,gthank,22,1,0,,t5_2qh4v,False
+1252335115.0,9i4eq,How are you moving a django project on your  local machine to the  production servers?,ramavadakattu,23,3,23,Especially i would like to know the community views  on moving the N dependencies of a project to the production servers.,t5_2qh4v,True
+1240820053.0,8fqva,What Django related blogs do you read?,seanodonnell,25,3,7,,t5_2qh4v,True
+1239329087.0,8be0q,Django Best Practices,yaw,24,4,2,,t5_2qh4v,False
+1239072946.0,8aj2a,Finding a Django-friendly host just got a little easier ,gst,24,2,0,,t5_2qh4v,False
+1237897813.0,871yn,Django 1.1 beta released,gst,23,0,0,,t5_2qh4v,False
+1371652869.0,1gno3m,"Django template timings - in depth statistics for your Django templates, includes and blocks",freakingthefuckout12,23,4,http://www.reddit.com/r/django/comments/1gno3m/django_template_timings_in_depth_statistics_for/,,
+1364403281.0,1b4am1,Overloading Django Form Fields,pydanny,24,4,17,,t5_2qh4v,False
+1364140236.0,1ax0ru,Any good online Django bootcamps?,raddevon,23,1,21,"Rails bootcamps are plentiful,,
+1349050514.0,10qh79,"Tendenci. the open source Content Management System (CMS) built for non-profits. Runs in Python, Django and PostgreSQL.",Zybergod,28,5,http://www.reddit.com/r/django/comments/10qh79/tendenci_the_open_source_content_management/,,
+1339960064.0,v6rsm,Use South to set your sites' domain names,codeinthehole,23,0,5,,t5_2qh4v,False
+1337017642.0,tmquz,Episode two of our Django Podcast: Task Queues,bryanhelmig,25,4,8,,t5_2qh4v,False
+1331786108.0,qxclp,Django 1.4 release candidate 2 issued,franciscosouza,24,2,0,,t5_2qh4v,False
+1331048480.0,qk8kb,"So long, djangosnippets, and thanks for all the fish",coleifer,23,1,False,
+1326939856.0,omkbx,Some quick Django optimisation lessons,Hughlander,23,2,1,,t5_2qh4v,False
+1324992912.0,ns9b8,Setting up Django + NGinx + Green Unicorn in an Ubuntu 11.10 EC2 instance,gthank,25,5,2,,t5_2qh4v,False
+1306395554.0,hkhev,Tips for Starting Your First Django Project,gst,28,7,4,,t5_2qh4v,False
+1296450390.0,fc6wx,"A (Complete) Guide to Running Django using Virtualenv, pip, git, and NginX on Joyent Shared Accelerators",ecarmi,4,,False
+1294913365.0,f1h7g,Share your experiences using hosted django cloud services,scorpion032,26,4,22,"There are many cloud hosted django services ala Heroku in the pipeline. Including
+
+* http://djangy.com/
+* http://djangozoom.com/
+* http://ep.io/
+* http://gondor.io/
+* http://stable.io/
+
+Which of that have you used? What has been your experience?
+Whats your take on Resource based billing and instance based billing?
+Which one do you recommend?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/f1h7g/share_your_experiences_using_hosted_django_cloud/
+1294759825.0,f095a,"Deploying your Django applications with Nginx and 
+uWSGI",3,12,http://www.reddit.com/r/django/comments/f095a/deploying_your_django_applications_with_nginx_and/,,,False,t5_2qh4v,False
+1288198984.0,dx97m,"Django experts, what would you expect a new employee to know about in an interview for a django dev role?",CraigTorso,24,2,http://www.reddit.com/r/django/comments/dx97m/django_experts_what_would_you_expect_a_new/
+
+oh and I do happen to have a phone interview on Friday,False,,t5_2qh4v,True,,,t3_dx97m
+1280304046.0,cujzl,Any lightweight blog app you can recommend?,nathanielj,25,6,24,"I'm looking for a django blog app I can install to get my feet wet and play around with. Preferably that uses sqlite. Are there any active djano blog apps you can recommend? thanks!
+
+
+Edit: thanks everyone for your replies,False,,t5_2qh4v,True,,,t3_cujzl
+1274768575.0,c7tdb,Django 1.2.1 released,gst,23,1,2,,t5_2qh4v,False
+1272028645.0,bv40g,MongoDB backend for Django with (basic) GridFS support,greut,22,0,1,,t5_2qh4v,False
+1271425851.0,brtj9,Making Django and PyPy Play Nice (Part 1),gthank,21,0,0,,t5_2qh4v,False
+1271325070.0,br7sy,"Reusable app for Django, that allows to moderate any model objects. Any help is most welcome.",dominno,21,0,http://www.reddit.com/r/django/comments/br7sy/reusable_app_for_django_that_allows_to_moderate/,,
+1266478950.0,b3hia,"RabbitMQ, Celery and Django ",gst,21,0,http://www.reddit.com/r/django/comments/b3hia/rabbitmq_celery_and_django/,,
+1260046619.0,abhs3,What's coming in Django 1.2 (presentation notes),gst,21,1,1,,t5_2qh4v,False
+1258060313.0,a3ryb,django-cms 2.0.0 released,palmTree,23,3,3,,t5_2qh4v,False
+1248217931.0,93bib,Django in the Real World,sligowaths,22,0,4,,t5_2qh4v,False
+1246416115.0,8x5u1,"Source code released to EveryBlock.com, website from the co-creator of Django",jfire6,22,1,http://www.reddit.com/r/django/comments/8x5u1/source_code_released_to_everyblockcom_website/,,
+1243624417.0,8oay2,Migrations for Django,greut,21,0,1,,t5_2qh4v,False
+1213648983.0,6nmsf,Django official roadmap to 1.0,krat,24,3,4,,t5_2qh4v,False
+1375110960.0,1ja387,Create a Super Basic REST API with django-tastypie,michaelherman,32,11,6,,t5_2qh4v,False
+1372095083.0,1gzamd,How to set up a Django project (for non-programmers),jb4140,27,8,8,,t5_2qh4v,False
+1369328160.0,1ewvc6,Django Email Tricks - Part 2,stanislav-stoyanov,22,3,0,,t5_2qh4v,False
+1369237747.0,1eu8r1,Django Email Tricks [x-post from /r/programming],stanislav-stoyanov,20,1,3,,t5_2qh4v,False
+1368808893.0,1eiy6s,I am working on a large Django project. Some of the apps would make great open source apps. How can I accomplish this and not disrupt my workflow too much,cmsimike,21,1,15,"I've got a couple of apps that I'd love to open source but the apps are still in a state of being developed
+
+Thanks",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/1eiy6s/i_am_working_on_a_large_django_project_some_of/
+1361742660.0,195ig0,Mezzanine 1.4.2 and Cartridge 0.8.1 released,mariuz,22,3,1,,t5_2qh4v,False
+1359361782.0,17f4q6,Parsley.js integration for Django forms: Easy Client side validations,shabda,24,5,12,,t5_2qh4v,False
+1348454800.0,10dgj5,Quick guide on getting started with Django on AWS Elastic Beanstalk. Feedback is welcome!,cscwian,20,1,7,,t5_2qh4v,False
+1342489332.0,woeae,It ALL Makes Sense Now - Test Test Test... Nice Tutorial,kreative,24,3,2,,t5_2qh4v,False
+1331588174.0,qti9j,Looking for some good tutorials on Django,truxs,22,2,36,"After a few years using php i'm dying to try something else and since i already know Python i'm looking for any tutorials/screencast django related.
+I'm currently watching the [introduction to django](http://pyvideo.org/video/604/introduction-to-django) from the last pycon but if you got anything else,False,,t5_2qh4v,False,,,t3_qti9j
+1331397040.0,qqdmu,"Django, South, and Git Branches",jarcoal,21,9, some of which contain their own south migrations?
+
+I get the feeling when I merge them all back together,False,,t5_2qh4v,False,,,t3_qqdmu
+1326191035.0,oaou7,Gedit as a Django IDE for Linux,mariuz,21,1,2,,t5_2qh4v,False
+1324751955.0,npbz2,That's why I like FOSS so much ..,hhh333,22,4,3,"In mid-october I jumped in a django developer thread about startapp/startproject and one of the suggestions I made was to introduce support for project/app templates..
+
+I don't know if my recommendation played a role in this new feature
+
+That's a really nice Christmas gift :) 
+
+Thanks Django dev team !
+
+ * [My comment](http://groups.google.com/group/django-developers/msg/111e2f89fea52d85?dmode=source)
+ * [The whole thread](http://groups.google.com/group/django-developers/browse_thread/thread/1bbbc4ed62c3432/111e2f89fea52d85?lnk=gst)
+
+",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/npbz2/thats_why_i_like_foss_so_much/
+1317506210.0,kxtds,"Django (1.3) / JQuery beginner tutorial, making a flashcard quiz game",jarv,25,4,http://www.reddit.com/r/django/comments/kxtds/django_13_jquery_beginner_tutorial_making_a/
+
+
+Game - [http://wordconfusion.com](http://wordconfusion.com)
+
+Tutorial  - 
+Part1 - [http://jarv.org/2011/10/django-jquery-tutorial-part1/](http://jarv.org/2011/10/django-jquery-tutorial-part1/)
+
+Part2 - [http://jarv.org/2011/10/django-jquery-tutorial-part2/](http://jarv.org/2011/10/django-jquery-tutorial-part2/)
+
+Part3 - [http://jarv.org/2011/10/django-jquery-tutorial-part3/](http://jarv.org/2011/10/django-jquery-tutorial-part3/)
+
+Code - [https://github.com/jarv/wordconfuse](https://github.com/jarv/wordconfuse)
+
+~~Wrote partI while I was watching TV this afternoon which is really just a Django-intro for setting up a local environment
+
+Part 2 and 3 finished - part 4 coming soon.
+",,t5_2qh4v,True,,,True,http://www.reddit.com/r/django/comments/kxtds/django_13_jquery_beginner_tutorial_making_a/
+1315901360.0,ke13j,Django-CMS 2.2 Released,Rolo,20,1,2,,t5_2qh4v,False
+1315836766.0,kd2nx,"Django-DBBackup - Management commands to help backup and restore your project database to AmazonS3, Dropbox or Local Disk.",pkkid,24,5,http://www.reddit.com/r/django/comments/kd2nx/djangodbbackup_management_commands_to_help_backup/,,
+1315062085.0,k3jia,The djangodash 2011 results are in,UloPe,22,2,4,,t5_2qh4v,False
+1304410467.0,h301i,Good luck with our future searches :),delibaltas,24,3,3,,t5_2qh4v,False
+1300516890.0,g6xxs,Satchless is an eCommerce framework built on top of Python and Django. It provides all necessary tools to build full-blown online shop.,gst,29,9,10,,t5_2qh4v,False
+1300464199.0,g6ibt,Django reusable app boilerplate,mbrochh,20,1,4,,t5_2qh4v,False
+1299051266.0,fvngc,Test-first development workflow in Django ,gst,23,3,2,,t5_2qh4v,False
+1297409636.0,fjbng,Getting Started: Contributing Code or Docs to Django,zhivota,21,1,5,,t5_2qh4v,False
+1292242644.0,ekz8l,django-admin-tools 0.4.0 released,izimobil,22,2,0,,t5_2qh4v,False
+1287399827.0,dsqnq,"LBForum, a forum engine powered by Django ",vicalloy,21,1,http://www.reddit.com/r/django/comments/dsqnq/lbforum_a_forum_engine_powered_by_django/,,
+1284817607.0,dfmmr,Video archive of Django Con presentations ,joshmaker,23,3,1,,t5_2qh4v,False
+1283187551.0,d7aq7,Server-side Django performance monitoring using Chrome's SpeedTracer,acdha,22,1,1,,t5_2qh4v,False
+1282045886.0,d23kl,Announcing Read The Docs,gthank,20,1,0,,t5_2qh4v,False
+1279784577.0,csdid,"How'd you like to post an image of your working environment and list tools you use. VI, Emacs, PyDev, Wing, PyCharm?",24,,t5_2qh4v
+1273008848.0,c04bi,Some Common Django ORM Pitfalls,thomaspaine,21,2,2,,t5_2qh4v,False
+1267331832.0,b7ds8,Looking for poor code in Django trunk with clonedigger and pygenie.py,metapundit,20,1,0,,t5_2qh4v,False
+1266851835.0,b51cy,4 things to know for NoSQL Django coders,twanschik,25,5,0,,t5_2qh4v,False
+1265801231.0,b0bjy,"Django Advent, Day 3: Messages (Jeff Croft)",idangazit,21,3,http://www.reddit.com/r/django/comments/b0bjy/django_advent_day_3_messages_jeff_croft/,,
+1262945362.0,an33k,Stuff I'd love to see from Django,gst,25,6,5,,t5_2qh4v,False
+1252168648.0,9hn14,django-lint - Statically check Django applications,gst,23,2,5,,t5_2qh4v,False
+1251522178.0,9f9l2,django-denorm,redalastor,22,1,2,,t5_2qh4v,False
+1248718981.0,9512j,"Fabric, Django, Git, Apache, mod_wsgi,phatmonkey,http://www.reddit.com/r/django/comments/9512j/fabric_django_git_apache_mod_wsgi_virtualenv_and/,
+1242887038.0,8m37l,Better Django models  - Using model managers in Django V1.1,gst,22,3,1,,t5_2qh4v,False
+1239003370.0,8aaju,PyCon09: Designing a web framework: Django's design decisions [video],uggedal,22,1,0,,t5_2qh4v,False
+1229656492.0,7kgro,Django: The First Five Years,ubernostrum,24,2,0,,t5_2qh4v,False
+1226744653.0,7djej,Django 1.0.1 released!,gst,22,2,0,,t5_2qh4v,False
+1221550528.0,71opr,Why I hate Django [video],greut,24,4,2,,t5_2qh4v,False
+1372653757.0,1hep9y,Django hosting.,vishenz,21,3,38,"Hello.
+
+I'm looking at hosting a django application but I don't know where to host it. I was wondering if anyone has any good experiences with django hosting
+
+I've been looking into Elastic Beanstalk
+
+Any help is super appreciated,False,,t5_2qh4v,False,,,t3_1hep9y
+1371654386.0,1gnpx8,Why Django has got class based views(CBV) ? Already FBV is seems elegant? Is there any specific need of CBV? CBV seems quite difficult to understand and implement? thoughts?,navatux,27,7,23,Function based views are very handy to implement and understand in Django. But We have got CBV (class based views) doesn't appear with good documentation for a average django coder.How to understand and work through CBV ?  Which one you suggest to go with in your terminology?,t5_2qh4v,True
+1368453697.0,1e8suf,High Performance Web: Reducing Database Round Trips,rmcfarland,19,0,3,,t5_2qh4v,False
+1363080779.0,1a51hd,My pet project: Misago - featured internet forum app powered by ponies,ralfp,20,1,13,,t5_2qh4v,False
+1357936663.0,16ecff,My first live django project,blindgirlrunning,19,0,13,"Its a Polling website http://virginiareggaeawards.com/
+
+grappelli
+filebrowser
+south
+socialregistration
+selectable
+tagging
+mptt
+zinnia blog
+crispy_forms
+tinymce
+",,t5_2qh4v,1357937251.0,,,True,http://www.reddit.com/r/django/comments/16ecff/my_first_live_django_project/
+1357160653.0,15ugmo,A transcript of a coworker and I diving into the rabbit hole of South database migrations,stevelosh,37,18,6,,t5_2qh4v,False
+1346097079.0,yx4g0,Django Vim Plugin,Lunershot,23,3,4,,t5_2qh4v,False
+1345406385.0,yhhli,Experimental Python 3 support in Django,rchaudhary,21,3,0,,t5_2qh4v,False
+1334929502.0,sjmhq,Creating a URL shortening service with Django,freakingthefuckout12,23,4,3,,t5_2qh4v,False
+1318269491.0,l7ai3,Making Django's signals asynchronous with Celery,d0ugal,22,4,3,,t5_2qh4v,False
+1315319494.0,k6fhg,DjangoCon US 2011 Live Streaming,silent1mezzo,22,2,7,,t5_2qh4v,False
+1311762681.0,j11ki,Should I switch from MySQL to PostgreSQL?,schmilblick,22,4,13,"Our huge (as in many complex models
+
+The question is: should we keep MySQL and switch to InnoDB or is it worth the time and effort to abandon MySQL and go with pgsql instead? 
+
+",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/j11ki/should_i_switch_from_mysql_to_postgresql/
+1307530740.0,huj4p,The impact of django - Armin Ronacher (djangocon.eu) ,gst,25,8,6,,t5_2qh4v,False
+1302113967.0,gk36q,Writing a spider with a django-powered web interface,coleifer,25,4,0,,t5_2qh4v,False
+1297024940.0,fgfq6,Evented Django part one: Socket.IO and gevent,codysoyland,22,2,11,,t5_2qh4v,False
+1294245009.0,ewnut,Django 1.3 release schedule - Update 2,gst,20,1,0,,t5_2qh4v,False
+1288795101.0,e0mzh,Seven reasons why you should switch to Vim for Django development.,shabda,30,11,19,,t5_2qh4v,False
+1286999096.0,dqtfd,"django-allauth -- Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.",dotsphinx,23,5,False,
+1284045620.0,dbmng,Django 1.2.2 released.  Fixes CSRF security issue.,edavis,22,2,3,,t5_2qh4v,False
+1282473230.0,d41m2,"Final, official GSoC Django NoSQL status update and what this means for Django-nonrel",wkornewald,21,3,http://www.reddit.com/r/django/comments/d41m2/final_official_gsoc_django_nosql_status_update/,,
+1280334289.0,cup4k,"Announcing djangoembed, rich media consuming and providing with Django",coleifer,22,2,http://www.reddit.com/r/django/comments/cup4k/announcing_djangoembed_rich_media_consuming_and/,,
+1276786456.0,cg14q,How do you detect and prevent bruteforce attacks on your django website?,cmykgrayscale,21,3,15,"I'm not really sure how to go about implementing this
+
+Is it a good idea (is it even possible?) to implement this sort of check directly on the apache server instead of in django?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/cg14q/how_do_you_detect_and_prevent_bruteforce_attacks/
+1268337534.0,bc7hi,Cache Machine: Automatic caching for your Django models,gst,19,0,0,,t5_2qh4v,False
+1265986067.0,b1a34, Everything I hate about Mingus,gthank,21,2,2,,t5_2qh4v,False
+1264596034.0,auqaq,clemesha's hotdot at master - GitHub - create realtime webapps using Django + Orbited + Twisted,beshrkayali,19,0,2,,t5_2qh4v,False
+1259397187.0,a8wsv,Django and Python 3,gst,20,1,0,,t5_2qh4v,False
+1257907234.0,a3323,The State of MultiDB in Django,ddipaolo,19,0,9,,t5_2qh4v,False
+1246638744.0,8xz42,This is announcement about our new work: Django design patterns,gst,23,3,2,,t5_2qh4v,False
+1240258906.0,8e06m,Django powered PolitiFact wins a Pulitzer prize,jonknee,22,1,3,,t5_2qh4v,False
+1239941068.0,8d57m,Announcing Haystack - Modular search for Django,gst,19,0,0,,t5_2qh4v,False
+1238045297.0,87l2w,Create your own online store in few hours using satchmo (django),gst,21,3,0,,t5_2qh4v,False
+1232328204.0,7qpc2,Some nutjob has forked Django and has released code as Django 2.0 ... paging Django Software Foudation lawyers!,mcantelon,30,9,4,,t5_2qh4v,False
+1369131523.0,1er8eq,We are working on a component manager for Django. Inspired by Yeoman/Bower/Bootsrap generator et all. Looking for feedback.,shabda,20,1,8,,t5_2qh4v,False
+1360806576.0,18hhcy,I have to scale an existing Django REST API and I am wondering what framework(if any) to use.,stinkypyper,20,4,29,"I have inherited a piston based API that must scale to handle an obscene number of requests in the coming months.  The problem is code has become bloated with too much overridden code(it strays too far from pistons original purpose), and dictionaries don't fit well into the tying of models to handlers in piston.  I have also look the Django REST framework
+
+What is a simple,,False,,t5_2qh4v,False,,True
+1352226851.0,12qq9t,Not Exactly Tim the Enchanter [ brack3t ] (blog post about Django's Form Wizards),kennethlove,19,2,2,,t5_2qh4v,False
+1351882354.0,12izju,Introduction to Django Selenium Testing,mtrythall,21,3,0,,t5_2qh4v,False
+1347911944.0,101eqd,AJAX in Django with jQuery,RichKatz,23,7,10,,t5_2qh4v,False
+1342267941.0,wjp2j,Using Amazon S3 to host your Django Static Files,DoISmellBurning,22,3,10,,t5_2qh4v,False
+1338660741.0,uhfob,Django and SSL,rdegges,21,2,6,,t5_2qh4v,False
+1336918703.0,tkyql,Good open source django projects for learning,david370,21,2,13,"I want to improve my django design patterns,,
+1336672550.0,tgsmx,I'm starting a Django podcast with a friend. Here's episode one.,bryanhelmig,24,6,10,,t5_2qh4v,False
+1336024345.0,t4p5j,Working around Django's ORM to do interesting things with GFKs,coleifer,21,1,0,,t5_2qh4v,False
+1335485801.0,sugkz,Make your tests 7x faster in Django 1.4!,slacy,22,4,7,,t5_2qh4v,False
+1335154331.0,snojq,MongoAdmin is an admin interface for MongoDB built in Django,mariocesar,21,2,0,,t5_2qh4v,False
+1334567748.0,sc5ql,Templates. New in Django 1.4,garmoncheg,24,8,1,,t5_2qh4v,False
+1333649353.0,ruylo,30% Off PyCharm Personal until April 16,servercobra,21,3,10,,t5_2qh4v,False
+1327412713.0,oufpo,Measuring &amp; Optimising Django Database Performance,mariuz,23,6,0,,t5_2qh4v,False
+1318535665.0,lb6tw,Fast and Beautiful URLs with Django,bennylope,21,3,11,,t5_2qh4v,False
+1307350021.0,hspij,DjangoCon Europe is streaming now on uStream,JonAtkinson,22,2,5,,t5_2qh4v,False
+1307026539.0,hpycn,"django_status, my first open-source Django app",endtime,18,2,http://www.reddit.com/r/django/comments/hpycn/django_status_my_first_opensource_django_app/,,
+1304744277.0,h5vt5,Django Canvas - Automatic creator of Django base projects ,gst,23,4,6,,t5_2qh4v,False
+1303836964.0,gxw1d,django-smartagent - My attempt at creating the fastest and most complete browser feature detector. Any suggestions?,jay_may,19,0,11,,t5_2qh4v,False
+1299108449.0,fw4yv,How I used r/django to hire a developer for focus,kickme444,21,2,4,,t5_2qh4v,False
+1298402889.0,fqh6e,"Hiring [Guildford, UK]: Junior Django Developers!",keithamus,22,4,http://www.reddit.com/r/django/comments/fqh6e/hiring_guildford_uk_junior_django_developers/
+
+I'm not going to mention the agency (a quick google of my handle will produce that answer), and PHP (for legacy sites, don't worry if you can't). No commercial experience required, as long as you can show off at least 1 or 2 projects (personal or not) you've worked on.
+
+PM me for more details including an email address so you can send me your CV
+
+Sidebar: If you know of any other places to advertise for jobs
+
+**EDIT: We do require you to commute to the offices daily, best of luck though!**",,False,,t5_2qh4v,True,,
+1295932084.0,f8jo7,DjangoDE 0.1,cptwngr,22,3,13,,t5_2qh4v,False
+1292521985.0,emx4p,Django's new pagination boilerplate template code,hhh333,20,2,3,,t5_2qh4v,False
+1291661792.0,eh5p5,"Can someone compare EC2, Rackspace, and Azure as cloud solutions for a django app?",hannibaldon,20,18
+I'm sure someone here has experience with both Azure and Amazon's EC2 for hosting a django web app. Can you give a breakdown of the pros and cons? 
+
+There are quite a few lists out there that talk about the complexity of EC2, and the inappropriateness of GAE (at this point).
+
+I've really been hearing alot of good things about Azure
+
+Any thoughts?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/eh5p5/can_someone_compare_ec2_rackspace_and_azure_as/
+1291531546.0,eggcc,Not So Stupid Template Languages ,gst,23,4,3,,t5_2qh4v,False
+1290411854.0,e9u0f,DjangoCon US 2011 announced!,freakboy3742,21,2,1,,t5_2qh4v,False
+1287248975.0,ds3ie,"A reddit like social news app fro Django. : Subtopics, threaded comments, voting and more.",shabda,22,3,False,
+1287140249.0,drkuy,"Another DJnago bloging engine: Trackback, Backtype, COmments, Tagging, RSS, Multi-author,21,
+1287068168.0,dr6n0,Active merchant like pluggable payment backends for Django.,shabda,19,0,2,,t5_2qh4v,False
+1286869187.0,dq3ai,The Djen of Django - Our in progress book on Django.,shabda,19,2,6,,t5_2qh4v,False
+1280724055.0,cwaar,SaaS with Django and PostgreSQL,gst,23,5,0,,t5_2qh4v,False
+1278960117.0,coqfu,"What's the most accepted way to handle the ""edit existing models"" problem?",CritterM72800,23,5,13,"Evolution? South? Something else? I'm getting started in Django and this problem in particular is sort of strange to me,,
+1278477510.0,cmqwi,Testing Utilities in Django,gst,24,4,0,,t5_2qh4v,False
+1276966320.0,cgs88,Review of Django 1.2 E-commerce,gst,22,2,0,,t5_2qh4v,False
+1274605695.0,c77rk,Woahdude! Django has row level permissions.,indoorgames,22,3,6,,t5_2qh4v,False
+1272970854.0,bzubi,Optimizing Django: tricks for faster page loads ,gst,19,1,0,,t5_2qh4v,False
+1271480935.0,bs5e7,django-native-tags: easily expose any function as a django template tag or block,legutierr,18,1,0,,t5_2qh4v,False
+1268829457.0,bei1x,A question about integrating South into your workflow.,digitaldreamer,19,0,13,"Hello folks
+
+Is it practical to start setting up migrations at the very beginning of the project? During these early stages I'm still on sqlite as my models are very fluid because I'm still working out the schema. I'm still using test data
+
+My initial though would be to hold on setting up migrations until later
+
+Perhaps I'm approaching this the wrong way? I'm interested to hear your thoughts.",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/bei1x/a_question_about_integrating_south_into_your/
+1268752994.0,be377,Deploying app with Fabric,yml,20,1,2,,t5_2qh4v,False
+1265910375.0,b0x51,Integrating mongoDB and Django,codysoyland,19,3,0,,t5_2qh4v,False
+1265713628.0,azv66,"Django Advent, Day 2: Multi-DB (Alex Gaynor)",idangazit,21,3,http://www.reddit.com/r/django/comments/azv66/django_advent_day_2_multidb_alex_gaynor/,,
+1263481449.0,apkrg,For the Love of Ponies,RobotAdam,20,3,1,,t5_2qh4v,False
+1263378947.0,ap1ru,Native Django on App Engine - how to use and what works,twanschik,19,1,6,,t5_2qh4v,False
+1258005010.0,a3ir3,"Large Problems in Django, Mostly Solved: APIs ",gst,18,1,http://www.reddit.com/r/django/comments/a3ir3/large_problems_in_django_mostly_solved_apis/,,
+1254921879.0,9roqa,django CMS 2.0.0 Release Candidate 1,palmTree,20,3,3,,t5_2qh4v,False
+1247734888.0,91owr,Django powered CMS,palmTree,20,1,2,,t5_2qh4v,False
+1247549771.0,90yme,DjangoCon 2009,gst,21,2,0,,t5_2qh4v,False
+1237888888.0,8712d,Django 1.1 beta 1 release notes,,20,1,0,,t5_2qh4v,False
+1236926290.0,84beb,django-lfs - A lightning fast shop for django,gst,19,1,0,,t5_2qh4v,False
+1226651433.0,7dbf2,"Django Schedule, a pluggable calendar app for Django",gst,23,4,http://www.reddit.com/r/django/comments/7dbf2/django_schedule_a_pluggable_calendar_app_for/,,
+1373996232.0,1ifcsi,"Django News, my first deployed Django site",CaptainMelon,21,4,http://www.reddit.com/r/django/comments/1ifcsi/django_news_my_first_deployed_django_site/,,
+1372184866.0,1h1x8f,Django Model Behaviors [Presentation],kevinastone,19,2,4,,t5_2qh4v,False
+1369468785.0,1f0rgy,Deploy Django apps,gamphon,20,3,8,,t5_2qh4v,False
+1368461013.0,1e90x6,Slides: Signing up and Signing in: User registration with django-allauth,sittingaround,22,4,1,,t5_2qh4v,False
+1368072832.0,1dzd6k,What's the best VM dev environment for Django when deploying to Amazon Elastic Beanstalk? Vagrant + Chef? Other?,selfsame,18,1,7,"I'd like to start developing a new Django app (probably 1.5) using Amazon Elastic Beanstalk, but nothing tailored for eventual deployment using AWS Elastic Beanstalk (which I can use for free through work).",t5_2qh4v
+1367249679.0,1dcc9n,Common testing scenarios for Django apps.,shabda,18,2,0,,t5_2qh4v,False
+1364582591.0,1b99co,Core Concepts of Django Forms,pydanny,20,2,0,,t5_2qh4v,False
+1362018354.0,19dc1x,Django ALLOWED_HOSTS and Amazon Elastic Load Balancer,rmcfarland,19,2,0,,t5_2qh4v,False
+1360614570.0,18buma,Nettuts+ Tutorial: Build a Twitter Clone (Ribbit) in Django,lamintak,22,5,9,,t5_2qh4v,False
+1358717055.0,16y5ye,Two experiences with Django,jmduke,27,11,5,,t5_2qh4v,False
+1358450235.0,16rmkc,PyDanny's Django book is launched,gthank,24,5,2,,t5_2qh4v,False
+1355868586.0,152ntl,What do you use to handle fixtures for Django tests?,adamjon858,18,1,16,"I've seen quite a few implementations out there for managing fixtures.
+
+I have a large project with around 80 models. I originally started with a lot of tests/fixtures but as things got bloated I got lazy and now I have a few weeks of writing tests ahead of me....
+
+At this point
+
+This looks pretty cool but I don't know how good it is: https://github.com/dnerdy/factory_boy
+
+And well we're at it,False,,t5_2qh4v,False,,,t3_152ntl
+1354210766.0,1403ti,My views.py is getting very big in Django,jordimaister,19,4,23,"My views.py is getting very big because all the functions that are implemented there.
+
+I would like to know how do you do to avoid this situation.",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/1403ti/my_viewspy_is_getting_very_big_in_django/
+1354119765.0,13xt80,"
+Delicious Cake - A Flexible,itemshoppe,19,3,14,http://www.reddit.com/r/django/comments/13xt80/delicious_cake_a_flexible_tastypie_derived_rest/,"[PyPi](http://pypi.python.org/pypi/delicious-cake/)
+
+
+[https://github.com/itemshoppe/delicious-cake/](https://github.com/itemshoppe/delicious-cake/)
+",,t5_2qh4v,1354136239.0,,,True,http://www.reddit.com/r/django/comments/13xt80/delicious_cake_a_flexible_tastypie_derived_rest/
+1353997686.0,13v18g,"Django Logging:  All I needed was an example. This example worked.  Logging works now, including back-end SQL. Life is good :)",RichKatz,19,2,http://www.reddit.com/r/django/comments/13v18g/django_logging_all_i_needed_was_an_example_this/,,
+1352921802.0,1372p3,"django-pagemore: KISS approach to a ""Load more"" style AJAX paginator",pennersr,17,1,5,,t5_2qh4v,False
+1351024684.0,11ys7n,Easily Add Payments to your Django Site — Eldarion Blog,paltman,22,7,2,,t5_2qh4v,False
+1345564280.0,yl2bq,Yet another Django project skeleton with Fabric deployment commands,ionelmc,18,1,2,,t5_2qh4v,False
+1334710510.0,sf6iv,Up and Running with Django 1.4,vital101,20,2,2,,t5_2qh4v,False
+1329628445.0,pw4w4,"How do you define your ""main"" app?",djangonewbie,20,3,11,"In a Django project/site I prefer to break the functionality up into apps - for example a blog project might have apps for posts
+
+However there are a lot of views which don't fall into any particular app - for example the front page, splash page etc. In addition there are template tags, util libs etc which again are generic to the whole project (but not generic enough to be in reusable apps), as well as base models/views/etc. Ideally they need to live in an app so to be included in tests and suchlike.
+
+There are 2 solutions I've come up with
+
+1. A ""core"" app, but no non-abstract models, which live in the other apps.
+
+2. Using the new Django 1.4 project default layout, which I use as the default app, and specific (non-reusable) apps belonging to the project live under this:
+
+    - myproject
+        - views.py
+        - urls.py
+        - models.py 
+        - templates
+        - templatetags
+        - utils.py
+        apps/
+            someapp/
+                models.py etc
+
+The top-level views contain base views (if using class-based views) or views such as the home page that don't belong anywhere else. The urls.py links these directly and includes (using *include()*) urls from the apps. The models module/package is empty, and more specific apps under ""contrib"".
+
+I somehow prefer 2) but I'm wondering if this might be an antipattern. 
+
+
+
+ ",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/pw4w4/how_do_you_define_your_main_app/
+1329563340.0,pv4vz,Whats the better way of doing local_settings.py file?,david370,19,3,35,"Echoing a question asked in this comment:
+http://www.reddit.com/r/django/comments/ptp48/django_design_patterns/c3scfxe
+
+Need to find a better and more modular way instead of using local_settings.py file. How is this best accomplished? ",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/pv4vz/whats_the_better_way_of_doing_local_settingspy/
+1328725058.0,pgjc5,"Huey, a little task queue for python (and django)",coleifer,17,0,http://www.reddit.com/r/django/comments/pgjc5/huey_a_little_task_queue_for_python_and_django/,,
+1326992419.0,ongsp,Django in Production: Part 2 - Background Tasks,servercobra,18,1,0,,t5_2qh4v,False
+1314218412.0,jt98l,Just deployed my first django project ever! Thanks /r/django for all the help throughout,brandonmat,21,3,19,"Just wanted to say thanks for all the help! If you want to check it out it's called [TweetTune](http://www.tweettune.com) It creates a radio-station based on the latest tweeted songs. Let me know what you think,,
+1312562632.0,j9zz6,Hi Reddit. We just beta launched our new code challenge site and would love to know what you think about it! Our first Django challenge is up!,Codement,24,7,11,,t5_2qh4v,False
+1310487047.0,inikr,Introducing django-courier,hhh333,21,5,2,,t5_2qh4v,False
+1305868196.0,hfnkj,Building a Simple Reporting App in Django: Part 1 ,gst,19,3,3,,t5_2qh4v,False
+1305550420.0,hci0r,Djangocon Europe 2011 Schedule,idangazit,18,2,3,,t5_2qh4v,False
+1303818044.0,gxp8v,A Basic Django Workflow,gst,21,4,1,,t5_2qh4v,False
+1302762308.0,gppt2,Hey Djangoitt - What's the best blogging application?,miserlou,17,0,7,I'm looking to add a blog to my already deployed Django site (http://www.openwatch.net) - there are so many blogging applications! Which is the best?!,t5_2qh4v,True
+1301290090.0,gcxka,How do YOU deploy Django?,snagglepants,22,4,21,,t5_2qh4v,False
+1301084176.0,gbilw,A lightweight task queue for Django,coleifer,18,2,7,,t5_2qh4v,False
+1298386944.0,fqawk,Disqus: Scaling The World’s Largest Django Application,ch0wn,20,3,1,,t5_2qh4v,False
+1296348262.0,fbkot,mixedCase: Django-CMS vs. FeinCMS vs. Mezzanine,stevemcd,20,3,2,,t5_2qh4v,False
+1293001125.0,eprnf,Feature Switches in Django with Gargoyle ,gst,24,7,3,,t5_2qh4v,False
+1287698182.0,dulgo,Stop with the fucking ponies,edavis,38,20,13,,t5_2qh4v,False
+1285050553.0,dgq2k,Sneak preview of the DjangoZoom alpha,gst,19,4,4,,t5_2qh4v,False
+1285047410.0,dgpib,Why I love Disqus,gst,20,3,0,,t5_2qh4v,False
+1284188639.0,dcf40,Django 1.2.3 released,kingkilr,19,2,2,,t5_2qh4v,False
+1280913113.0,cx79d,Combining css and javascript in Django,gst,23,4,3,,t5_2qh4v,False
+1277610295.0,cjfjo,Provisioning a new Ubuntu server for Django,gst,18,3,0,,t5_2qh4v,False
+1275375960.0,ca5ca,"Django Project Conventions, Revisited",mipadi,22,3,http://www.reddit.com/r/django/comments/ca5ca/django_project_conventions_revisited/,,
+1274337289.0,c67jg,Ask Django Reddit: How do I know when to make something an 'app'?,skiaec04,20,1,13,"Hi reddit, I can't really find much definitive information about it either. Could someone please explain or point me to a relevant article? Thanks!",t5_2qh4v
+1271704684.0,bt8gs,django-gravatar: template tags to generate Gravatar URLs.,santa4nt,17,0,5,,t5_2qh4v,False
+1270750249.0,bo9pf,Running Django with Nginx and uWSGI,downbrown,21,5,5,,t5_2qh4v,False
+1268929769.0,bf2tj,Nginx+Django made easy with Kutoken,forkqueue,22,4,2,,t5_2qh4v,False
+1267531763.0,b8732,"Django Advent, Day 17: Improved Bash Completion (Arthur Koziel)",idangazit,18,3,http://www.reddit.com/r/django/comments/b8732/django_advent_day_17_improved_bash_completion/,,
+1266231944.0,b27rq,"Django Advent, Day 6: Object Permissions (Florian Apolloner)",idangazit,20,3,http://www.reddit.com/r/django/comments/b27rq/django_advent_day_6_object_permissions_florian/,,
+1262653309.0,alky2,Queued Storage Backend for Django,chadlnx,17,1,1,,t5_2qh4v,False
+1261041937.0,afnsx,Nicer dynamic forms in django ,gst,17,0,3,,t5_2qh4v,False
+1260274569.0,accku,"Pootle 2.0 released, translations platform using Django",greut,17,1,http://www.reddit.com/r/django/comments/accku/pootle_20_released_translations_platform_using/,,
+1258277773.0,a4jwm,Django now officially supported on Dreamhost,samuraisam,22,5,9,,t5_2qh4v,False
+1257781429.0,a2i7h,Django-Jython 1.0.0 released!,gst,18,0,0,,t5_2qh4v,False
+1257764049.0,a2fcw,"Django-it: Hey Django developers out there, which would you recommend? Amazon EC2 or GAE for hosting?",nubela,18,0,http://www.reddit.com/r/django/comments/a2fcw/djangoit_hey_django_developers_out_there_which/,,
+1257733852.0,a2bi7,"Thank you, Rails",mipadi,19,3,http://www.reddit.com/r/django/comments/a2bi7/thank_you_rails/,,
+1253254354.0,9lqse,django-safeform - CSRF protection for Django forms.,gst,19,1,0,,t5_2qh4v,False
+1248206840.0,939xx,Question: Processing a payment in Django. What services do you guys use? ,,20,3,16,"I've heard poor things about Paypal. I would think Amazon FPS would work well but it requires an amazon account for the person buying,False,
+1246480908.0,8xeth,Django &amp; Hierarchical models,dosixpr,17,0,0,,t5_2qh4v,False
+1242691134.0,8lfh4,djng - a Django powered microframework,gst,18,2,0,,t5_2qh4v,False
+1238882497.0,8a11e,"django-css: Use CSS compilers with your Django projects, plus automated CSS/JS compression",thomaspaine,18,0,http://www.reddit.com/r/django/comments/8a11e/djangocss_use_css_compilers_with_your_django/,,
+1237540602.0,864jh,Zed Shaw: One Laptop Battery Later And I'm A Django Fan,uggedal,25,9,0,,t5_2qh4v,False
+1236067304.0,81nqw,Django snippets: Smart {% if %} template tag,gst,18,1,1,,t5_2qh4v,False
+1235120676.0,7yvm1,How to build a Facebook app in Django ,gst,22,3,0,,t5_2qh4v,False
+1231898036.0,7pjdi,"Django has a pony, and you can't beat that",mipadi,19,2,http://www.reddit.com/r/django/comments/7pjdi/django_has_a_pony_and_you_cant_beat_that/,,
+1230448483.0,7m0uf,"We built Represent with Django, the Python web framework. ",gst,20,2,http://www.reddit.com/r/django/comments/7m0uf/we_built_represent_with_django_the_python_web/,,
+1226744424.0,7dje4,Easy Multi-Database Support for Django ,gst,19,3,0,,t5_2qh4v,False
+1226246334.0,7camq,Dynamic forms in DJango,uggedal,17,0,1,,t5_2qh4v,False
+1376008788.0,1jztlf,I recently transitioned my site from PHP to Django. Thoughts?,daneah,23,9,51,,t5_2qh4v,False
+1373797562.0,1i9qt5,Ask /r/Django: TastyPie or Django REST Framework?,Django-Reinhardt,18,4,17,"Newbie programmer here.
+
+I haven't used Django REST Framework yet but I keep hearing good things about it. I personally prefer TastyPie because it 'feels' very Django-like. (I know
+
+If there's someone out there who has used both and would like to opine
+
+EDIT: Apologies for the delay. I was knee-deep in some shitty code that needed all the focus my n00b-brain could provide. That being said,False,,t5_2qh4v,1373878629.0,,,t3_1i9qt5
+1373699117.0,1i7hc0,Django QuerySets: Fucking Awesome? Yes (x-post from /r/python),yanivlib,19,4,3,,t5_2qh4v,False
+1373404283.0,1hym5u,"[Screencast] Build a 'Hacker News' clone with Django, Part 3, (CRUD and Comments)",arunvr,18,5,False,
+1368468121.0,1e9a4d,Start Lending | Lessons | Getting Started with Django,kennethlove,19,2,2,,t5_2qh4v,False
+1364023174.0,1aul61,django-quickly - Adding url and view decorators to Django,benregn,21,6,10,,t5_2qh4v,False
+1362600677.0,19smw8,Considering Django for our labs bioinformatics tools website. Is this a good idea? I have no experience with web frameworks. ,kamonohashisan,17,0,10,"I am a grad student in a computational biology lab. We often make web tools to accompany our research. Until now we have written these by hand with html pages
+
+Basically the way our tools work is:
+1. Get input as text or a text file
+
+2. Get options relating to run parameters. 
+
+3. Do some minor data processing on the input. (Python)
+
+4. Submit a job to our cluster and run some computationally intensive analysis. (C)
+
+5. Give feed back about the status of the job. 
+
+6. Show the output from the job
+
+
+I have been looking at the Django introduction but I don't think I understand it that well yet. 
+Is this a good instance to use Django?  Are there any tips or advice you would give to a fairly experienced programmer who is new to web frameworks? Basically I am trying to figure out the things I don't know that I don't know it that makes sense. 
+
+
+",,t5_2qh4v,1362605742.0,,,True,http://www.reddit.com/r/django/comments/19smw8/considering_django_for_our_labs_bioinformatics/
+1361844540.0,198d1s,Unbreaking Your Django Application (Slideshare presentation on database performance issues),mipadi,17,2,2,,t5_2qh4v,False
+1354215028.0,1408vx,Using Configurable User Models in Django 1.5,silent1mezzo,17,3,4,,t5_2qh4v,False
+1354108299.0,13xjrw,Stay with the Django CBV defaults!,gthank,22,5,1,,t5_2qh4v,False
+1352217282.0,12qf4v,Using Postgres Arrays in Django,craig081785,17,1,0,,t5_2qh4v,False
+1349713671.0,1156ls,RESTful API Playground as a Django Application,fthrkl,19,2,1,,t5_2qh4v,False
+1344318093.0,xt66w,"Django Waffle is (yet another) feature flipper where you can define the conditions for which a flag should be active, and use it in a number of ways.",placidified,16,0,http://www.reddit.com/r/django/comments/xt66w/django_waffle_is_yet_another_feature_flipper/,,
+1339436933.0,uwg61,Django Podcast: Class vs. Function Based Views,bryanhelmig,18,3,8,,t5_2qh4v,False
+1338066695.0,u6foe,What are the best Django communities / resources when you are getting started? ,Pr0ducer,17,2,17,"I'm new to Django. My background is HTML
+The Django Book - http://djangobook.com/en/2.0/chapter12/
+StackOverflow
+
+Any other favorite blogs or resources redditors think I should have. It's the server set-up that's getting me stuck. On the bright side
+
+Thanks
+",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/u6foe/what_are_the_best_django_communities_resources/
+1336672677.0,tgsrc,Pitfalls When Upgrading to Django 1.4,spulec,18,0,1,,t5_2qh4v,False
+1336652842.0,tgdcu,Building a higher-level query API: the right way to use Django's ORM,j4mie,28,10,8,,t5_2qh4v,False
+1333806467.0,rxu19,django-admin-customizer - saves you the trouble of editing admin.py for simple admins.,ionelmc,21,5,1,,t5_2qh4v,False
+1331825009.0,qxv5a,Django Cheatsheet updated for 1.4.  Get the PDF version if you weren't at PyCon this year. ,frankwiles,21,5,5,,t5_2qh4v,False
+1331647183.0,quiwe,A Django 1.4 Project Template,xenith87,18,2,6,,t5_2qh4v,False
+1329790287.0,pyoye,Django Relative Path for settings.py,PressedWeb,19,1,22,,t5_2qh4v,False
+1325113370.0,nu5r8,Am I the only one whose unhappy with existing tools and methodologies to manage statics?,teolicy,20,3,3,,t5_2qh4v,False
+1324010101.0,nes0w,Discover Django Servers with Bonjour,Vossy573,18,2,0,,t5_2qh4v,False
+1321871327.0,mk192,Compass is a tool to guide your south migrations. ,shabda,21,4,3,,t5_2qh4v,False
+1318522594.0,laybt,Does anyone have good examples of how to use Fabric?,blackrobot,17,1,20,"I've searched Reddit
+
+I want to stop using bash scripts for my deployment, using Nginx and gunicorn for serving. The environment uses virtualenv, with a pip requirements file and ActivePython so that I can use py2.7 on CentOS without trying to upgrade from Py2.4
+
+If anyone can suggest documentation, and sorry for asking a question I'm sure has been answered thousands of times. I'm just a bit confused.",,False,,t5_2qh4v,False,,
+1307987173.0,hyo9o,Class Based template tags for easier templatetags,tutuca_,17,0,1,,t5_2qh4v,False
+1305638213.0,hdc9s,Eddie’s Django Tip #3: Don’t Mix Your Media ,gst,21,3,2,,t5_2qh4v,False
+1304982315.0,h7or5,It's the little things that make me laugh the most.,sli,28,12,1,,t5_2qh4v,False
+1299878245.0,g273d,[Django based] Open-Source Publishing Platform to be Developed by The Texas Tribune and The Bay Citizen,tvon,18,1,5,,t5_2qh4v,False
+1297123757.0,fh6lc,Job board suggestions? I'm looking to hire.,django_djunkie,17,0,16,"/r/django
+
+If you want to msg me a cv by all means get in touch and I'll send more details; this isn't my main account
+
+Edit: this is a remote job posting,,False,,t5_2qh4v,True,,True
+1295218588.0,f3gsb,Using SELECT FOR UPDATE in Django,coderanger,23,6,0,,t5_2qh4v,False
+1295021136.0,f29vt,DjangoCon Europe 2011 announced,freakboy3742,22,6,2,,t5_2qh4v,False
+1291563643.0,egkh1,Templating Systems,gthank,16,0,1,,t5_2qh4v,False
+1291358860.0,efgzh,adminbrowse: Fancier changelist columns in Django’s admin site,gst,18,4,5,,t5_2qh4v,False
+1290560702.0,eau8k,App-Centric Django Development Part 1: Introduction,gthank,16,0,0,,t5_2qh4v,False
+1288787359.0,e0l5d,Django and Postgresql Performance at WooMe,iamseb,17,2,0,,t5_2qh4v,False
+1286625766.0,doyak,New commiter to django,batiste,22,7,2,,t5_2qh4v,False
+1281862175.0,d1cjo,I'm learning Django and I have a stupid best practices question.,,17,2,10,"I'm using it on a site where I occasionally have model-unfriendly content: intro blurbs that only appear in one place
+
+The simplest way I can think of to do this is to make a ""Textblurbs"" model with just an id and a textbox
+
+At the time time
+
+Thanks Reddit.",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/d1cjo/im_learning_django_and_i_have_a_stupid_best/
+1281406744.0,czb0n,Django Template Tag Namespaces Now Possible,codysoyland,17,1,1,,t5_2qh4v,False
+1280813220.0,cwpls,Flying with Django in Google App Engine,gst,21,3,3,,t5_2qh4v,False
+1278181072.0,clom4,"Using virtualenv, pip and django-site-gen to quickly start new Django projects",coleifer,19,4,http://www.reddit.com/r/django/comments/clom4/using_virtualenv_pip_and_djangositegen_to_quickly/,,
+1273454759.0,c1wu4,Tutorial – South - intelligent schema and data migrations for Django,number5,18,1,2,,t5_2qh4v,False
+1270663355.0,bnr83,djangourls - an aggregator for the newest and most popular Django links,andreyfedoseev,16,2,3,,t5_2qh4v,False
+1269367381.0,bh7vp,Django 1.2 release schedule - Update 2,gst,16,0,1,,t5_2qh4v,False
+1269108551.0,bfych,Django models layer in comparison with Rails Active Record,shabda,21,3,0,,t5_2qh4v,False
+1268914382.0,beyx6,Continuous Integration with Django and Hudson CI (Day 1),caktus,17,1,0,,t5_2qh4v,False
+1268070798.0,barag,jQuery Validation with Django Forms,japerk,18,1,0,,t5_2qh4v,False
+1267629100.0,b8qha,"Django Advent, Day 18: Syndication (Rob Hudson)",idangazit,18,3,http://www.reddit.com/r/django/comments/b8qha/django_advent_day_18_syndication_rob_hudson/,,
+1267452557.0,b7s4f,"Django Advent, Day 16: CSRF (Andrew Godwin)",idangazit,16,0,http://www.reddit.com/r/django/comments/b7s4f/django_advent_day_16_csrf_andrew_godwin/,,
+1267009664.0,b5v9n,"Django Advent, Day 13: Testing Improvements (Eric Holscher)",idangazit,19,1,http://www.reddit.com/r/django/comments/b5v9n/django_advent_day_13_testing_improvements_eric/,,
+1266320586.0,b2ngq,"Django Advent, day 7: Natural Keys (Russel Keith-Magee",idangazit,17,1,http://www.reddit.com/r/django/comments/b2ngq/django_advent_day_7_natural_keys_russel_keithmagee/,,
+1265900018.0,b0uhf,Django Advent - Smoothing The Curve,gthank,18,1,0,,t5_2qh4v,False
+1264941808.0,awb6k,Real-time Web and Other Buzzwords - DjangoCon09 talk by Chris Wanstrath ,beshrkayali,16,0,1,,t5_2qh4v,False
+1264376555.0,ato9u,"What API library to use for a Django project? Djata, WAPI, Piston etc.?",fromper,19,4,False,
+1262872917.0,amowr,Django based forum with Socialauth integration,shabda,18,2,0,,t5_2qh4v,False
+1258529747.0,a5jvr,Announcing Kong: A server description and deployment testing tool ,gst,16,0,0,,t5_2qh4v,False
+1254623553.0,9qlx1,History of Django's popularity,,18,2,1,,t5_2qh4v,False
+1253729436.0,9ne9n,Add a web api to your app with django-piston,semente,18,2,1,,t5_2qh4v,False
+1244569786.0,8r3rp,Django file upload progress bar - without Flash,gst,16,1,0,,t5_2qh4v,False
+1243425013.0,8nlgs,Doing more with the Django admin,gst,18,1,4,,t5_2qh4v,False
+1242136088.0,8ju2w,"Hello world from djng, a micro-macro-web-framework that has Django as a dependency",simonw,20,5,http://www.reddit.com/r/django/comments/8ju2w/hello_world_from_djng_a_micromacrowebframework/,,
+1229535194.0,7k4l9,Integrating Facebook Connect with Django in 15 minutes ,gst,18,1,0,,t5_2qh4v,False
+1223400810.0,75qyf,Generating PDFs with Django,shabda,17,0,1,,t5_2qh4v,False
+1220802974.0,704sk,I am not a lolcat,wamberg,26,10,3,,t5_2qh4v,False
+1375446051.0,1jk5yf,How to take on a large Django project,michaelherman,19,4,6,,t5_2qh4v,False
+1375206689.0,1jd21j,[Hiring] redditgifts is Hiring a Back End Developer!,weffey,22,6,8,,t5_2qh4v,False
+1374970534.0,1j6u2g,Can someone please create a freaking reload() function for the python manage.py shell??,eddieberklee,23,8,29,,t5_2qh4v,True
+1373917762.0,1id03b,Django + Stripe + User Registration,michaelherman,18,3,7,,t5_2qh4v,False
+1371575192.0,1glf7v,for those lost/new to Django start here,outOfNameSpace,24,9,12,,t5_2qh4v,False
+1371450211.0,1gi1ju,Deploying django using docker,shabda,16,2,0,,t5_2qh4v,False
+1368119357.0,1e0f85,Getting E-Mail right with Django and SES,edavis,18,2,3,,t5_2qh4v,False
+1366863198.0,1d297t,GeoDjango,raydlor,15,0,14,"I'm working on a geolocation web app for an employer. I know we are using gmaps.js with Django. Our features should be relatively basic: location,,1366911654.0
+1366214050.0,1cjee8,Djangocore-box: A virtual machine for running the Django core test suite,julienphalip,17,2,3,,t5_2qh4v,False
+1363032278.0,1a3lyz,"Django Co-Creater Jacob Kaplan-Moss talks ""Caring for Your Baby Ecosystem""",TheresaBlackSwans,19,2,0,,t5_2qh4v,False
+1362174087.0,19hjbi,Run a Django Debug Server with SSL,tjdziuba,17,0,20,,t5_2qh4v,False
+1359415130.0,17gj6c,Survey: What Registration and Authentication Modules do you use?,sittingaround,15,0,14,,t5_2qh4v,False
+1352216717.0,12qej0,Can't get my head around Django 1.4 file structure.,dreamaerd,16,3,23,"This is a rough example of my project file structure.
+
+    project
+        manage.py
+        project
+            settings.py
+            urls.py
+            wsgi.py
+        app1
+            models.py
+            views.py
+            admin.py
+        app2
+            models.py
+            views.py
+            admin.py
+
+What I want to know is where do I put my static files (css/ fonts/ img/ js etc. ) my media files (eg where I upload my blog post images) and templates.
+
+Do I put them in my project root? eg. 
+
+    project
+        media
+        static
+        templates
+        manage.py
+        project
+            settings.py
+            urls.py
+            wsgi.py
+        app1
+            models.py
+            views.py
+            admin.py
+        app2
+            models.py
+            views.py
+            admin.py
+
+so in my settings.py file using 
+
+    import os
+    PROJECT_ROOT = os.path.dirname(__file__)
+
+I can do:
+
+    MEDIA_ROOT = os.path.join(PROJECT_ROOT
+    STATIC_ROOT = os.path.join(PROJECT_ROOT
+    TEMPLATE_DIRS = (os.path.join(PROJECT_ROOT
+
+Is this the correct way to do it for local development purposes?
+I would also like to know how to structure the files for deployment.
+
+Any help would be appreciated
+",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/12qej0/cant_get_my_head_around_django_14_file_structure/
+1349993638.0,11c0cb,The scourge of slow tests (and what to do about it),jcdyer3,21,4,0,,t5_2qh4v,False
+1349723441.0,115gwf,"Getting Started With Django
+Kickstarer",6,3,http://www.reddit.com/r/django/comments/115gwf/getting_started_with_django_kickstarer/,,,False,t5_2qh4v,False
+1347370241.0,zpgvq,Our first DjangoDash: Try-Box – A truly interactive Python and Django Tutorial,csp89,18,4,8,,t5_2qh4v,False
+1347285124.0,znhw1,Does anyone know when the DjangoCon videos are being released?,demosthenes02,18,3,4,,t5_2qh4v,True
+1344887809.0,y5t46,Tutorial: Using Django's Multiple Database Support,geometry,19,3,3,,t5_2qh4v,False
+1330188244.0,q5k8g,"Why/how do you use unit-testing when writing a dynamic 
+website (in Django)?",2,7,http://www.reddit.com/r/django/comments/q5k8g/whyhow_do_you_use_unittesting_when_writing_a/,"Programming newbie here--I'm at the point where I'm reading about the unittest module in the standard library and I'mm confused at how people come up with what tests they need to have (especially in test-driven development, where you're supposed to write the tests before implementing the code). Like--if I'm starting to write a blog CMS with Django, what tests do I first write?",False,,http://www.reddit.com/r/django/comments/q5k8g/whyhow_do_you_use_unittesting_when_writing_a/
+1328463861.0,pc03h,Screencast: How to deploy Django apps on Heroku.,shabda,19,4,1,,t5_2qh4v,False
+1326215140.0,ob05h,Universal Subtitles is hiring a Django developer,stevelosh,17,2,3,,t5_2qh4v,False
+1325494492.0,nzm0f,"hey r/django, what resource did you find the most helpful for learning and using django.",mish4,18,4,http://www.reddit.com/r/django/comments/nzm0f/hey_rdjango_what_resource_did_you_find_the_most/
+
+I stumbled upon:
+[django book](http://www.djangobook.com/en/2.0/) - kind of slow though to get through
+
+and
+[flash card game](http://jarv.org/2011/10/django-jquery-tutorial-part1/) - a 4 part tutorial on making a flash card game using django 1.3
+
+before I dive in
+
+Thanks! ",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/nzm0f/hey_rdjango_what_resource_did_you_find_the_most/
+1319469025.0,ln61x,My suckiness at CSS/HTML affects my use of Django,Setheron,22,7,27,"I hate when learning/writing a Django app if I still have no design flare &amp; know CSS all my websites look bad :(
+
+Is there somewhere where I can find really nice looking boilerplate HTML files (with CSS?)
+
+I know enough to customize CSS but not enough to layout the site (i.e. padding
+
+Does anyone else experience a similar problem when learning web frameworks?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/ln61x/my_suckiness_at_csshtml_affects_my_use_of_django/
+1319128259.0,liucp,Web App Security: Django and the OWASP Top 10,facebiff,22,9,2,,t5_2qh4v,False
+1316564095.0,km62z,"Building a Node.js Events App Using RabbitMQ, Websockets, and Django",fourk,15,3,False,
+1315341119.0,k6rr9,We're hiring another Python/Django developer,stevelosh,23,8,8,,t5_2qh4v,False
+1313696267.0,jn2o5,Do you have a workflow that you follow when first starting a project from scratch?,krelian,21,5,8,"
+",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/jn2o5/do_you_have_a_workflow_that_you_follow_when_first/
+1313469816.0,jk5az,Django CMS Basics,teamcolab,17,1,23,"First time poster here!  We are moving away from a Zend PHP MVC system that we have been using to create custom CMS sites.
+
+We have decided to take the plunge and so far Django is awesome.  While CMSing more complicated things seems easy,False,,t5_2qh4v,False,,,t3_jk5az
+1312971150.0,jegap,Beware of Python optimization,va1en0k,16,1,1,,t5_2qh4v,False
+1311188897.0,iv306,the kind of SQLAlchemy guide for django that I've always wanted.,ciferkey,21,5,3,,t5_2qh4v,False
+1308409727.0,i2ygd,A Django setup using Nginx and Gunicorn ,gst,19,5,7,,t5_2qh4v,False
+1307438063.0,htlq1,Django REST framework is a lightweight REST framework for Django,gst,21,6,5,,t5_2qh4v,False
+1306639364.0,hmm5i,I don’t like Django class-based generic views. ,gst,19,3,6,,t5_2qh4v,False
+1306318824.0,hjog4,How Django's form field ordering works,gst,16,1,6,,t5_2qh4v,False
+1305523865.0,hcbxq,django-dogslow: A Django middleware that logs tracebacks of slow requests.,jespern,16,2,3,,t5_2qh4v,False
+1304045934.0,gzui8,"Organizing Django settings
+",3,6,http://www.reddit.com/r/django/comments/gzui8/organizing_django_settings/,,,False,t5_2qh4v,False
+1301205869.0,gcd8a,Authorize.Net Credit Card Form in Django,gst,19,4,5,,t5_2qh4v,False
+1299767348.0,g171k,Django Cloud Browser,gst,19,6,0,,t5_2qh4v,False
+1299051445.0,fvni8,Facebook Registration with Django,gst,19,3,5,,t5_2qh4v,False
+1298362469.0,fq5j1,Why I want read-only form fields in Django,gst,21,5,6,,t5_2qh4v,False
+1298103473.0,foesy,Syntax Highlighting in Django with Markdown and Pygments,,16,0,0,,t5_2qh4v,False
+1297995545.0,fnm6g,Connecting anything to anything with django,coleifer,15,0,0,,t5_2qh4v,False
+1296309680.0,fbbj7,Using Amazon's Simple Email Service (SES) with Django,Ibuildwebstuff,19,3,0,,t5_2qh4v,False
+1295925161.0,f8hl3,"Never deployed a site on a server, will have to do that for first time, what's the best way to go? (fabric/buildout/capistrano/X/Y/)",luismmontielg,17,10, I think we'll go first for webfaction (I've used it before but deployed using bazaar, and practice with some tools
+
+EDIT: Thanks for the input,False,,t5_2qh4v,True,,,t3_f8hl3
+1292653405.0,ent18,Mobile Web Development with Django,gst,21,5,0,,t5_2qh4v,False
+1292482193.0,emozj,"Hey Django Reddit -- This is my very first ever open source code released to the wild.  It's an app that will backup your Postgres, MySQL, or SQLite database to Dropbox.",pkkid,16,5,False,
+1291359429.0,efh2v,django-easy-maps: app that makes it easy to display a map for the given address,kmike84,16,1,2,,t5_2qh4v,False
+1290241341.0,e91pf,Class Based Views and Dry Ravioli ,gst,18,3,0,,t5_2qh4v,False
+1288477418.0,dyur9,10 essential tools for extending Django,iamseb,19,4,2,,t5_2qh4v,False
+1285295775.0,di4zg,A Quick Tutorial on Django MPTT ,gst,16,2,0,,t5_2qh4v,False
+1284671925.0,dew6n,Going Green (gunicorn and gevent),db-init,17,3,0,,t5_2qh4v,False
+1282180286.0,d2ta3,Django Packages : Welcome,number5,17,2,0,,t5_2qh4v,False
+1281913563.0,d1ify,Is there another Tutorial like the Django tutorial?,zurtri,18,3,20,"Cause I have gone through the tutorial on the site: http://docs.djangoproject.com/en/dev/intro/tutorial01/ but I feel like I need to do the tute again
+
+Thanks guys - Django seems to be really powerful.",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/d1ify/is_there_another_tutorial_like_the_django_tutorial/
+1281328529.0,cyxyp,More reasons to go to DjangoCon!,gst,19,2,0,,t5_2qh4v,False
+1281095868.0,cy39a,Django and NoSQL: overview of recent talks,reinout,18,3,0,,t5_2qh4v,False
+1274559517.0,c7348,"Auth application for Django with same api as django.contrib.auth, based on MongoDB",va1en0k,18,1,http://www.reddit.com/r/django/comments/c7348/auth_application_for_django_with_same_api_as/,,
+1273553721.0,c2feq,"Create PDFs from Django templates
+ 
+ Project Hosting on Google Code",1,0,http://www.reddit.com/r/django/comments/c2feq/create_pdfs_from_django_templates_project_hosting/,,,False,t5_2qh4v,False
+1269188975.0,bg86f,Django on Pydev,gst,16,3,9,,t5_2qh4v,False
+1265181140.0,axg6f,Thread-Safe Object-Oriented Views in Django,codysoyland,19,4,1,,t5_2qh4v,False
+1264233350.0,at6cq,What The Enterprise wants from Django,gst,18,4,3,,t5_2qh4v,False
+1263309302.0,aooie,Use django template  for flexible blocks designs ,ddaann,16,2,0,,t5_2qh4v,False
+1258833179.0,a6tao,DjTracker - Django Based Issue Tracker,f4nt,22,8,3,,t5_2qh4v,False
+1258616409.0,a5y9y,Announcing django-admin-histograms,gst,18,1,0,,t5_2qh4v,False
+1253685995.0,9n7it,Keeping simple with Django,gst,17,1,1,,t5_2qh4v,False
+1252893656.0,9k87k,Django and CKEditor,montrealdev,19,3,12,,t5_2qh4v,False
+1240773186.0,8fmdh,"Deploying Django with Mercurial, Fab and Nginx",gst,15,0,http://www.reddit.com/r/django/comments/8fmdh/deploying_django_with_mercurial_fab_and_nginx/,,
+1239855916.0,8cur4,Developing Django apps with zc.buildout,gst,18,3,0,,t5_2qh4v,False
+1237292039.0,85ani,Add Full-Text Search to your Django project with Whoosh,Bracki,15,2,0,,t5_2qh4v,False
+1235985396.0,81dix,Tagging cache keys for O(1) batch invalidation,gst,16,1,0,,t5_2qh4v,False
+1232400910.0,7qwwj,Moving Django models into their own module ,gst,19,2,2,,t5_2qh4v,False
+1231291574.0,7nw09,Django Events,vangale,18,3,1,,t5_2qh4v,False
+1229933756.0,7l125,Django 1.0.2 documentation as a nearly- 800-page PDF ,gst,18,5,0,,t5_2qh4v,False
+1228259444.0,7gzaa,The django-storages project ... easy S3,codepoet,15,1,0,,t5_2qh4v,False
+1221059232.0,70p0z,Django web framework for ponies,slavus,16,1,1,,t5_2qh4v,False
+1217338467.0,6ty8n,Extra fields on m2m relationships has landed in Django trunk,emilbjorklund,16,1,4,,t5_2qh4v,False
+1211423655.0,6kbla,Debugging Django,jamesturk,31,15,0,,t5_2qh4v,False
+1204054473.0,6a26n,"The Django Book-- a free, user-commented online version of the Definitive Guide to Django",yellowking,16,0,http://www.reddit.com/r/django/comments/6a26n/the_django_book_a_free_usercommented_online/,,
+1375217600.0,1jdhp2,Web Scraping in Django,grassclip,15,2,8,"http://jackdschultz.com/index.php/2013/07/28/web-scraping-in-django/
+
+Disclaimer,False,,t5_2qh4v,False,,,t3_1jdhp2
+1374505639.0,1itd7l,Which cart + shipping + payment apps?,duasrodasapedal,18,3,19,"Hi
+
+I need to build a custom shopping cart system. I think the best way to do this is to use separate apps. My doubt is that I don't know which apps to use.
+
+Can I get advices from you guys out there that have build some ecommerce solution?
+
+Cart apps
+
+I wait for reply.
+
+
+Best Regards",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/1itd7l/which_cart_shipping_payment_apps/
+1367855256.0,1dspww,Why is serving static files so hard?,jpaugh,18,3,12,,t5_2qh4v,False
+1366022530.0,1cdrqs,"Using MongoDB with Django, what's the status?",jocmeh,16,3,http://www.reddit.com/r/django/comments/1cdrqs/using_mongodb_with_django_whats_the_status/, I found django-nonrel's website - but it's docs say it's a fork of Django 1.3
+
+What I actually want is 'just' a pluggable MongoDB backend for Django 1.5
+
+Does anyone know about anything else?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/1cdrqs/using_mongodb_with_django_whats_the_status/
+1365150099.0,1bq0fa,New Django book - Instant Django 1.5 Application Development Starter,fireantology,19,7,4,,t5_2qh4v,False
+1364759682.0,1bdhqj,Django seems a great thing to learn. Getting confused on how to get it onto a production environment.,petsagouris,16,3,40,"I am an amateur web technology tinkerer for quite some years now. I have good knowledge of PHP project workflow meaning: develop schema
+
+I've been learning about Django for about a month now and I am getting a good understanding of how stuff happens with it. My biggest gripe is deployment. I see people talking about Vagrant
+
+tl;dr: What is the easiest way to deploy Django apps?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/1bdhqj/django_seems_a_great_thing_to_learn_getting/
+1364746474.0,1bd2w6,Are there any small django apps that I could learn from the code?,chalupapa,17,3,22,"I've tried to search from Github,,
+1363965119.0,1asvv8,Kickstarting Schema Migrations for Django,tiktuk,15,1,2,,t5_2qh4v,False
+1363543477.0,1ah2vs,Django Settings File Tricks,mburst,18,3,7,,t5_2qh4v,False
+1360524801.0,189dki,Class based e-mails,rafales,18,5,8,"Hello fellow djangonauts/redditors
+
+I decided to share some code that really helped me a couple of times.
+
+It's really easy to send e-mail using django. Just send_mail() and done. But there's much more to e-mails than just simple message in plain text. You have to change timezone and language
+
+That's why I created new app. It's based on the concept of class based views
+
+Code: https://github.com/rafales/django-classymail
+
+Something I'd like to call a documentation but I don't think it is one (yet): https://django-classymail.readthedocs.org/en/latest/
+
+Note that this code is not production-ready. For now I'm looking for feedback and ideas.
+
+Here's a couple of problems/ideas I have:
+
+* find a better way to specify text/html templates - now I have to provide template name for text and html
+* instead of hard-coded css inliner it should be possible to specify inliner using settings (or disable it)
+* find a better way to handle attachments
+* find a solution for generating urls (not everyone wants to use sites framework
+
+What do you guys think? I would really appreciate your feedback.
+
+Sorry for my English.",,t5_2qh4v,1360543070.0,,,True,http://www.reddit.com/r/django/comments/189dki/class_based_emails/
+1360349858.0,1859p1,Good / useful Twitter feeds for Django?,FireBeyond,14,1,5,"As the title says,,
+1359791633.0,17qupt,Taking up the gauntlet: defense of Django,GrumpySimon,18,4,3,,t5_2qh4v,False
+1356818318.0,15n4hy,Easy way to create your own threaded commenting system,mburst,18,3,4,,t5_2qh4v,False
+1354139471.0,13yg04,Django 1.5 highlights,silent1mezzo,20,7,5,,t5_2qh4v,False
+1346161562.0,yylbi,Getting Started with Solr and Django,broderboy,16,3,0,,t5_2qh4v,False
+1336615999.0,tfs3h,Looking for good Django ebooks,gadsdengraphics,15,1,19,"I recently purchased a tablet
+
+Can anyone recommend some good ebooks, I'm an intermediate Python programmer with about six months of experience in Flask.. I've used Django in the past, but never had more than a  shallow understanding and left before class-based views came out. ",,False,,t5_2qh4v,,http://www.reddit.com/r/django/comments/tfs3h/looking_for_good_django_ebooks/
+1334870017.0,signt,"A pic is worth 1000 lines of code when explaining a codebase, e.g. a html+js+django web app",rickschmoo,20,5,http://www.reddit.com/r/django/comments/signt/a_pic_is_worth_1000_lines_of_code_when_explaining/,,
+1334177034.0,s4ybd,Deployment and Provisioning Tools for Django Projects,,16,3,10,"What does everyone use to automate their deployments and server provisioning (in the case of cloud hosting) for their Django projects?
+
+Puppet and Chef seem to be the dominant [open source configuration management tools](http://en.wikipedia.org/wiki/Comparison_of_open_source_configuration_management_software). I'm currently using a combination of Fabric and Chef for automating the deployment of a Django app running across multiple cloud-hosted servers. It gets the job done, and a pain to configure. Plus, something feels wrong using a Ruby tool to deploy a Django app.
+
+I'm tempted to get rid of Chef and just use Fabric by itself, in that they abstract commands across various operating systems, and provide some dependency management (e.g. using pip will cause python to be installed). However, I'm not sure these benefits outweight their added complexity.
+",,t5_2qh4v,True,,,True,http://www.reddit.com/r/django/comments/s4ybd/deployment_and_provisioning_tools_for_django/
+1333117109.0,rkxln,Alternatives to Django-CMS or ways to make Django-CMS simpler?,Deathalicious,17,2,12,"I have django-cms set up on my website but my users don't like it *at all*. While django-cms has all the features I need it also has a lot of features I don't and will never use
+
+Has anyone found good alternatives to django-cms that include the following:
+
+ * automatic hierarchical menus
+ * front + backend editing of content
+ * very simple WYSIWYG
+
+Thanks!",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/rkxln/alternatives_to_djangocms_or_ways_to_make/
+1331283042.0,qoor9,Working with twitter's bootstrap,_mineral,16,2,12,"Hey r/django
+
+I'd appreciate high-level assistance as to the logic of the setup. How can I hook python scripts up with the bootstrapped html? Thank you!!",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/qoor9/working_with_twitters_bootstrap/
+1330988729.0,qj91g,Django 1.4 release candidate issued,cmsimike,14,0,0,,t5_2qh4v,False
+1325442933.0,nyr6l,Yet another Django boilerplate project,LucianU,17,2,7,"This setup uses nginx
+
+Somehow I messed up the submission and didn't put the link in the title.
+https://github.com/LucianU/django-startproject",,t5_2qh4v,True,,,True,http://www.reddit.com/r/django/comments/nyr6l/yet_another_django_boilerplate_project/
+1323463771.0,n6nxl,My take on Django .... comments,miketheanimal,22,8,26,"I've been using Django for about a year as part of a quite large
+project
+sized project. This is a summary of what I see as problems with Django
+at least the the environments I work in. That's not to say that Django
+sucks in general; just that I see certain problems.
+
+1. The Django ORM is fine for simple CRUD operations on single records
+in single tables. Where it really falls down is if you need to do
+reporting. This is an area where the relational data model excels
+database writers have put a lot of effort into making things like joins
+work efficiently. Unfortunately the ORM tries to hide all this from you
+(to an extent this is true of a lot of ORMs). I don't want to hint to
+Django that I want a join
+get me started on doing queries like ""select count(*)
+max(age) .... group by postcode"".
+
+2. Not stricly a Django problem
+is unfortunate. This leads to the trap of equating the ORM with the
+""Model"" in MVC. ""Model"" is business logic
+relationship should be has-A not is-A. The problem rears its head when
+you want an operation that updates multiple models. Ideally this should
+appear in the business logic
+view function
+fundemental problem
+
+3. I like the MVC architecture. But Django mixes the V(iew) and the
+C(controller) bits
+opposed to what data is displayed) also ends up in the view functions.
+The view functions are really controllers in the MVC sense
+they mix in view logic as well as the business logic.
+
+4. View functions are not class methods. I've not looked at class-based
+generic views so this might be an invalid point. However
+functions are quick to create
+common code. You can split out common code into separate functions
+you don't have an object instance to store local state.
+
+5. The URL mapper. Except in a limited number of situations (and a
+newspaper site is clearly one)
+irrelevance
+on
+URLs
+around 1000 URL mapping entries
+debugging is just a pain. The custom framework project uses URLs where
+the controller and action are explicit CGI parameters
+easier to work with.
+
+6. Apps. Apps really don't scale. My Django application is a case in
+point. Its divided into apps - setup, purchasing -
+but they are not really separate apps
+linkage could probably be simplified
+10 apps and about 1000 distinct URLS
+The tendancy is just to pile up more and more views into views.py. The
+custom framework uses controllers with actions, a
+separate controller for each form that the user sees. This does mean a
+lot of files
+but Django sucks you into agglomerate into a few view files.
+
+7. Settings.py. This is great for getting a site set up and doing
+something quickly
+application is multi-tenant
+decide which database to access
+come from
+hidden rather than explicit.
+
+So that's my take. There is a lot of really good stuff in Django
+in a lot of situations it rocks
+cases.
+
+Comments?
+",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/n6nxl/my_take_on_django_comments/
+1322678501.0,mv09q,Using backbone.js with Django? This library I wrote might be of use.,funksta,16,3,5,,t5_2qh4v,False
+1318544984.0,lbcsz,What django boilerplate do you use? Or some good ones you have found?,Sarah_Chubb,15,2,18,,t5_2qh4v,True
+1318410366.0,l9dmd,Cleaning up manage.py and import paths,DesperatePanda,17,2,3,,t5_2qh4v,False
+1315429459.0,k80js,"Future Of Django With Core Developer Alex Gaynor
+",3,4,http://www.reddit.com/r/django/comments/k80js/future_of_django_with_core_developer_alex_gaynor/,,,False,t5_2qh4v,False
+1314567961.0,jxbog,Does anyone have an idea when django is going to be ported to python 3.2?,gronkkk,22,6,18,"There's not much to be found on the net on an eventual release of django for python 3.0; the [faq](https://docs.djangoproject.com/en/dev/faq/install/#can-i-use-django-with-python-3) mentions the vague 'it will be a while'
+
+Any other info? Roadmaps?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/jxbog/does_anyone_have_an_idea_when_django_is_going_to/
+1313166236.0,jgvog,Django migrations for beginners using Django-South.,garmoncheg,18,5,1,,t5_2qh4v,False
+1310332370.0,ilubj,Check out my time management app for Django 1.3! No configuration needed. It's all class.,hylje,18,2,18,,t5_2qh4v,False
+1309857541.0,ih1le,Six Months of Gondor,gst,18,4,0,,t5_2qh4v,False
+1309684512.0,ifk4d,Coverage and Mock - This article continues the series on building a continuous deployment environment using Python and Django. ,gst,17,2,1,,t5_2qh4v,False
+1309196126.0,iahyw,Better snippet filtering on djangosnippets.org,coleifer,17,5,6,"Hey
+
+http://djangosnippets.org/popular/rated/?months=6
+http://djangosnippets.org/popular/bookmarked/?months=3
+http://djangosnippets.org/tags/template/?months=12",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/iahyw/better_snippet_filtering_on_djangosnippetsorg/
+1308974822.0,i8of3,Django sessions – part I: Cookies,gst,15,1,0,,t5_2qh4v,False
+1305709152.0,he2tm,Django-Taggit,gst,17,3,0,,t5_2qh4v,False
+1304744597.0,h5vwe,mini-django - Single file django project for instant gratification. ,gst,15,1,1,,t5_2qh4v,False
+1304325391.0,h240s,Using Fabric from Celery in Django ,gst,14,0,0,,t5_2qh4v,False
+1304325272.0,h23zl,"My experience with django-mptt, a toolkit for adding trees to Django models.",gst,14,0,http://www.reddit.com/r/django/comments/h23zl/my_experience_with_djangomptt_a_toolkit_for/,,
+1303984822.0,gz779,"django-rulez 0.2.0 -
+A lean and mean object-level rules system for the Django framework",2,0,http://www.reddit.com/r/django/comments/gz779/djangorulez_020_a_lean_and_mean_objectlevel_rules/,,,False,t5_2qh4v,False
+1301909588.0,gi7gx,Tutorial: Using Celery with Django ,gst,24,8,1,,t5_2qh4v,False
+1301638399.0,gg5yh,Growl type notifications in Django,gst,18,5,1,,t5_2qh4v,False
+1298989006.0,fv1re,Django Dynamic Fixture,inerte,15,2,3,,t5_2qh4v,False
+1298442677.0,fqv7v,Impostor for Django,gst,16,1,1,,t5_2qh4v,False
+1298183613.0,fovqd,Just signed up with WebFaction.com for Django hosting.  So far I'm really pleased.,thaksins,21,7,29,"They have a pretty sophisticated system.  Takes a little while to get your head around the admin
+
+Django, turbo gears, git, wordpress... All kinds of stuff can be installed and mapped to whatever path you like, and it actually does a really good job.  Things seem very well thought through and the docs are good.
+
+Anybody else used them?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/fovqd/just_signed_up_with_webfactioncom_for_django/
+1297930566.0,fn2sn,Django and Python 3 (Take 2),gst,23,8,0,,t5_2qh4v,False
+1297329895.0,finmu,Errata for the 2011-02-08 Django security announcement,freakboy3742,14,0,0,,t5_2qh4v,False
+1296498625.0,fcisz,Django comments+ReCaptcha vs. Disqus ?,hhh333,16,0,9,"I have to install comments on some Django sites I'm working on and I thought I would simply use Django comments with ReCaptcha
+
+Here's the main downsides I see with Disqus:
+
+ - Comments are hosted somewhere else
+ - Is Disqus 100% free ? If so
+ - If Disqus goes down
+ - If Disqus shuts down (we never know)
+ - Disqus provides way more functionalities than needed
+
+And the downsides of using Django's comment:
+
+ - I have to hack in the ReCaptcha
+ - I have to code and style the templates
+
+I was about to chose the Django comment route
+
+Any ideas or input ?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/fcisz/django_commentsrecaptcha_vs_disqus/
+1294252166.0,ewqcp,Instant Django tutorial -- feedback requested,cleshmd,15,2,6,,t5_2qh4v,False
+1293827868.0,euatz,A Google Maps field type for the django web framework,steyblind,18,5,0,,t5_2qh4v,False
+1293252687.0,er6hl,"Real time applications with Django, XMPP and StropheJS",shabda,17,2,http://www.reddit.com/r/django/comments/er6hl/real_time_applications_with_django_xmpp_and/,,
+1292855272.0,eors4,How do you handle file uploads in your project?,losl,14,0,15,"I'm working on a project and I want to have users be able to upload images. I've read the docs on file uploading and the FileField and ImageFields and their naming system seems a little naive
+
+Can anyone share how they handle naming and placing uploaded files that work well for your projects?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/eors4/how_do_you_handle_file_uploads_in_your_project/
+1292647371.0,enrwf,"Djangy gets background jobs, key management, and more!",endlessvoid94,16,2,False,
+1291678378.0,ehb2p,Does anyone here have experience building a Django app to store financial data such as stock/bond/fund prices?,hannibaldon,16,4,22,"I'm looking for some best case recommendations for my model/database design. Presumably this is what the guys at Bloomberg
+
+EDIT: Thanks for all the great responses. I feel like this is a field where everything is proprietary. Data is supplied by giant corporations. Only central banks, I just really want to stir the debate on how to build financial databases for instrument prices. Let's talk about scikits, XBRL, floats vs bigdecimal, all that jazz. Everybody throw in your two cents. Thanks again!",,False,t5_2qh4v,True
+1289308918.0,e3g18,"Offline HTML5 canvas app in Python with django-mediagenerator, Part 1: pyjs",twanschik,18,3,http://www.reddit.com/r/django/comments/e3g18/offline_html5_canvas_app_in_python_with/,,
+1289154783.0,e2k8e,"Django inline formset gotcha, a simple and sane solution",hhh333,15,1,http://www.reddit.com/r/django/comments/e2k8e/django_inline_formset_gotcha_a_simple_and_sane/,,
+1288715083.0,e040c,django-urlcrypt,thomaspaine,15,2,2,,t5_2qh4v,False
+1287050528.0,dr3j4,Multiple admins stomping on each other's saves? Try django-locking,andybak,14,1,2,,t5_2qh4v,False
+1286792217.0,dpnfi,Local Django development with Nginx ,gst,18,6,2,,t5_2qh4v,False
+1286518831.0,dofn0,A significant Django tool: storages ,gst,19,7,0,,t5_2qh4v,False
+1286424876.0,dnwkn,Generating ICalendar ICS files from Django-Events ,gst,17,3,1,,t5_2qh4v,False
+1285709461.0,dk72j,On DjangoCon 2010 and conferences in general,jdunck,29,13,1,,t5_2qh4v,False
+1283957238.0,db4d0,Introducing Django Servee - WYSIWYG Model editing,issackelly,14,0,11,,t5_2qh4v,False
+1283414879.0,d8li8,Imaginary Landscape: Our Django Server Setup: How and Why,gst,20,4,0,,t5_2qh4v,False
+1278472837.0,cmq7y,Django by Example - nice simple tutorial,number5,19,6,3,,t5_2qh4v,False
+1274797880.0,c7xaf,Django 1.2 on Google App Engine ,gst,22,7,0,,t5_2qh4v,False
+1274225286.0,c5pvo,DjangoCon.us site is up!,kingkilr,16,0,0,,t5_2qh4v,False
+1273942692.0,c4ikl,Should I use SQLAlchemy or stick to Django ORM?,cmykgrayscale,17,1,14,"I've been reading all these articles which bash the django orm for not being competent at its job. Also there has been a lot of praise for sql alchemy and how powerful it is. 
+I'm fairly new to the game so I'm not sure if I should go through the trouble of learning to decouple django and use a 3rd party ORM. 
+
+Your thoughts?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/c4ikl/should_i_use_sqlalchemy_or_stick_to_django_orm/
+1271516023.0,bsb01,Nontrivial Django Forms Talk Text ,gst,15,0,0,,t5_2qh4v,False
+1267472104.0,b7wg2,Throw out your frameworks! (forms included),llimllib,17,4,0,,t5_2qh4v,False
+1266972512.0,b5osf,django-memorize - Tired of simple flashcard webapps. An app that uses spaced repetition theory.,SergeantPepper,14,1,2,,t5_2qh4v,False
+1266840552.0,b4z94,"Django Advent, Day 11: Smart If Template Tag (Chris Beaven)",idangazit,14,0,http://www.reddit.com/r/django/comments/b4z94/django_advent_day_11_smart_if_template_tag_chris/,,
+1266589962.0,b4030,"Django Advent, Day 10: Deploying a Django Site using FastCGI (Eric Florenzano)",idangazit,17,2,http://www.reddit.com/r/django/comments/b4030/django_advent_day_10_deploying_a_django_site/,,
+1266380780.0,b2z0k,Are you a PHP dev looking to learn more about Django? Have questions? No Problem!,Crath,18,4,24,"I have created a subreddit to aid anybody that wishes to mess around in Django
+
+I am not saying ""switch from PHP to Django!!""
+
+Enjoy!
+
+http://www.reddit.com/r/phptodjango/",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/b2z0k/are_you_a_php_dev_looking_to_learn_more_about/
+1264537597.0,auh1d,SixApart's django key-value store,greut,16,0,2,,t5_2qh4v,False
+1263980695.0,aruc3,Testing your first Django app,d0ugal,18,2,0,,t5_2qh4v,False
+1261559045.0,ahrv2,"RESTful Web apps with Django, Piston and Ext JS",chadlnx,14,0,http://www.reddit.com/r/django/comments/ahrv2/restful_web_apps_with_django_piston_and_ext_js/,,
+1258439449.0,a55pi,Countries in Django,gst,15,0,0,,t5_2qh4v,False
+1252579726.0,9j4w8,"Handling Development, Staging, and Production Environments",bittered,14,0,False,
+1252448373.0,9ilay,First things to do on a django project...,palmTree,16,3,1,,t5_2qh4v,False
+1251261503.0,9e6ry,Easily integrate ajax based reddit like voting to your django project.,ramavadakattu,16,2,0,,t5_2qh4v,False
+1250786125.0,9chwl,Response to Dropping Django,shabda,18,5,0,,t5_2qh4v,False
+1249101379.0,96j5f,Django + unittest + Windmill == Goodness,gst,17,3,0,,t5_2qh4v,False
+1247978105.0,92i2w,"Django, Push Notifications, and Prowl",gst,17,0,False,
+1245957352.0,8vnvz,"Practical Django Projects, 2nd Edition",palmTree,14,0,http://www.reddit.com/r/django/comments/8vnvz/practical_django_projects_2nd_edition/,,
+1240720523.0,8fibl,How to Speed up Your Django Sites,gst,16,4,0,,t5_2qh4v,False
+1239785696.0,8cm9g,Cleaning up with JSON and SQL in Django ,gst,15,0,0,,t5_2qh4v,False
+1239169805.0,8autr,Behind the scenes of EveryBlock.com,seanodonnell,14,0,0,,t5_2qh4v,False
+1235891002.0,815lx,Automatically apply patches from Django's (or any) Trac,gst,14,0,0,,t5_2qh4v,False
+1232090208.0,7q53a,Django now has fast tests ,gst,15,1,0,,t5_2qh4v,False
+1230921499.0,7mzxc,WithDjango - A large list of Django resources.,yaw,14,2,0,,t5_2qh4v,False
+1225686182.0,7axj3,A WYSIWYM editor widget for Django’s admin interface,gst,14,2,0,,t5_2qh4v,False
+1216348884.0,6sbuc,what text editor do you use for Django?,jklabo,18,5,41,,t5_2qh4v,True
+1215804279.0,6rd1i,Ars Technica reviews Practical Django Projects,clintecker,16,1,3,,t5_2qh4v,False
+1214278688.0,6ooi0,An Interview with Adrian Holovaty,shabda,14,0,0,,t5_2qh4v,False
+1201245514.0,66kc3,Caching Layer for Django ORM,simonw,17,1,0,,t5_2qh4v,False
+1374072018.0,1ihkih,Django Round-Up - Django Podcast,BuddyLindsey,18,3,4,,t5_2qh4v,False
+1371875839.0,1gu9od,L.A. Djangonauts - anyone want to hang out on July 25th?,mazatta,13,0,1,"I have a 9 hour (!) layover at LAX on July 25th - is anyone interested in meeting for a beer somewhere?  I'm not super familiar with L.A.
+
+I run a Django Meetup in Melbourne
+
+Please get in touch here or Twitter (@colin_rolfe). ",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/1gu9od/la_djangonauts_anyone_want_to_hang_out_on_july/
+1369940938.0,1fcrfo,django-pdfutils: A dead simple HTML to PDF generation app I've just published,hhh333,15,2,19,,t5_2qh4v,False
+1369932008.0,1fcflh,django-authtools: A Custom User Model App for Everyone!,subleq,16,2,1,,t5_2qh4v,False
+1368996824.0,1engmw,"Where can I find good, well maintained Django apps?",MaTachi,18,5,http://www.reddit.com/r/django/comments/1engmw/where_can_i_find_good_well_maintained_django_apps/
+
+I'm wondering
+
+I have looked at https://pypi.python.org/pypi?%3aaction=browse&amp;show=all&amp;c=523, to use a 1-2 versions older instance of Django than the current version?
+
+I'm especially looking for a login/account app, so I don't really know what's available.",,False,,t5_2qh4v,1368997121.0,,
+1367287119.0,1ddsc8,Announcing the launch of MelbDjango,mazatta,14,2,9,"Hello everyone
+
+I posted here a few weeks back asking for advice on starting a Django meetup in Melbourne
+
+Our first Meetup on May 9th:
+http://www.meetup.com/MelbDjango/events/116880212/
+
+Haven't got much else to say other than to spam the Twitter account @MelbDjango and to thank everyone again for the tips the last time I posted.  ",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/1ddsc8/announcing_the_launch_of_melbdjango/
+1366577976.0,1ctjjj,Demo django-inlinetrans and django-inplace-edit apps,jordimaister,16,3,3,,t5_2qh4v,False
+1364504749.0,1b78e9,Django 1.5.1 released | Weblog,dstegelman,17,5,0,,t5_2qh4v,False
+1363632245.0,1ajf2y,I wrote an app to aggregate CSS &amp; JS files that does everything with a template tag. I'm curious what /r/django thinks.,searchingfortao,15,2,14,,t5_2qh4v,False
+1362250509.0,19j8c0,Dynamic settings: django-constance,schwuk,15,0,0,,t5_2qh4v,False
+1361302580.0,18u2px,django-stronghold - Middleware to make all your Django views default login_required ,mikegrouchy,19,5,10,,t5_2qh4v,False
+1359900066.0,17t1gq,Django Tutorial: Making Your Own Template Filters,pdntspa21,18,3,5,,t5_2qh4v,False
+1358807984.0,170lz6,Django REST framework and generic relationships,execrator,14,1,14,"Hey reddit. I'm new to Django. Here's the story:
+
+I have a model with the following standard generic foreign key fields:
+
+    content_type = models.ForeignKey(ContentType)
+    object_id = models.PositiveIntegerField()
+    event_object = generic.GenericForeignKey('content_type'
+
+According to REST framework's docs
+
+    class WhateverSerializer(serializers.ModelSerializer):
+        event_object = serializers.RelatedField(source='event_object')
+
+This works fine
+
+* I would like to use HyperlinkedRelatedField. This field requires the view_name argument
+* I would like to nest the related object directly in the serialisation by saying event_object = SoAndSoSerializer(source='event_object'). The only solution I can see is to walk every *Serializer I have defined and check which has the correct model
+
+Are the above cases just meant to work
+
+Cheers",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/170lz6/django_rest_framework_and_generic_relationships/
+1358779200.0,16zmqw,"Is my code ""pythonic""? [critique]",_ZAM_,14,0,24,,t5_2qh4v,False
+1357816145.0,16b4uc,List of DjangoCon Europe 2013 talk proposals - vote for the ones you like the best,allan_w,13,1,2,,t5_2qh4v,False
+1357327085.0,15yqbo,Django 1.5 release candidate available,yetti,16,3,0,,t5_2qh4v,False
+1356042911.0,156xgo,How do you indent your Django templates?,lamintak,18,4,19,"As far as I know,False,
+1351958707.0,12kga1,My vagrant setup on OSX - Reinout van Rees,areich,14,3,0,,t5_2qh4v,False
+1350824719.0,11ubu4,Django Software Foundation calls for board nominations,coleifer,14,0,0,,t5_2qh4v,False
+1348301901.0,10ah77,"How, What &amp; When to test django models and views",fruiapps,20,5,http://www.reddit.com/r/django/comments/10ah77/how_what_when_to_test_django_models_and_views/,,
+1342508871.0,wovub,"Not really a big deal, but I've been a fan for Day[9] for a long time, and he just switched his site to Django.",joehillen,18,6,False,
+1340621000.0,vkej3,Django and Static Files; an overview,DoISmellBurning,14,2,4,,t5_2qh4v,False
+1340527823.0,vip8r,Stop typing 'python manage.py shell' and start typing 'django s',benregn,18,3,31,,t5_2qh4v,False
+1339587335.0,uznxs,Great Python/Django Test Talks,mikegrouchy,19,5,0,,t5_2qh4v,False
+1338957071.0,unfco,Getting Started with Django,dNielf,18,3,1,,t5_2qh4v,False
+1332593877.0,rbcaw,Django 1.4 release notes,pydebian,21,8,0,,t5_2qh4v,False
+1331947584.0,r08rd,Django Djourney - Introduction to South,PressedWeb,16,3,0,,t5_2qh4v,False
+1330117261.0,q4k77,Business logic in Django,Circlefusion,13,0,6,"I've been reading through Django tutorials. I read that ""business logic"" in Django should live in the models and not in views. This [stack overflow post](http://stackoverflow.com/questions/6129970/django-separation-of-business-logic-and-views-logic) attempts to give an example of this. I was wondering if anyone here can clarify further (perhaps contrasting MVC with Django's MTV) and perhaps provide a more real world example of ""business logic"" as opposed to what *should* be in Django views. Thanks.",t5_2qh4v,True
+1329956880.0,q1q1u,How are you doing your Flash Messages?,jv100,14,1,4,"Flash messages are fairly common in most of the PHP frameworks I've used, or how the django pros are doing it. Any feedback appreciated,
+1329471164.0,ptp48,Django Design Patterns,shabda,24,11,20,,t5_2qh4v,False
+1326140218.0,o9psu,The Django gunicorn fabfile project: easy to use Fabric file to turn a clean GNU/Linux server into running staging and production sites.,alexisbellido,16,3,2,,t5_2qh4v,False
+1321534654.0,mfmgb,Are there any decent Django project textbooks ???,muayguy,18,7,11,"Is there a GOOD Django applications book that could guide you through a test project? Ive been reading Apress ""Practical Django Projects 2nd Edition"" and although it has some good bits there are SO MANY ERRORS that it makes it really hard to follow...even in the second edition. Stuff just doesn't work and as a newbie to django/python it's pretty hard to figure out how to debug each thing. I've wasted the last two days trying to figure out why the posts of the CMS project won't show me the tags... the source code for the finished project isn't available anywhere and after reading the comments [here](http://blog.haydon.id.au/2008/09/6-templates-for-weblog.html) I figured I might as well start looking for a better book.
+
+It's such a pity because the project seems a good one but at the same time it's way too hard and discouraging. Any suggestions?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/mfmgb/are_there_any_decent_django_project_textbooks/
+1321101130.0,m9qcr,DRel: Relational Algebra for Django.,Confinium,14,1,2,,t5_2qh4v,False
+1318498796.0,lant9,New Django book: Reinout van Rees starts writing one.,reinout,17,3,0,,t5_2qh4v,False
+1316105001.0,kgnpf,"Django practice problems for new, clueless programmers?",Lordoftheunderpants,16,3,http://www.reddit.com/r/django/comments/kgnpf/django_practice_problems_for_new_clueless/, but if somebody said, and I think I understood most of that
+",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/kgnpf/django_practice_problems_for_new_clueless/
+1314563160.0,jx9dz,OpenEats2 a django powered recipe management site. 2.2 Release,myrddin_emrys,15,2,9,,t5_2qh4v,False
+1308544232.0,i422k,First Open Source Django Eccomerce / Auction Platform just added to GitHub... be kind..:),Yyzfan2,17,3,10,"I decided to opensource my django application for e-commerce
+
+https://github.com/StephenPower/CollectorCity-Market-Place
+
+Production site www.greatcoins.com
+
+Edit: Updated Linke (I changed my GitHub username...(:
+
+",,t5_2qh4v,True,,,True,http://www.reddit.com/r/django/comments/i422k/first_open_source_django_eccomerce_auction/
+1308169939.0,i0m1z,How has this not been submitted yet? I need this domain name.,dustinechos,20,7,1,,t5_2qh4v,False
+1307556504.0,hut11,"Whither Django? - Whither is archaic English for “where are we going”, “what comes next”? So: what does the future hold for django?",gst,18,4,http://www.reddit.com/r/django/comments/hut11/whither_django_whither_is_archaic_english_for/,,
+1304113929.0,h0gc1,Django: quick templating with CleverCSS,jay_may,18,6,6,,t5_2qh4v,False
+1302805912.0,gq3u4,A project skeleton for ep.io,coderanger,14,1,0,,t5_2qh4v,False
+1301726653.0,ggyxy,AJAX Form Submission in Django,gst,16,3,0,,t5_2qh4v,False
+1300985770.0,galg9,django-dynamicsites - Hosting Multiple Sites from a Single Django Project,uysrc,15,3,0,,t5_2qh4v,False
+1300786977.0,g8u2h,best way to learn django,xc0m,14,1,23,"Hi All
+
+First time post on reddit so heres hoping it all goes well.
+
+I have been trying to learn django in my free time for the last couple of weeks and havent gotten far. So i am turning to reddit to help me out :)
+
+So far i have read some of the following tutorials on:
+djangobook.com
+and
+gigantuan.net
+
+but i am still hungry for more,False,,t5_2qh4v,False,,,t3_g8u2h
+1297403676.0,fja5w,How do you update your schema after making changes to Models?,thaksins,18,6,8,"I'm new to Django (not to web dev in general).  In the early stages of a project
+
+I gather syncdb or running manage.py sql app doesn't have any effect.
+
+Can I drop tables and then rebuild them?  Any help much appreciated.
+",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/fja5w/how_do_you_update_your_schema_after_making/
+1297187432.0,fhmnw,Can anyone describe step by step procedure to deploy Django?,,18,4,12,"Okay
+
+I have seen there are couple of ways to deploy django apps but I think I wanna go with combination of [gunicorn and nginx like in this blog post](http://drumcoder.co.uk/blog/2010/jul/27/installing-gunicorn-debian/). Or if you have a better suggestion I am all ears. 
+
+This is my attempt at doing it from scratch and hopefully you can suggest me where and what am I doing wrong.
+
+**Step 1**: I install nginx
+
+**Step 2**: Select a location where you want to save the project on server. I have Ubuntu on my server and I decide     /home/myusername/Sites/. I create a folder called 'mydomain' inside the 'Sites'. 
+
+**Step 3**: I go inside 'mydomain' folder and create a virtual environment with the following command 
+    virtualenv --no-site-packages venv
+
+After that I do     source venv/bin/activate and activate the virtual environment. 
+
+**Step 4**: I then install django and gunicorn in my newly created virtual environment with pip.
+
+**Step 5**: Now I create a django project inside 'mydomain' with following command
+    django-admin.py startproject myprojectname
+
+**Step 6**: I will now run this project by calling ""gunicorn_django settings.py"" inside the ""myprojectname"". This should ideally run my project on 8000 port but it is currently showing me the error ""Connection in use: ('127.0.0.1'
+When I give command     gunicorn_django -b 1000 settings.py it finally runs the project and says ""Listening at: http://0.0.3.232:8000""
+
+**I get confused from now on**
+
+I know I have to configure nginx but how do I do that. I understand that I will have to edit the     /etc/nginx/sites-enabled/default now. Do I need to create a new file too for the ""mydomain"" I am hosting?
+
+I should add I am not experienced with Fabric and git so if you are gonna suggest me some steps which require that then please be very descriptive.",,t5_2qh4v,True,,,True,http://www.reddit.com/r/django/comments/fhmnw/can_anyone_describe_step_by_step_procedure_to/
+1297175914.0,fhig5,The big secret project I've been working on...,frankwiles,17,4,5,,t5_2qh4v,False
+1296771419.0,fesji,django-bcrypt,stevelosh,14,1,2,,t5_2qh4v,False
+1295956427.0,f8nsp,web2py or Django,stivnan,15,3,5,,t5_2qh4v,False
+1295707086.0,f71vx,Overseer: Disqus' Django Status Board ,gst,15,2,1,,t5_2qh4v,False
+1293401325.0,errd0,Multi-Threaded Django Development Server (now with link),ashchristopher,18,5,3,,t5_2qh4v,False
+1291156352.0,ee57e,Backbone.js and Django,freyrs3,14,2,2,,t5_2qh4v,False
+1290995187.0,ed35d,Django Rate limiting decorator,nytrokiss,16,1,12,,t5_2qh4v,False
+1290522932.0,eaj3g,Haystack 1.1 released,tswicegood,13,0,0,,t5_2qh4v,False
+1285294091.0,di4nw,Doing cool things in Django's Admin,oliw,18,3,0,,t5_2qh4v,False
+1285271630.0,dhzqp,How RequestContext works and why it's awesome. (tutorial),agscala,17,6,1,,t5_2qh4v,False
+1281992602.0,d1v8c,I just made a little django-haml app that takes your hamlpy and converts it to django templates. (need reviews and suggestions) ,fitoria,14,1,1,,t5_2qh4v,False
+1279968731.0,ct73f,I hit a stroke of good luck and a convention wants to license a Django app I recently wrote. I could use some advice.,sli,18,5,4,The app is essentially going to be licensed per year for an annual convention. I've never licensed out software before and need a little guidance.,t5_2qh4v,True
+1277271196.0,ci0sm,Deploying Django with woven,gst,13,2,1,,t5_2qh4v,False
+1275483788.0,calx4,Thoughts on caching (memcached) a highly-interactive website like reddit,takethemoneyrun,13,0,7,"I'm building a reddit-like community website where users post things,False,
+1273503260.0,c25bw,Schedule of DjangoCon Europe 2010 in Berlin released ,jezdez,17,3,1,,t5_2qh4v,False
+1268049473.0,bamq8,Announcing a new module for enhanced support for WSGI in Django,willm,15,1,0,,t5_2qh4v,False
+1267720471.0,b98su,Developing Reusable Django Apps: Signals,gthank,14,0,0,,t5_2qh4v,False
+1267488659.0,b7zqz,Django Model Formsets,japerk,13,0,0,,t5_2qh4v,False
+1267370913.0,b7hpm,Background task processing and deferred execution in Django ,gst,14,2,0,,t5_2qh4v,False
+1266784171.0,b4qnf,Django-elves - my app for semi-automated CSS sprite generation.  Feedback welcome!,asokoloski,14,2,1,,t5_2qh4v,False
+1266106966.0,b1sjq,Synch-ing utility between OmniGraffle and Django models,diN0bot,14,2,3,,t5_2qh4v,False
+1265886623.0,b0s1m,Celery project hits 1.0 milestone,idangazit,13,0,0,,t5_2qh4v,False
+1265277040.0,axxpx,Site-Wide Caching in Django - follow-up,gst,14,0,0,,t5_2qh4v,False
+1264789387.0,avrsr,How we built our Django-powered SOTU analyzer  ,tcd004,14,1,0,,t5_2qh4v,False
+1263196301.0,ao3cp,DjangoCon videos,dist,15,3,0,,t5_2qh4v,False
+1260644932.0,adzlt,Ask designers: Does anyone host all their clients under a VPS (like slicehost or linode)?,frikk,15,3,16,"I'm just starting out with freelance web design (using Django). I'm looking into the best ways to go about the hosting of web sites. I enjoy the idea of a VPS because I would maintain full control over everything.  I see most of our clients being small businesses who are just entering the web scene.  I would consider a different strategy for clients that would expect to see a large amount of traffic or streaming media.
+
+* Is it common practice to set the client up with an account at a trusted hosting company and cut them free?
+
+* Is it dumb to think about hosting clients under a VPS that I maintain control over,False,,t5_2qh4v,False,,,t3_adzlt
+1260635339.0,adye8,Using bpython shell with django (and some Ipython features you should know),scorpion032,16,2,0,,t5_2qh4v,False
+1260473226.0,adazz,Django Object Permissions Proof of Concept ,gst,14,1,2,,t5_2qh4v,False
+1258332369.0,a4pix,Drupal or Django? A Guide for Decision Makers ,gst,20,6,12,,t5_2qh4v,False
+1258094827.0,a3x2p,Writing great documentation: technical style,scorpion032,15,0,1,,t5_2qh4v,False
+1257665255.0,a24pd,"Django, PostgreSQL, and Transaction Management",gst,13,0,False,
+1257586398.0,a1wif,"Large Problems in Django, Mostly Solved: Database Migrations ",gst,14,0,http://www.reddit.com/r/django/comments/a1wif/large_problems_in_django_mostly_solved_database/,,
+1257311999.0,a0r0k,Class Based Template Tags,gst,13,0,0,,t5_2qh4v,False
+1256777228.0,9ytdu,Jogging: easier django logging,zellius,13,0,2,,t5_2qh4v,False
+1245875154.0,8vcea,Better Python package management using source and version control systems,gst,15,3,3,,t5_2qh4v,False
+1244836557.0,8s2nm,celery - Distributed Task Queue for Django. ,gst,13,2,0,,t5_2qh4v,False
+1242683243.0,8lel6,Django tip: Caching and two-phased template rendering,uggedal,18,4,0,,t5_2qh4v,False
+1240997585.0,8gdwi,Celery - Distributed Task Queue for Django,asksol,14,2,6,,t5_2qh4v,False
+1237043351.0,84n22,Introducing django-imagehandler,,13,2,0,,t5_2qh4v,False
+1235571568.0,8065g,Overview: GeoDjango,gst,13,0,0,,t5_2qh4v,False
+1231830389.0,7pbig,South 0.4 Released ,ebartels,14,1,0,,t5_2qh4v,False
+1226819636.0,7do07,Debugging Django in Production Environments ,gst,14,2,5,,t5_2qh4v,False
+1222845563.0,74k1y,10 Insanely Useful Django Tips ,gst,14,1,1,,t5_2qh4v,False
+1213265238.0,6n2a9,Django Roadmap. 1.0 will be released in early September!,Dagur,15,3,0,,t5_2qh4v,False
+1375966852.0,1jyb7n,Finding Django modules.,crzrcn,12,2,4,"I'm testing out which web framework I'm going to stick with between Ruby on Rails and Django. I tried Rails first so now I'm doing the Django tutorial.
+
+Is there a place where I can easily find and compare Python/Django modules? Something like ruby-toolbox.com or npmsjs.org (Node.js)?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/1jyb7n/finding_django_modules/
+1375781402.0,1jsvu8,Django REST Framework is the best API framework ever. So easy to implement. Here's how to make a web service with DRF (djangorestframework tutorial),buzz-buzz,17,5,6,,t5_2qh4v,False
+1373775487.0,1i9bpj,Serve Static Assets in Production from Gunicorn,kennethreitz,14,1,5,,t5_2qh4v,False
+1373170867.0,1hscaw,django-postgres-fuzzycount: fast / fuzzy PostgreSQL counts for Django models,stevemcd,12,0,1,,t5_2qh4v,False
+1372795052.0,1hioaa,PostgreSQL Advisory Locks in Django Made Easy,gthank,13,2,0,,t5_2qh4v,False
+1368628887.0,1edulo,DjangoCon Europe Notes,pydanny,15,1,0,,t5_2qh4v,False
+1367791613.0,1dr5wf,"django-monitio, a messaging framework for both persistent and live notifications",mpasternak79,15,4,http://www.reddit.com/r/django/comments/1dr5wf/djangomonitio_a_messaging_framework_for_both/,,
+1365815985.0,1c8tsf,My latest project is ready: django-simple-import,bufke,17,3,5,,t5_2qh4v,False
+1364641885.0,1baptq,Automatically migrate url templatetag syntax for Django 1.5,sebasmagri,12,0,5,"Django 1.5 changed the url templatetag syntax and it now requires the first parameter to be a string
+
+    $ find . -type f -print0 | xargs -0 sed -i 's/ url \([^"" &gt;][^ &gt;]*\)/ url ""\1""/g'",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/1baptq/automatically_migrate_url_templatetag_syntax_for/
+1363888030.0,1aqt52,Lessons Learned from a Rewrite/Redesign,silent1mezzo,18,8,0,,t5_2qh4v,False
+1363373680.0,1ad5ls,"django-base-template, now updated for Django 1.5",xenith87,13,3,http://www.reddit.com/r/django/comments/1ad5ls/djangobasetemplate_now_updated_for_django_15/,,
+1362156007.0,19gwt0,The User Profile Pattern in Django 1.5,subleq,14,2,19,,t5_2qh4v,False
+1360037622.0,17wx2m,Where should logic live in a Django SaaS project?,BeepFrotz,12,1,12,"I started working with Python and Django about 6 months ago. I've learned a lot
+
+My question is, validating files, tracking invoices, and managing these things on a schedule. We released an initial internal version of the software and almost all of the logic is living in the views, with another large chunk in the form clean() method for validating files. 
+
+I know that ideally all this logic should not be living in the view. The view should be concerned with view logic: receiving input and / or rendering a page. In the ideal world, but I don't see how to apply it to our situation.
+
+For instance, so those objects need to be created. E-mails need to get sent out. Submitting this form causes a chain of events that dictates logic to manage those events - it's not as simple as using a model form and hitting form.save().
+
+I'm not sure if there's a straightforward answer like ""oh you just need to know about *this pattern* and that should solve your problem""
+
+**tl;dr** - Working on a project with somewhat complicated operations,False,,t5_2qh4v,False,,,t3_17wx2m
+1359731278.0,17p2wu,What would make you give up Django?,willm,15,3,35,"Serious question. I have my reasons for asking. What features would you require in a web framework
+
+Or if Django isn't your framework of choice,False,,t5_2qh4v,False,,,t3_17p2wu
+1359647852.0,17mtpg,Declarative data access rules for Django,schwuk,15,3,0,,t5_2qh4v,False
+1359506902.0,17j3yr,I made this wallpaper and I thought you guys would like it. Enjoy!,theSprt,32,21,2,,t5_2qh4v,False
+1354575886.0,1486rz,"Masonry, Infinite Scrolling, and Django [ brack3t ]",kennethlove,14,1,False,
+1353732546.0,13p9ez,I need a little help understanding billing and payment,goodman23,13,2,12,"Hi all
+1. A couple of frameworks to use.. satchless
+2. Lets say i totally stay away from a framework.. now
+3. Any other helpful tips?
+
+Thanks! =)",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/13p9ez/i_need_a_little_help_understanding_billing_and/
+1352830873.0,134t74,What We Used to Launch ThoughtStreams Quickly,jtauber,12,2,1,,t5_2qh4v,False
+1351035273.0,11z4f1,Django + Vim - what should a first timer know/configure?,cheekym,12,0,11,"I've recently made a switch to Python and Django and I've been working my way through the django and django by example tutorials using geany. Geany is a nice little ide but i'm looking for something more. The two options most widely touted around here seems to be PyCharm and a heavily customised Vim. PyCharm is easy
+
+My question is: All I've done is ""sudo apt-get install vim"". I want to use vim for django development
+
+P.S. I know some vim basics from years gone so I already know about the steep learning curve :)",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/11z4f1/django_vim_what_should_a_first_timer_knowconfigure/
+1348519166.0,10eso2,Django project file structure,ilian,19,8,0,,t5_2qh4v,False
+1348167155.0,107f0o,Javascript Templates in Django Templates,OMouse,13,0,0,,t5_2qh4v,False
+1342700324.0,wtavs,What can't django do?,takennickname,18,6,41,"A lot of the django reviews I read say that django can do a lot but when you need to do something it wasn't designed for then there's a lot of jumping through hoops.
+
+Can someone provide examples? I'm in the process of picking a framework to work and that idea scares me a bit. Right now it's django vs flask vs pyramid",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/wtavs/what_cant_django_do/
+1341925948.0,wbqkk,Django dynamic model fields,nexao,17,5,0,,t5_2qh4v,False
+1339003433.0,uo893,Django People is back,rchaudhary,17,4,2,,t5_2qh4v,False
+1338567656.0,ufsaz,Best way to dive in a large Django project?,benzinonapoloni,12,2,3,"Hi djangonauts
+
+I need to start working on a Django project with tons of apps
+
+Are there any best practices when starting to work in an already finished project? i.e. where to start
+
+Thanks.",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/ufsaz/best_way_to_dive_in_a_large_django_project/
+1335026830.0,slf16,is Django a RESTful architecture? I'm confused.,FabricatorMusic,17,4,19,"I've read everything about REST and SOAP,,
+1334673221.0,se8fs,Deploying Django,DooneyZ,14,2,25,"Hi r/django! I am new to Django and I am wondering some easy(easier) ways to deploy my Django app.  I just want to get it out there and I am not expecting many daily visitors. I have been trying Heroku,,
+1334403068.0,s9dhw,Using custom SQLAlchemy backed users model with Django,freakingthefuckout12,16,4,0,,t5_2qh4v,False
+1333572587.0,rthzx,Class Based Views Part 1: TemplateView and RedirectView,BuddyLindsey,15,3,4,,t5_2qh4v,False
+1333059035.0,rjxt1,LocalWiki 0.3 released (major Django project),philipn,16,3,4,,t5_2qh4v,False
+1329874837.0,q082g,Implement Browser Id in Your Django Project using django-browserid,BuddyLindsey,15,3,5,,t5_2qh4v,False
+1328910271.0,pjxjy,Recently Open-Sourced Django Apps from Eldarion,docbrolic,14,3,0,,t5_2qh4v,False
+1322702755.0,mvhu4,"Python3 port of Django now applied to default branch, with promising progress ",vsajip,19,5,http://www.reddit.com/r/django/comments/mvhu4/python3_port_of_django_now_applied_to_default/,,
+1322519601.0,msjc9,Django Decorator to Print SQL Queries,pkkid,18,6,4,,t5_2qh4v,False
+1321120177.0,m9wwh,Django navigation bar (active link highlighting),PixelEater,16,4,0,,t5_2qh4v,False
+1314284433.0,ju2ly,I made something for music junkies: a music blog aggregator with built in media player,trillablue,15,2,6,"[Listunes](http://beta.listunes.com) (Works best in Chrome)
+
+It's my first full-fledged web app and my first Django project that I felt was suitable for beta release.
+
+
+Basically I've been a huge fan of the [Hype Machine](http://hypem.com/) but my musical preferences tend to lean in the more electronic direction
+
+
+I use FeedJack to pull RSS feeds for various blogs, it saves the track information. If it's an MP3 file, it will download it to an Amazon S3 storage bucket for streaming.
+
+
+Thoughts?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/ju2ly/i_made_something_for_music_junkies_a_music_blog/
+1312903700.0,jdjwn,Easiest way to deploy a Django site?,mandix,14,1,24,"Hey
+
+What is the easiest way to deploy a Django site? I have some media components. I have never done anything like this before... I don't even check in my code to repository so i think that might cause a problem later (ie I don't want to have to copy / paste ).
+
+I was thinking maybe making a tarball of all of the files/directories and then untarring it?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/jdjwn/easiest_way_to_deploy_a_django_site/
+1312836914.0,jcs20,Would you be interested in a django specific web host? Where you could import your github django project and have it go with the click of a button or two?,ImSoWasted,17,4,16,"I had this idea since I was frustrated with the many hosting services that dont advertise or offer support for django (mod_python or fcgi or whatever). 
+
+Would anyone else like to setup an account,,False,,t5_2qh4v,False,,True
+1311332951.0,iwpse,A common Django/Postgres unicode fail,va1en0k,13,2,6,,t5_2qh4v,False
+1309368580.0,ich46,Suggesting tags with django-taggit and jQuery UI,coleifer,14,2,0,,t5_2qh4v,False
+1307134584.0,hr1oo,Best way for user auth?,TannerLD,14,2,19,"I'm new to Django
+
+So
+
+a) Write my own user auth
+
+b) Rely on django.contrib.auth or something else?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/hr1oo/best_way_for_user_auth/
+1306837148.0,ho4ws,anyone have a pdf file presentation 'Django in Depth'?,m4g1c29,14,1,5,"i want download pdf file from this talk http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2010-django-in-depth-3341665
+
+i found it in http://www.slideshare.net/ubernostrum/django-in-depth but i can't download it",,t5_2qh4v,True,,,True,http://www.reddit.com/r/django/comments/ho4ws/anyone_have_a_pdf_file_presentation_django_in/
+1304686862.0,h5kyw,Easy question to any Django gurus out there re: PostgreSQL vs SQLite3,NonsensePoopiePants,13,1,5,"I'm working though a tutorial in which the author is running PostgreSQL as the database engine.  I'm using SQLite3.  I'm confused about some code he uses in the link below
+
+I'm trying to replicate what he's doing
+
+http://www.lightbird.net/dbe/todo_list.html#marking-task-as-done",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/h5kyw/easy_question_to_any_django_gurus_out_there_re/
+1304388912.0,h2sd4,Django settings template,va1en0k,17,5,1,,t5_2qh4v,False
+1304325343.0,h240h,Handling email templates and transactional mail in Django ,gst,13,2,1,,t5_2qh4v,False
+1303164588.0,gt3bl,"django-pure-pagination - Another attempt at open-sourcing, any tips/suggestions?",jay_may,14,1,http://www.reddit.com/r/django/comments/gt3bl/djangopurepagination_another_attempt_at/,,
+1300726019.0,g8ahf,Mobile browser detection in Django,apiguy,17,5,10,,t5_2qh4v,False
+1299676847.0,g0eoi,Quick and dirty multi-threaded Django dev server,gst,17,5,2,,t5_2qh4v,False
+1299173568.0,fwo2j,Built in admin interface or roll-your-own ?,fotuenti,15,1,23,"Hi /r/django, should be avoided
+
+To clarify, and removing the site content. I still use the django admin interface for managing users and if things get really jammed up.",,False,,t5_2qh4v,False,,
+1299051407.0,fvnhp,Automatic client-side form validation in django ,gst,13,1,0,,t5_2qh4v,False
+1297970720.0,fndzy,Prettier graphmigrations coming in South 1.0,toofishes,13,2,1,,t5_2qh4v,False
+1295969804.0,f8q7c,Roadmap for learning Django,fthrkl,17,4,6,,t5_2qh4v,False
+1295829901.0,f7rj8,Free Django Templates book.,Crath,14,1,4,"Bought this book a few months ago,,False
+1295353338.0,f4e4r,A newbie question regarding django forms,jbrocker,12,1,12,"
+Hi
+
+    class Survey(models.Model):
+        title = models.CharField(_(max_length=255)
+        slug = models.SlugField(_(max_length=255
+        description= models.TextField(blank=True)
+
+
+    class Question(models.Model):
+        survey = models.ForeignKey(Survey
+        question = models.TextField()
+
+    class Answer(models.Model):
+        question = models.ForeignKey(Question
+        answer = models.TextField()
+
+Basically a survey will contain questions and their answers will be saved in the answer.
+
+Now what I don't understand is how to create a form which will display all the questions of a survey when the view is called. I tried to create a form like this
+
+    class BaseAnswerForm(Form):
+        answer = None
+        def __init__(self, **kwdargs):
+            self.question = question
+            #self.answer = None
+            super(BaseAnswerForm
+            answer = self.fields['answer']
+            answer.label = question.question
+
+        def save(self
+            ans = self.answer
+            if ans is None:
+                ans = Answer()
+            ans.question = self.question
+            ans.answer = self.cleaned_data['answer']
+            if commit: ans.save()
+            return ans
+
+    class TextAnswerForm(BaseAnswerForm):
+        answer = CharField()
+
+    def forms_for_survey(survey
+        if request.POST:
+            post = request.POST
+        else:
+            post = None
+        return [TextAnswerForm(q
+                for q in survey.questions.all()]
+
+view for this is like
+
+    def show_questions(request
+        survey = get_object_or_404(Survey.objects
+        forms = forms_for_survey(survey
+        context = {
+            'survey':survey
+            'forms':forms
+            }
+        if (request.POST and all(form.is_valid() for form in forms)):
+            for form in forms:
+                form.save()
+            return HttpResponseRedirect(reverse('show_surveys'
+        return render_to_response(
+            'feedback/show_questions.html'
+            context
+            context_instance = RequestContext(request)
+            )
+
+What this does is that, will this be easier using formsets, Can you tell me how it can implemented easier. Thanks
+
+EDIT: I have submitted this question at stackoverflow too. http://stackoverflow.com/questions/4723688/using-muliple-forms-in-the-same-view
+",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/f4e4r/a_newbie_question_regarding_django_forms/
+1294352813.0,exinx,Is anyone using Cherokee as a webserver?,keyo_,13,2,18,"http://www.cherokee-project.com/
+
+Looks like it performs well and is easy to manage. The only doubt I have is that it's quite a young project. The admin web interface is absolutely fantastic though.",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/exinx/is_anyone_using_cherokee_as_a_webserver/
+1293412290.0,ertge,"Autocompletion in Django powered by Solr, SQL or Redis (experimental)",coleifer,15,2,http://www.reddit.com/r/django/comments/ertge/autocompletion_in_django_powered_by_solr_sql_or/,,
+1292146064.0,ekg4f,My Reflections on the Django Deployment and Ecosystem Workshops,rdegges,14,2,1,,t5_2qh4v,False
+1291590653.0,egqfb,django-dilla will generate quick database fixtures for you,ruggednraw,14,0,4,,t5_2qh4v,False
+1289935867.0,e7436,"Offline HTML5 canvas app in Python with django-mediagenerator, Part 2: Drawing",twanschik,13,2,http://www.reddit.com/r/django/comments/e7436/offline_html5_canvas_app_in_python_with/,,
+1289175084.0,e2oef,Need A Cheatsheet For Django-South?,mostlybinary,13,1,2,,t5_2qh4v,False
+1287599984.0,dtyyu,"Demo site for django-allauth -- Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.",dotsphinx,14,10,False,
+1285618566.0,djne5,Smarter caching of Django QuerySets: Allows QuerySets to be cached without full evaluation,Enzondio,19,7,3,,t5_2qh4v,False
+1284568999.0,de93e,Django Patterns: Pluggable Backends,coleifer,13,0,3,,t5_2qh4v,False
+1283325609.0,d832f,Django + Tornado = Chat,gst,16,4,3,,t5_2qh4v,False
+1282587963.0,d4ihp,Resources to help you become a Django pro,whever,16,5,0,,t5_2qh4v,False
+1282046924.0,d23qa,Using Sass with django-mediagenerator,wkornewald,14,2,11,,t5_2qh4v,False
+1281031458.0,cxsqo,Europython 2010 talk: Advanced Django ORM Techniques,ch0wn,12,1,1,,t5_2qh4v,False
+1277923456.0,ckn3z,"Packages to install of Ubuntu, to make it a Django Full Fledged Developer system.",scorpion032,20,7,http://www.reddit.com/r/django/comments/ckn3z/packages_to_install_of_ubuntu_to_make_it_a_django/,,
+1276844044.0,cgb6f,Poor Man's ESI with Nginx SSIs and Django,,13,1,0,,t5_2qh4v,False
+1276078165.0,cd2rh,Webstats with django?,gronkkk,14,3,10,"Hi, and I'd rather like to keep it that way (security-wise). Any suggestions?",t5_2qh4v
+1274356210.0,c69pz,A Roundup of 10 Django Tutorials ,gst,13,1,0,,t5_2qh4v,False
+1271841362.0,bu0n1,DjangoCon Europe 2010: First Talks Announced!,jezdez,16,5,0,,t5_2qh4v,False
+1270894515.0,bp16s,django-basic-apps - Simple prebuilt applications.,homoludens,15,5,1,,t5_2qh4v,False
+1270012417.0,bkijp,DB2 support for Django 1.2 is here ,gst,13,1,0,,t5_2qh4v,False
+1267729230.0,b9ax1,django-ckeditor: easily use CKEditor with text fields in Django forms,stevelosh,14,3,4,,t5_2qh4v,False
+1267008363.0,b5v1t,I made continuous integration tool for python using django last week and wanted to share.,batiste,12,1,7,,t5_2qh4v,False
+1266555512.0,b3w89,django-annoying: app to simplify django code,mikexstudios,13,2,7,,t5_2qh4v,False
+1265482273.0,aywco,Using class-based views effectively,coleifer,12,0,0,,t5_2qh4v,False
+1264370070.0,atney,Django Dose Tracking Trunk - Episode #8: 01/20/2010,beshrkayali,13,1,1,,t5_2qh4v,False
+1263753511.0,aqpqi,Self-referencing ManyToMany through with Django,coleifer,13,3,1,,t5_2qh4v,False
+1262889521.0,amsyk,Debugging Django: Using Flickzeug,gst,15,3,0,,t5_2qh4v,False
+1262056614.0,ajdrt,Add bpython to django's shell management command,yml,13,1,1,,t5_2qh4v,False
+1261926363.0,aiwul,Configuring PyDev to work with Django,ksn,13,1,3,,t5_2qh4v,False
+1260922748.0,af3oe,"Django, it's just Python.",hyp3rVigi1ant,16,3,http://www.reddit.com/r/django/comments/af3oe/django_its_just_python/,,
+1260009801.0,abdez,"The ""correct"" way to do forms in Django?",celesfar,14,2,10,"I've been a bit reluctant to create forms by spawning form objects and whatnot and stuck to just creating form templates and doing ""if request.METHOD == 'POST'"" and such. Kinda like you would in other environments.
+
+Is it considered wrong? Are there any advantages to having django generate forms for me?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/abdez/the_correct_way_to_do_forms_in_django/
+1259419321.0,a8yog,Django Batch Select,gst,13,0,0,,t5_2qh4v,False
+1257161326.0,a0427,A Recipe for Pagination in Django,gst,16,3,0,,t5_2qh4v,False
+1256764085.0,9yrhp,"If I ever have to start another Django project by 
+hand
+specify a skeleton project?",1,11,http://www.reddit.com/r/django/comments/9yrhp/if_i_ever_have_to_start_another_django_project_by/,"I hate having to always go in and change options, install apps, etc etc when starting a new django project. Does anyone know an easy way to have various things put into a project when I run createproject?
+
+Ideally I'd add something like a virtualenv directory, etc etc...
+
+Any suggestions?",,t5_2qh4v,False,,,True,http://www.reddit.com/r/django/comments/9yrhp/if_i_ever_have_to_start_another_django_project_by/
+1255549206.0,9u2oc,"Hey /r/django, I was just wondering ... What's the easiest way to integrate captchas into Django forms?",tomazk,13,0,http://www.reddit.com/r/django/comments/9u2oc/hey_rdjango_i_was_just_wondering_whats_the/,False,
+1254378427.0,9prnv,A replacement for django-admin.py startproject,thomaspaine,15,3,0,,t5_2qh4v,False
+1252268880.0,9hwpb,Alright you've convinced me. Any advice?,skinnymonkey,13,1,19,I'm a PHP developer (gasp) but you guys have made me curious. I'm installing a fresh ubuntu server now. Any suggestions or tips? Appreciate any help to make the transition a little easier :),t5_2qh4v,True
+1250599948.0,9bpg0,Django aggregation tutorial,scorpion032,17,3,0,,t5_2qh4v,False
+1249989966.0,99j9s,Making a Movable Django Project,rfkelly,13,1,1,,t5_2qh4v,False
+1246973694.0,8yy9s,An update about Practical Django Projects 2nd Edition's source repository,jonknee,13,2,1,,t5_2qh4v,False
+1246939048.0,8ytrj,DjangoCon '09 tickets available now. Early bird prices!! ,,13,3,0,,t5_2qh4v,False
+1246334809.0,8wuil,Django URL goodness,gst,13,3,0,,t5_2qh4v,False
+1242818396.0,8lu73,Web preview of the Django Book's second edition - covers Django 1.0,tomazk,13,2,0,,t5_2qh4v,False
+1241009919.0,8gfc4,Easy iPhone support for Django apps,codepoet,14,1,6,,t5_2qh4v,False
+1236610062.0,838io,Findjango: A Django Search Vertical ,gst,12,0,0,,t5_2qh4v,False
+1235345165.0,7zfz5,"Django, mod_wsgi and HTTP Authentication",gst,12,0,http://www.reddit.com/r/django/comments/7zfz5/django_mod_wsgi_and_http_authentication/,,
+1234562497.0,7x984,The Django and Ubuntu Intrepid Almanac,gst,13,1,0,,t5_2qh4v,False
+1233127896.0,7szrd,Manage your Django Transactions ,gst,14,1,0,,t5_2qh4v,False
+1232467617.0,7r3sq, E-Commerce and Django - Satchmo Alternatives,gst,14,2,2,,t5_2qh4v,False
+1228802662.0,7i9sb,Implementing HTTP Services With Django,gst,15,5,0,,t5_2qh4v,False
+1228776184.0,7i7es,Django in 24 hours ,gst,14,2,1,,t5_2qh4v,False
+1228375194.0,7hagw,Starting a Django Conventions Project and Reference ,gst,12,0,0,,t5_2qh4v,False
+1227077442.0,7eagd,Django 1.0.2 released,gst,14,4,0,,t5_2qh4v,False
+1226409583.0,7co3i,Building reusable Django apps,shabda,15,3,1,,t5_2qh4v,False
+1225818378.0,7ba8v,Deploying Django with Fabric,gst,14,3,1,,t5_2qh4v,False
+1216169694.0,6ry97,I've been Djangofied,,20,8,1,,t5_2qh4v,False
+1201455944.0,66rz2,Django threaded|comments,mac,14,2,4,,t5_2qh4v,False
+1376257034.0,1k5zi7,Working with file storage in Django,Yelonek,11,1,8,"Hello Djangonauts
+
+I'm trying to save my files in such fashion that I never have the same file twice in my media directory. Therefore first I check sha1 checksum of the file. If it is not already there
+
+    if form.is_valid():
+            a_file = request.FILES['archive']
+            sha1_hasher = sha1()
+            chunks = []
+            for chunk in a_file.chunks():
+                sha1_hasher.update(chunk)
+                chunks.append(chunk)
+            target_dir = os.path.join(overlook.settings.MEDIA_ROOT
+            if not os.path.exists(target_dir):
+                os.mkdir(target_dir)
+                with open(os.path.join(target_dir
+                        for chunk in chunks:
+                            destination.write(chunk)                
+            archive = Archive.objects.import_archive(os.path.join(target_dir
+            return redirect(archive)
+
+So...
+first I check the sha1 checksum. Then I save the file in media directory, but then again -first I have to put the file in the right place in media directory. The logic will be duplicated in those two places. Help!",,False,,t5_2qh4v,False,,
+1375920861.0,1jx6sf,"Control Your Laptop with Android, Django, and Twisted",xcell202,12,3,False,
+1374633632.0,1ixhth,Introducing virtualenvwrapper-django,bizb,20,10,5,,t5_2qh4v,False
+1373231530.0,1htlph,Removing a Django App,michaelherman,13,3,6,,t5_2qh4v,False
+1371775363.0,1grjdn,Tunnel Lights (w/r/t Migrations),gthank,13,3,1,,t5_2qh4v,False
+1368989499.0,1en7c4,Radpress 0.4 released with Markdown support,gkmngrgn,14,1,1,,t5_2qh4v,False
+1362431875.0,19ntet,Django Retrained - How a few best coding practices will make you a better investigative journalist (NICAR 2013),edavis,15,2,2,,t5_2qh4v,False
+1362066368.0,19eeq4,Django redis pipeline trick,rdssassin,12,1,0,,t5_2qh4v,False
+1361225858.0,18s02y,Django Sprint in Kansas City | Weblog,juandg,14,3,0,,t5_2qh4v,False

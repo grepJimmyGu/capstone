@@ -1,0 +1,1227 @@
+created_utc,id,title,author,ups,downs,num_comments,selftext,subreddit_id,is_self
+1274985703.0,c8rrk,RMS: AMA,hueypriest,884,144,1867,"[Richard Stallman](http://en.wikipedia.org/wiki/Richard_Stallman) has agreed to answer your top ten questions. RMS will answer the top ten comments in this thread (using [""best""](http://blog.reddit.com/2009/10/reddits-new-comment-sorting-system.html) comment sorting) as of 12pm ET on June 2nd. This will be a text only interview (no video). Ask him anything!  
+
+Please try to refrain from asking questions which have been frequently answered before. Check [stallman.org](http://stallman.org/), and search engines to see if RMS has previously addressed the question.  
+
+*edit*: RMS is unable to make a video at this time
+
+**edit: answers [HERE](http://www.reddit.com/r/blog/comments/cv7o7/richard_stallman_answers_your_top_25_questions/)**",,t5_2qh3i,True,,,True,http://www.reddit.com/r/gnu/comments/c8rrk/rms_ama/
+1325537731.0,o06a9,Richard Stallman Was Right All Along,JRepin,143,21,14,,t5_2qh3i,False
+1339698911.0,v21q3,How Microsoft Threat Management Gateway Classifies donate.fsf.org,rebbsitor,142,28,33,"After reading about RMS having his laptop stolen
+
+    Network Access Message: Access Denied
+    	Explanation:
+
+*[Explanation on who to contact in our company for more info redacted]* 
+
+    The page you are trying to browse to is categorized as ""Gambling""
+
+    If you believe you are getting this message by mistake
+
+	Technical Information (for support personnel)
+
+    Error Code: 403 Forbidden. Forefront TMG denied the specified Uniform Resource Locator (URL). (12233)
+    IP Address: [IP Redacted]
+    Date: 6/14/2012 6:31:39 PM [GMT]
+    Server: [server name redacted]
+    Source: proxy 
+
+**tl;dr** Apparently Microsoft thinks donating to the FSF is gambling...
+
+**EDIT**: Formatting
+
+**EDIT 2**: This can be verified by typing donate.fsf.org into the URL lookup here: https://www.microsoft.com/security/portal/mrs/default.aspx",,t5_2qh3i,1339699349.0,,,True,http://www.reddit.com/r/gnu/comments/v21q3/how_microsoft_threat_management_gateway/
+1264627679.0,auxiq,The iPad's unprecedented use of DRM to control all capabilities of a general purpose computer is a dangerous step backward for computing and for media distribution. ,mattl,135,19,20,,t5_2qh3i,False
+1372256137.0,1h3wyv,Richard Stallman inducted into the 2013 Internet Hall of Fame,Zak_at_FSF,126,25,0,,t5_2qh3i,False
+1358191657.0,16kf9g,"WhiteHouse.gov petition: ""promote the use of free software in our schools.  Libre Office, Gimp, GNU Cash and other GPL software which is cost free""",TekTekDude,117,11,False,
+1373405799.0,1hyob4,"Happy 30th Birthday, GNU!",ketefoy,104,13,http://www.reddit.com/r/gnu/comments/1hyob4/happy_30th_birthday_gnu/,,
+1367520407.0,1dkfha,"Richard Stallman on DRM in HTML: ""The W3C's soul at stake""",Zak_at_FSF,103,12,8,,t5_2qh3i,False
+1340395466.0,vg929,"Dear Microsoft: fsf.org is not a ""gambling site""",donaldrobertsoniii,106,15,4,,t5_2qh3i,False
+1349877659.0,1192hr,MediaGoblin is running a fundraising campaign with the FSF to decentralize media publishing on the web!  Please help!,paroneayea,110,21,4,,t5_2qh3i,False
+1363465181.0,1afc19,"Happy Birthday Richard Stallman! (x-post from r/linux, thought it was more appropriate here)",browneth,99,13,http://www.reddit.com/r/gnu/comments/1afc19/happy_birthday_richard_stallman_xpost_from_rlinux/,,
+1322863017.0,my0su,Stallman: Facebook IS Mass Surveillance,nullcat,90,6,5,,t5_2qh3i,False
+1285362011.0,dii2p,People using the recently discovered master key for HDMI now being threatened by Intel. ,TheSilentNumber,88,10,0,,t5_2qh3i,False
+1296585515.0,fd8jx,FSF Associate Membership Program Design Contest,hueypriest,90,9,163,,t5_2qh3i,True
+1363142247.0,1a6w26,This is my new favorite shirt. Figured you folks would enjoy it.,monoclesaresexy,96,17,21,,t5_2qh3i,False
+1317240625.0,kufxe,Amazon Kindle extinguishes the fire of learning,mattl,98,19,1,,t5_2qh3i,False
+1318889005.0,lfljd,"Free Software Foundation warns about the danger of computers becoming Windows-only, calls for signatures to defend the freedom to install free software",MithrandirAgain,89,6,http://www.reddit.com/r/gnu/comments/lfljd/free_software_foundation_warns_about_the_danger/,,
+1369218175.0,1etrc5,Debian GNU/Hurd 2013 released!,the-fritz,79,10,27,,t5_2qh3i,False
+1275679750.0,cbjbq,Google updates WebM license to make it GPL-compatible,bcs,80,10,1,,t5_2qh3i,False
+1358086735.0,16hpd3,Aaron Swartz left his GPLed code copyright holdings to the FSF,ElDiablo666,80,9,4,I read it [here](http://www.aaronsw.com/2002/continuity). I didn't know about this dude but he was a proponent of liberty in a digital age and that means something.,t5_2qh3i,True
+1363246103.0,1a9u9e,"FSF to campaign against DRM in HTML5 (well, duh)",alexander_b,78,7,http://www.reddit.com/r/gnu/comments/1a9u9e/fsf_to_campaign_against_drm_in_html5_well_duh/,,
+1353527666.0,13kyu3,"“Your criticisms are completely wrong”: Stallman on software patents, 20 years in | Ars Technica",nullcat,80,10,http://www.reddit.com/r/gnu/comments/13kyu3/your_criticisms_are_completely_wrong_stallman_on/,,
+1286220419.0,dmquw,"Thanks Mr. Stallman, for 25 years of freedom.",hardran3,70,8,http://www.reddit.com/r/gnu/comments/dmquw/thanks_mr_stallman_for_25_years_of_freedom/,,
+1337204015.0,tqlb7,"In response to the increasing availability non-free and DRM'd games on GNU Linux, the LibrePlanet Gaming Collective has been established! ",TheSilentNumber,76,15,http://www.reddit.com/r/gnu/comments/tqlb7/in_response_to_the_increasing_availability/,,
+1374988757.0,1j7b7p,"FSF launches fundraising program for Replicant, the fully free Android-based mobile OS",hexacat,67,6,http://www.reddit.com/r/gnu/comments/1j7b7p/fsf_launches_fundraising_program_for_replicant/,,
+1367349904.0,1dfht2,Free Software Foundation certifies USB wireless adapter to Respect Your Freedom,Zak_at_FSF,70,11,4,,t5_2qh3i,False
+1356192880.0,15a7vo,"GNU sed 4.2.2 released, and a rant from the maintainer",bonzinip,75,13,http://www.reddit.com/r/gnu/comments/15a7vo/gnu_sed_422_released_and_a_rant_from_the/,,
+1356052552.0,1577z7,GNU strikes again: FSF surprises Boston Microsoft store ,johdu,74,13,11,,t5_2qh3i,False
+1354898467.0,14g7s5,Ubuntu Spyware: What to Do? ,libbyr,76,12,15,,t5_2qh3i,False
+1346105817.0,yxe3f,Cory Doctorow: The coming civil war over general purpose computing - Boing Boing,gopperman,64,5,5,,t5_2qh3i,False
+1325420054.0,nyiy0,Happy GNU Year!,BitpatternDesignator,75,15,5,"                          .-.   
+                         .'   '.                   
+              *         ( 2012! ) 
+              /\         \     /
+      /\     /o \   /\    '- -'
+     / /    /_ _o\  \ \     ""
+     \ \__.'  '   './ /      '
+      \___.---'---___/        )
+         /    @    @_     __.'
+        /  )     _   '   /_/
+       ;_-'    _(
+         / \   \'uuuu' / /
+       
+      /       """""",/
+     /  /       '""\\\ ' 
+
+         *************
+         * HAPPY GNU *
+         *   YEAR!   *
+         *************
+",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/nyiy0/happy_gnu_year/
+1280434310.0,cv7sw,Richard Stallman: AMA Responses!,TheSilentNumber,71,14,10,,t5_2qh3i,False
+1353670907.0,13nx22,Introducing GNU Guix,emegeve,71,13,19,,t5_2qh3i,False
+1369860603.0,1faj66,We should be able to browse the Web without running nonfree software. Take action for free JavaScript!,Zak_at_FSF,79,23,1,,t5_2qh3i,False
+1351276422.0,124wyg,Rare photos of a gnu crashing the Windows 8 launch event,Zak_at_FSF,75,18,7,,t5_2qh3i,False
+1339264894.0,utf31,Richard Stallman has his bag stolen in Argentina ,mrsexybadman,74,13,29,,t5_2qh3i,False
+1357313818.0,15yce3,Android SDK is now proprietary,sideEffffECt,76,19,10,,t5_2qh3i,False
+1363540522.0,1agzje,"After nearly 9 years of seeding The Pirate Bay’s oldest working torrent is ""Revolution OS"", a documentary covering the history of Linux, GNU and the free software movement. ",JRepin,68,5,False,
+1351873340.0,12iq6u,RMS published in WIRED calling for radical software patent reform,Zak_at_FSF,74,16,0,,t5_2qh3i,False
+1280701369.0,cw6wb,Help Gnash — the GNU Flash player is in dire need!,kitestramuort,66,11,13,,t5_2qh3i,False
+1376415510.0,1kagzh,"GNUstep, free software implementation of Apple's Cocoa API has a Kickstarter going for full OSX 10.6 Compatability. Stretch goals include working Webkit and full Darling integration.",Lostprophet83,57,4,http://www.reddit.com/r/gnu/comments/1kagzh/gnustep_free_software_implementation_of_apples/,,
+1363375011.0,1ad7ao,Google begins blocking 3rd party Jabber invites supposedly to combat spam,kxra,67,14,2,,t5_2qh3i,False
+1340547002.0,viw14,"FSF Says Microsoft’s  Flagging of Its Site as ‘Gambling’ is Wrong; FSF’s Anti-UEFI Petition Grows Popular, Debian Joins | Techrights",r_schestowitz,67,15,http://www.reddit.com/r/gnu/comments/viw14/fsf_says_microsofts_flagging_of_its_site_as/,,
+1317384699.0,kwdsc,Wikipedia sets an example of refusing to let Facebook spy on its users.,Cheatboy2,55,4,2,,t5_2qh3i,False
+1349989196.0,11bvj6,"FSF rallies support for GNU MediaGoblin to make media publishing free ""as in freedom""",honjanna,54,5,1,,t5_2qh3i,False
+1265306781.0,ay3o1,"First 5,000 signatures from iPad DRM petition sent, in style",holmesworcester,98,10,False,
+1329247258.0,pphj6,Stallman - people said i should accept the world ,Sui_Juris_Mason,86,40,24,,t5_2qh3i,False
+1321638536.0,mh4he,Occupy Flash - The movement to rid the world of the Flash Player plugin,nullcat,67,14,1,,t5_2qh3i,False
+1295453797.0,f566r,No double standards: supporting Google's push for WebM,mattl,59,9,3,,t5_2qh3i,False
+1350688293.0,11ruyo,CD Baby Claiming Copyright Over Stephen Fry GNU Birthday Video,GlacialTurtle,60,11,12,,t5_2qh3i,False
+1348836958.0,10m6wn,4000 /r/GNU subscribers! Almost 2000 in /r/FreeSoftware,TheSilentNumber,62,9,0,"We just hit 4000 subscribers posting and following updates to GNU projects and other GNU related news/discussion! 
+
+Also,False,,t5_2qh3i,False,,,t3_10m6wn
+1330938843.0,qidov,Proprietary Software Is An Ugly Way Of Life: Stallman,NightshadeForests,56,5,3,,t5_2qh3i,False
+1292612706.0,enjiw,Richard Stallman defends Wikileaks,1338h4x,54,8,0,,t5_2qh3i,False
+1375237399.0,1je79i,"Tox is an upcoming, open-source, decentralized alternative to Skype that respects your freedom",Necrotik,67,12,False,
+1363348199.0,1acfty,German court case confirms validity of the LGPL,johdu,56,11,1,,t5_2qh3i,False
+1341005939.0,vtd08,GNU GPLv3 turns 5!,donaldrobertsoniii,56,10,1,,t5_2qh3i,False
+1323992926.0,neg8e,Help FSF raise $300k by Jan 31st so they can do more for Free and Open Source Software,JRepin,57,8,0,,t5_2qh3i,False
+1319568058.0,looza,GNU acronym contains dangerous overflow. Info and workaround.,Freemor,53,10,7,,t5_2qh3i,False
+1311951535.0,j3971,GNU Emacs violating GPL since 2009,AlecSchueler,51,7,11,,t5_2qh3i,False
+1272651987.0,bygbl,"FSF responds to Jobs's ""Thoughts on Flash""",mattl,50,4,1,,t5_2qh3i,False
+1353974267.0,13uazz,"Are you giving your loved ones holiday gifts they can use freely, or something a company will control? Check out the FSF's 2012 Holiday Giving Guide.",Zak_at_FSF,51,5,http://www.reddit.com/r/gnu/comments/13uazz/are_you_giving_your_loved_ones_holiday_gifts_they/,,
+1351191264.0,122vv4,FSF activists trick-or-treat for free software at Windows 8 launch event,chrissietherese,63,16,5,,t5_2qh3i,False
+1345828295.0,yrgyz,"GNU MediaGoblin 0.3.1, ""A Whole New Look"", is out!  New stuff, including theming support, and a brand new theme!",55,,t5_2qh3i
+1332432038.0,r8i5b,Happy birthday GCC -- 25 years old today,mattl,50,7,1,,t5_2qh3i,False
+1320038323.0,luuxb,The right to dual-boot: GNU/Linux groups plead case prior to Windows 8 launch,MithrandirAgain,50,3,5,,t5_2qh3i,False
+1317159563.0,ktdyv,GNU is 28 years old today! Happy birthday!,,50,1,2,,t5_2qh3i,False
+1274302128.0,c623u,Youtube now supports HTML5! Thanks FSF and Google!,semente,49,0,4,,t5_2qh3i,False
+1370290878.0,1flqho,GCC 4.8.1 is C++11 feature complete,johdu,51,8,2,,t5_2qh3i,False
+1367172655.0,1da7oi,"Finally, gcc colorized output - I'd say it's about time!",nunudodo,52,9,http://www.reddit.com/r/gnu/comments/1da7oi/finally_gcc_colorized_output_id_say_its_about_time/,,
+1349119151.0,10rwkz,Student activist shows how college groups can have a big impact in the free software movement,Zak_at_FSF,56,7,2,,t5_2qh3i,False
+1348089952.0,105o2x,Stop software patents from muscling in on Europe,Zak_at_FSF,52,10,0,,t5_2qh3i,False
+1328116202.0,p6bk3,"Stop ACTA in Europe, February 11th",mattl,55,6,http://www.reddit.com/r/gnu/comments/p6bk3/stop_acta_in_europe_february_11th/,,
+1316531100.0,klmyi,Stallman: Is Android really free software?,nullcat,48,5,4,,t5_2qh3i,False
+1287028483.0,dqzwx,The FSF begins hardware endorsement program! ,TheSilentNumber,54,6,0,,t5_2qh3i,False
+1309270006.0,ibask,"Facebook bans KDE application, deletes user photos: ""yet another argument for distributed, free software social media tools like GNU MediaGoblin""",paroneayea,57,0,False,
+1360833395.0,18i88k,I ♥ Free Software | Spread your love for Free Software,cm-t,55,13,0,,t5_2qh3i,False
+1350481819.0,11mnvc,MediaGoblin founder Chris Webber explains why they went with the FSF instead of Kickstarter for crowdfunding,paroneayea,49,10,0,,t5_2qh3i,False
+1327942352.0,p35uh,The GNU Education Project relaunches -- free software in education,mattl,48,7,0,,t5_2qh3i,False
+1300448263.0,g6dhd,Google tracks you. We don't. An illustrated guide.,semente,54,11,6,,t5_2qh3i,False
+1320978543.0,m87r1,"The MPAA will soon be able to block Americans' access to any website, unless we fight back, hard.",mattl,52,0,False,
+1303239698.0,gttdb,D-Link and Boxee Violate GPL!,547,49,6,0,,t5_2qh3i,False
+1365790269.0,1c7y3v,"Infographic: Close Windows, Open Doors. Free Yourself.",libbyr,81,41,http://www.reddit.com/r/gnu/comments/1c7y3v/infographic_close_windows_open_doors_free_yourself/,,
+1354124233.0,13xy33,"Richard Stallman, founder of the GNU Project and the FSF, doing AMA on slashdot.",JRepin,55,2,False,
+1350950389.0,11wuo3,RMS assumes his rightful place on my office wall next to Donald Knuth,nullcat,49,8,1,,t5_2qh3i,False
+1318294570.0,l7pyb,Does anyone here actually use GNU/Hurd?,keenschemer,48,8,9,"According to the hurd status page,,
+1317155449.0,ktbis,New FSF membership benefit: Credit Union eligibility! (US-only for now),TheSilentNumber,42,3,3,,t5_2qh3i,False
+1372368233.0,1h7eqv,Cancel Netflix: Arrested Development isn't the only thing they screwed up,Zak_at_FSF,69,30,6,,t5_2qh3i,False
+1372100673.0,1gzi5x,A second FSF-certified device from ThinkPenguin: long-range USB Wifi adapter with Atheros chip,joshuagay,49,11,2,,t5_2qh3i,False
+1291829484.0,eidxh,Bored? In or around Boston? Come stuff envelopes at the FSF... we'll feed you,mattl,46,6,8,"If you're interested
+
+ Free Software Foundation
+ 51 Franklin Street
+ Fifth Floor
+ 02110
+
+We're near the Red
+
+We'll feed you... if you want a sandwich or a piece of pizza (or whatever we can reasonably get in Downtown about $7-10) we'll get it for you.
+
+If you're planning on coming down,False,,t5_2qh3i,False,,,t3_eidxh
+1341571585.0,w4gwo,Restricted boot [IMG],r_schestowitz,53,17,1,,t5_2qh3i,False
+1334688386.0,seluh,Network Services Aren't Free or Nonfree; They Raise Other Issues (new article by Richard Stallman),mattl,51,10,0,,t5_2qh3i,False
+1310623502.0,ip78v,"New intern for FSF's campaigns team, Jonathan Nadeau, plans on building a fully free and accessible GNU/Linux distro based off Trisquel over the summer. He's also blind. ",MithrandirAgain,42,8,False,
+1308250394.0,i1g7u,FSF announces publication of two new books by Richard Stallman ,Alaukik,40,2,6,,t5_2qh3i,False
+1374730921.0,1j0ejc,How is GNU/Hurd compared to GNU/Linux performance wise and hardware compatibility these days?,cqra,48,10,11,"I understand it doesn't have a massive following like the Linux kernel has yet
+
+Any interesting distros besides Debian Hurd?",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/1j0ejc/how_is_gnuhurd_compared_to_gnulinux_performance/
+1371485009.0,1gisqs,How to block the NSA from your friends list -- federated social networking that's more robust to government spying,Zak_at_FSF,49,10,3,,t5_2qh3i,False
+1355513856.0,14uvhc,Support the FSF: Turn your dollars into decibels,JRepin,45,7,2,,t5_2qh3i,False
+1353614560.0,13mtz2,Bradley M. Kuhn: Left Wondering Why VLC Relicensed to LGPL,sideEffffECt,46,7,4,,t5_2qh3i,False
+1336686044.0,th56p,FSF store is now selling GNU Emacs reference mugs,mattl,44,6,13,,t5_2qh3i,False
+1334873305.0,sijut,Calling all students -- have an DRM-event at your school on May 4th -- FSF will send you swag to hand out.,mattl,42,3,5,"May 4th is the Day Against DRM -- http://dayagainstdrm.org/
+
+## Five steps to DRM activism
+
+1. Go to http://dayagainstdrm.org and pledge to take action.
+2. Send the link to all your friends on your social networks.
+3. Go to the [LibrePlanet wiki page and list an event you'd like to run](http://libreplanet.org/wiki/Group:DefectiveByDesign/Day_Against_DRM_2012#Events) (see below for ideas)
+4. Email us at the FSF -- campaigns@fsf.org -- an address (in the US and Canada for sure
+5. Plan your event on campus or in your local area
+
+## Some ideas for events
+
+* Have a pizza party in your dorm room -- ask people to make their pledge on the http://dayagainstdrm.org website to sign up.
+
+* Throw a frisbee around for an hour. Afterwards
+
+* Ask your school's library to sign a pledge against DRM-ebooks and DRM-textbooks.
+
+* Post copies of [The Right to Read](http://www.gnu.org/philosophy/right-to-read.html) all over school. 
+
+* Hand out anti-DRM stickers
+
+* Wear your anti-DRM buttons with pride,,False,,t5_2qh3i,True,,True
+1301649214.0,gg907,"The Hurd, version 0.401 is here!",bonzinip,41,6,http://www.reddit.com/r/gnu/comments/gg907/the_hurd_version_0401_is_here/,,
+1358572644.0,16v28j,GNU Press now selling GNU/Linux Inside stickers!,Habstinat,40,5,5,,t5_2qh3i,False
+1354228659.0,140omh,Left Wondering Why VLC Relicensed to LGPL,donaldrobertsoniii,46,9,13,,t5_2qh3i,False
+1347748243.0,zy1fx,Happy Software Freedom Day!,nullcat,47,6,3,,t5_2qh3i,False
+1337888883.0,u390y,Eben Moglen - Free Software is necessary for Free Media which is necessary for Free Thought [Video],TheSilentNumber,43,6,1,,t5_2qh3i,False
+1334158760.0,s4ghy,"The Liberated Pixel Cup: Creative Commons, the FSF, and OpenGameArt team up for an epic contest for gaming freedom",paroneayea,42,0,False,
+1315298607.0,k68mb,How Intel/AMD (inadvertently) fixed GNU Hurd,foob4r,44,8,7,,t5_2qh3i,False
+1355500236.0,14uhf6,Microsoft going to hijack the whole of Indian technical education with its new cloud offering. GNU please do something,jestinjoy,53,20,4,,t5_2qh3i,False
+1335883774.0,t1jdv,"GNU MediaGoblin 0.3.0: Rise of the RoboGoblins, released! HTML5 audio, mobile layout, Mongo-&gt;SQL database switch, and more!",46,,t5_2qh3i
+1328827382.0,pigai,"Registration is now open for FSF's annual free software conference LibrePlanet, in Boston",mattl,40,2,http://www.reddit.com/r/gnu/comments/pigai/registration_is_now_open_for_fsfs_annual_free/,,
+1328504414.0,pcsa3,"New Hampshire has passed HB418. State agencies are now required by law to consider open source software when acquiring software, and to promote the use of open data formats.",indigo_illusion,47,12,http://www.reddit.com/r/gnu/comments/pcsa3/new_hampshire_has_passed_hb418_state_agencies_are/,,
+1327442177.0,ov1vk,Stallman Box,halcy,45,10,6,,t5_2qh3i,False
+1306059475.0,hh8z0,Some technical advantages of the Hurd,ArneBab,45,10,6,,t5_2qh3i,False
+1302808064.0,gq4t0,Next-gen low latency codec from Xiph.Org beats HE-AAC encoders in listening test,mattl,41,2,1,,t5_2qh3i,False
+1275031485.0,c8yt4,"Over 20% growth in subreddit subscribers in the past day! Thanks, rms!",superiority,40,2,http://www.reddit.com/r/gnu/comments/c8yt4/over_20_growth_in_subreddit_subscribers_in_the/,,
+1353292053.0,13fg9l,Richard Stallman shakes reporter's hand,narblynibbles,59,23,18,,t5_2qh3i,False
+1345359804.0,ygqj6,"Eben Moglen speaking at HOPE Number 9 in NYC about Walled Gardens and the First Law of Robotics
+      - YouTube",5,7,http://www.reddit.com/r/gnu/comments/ygqj6/eben_moglen_speaking_at_hope_number_9_in_nyc/,,,False,t5_2qh3i,False
+1326835347.0,oldi2,We're going to black out all our sites at the Free Software Foundation... ,mattl,47,13,1,,t5_2qh3i,False
+1326213791.0,oaz6a,Eben Moglen yells at reporter for having Facebook,nullcat,52,17,11,,t5_2qh3i,False
+1317333099.0,kvr4q,"Free Software Foundation re-launches its Free Software Directory, with over 6500 programs listed
+",8,2,http://www.reddit.com/r/gnu/comments/kvr4q/free_software_foundation_relaunches_its_free/,,,False,t5_2qh3i,False
+1316892348.0,kq8t7,White House Petition: Direct the Patent Office to Cease Issuing Software Patents [xpost from /r/freeculture],PehJota,38,2,1,,t5_2qh3i,False
+1314720608.0,jz5we,This American Life did a great episode on software patents—petition them to help out by using Ogg Vorbis!,bcs,46,11,1,,t5_2qh3i,False
+1301163246.0,gc1rs,[x-post] Calling all students: Hack on GNU HURD for GSoC,TheSilentNumber,42,5,3,,t5_2qh3i,False
+1298050625.0,fo087,"Ask Me Anything -- FSF board member, Benjamin Mako Hill",mattl,44,12,http://www.reddit.com/r/gnu/comments/fo087/ask_me_anything_fsf_board_member_benjamin_mako/,,
+1285126732.0,dh64p,Stallman crashes EU patent session,mattl,37,1,1,,t5_2qh3i,False
+1361304387.0,18u53d,"Displaying true moral degeneracy, Microsoft disguises ad as an online petition campaign.",Zak_at_FSF,47,16,http://www.reddit.com/r/gnu/comments/18u53d/displaying_true_moral_degeneracy_microsoft/,,
+1330545038.0,qbqp7,Design a webcomic to show the dangers of Microsoft Restricted Boot...,mattl,43,10,1,,t5_2qh3i,False
+1330528386.0,qbd8o,A list of all the Free Culture (and Software) Reddits!,TheSilentNumber,36,1,5,,t5_2qh3i,False
+1299528313.0,fz8fx,FSF announces new executive director,mattl,39,5,7,,t5_2qh3i,False
+1283221635.0,d7iqp,Free software cellphone network deployed at Burning Man,TheSilentNumber,38,3,0,,t5_2qh3i,False
+1275204156.0,c9kei,Patent Absurdity: How Software Patents Broke the System,superiority,41,7,0,,t5_2qh3i,False
+1249319561.0,975bt,We believe in the freedom to read -- say NO to DRM on the Amazon Kindle,mattl,43,11,5,,t5_2qh3i,False
+1371298358.0,1gea8q,"GNU Solfege is an ear training program written to help you train intervals, chords, scales and rhythms",based2,43,0,False,
+1354652707.0,14a29k,"On Nix and GNU's new package manager, Guix",greenrd,41,11,http://www.reddit.com/r/gnu/comments/14a29k/on_nix_and_gnus_new_package_manager_guix/,,
+1344376828.0,xuhbv,The Shield Act fails to protect free software from patents,donaldrobertsoniii,38,7,3,,t5_2qh3i,False
+1309068543.0,i9ebk,"Hello all, I'm an FSF member and I'd like you all to join me by joining them! Or fucking donate, whatever shifts your gears.",ElDiablo666,53,12
+
+Here is a picture to get you excited about joining: [my OS](http://www.gnewsense.org/static/homepage/Gnewsenselogo.png),False,,t5_2qh3i,False,,,t3_i9ebk
+1307024042.0,hpxdw,GNU MediaGoblin 0.0.2 released... we can haz pages,paroneayea,39,3,2,,t5_2qh3i,False
+1371668289.0,1go8ie,MySQL has become TheirSQL,briefbanane,47,15,3,,t5_2qh3i,False
+1370885908.0,1g22fl,Idea for an FSF fund-raiser in light of PRISM,climatewarrior,40,10,4,I think that now is a great time to highlight the importance of Free Software and Free Network Services. What about if the FSF ran a special fund raiser selling a t-shirt [like this one](http://ephemeral-t-shirts.blogspot.com/2012/01/richard-stallman-was-right.html) to raise funds for projects such as [Media Goblin](http://mediagoblin.org/) and [libre.fm](http://libre.fm/). ,t5_2qh3i,True
+1353016014.0,139fvz,Join the FSF and friends in updating the Free Software Directory this Friday,donaldrobertsoniii,38,8,0,,t5_2qh3i,False
+1342135250.0,wgwky,Debian Follows the FSF’s — Not Red Hat’s — Footsteps Regarding UEFI,r_schestowitz,46,14,2,,t5_2qh3i,False
+1341241714.0,vxctx,Free Software Foundation Releases White Paper on Secure Boot. ,donaldrobertsoniii,38,9,2,,t5_2qh3i,False
+1323710625.0,n9tmc,"MediaGoblin 0.2.0, ""Our Tubes"" released! Now with html5 video hosting!",paroneayea,42,8,http://www.reddit.com/r/gnu/comments/n9tmc/mediagoblin_020_our_tubes_released_now_with_html5/,,
+1314441621.0,jw17m,RMS: dances with gnus,thisisparker,35,2,1,,t5_2qh3i,False
+1309874894.0,ih6am,"GNU MediaGoblin v0.0.3 ""Talking in Rainbows"" released",paroneayea,40,4,2,,t5_2qh3i,False
+1369619471.0,1f432f,Trying to build a 100% free desktop computer / home server to the BIOS level; help needed,Habstinat,40,6,32,"I've also posted this to the fsf-community-team mailing list. It can be found in the archives here: [https://lists.gnu.org/mailman/private/fsf-community-team/2013-May/000819.html](https://lists.gnu.org/mailman/private/fsf-community-team/2013-May/000819.html)
+
+I've built one computer for a friend before
+
+Here's the breakdown on the parts I've chosen (generated by PCPartPicker):
+
+[PCPartPicker part list](http://pcpartpicker.com/p/10fMD) / [Price breakdown by merchant](http://pcpartpicker.com/p/10fMD/by_merchant/) / [Benchmarks](http://pcpartpicker.com/p/10fMD/benchmarks/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [AMD A10-5800K 3.8GHz Quad-Core Processor](http://pcpartpicker.com/part/amd-cpu-ad580kwohjbox) | $119.99 @ NCIX US 
+**Motherboard** | [Asus F2A85-M/CSM Micro ATX  FM2 Motherboard](http://pcpartpicker.com/part/asus-motherboard-f2a85mcsm) | $94.20 @ Amazon 
+**Memory** | [G.Skill Ripjaws X Series 8GB (2 x 4GB) DDR3-1600 Memory](http://pcpartpicker.com/part/gskill-memory-f312800cl8d8gbxm) | $72.99 @ Newegg 
+**Storage** | [Samsung 840 Pro Series 256GB 2.5"" Solid State Disk](http://pcpartpicker.com/part/samsung-internal-hard-drive-mz7pd256bw) | $219.99 @ NCIX US 
+**Video Card** | [EVGA GeForce GTX 660 Ti 2GB Video Card](http://pcpartpicker.com/part/evga-video-card-02gp43664kr) | $289.99 @ Newegg 
+**Case** | [Silverstone TJ08B-E MicroATX Mini Tower Case](http://pcpartpicker.com/part/silverstone-case-tj08be) | $99.99 @ Amazon 
+**Power Supply** | [Rosewill Hive 550W 80 PLUS Bronze Certified ATX12V / EPS12V Power Supply](http://pcpartpicker.com/part/rosewill-power-supply-hive550) | $55.99 @ Amazon 
+**Keyboard** | [Filco Majestouch-2 Wired Standard Keyboard](http://pcpartpicker.com/part/filco-keyboard-fkbn87mcefb2) | $149.00 @ Amazon 
+ | | **Total**
+ | Prices include shipping
+ | Generated by PCPartPicker 2013-05-26 21:48 EDT-0400 |
+
+I've already had this gone over by the PC-building enthusiasts at /r/buildapc for technical compatibility
+
+Some notes:
+
+* I know that the CPU has an AGPU in it
+* I already have my own mouse and monitor
+* The Asus F2A85-M motherboard was chosen because
+* The GTX 660 Ti GPU was chosen because
+
+And my questions for you guys:
+
+* Does the AGPU on the AMD CPU pose a freedom issue? Are binary drivers or firmware required for it to work?
+* Is the 3D / 2D acceleration using the nouveau driver for the GTX 660 Ti GPU too unstable to be usable?
+* From this page: &lt;http://nouveau.freedesktop.org/wiki/FeatureMatrix/&gt; It seems that video decoding using my graphics card would require binary firmware? Is my assumption true? How important *is* video decoding?
+* Are there any parts in this build that pose a freedom issue? Would Richard Stallman use this computer?
+
+Thanks a lot ahead of time for any responses.",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/1f432f/trying_to_build_a_100_free_desktop_computer_home/
+1368468192.0,1e9a85,GNU Guix 0.2 released,muuh-gnu,37,5,2,,t5_2qh3i,False
+1359823680.0,17rbav,What to do about GNU? Three ideas for GNU and the FSF,bonzinip,39,8,2,,t5_2qh3i,False
+1356689468.0,15kg01,"Has anyone here been able to get a Lemote Yeeloong shipped to the US? If so, how? [x-post /r/linux]",Habstinat,37,6,http://www.reddit.com/r/gnu/comments/15kg01/has_anyone_here_been_able_to_get_a_lemote/
+
+However, which is really quite a shame. They say that they can ship to ""developers working on software or GNU/Linux distributions for the loongson MIPSel architecture,"" however unfortunately I can't say I really fit into that category... At least, not yet.
+
+I plan on using the MIPSel port of Parabola GNU/Linux (which I've been using and loving on my x86_64 box for a while) on my Yeeloong
+
+Has anyone got any contacts or tips? Thanks.",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/15kg01/has_anyone_here_been_able_to_get_a_lemote/
+1342517342.0,wozze,"UEFI Problems Addressed by Linux Developers, Not Distributions",r_schestowitz,42,14,http://www.reddit.com/r/gnu/comments/wozze/uefi_problems_addressed_by_linux_developers_not/,,
+1341592632.0,w4vm8,"Celebrated Internet volunteer and free software developer, Bassel Khartabil (safadi) has been detained in Syria",mattl,38,8,http://www.reddit.com/r/gnu/comments/w4vm8/celebrated_internet_volunteer_and_free_software/,,
+1334669456.0,se5pv,The GNUFather,clarince63,48,20,1,,t5_2qh3i,False
+1320244818.0,lxpqe,"GNU MediaGoblin 0.1.0 ""Living the Dream"" released!  And a whole new http://mediagoblin.org/ !",paroneayea,41,11,2,,t5_2qh3i,False
+1314968540.0,k2el8,"GNU MediaGoblin v0.0.5, ""Visions of the Future"", released!  Our most exciting release yet!",paroneayea,36,3,False,
+1308278701.0,i1sh2,Richard Stallman wrote the compiler God used: the Big Bang was the Universe's first segfault; Richard Stallman first words were actually syscalls; Richard Stallman's compiler is afraid to report errors;  and more fun facts about rms. ,beslayed,47,13,15,,t5_2qh3i,False
+1295448043.0,f54c5,"Zuckerberg is TIME magazine's person of the year... where's the dislike button? Oh wait, here it is...",,34,6,http://www.reddit.com/r/gnu/comments/f54c5/zuckerberg_is_time_magazines_person_of_the_year/,,
+1286221822.0,dmr7a,Happy 25th birthday to the FSF - Thank you for defending and fighting for the freedom of all computer users,TheSilentNumber,34,2,0,"Woohoo,,
+1283121506.0,d6zfe,FreedomBox is materializing quickly! You can get one now and start helping,TheSilentNumber,34,2,6,,t5_2qh3i,False
+1365638031.0,1c3lrz,GNU Guile 2.0.9 released,the-fritz,32,2,0,,t5_2qh3i,False
+1362065891.0,19ee6i,"Petition to protect the right to unlock cellphones garners 111,000+ signors; White House must now respond",donaldrobertsoniii,40,12,http://www.reddit.com/r/gnu/comments/19ee6i/petition_to_protect_the_right_to_unlock/,,
+1355419116.0,14ska9,Finding ancient versions of GNU software,BerenErchamion,34,5,17,"So I'm working on a project to set up an old 386 as it might have been in the days when Linux 1.0 was brand-spanking-new.  Thus
+
+For a lot of GNU software, since it was originally not a GNU project I was able to look (and find) elsewhere.  But for bash, there's nothing of that sort.
+
+Where might I find what I'm looking for in these latter cases?",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/14ska9/finding_ancient_versions_of_gnu_software/
+1351768295.0,12galr,Jeremy Allison on why Samba switched to GNU GPLv3,JRepin,37,11,0,,t5_2qh3i,False
+1347666843.0,zwj3x,Quadruple (match x3) donations to the Free Software Foundation this month from Dreamhost.,samething22,38,8,3,"Every few months Dreamhost web hosting has a new charity.  They will match contributions 3 times over.  Their new charity is the Free Software Foundation.  This is a great opportunity to support the FSF.  I think you have to be a Dreamhost user to take advantage though.  
+
+Here is the Charity section from the Dreamhost September 2012 Newsletter (released 9/14):
+
+
+&gt; New Charity: The Free Software Foundation
+&gt;
+&gt; June through August we solicited donations for ""StoryCorps, and preserve the stories of their lives.
+&gt;
+&gt;  http://storycorps.org
+&gt;
+&gt;15 of you - a whopping 0.0045% of our total customer base - donated to the cause
+&gt;
+&gt;Our next donation target is the Free Software Foundation.
+&gt;
+&gt;  http://www.fsf.org/
+&gt;
+&gt;The ""FSF"" works to secure freedom for computer users by promoting the development and use of free (as in freedom) software and documentation- particularly the GNU operating system - and by campaigning against threats to computer user freedom like Digital Restrictions Management (DRM) and software patents.
+&gt;
+&gt;So, fighting to - among other things - put full control of the devices that you already *own* in YOUR hands, and not in the hands of the people that made them.
+&gt;
+&gt; You can submit donations to the Free Software Foundation (which we'll then ultimately quadruple
+&gt;
+&gt;  https://panel.dreamhost.com/index.cgi?tree=home.charity
+&gt;
+&gt; I can't force you to donate,False,,t5_2qh3i,False,,,t3_zwj3x
+1341676649.0,w6j75,"FSF and FSFE Both Speak Out Against UEFI; Ubuntu Drifts Away From FSF, Whereas Debian Comes Closer to FSF | Techrights",r_schestowitz,40,10,http://www.reddit.com/r/gnu/comments/w6j75/fsf_and_fsfe_both_speak_out_against_uefi_ubuntu/,,
+1338914706.0,umalq,Dear authors of Duqu: hand over the source code since it contains GPL code,NightshadeForests,35,3,4,,t5_2qh3i,False
+1338564232.0,ufpkc,"Liberated Pixel Cup art contest launches! Plus style guide, base assets, interactive demo, and prize announcements!",paroneayea,7,,False
+1333132372.0,rl9m9,Ruby inventor Yukihiro Matsumoto wins Award for the Advancement of Free Software,nullcat,36,6,0,,t5_2qh3i,False
+1283962697.0,db5se,FSF responds to Oracle v. Google and the threat of software patents,bcs,39,7,1,,t5_2qh3i,False
+1264514755.0,aubve,Richard Stallman on The Setup,semente,31,1,5,,t5_2qh3i,False
+1370549012.0,1ftakj,Announcing the newest fully free GNU/Linux distribution: LibreWRT,donaldrobertsoniii,38,11,11,,t5_2qh3i,False
+1359146979.0,179ydu,"The FSF met their $350,000 fundraising goal— now help them get 120 new members in the next week! ",kxra,35,6,http://www.reddit.com/r/gnu/comments/179ydu/the_fsf_met_their_350000_fundraising_goal_now/,,
+1355931636.0,1541to,RMS saying Merry Grav-Mass,nico_fsf,39,10,3,,t5_2qh3i,False
+1343685951.0,xexlt,Richard Stallman Comments On Valve For Linux,raymii,47,17,10,,t5_2qh3i,False
+1340102266.0,v9raw,Richard Stallman talking in the UK,r_schestowitz,37,8,1,,t5_2qh3i,False
+1336096704.0,t65ia,"GNOME announces new round of its outreach program to bring more women into free software, with FSF as a new sponsor",mattl,36,10,http://www.reddit.com/r/gnu/comments/t65ia/gnome_announces_new_round_of_its_outreach_program/,,
+1335000440.0,sl3gx,Richard Stallman speaking today in Ljubljana,cholt45,33,6,2,"Richard Stallman speaking on: Copyright vs.Community in the Age of Computer Networks at the Seminar Digitizing Ideas
+
+[Starts](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Richard%C2%A0Stallman+speaking+on%3A%C2%A0Copyright+vs.Community+in+the+Age%C2%A0of+Computer%C2%A0Networks+%40+%23mgdi&amp;iso=20120421T1430&amp;p1=736&amp;ah=1&amp;am=45&amp;sort=2&amp;) [Time zones]:
+
+Sat 14:30	CentralEuropean ST
+
+Sat 08:30  Eastern DT
+
+Sat 07:30  Central DT
+
+Sat 05:30  Pacific DT
+
+
+
+[Event page](http://www.mg-lj.si/node/847)
+
+[Stream](http://pretok.tmp.si/chans/mgdi/)",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/sl3gx/richard_stallman_speaking_today_in_ljubljana/
+1304628706.0,h53m0,Introducing Baby GNU,mattl,34,4,5,,t5_2qh3i,False
+1297440717.0,fji6j,"FSF tells US Trade Reps to reject ACTA, calls for more comments",mattl,35,4,http://www.reddit.com/r/gnu/comments/fji6j/fsf_tells_us_trade_reps_to_reject_acta_calls_for/,,
+1285606296.0,djk73,Help fight DRM -- join the Defective by Design 'NO DRM!' subreddit,mattl,33,8,0,,t5_2qh3i,False
+1265059166.0,awu41,Windows 7 Sins now in 9 languages,mattl,33,4,0,,t5_2qh3i,False
+1262906651.0,amwij,RMS on Selling Exceptions to the GNU GPL,enkiam,32,3,0,,t5_2qh3i,False
+1248186349.0,93608,Amazon can delete your books!,mattl,68,39,5,,t5_2qh3i,False
+1367613957.0,1dn3m9,"Oscar awarded to W3C for Best Supporting Role in ""The Hollyweb""",Zak_at_FSF,33,7,0,,t5_2qh3i,False
+1349102035.0,10rfiy,PersonalWeb's software patent suit against Github and others threatens the freedom of the Web.,donaldrobertsoniii,34,6,2,,t5_2qh3i,False
+1326092748.0,o915j,Can anyone help me find a good vendor that will ship a Lemote Yeeloong Notebook to Canada?,,39,11,5," Given the warrantless spying and Canadian DMCA bills being passed up here,,
+1318950513.0,lgc4x,A call for assistance.,43P04T34,34,5,13,"A little over 25 years ago I developed what I think is the first touchscreen widget framework on the Atari ST for the purpose of creating a graphical user interface for point of sale.  I traveled the world for 15 years, launched on Linux.   It is sometimes described as an application specific X Window Manager, (originally on the Hitachi VisionPlate with the Midori distribution that Linus created when he first arrived in the USA and was working at Transmeta).  
+
+It is, the touchscreen widgets and framework, be separated from the point of sale engine and released under GPL.  The benefits of this are many and I am willing to allow this to be done if there is anyone who is interested in doing this.  My web site is [here](http://www.viewtouch.com) and contact information is on my web site.
+
+This is an ideal project for someone who is experienced in C,,False,,t5_2qh3i,False,,True
+1304359287.0,h2ffj,GNU MediaGoblin announced (and seeking contributors),paroneayea,29,3,2,,t5_2qh3i,False
+1300205680.0,g4hes,"Cell phones are 'Stalin's dream,' says free software movement founder ",nullcat,33,4,http://www.reddit.com/r/gnu/comments/g4hes/cell_phones_are_stalins_dream_says_free_software/,,
+1291858518.0,eina9,"""Diaspora is really just the better known of the emergent open standards social movement – the backlash to Facebook, thy name is distributed.""",TheSilentNumber,32,2,http://www.reddit.com/r/gnu/comments/eina9/diaspora_is_really_just_the_better_known_of_the/,,
+1291674998.0,eha03,Tell YouTube to extend HTML5 support to videos with ads and support free culture licenses (sign in with Google account and click link again),TheSilentNumber,33,6,5,,t5_2qh3i,False
+1275874981.0,cc5kt,Should we start a campaign to convince websites to start implementing WebM video?,ElDiablo666,31,2,11,"I think it would be a mistake to let this happen ""naturally"" and wait for sites to adopt it voluntarily. Is this a good idea? What can we do to put some pressure on websites to start using this technology?",t5_2qh3i,True
+1375821794.0,1ju40o,gNewSense 3.0 has (finally) gone stable!,Habstinat,38,9,14,,t5_2qh3i,False
+1371690661.0,1gp3j5,MediaGoblin 0.4.0: Hall of the Archivist,the-fritz,32,6,0,,t5_2qh3i,False
+1361449358.0,18y86v,Two Years of GNU Guile Scheme 2.0,the-fritz,29,2,6,,t5_2qh3i,False
+1359983134.0,17v4vi,FSF licensing team's 2012 - 400 compliance reports resolved,johdu,32,5,0,,t5_2qh3i,False
+1351531456.0,12a9dd,International press is biting! FSF's wacky Win8 action covered in five languages,Zak_at_FSF,36,9,3,,t5_2qh3i,False
+1337513992.0,tvw4g,Bangalore India slum kids use open-source software to learn computer skills,r_schestowitz,32,5,0,,t5_2qh3i,False
+1334066599.0,s2j4k,"What's going on with MediaGoblin? Well, we've been Very Busy Goblins...",paroneayea,31,3,http://www.reddit.com/r/gnu/comments/s2j4k/whats_going_on_with_mediagoblin_well_weve_been/,,
+1332165797.0,r3fzn,A field guide to copyleft perspectives,paroneayea,34,7,4,,t5_2qh3i,False
+1327617580.0,oy8of,And now for some completely different ways to give to the Free Software Foundation...,mattl,30,3,0,,t5_2qh3i,False
+1317249939.0,kulje,Petition the White House to end software patents,mattl,31,3,0,,t5_2qh3i,False
+1313355053.0,jipkv,TIL that GNU date has a %F format option.,MarkTraceur,31,5,4,It is the same as %Y-%m-%d. My backup scripts will forever be shorter.,t5_2qh3i,True
+1300314120.0,g5gjp,this pic of rms always makes me smile ,kamechan,32,6,2,,t5_2qh3i,False
+1286782754.0,dpm72,"Piracy and free software, ""Free software and free culture call for a revolution. Piracy only calls for a riot.""",TheSilentNumber,29,3,http://www.reddit.com/r/gnu/comments/dpm72/piracy_and_free_software_free_software_and_free/,,
+1264090620.0,asfu3,"Benjamin Mako Hill: Free software is not really about software in this fundamental sense; it's about bringing freedom to users through software. In free software's incredible success over the last two decades, many people have lost sight of this simple fact.",mattl,32,4,http://www.reddit.com/r/gnu/comments/asfu3/benjamin_mako_hill_free_software_is_not_really/,,
+1237704020.0,86jb5,Richard Stallman -- The Javascript Trap,mattl,32,5,2,,t5_2qh3i,False
+1370554610.0,1ftilg,GNU/Linux flag at the top of the Americas,johdu,32,6,1,,t5_2qh3i,False
+1352482808.0,12x7eb,Last day to donate to the MediaGoblin crowdfunding campaign! ,chrissietherese,43,18,2,"Help make distributed media sharing happen!
+http://mediagoblin.org/pages/campaign.html",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/12x7eb/last_day_to_donate_to_the_mediagoblin/
+1351289030.0,125a5y,Copyright Office fails to protect users from DMCA,donaldrobertsoniii,30,4,0,,t5_2qh3i,False
+1350925344.0,11wj27,Lulzbot &amp; MediaGoblin team up to bring 3d model support to MediaGoblin!,Zak_at_FSF,32,7,0,,t5_2qh3i,False
+1302536830.0,gngkt,GNU IceCat 4.0 released!,,32,6,5,,t5_2qh3i,False
+1282723045.0,d56jg,"Hey reddit, it's GNU/Linux",sabetts,44,19,http://www.reddit.com/r/gnu/comments/d56jg/hey_reddit_its_gnulinux/,,
+1280159617.0,ctugf,"Major distros like Debian and Ubuntu don't meet their own free software requirements. At the very least, a free install option should be supported",TheSilentNumber,32,4,http://www.reddit.com/r/gnu/comments/ctugf/major_distros_like_debian_and_ubuntu_dont_meet/,,
+1276722719.0,cfrh9,"Support a firm, simple declaration against ACTA. Sign the petition and pass it on! [crosspost]",TheSilentNumber,32,8,http://www.reddit.com/r/gnu/comments/cfrh9/support_a_firm_simple_declaration_against_acta/,,
+1276532243.0,cev35,Defective By Design's more accurate take on Apple's 1984 ad,TheSilentNumber,39,11,1,,t5_2qh3i,False
+1264202777.0,at1zf,Join DbD at the Apple product launch,mattl,51,23,4,,t5_2qh3i,False
+1251280405.0,9e9aq,Windows 7 Sins: The case against Microsoft and proprietary software,mtjm,35,9,0,,t5_2qh3i,False
+1359575066.0,17kuiy,"We created a GNU/Linux and free software subreddit for high school and pre-university students, /r/gnugeneration ",NotA9GagUser,33,7,http://www.reddit.com/r/gnu/comments/17kuiy/we_created_a_gnulinux_and_free_software_subreddit/,,
+1344980901.0,y85gx,Free Software Foundation looking for fall licensing intern,donaldrobertsoniii,32,5,2,,t5_2qh3i,False
+1340314515.0,vei8d,Emacs Reference mugs are back!,chrissietherese,32,9,4,,t5_2qh3i,False
+1331509487.0,qs4ob,Richard Stallman | The GNU/Linux Action Show,MarkTraceur,33,6,14,,t5_2qh3i,False
+1314890350.0,k1dgl,Sixteen Years Later: GNU Still Needs An Extension Language - Slashdot,muuh-gnu,28,2,1,,t5_2qh3i,False
+1301526715.0,gf301,Avoid the pitfalls of the JavaScript Trap on Gmail ,547,35,8,5,,t5_2qh3i,False
+1357661387.0,166stj,How does a more 'mainstream' GNU/Linux benefit free/libre software as a whole?,antman811,32,8,12,"I asked this over at r/linux and the user 'e_d_a_m' suggested I ask here as well:
+
+http://www.reddit.com/r/linux/comments/166jqi/how_does_a_more_mainstream_linux_benefit/
+
+I got some good responses. I liked garja's in particular.
+
+Also,,False,,t5_2qh3i,False,,True
+1351276841.0,124xf8,Windows 8: Don't buy the hype,johdu,31,7,1,,t5_2qh3i,False
+1348765858.0,10kkpt,Join the FSF and Friends this Friday to help improve the Free Software Directory,donaldrobertsoniii,28,4,0,,t5_2qh3i,False
+1348441183.0,10d33y,"FSF will have a booth at Ohio Linux Fest, September 29th",nullcat,32,8,http://www.reddit.com/r/gnu/comments/10d33y/fsf_will_have_a_booth_at_ohio_linux_fest/,,
+1343109952.0,x275p,TechBytes Episode 70: Richard Stallman on How Browsers and Social Networking Sites Facilitate Surveillance | Techrights,r_schestowitz,36,11,0,,t5_2qh3i,False
+1339735323.0,v2y4i,The Silencing of Maya: A 4yo girl threatened to lose her ability to express herself due to software patents,NightshadeForests,34,10,3,http://niederfamily.blogspot.be/2012/06/silencing-of-maya.html,t5_2qh3i,True
+1337768303.0,u0t6q,Free software idealism is a necessary and desirable part of the software landscape,JRepin,26,1,0,,t5_2qh3i,False
+1328803077.0,phvnp,"GNU MediaGoblin 0.2.1: ""Gearing Up"" released! GPS/OpenStreetMap, CC licensing, ascii art support, and more!",paroneayea,6,,False
+1313000043.0,jetbt,GNU MediaGoblin now looking for translation help!,paroneayea,26,2,4,,t5_2qh3i,False
+1312798703.0,jca5c,Help needed improving this helpful list of free software web applications on Wikipedia! ,TheSilentNumber,26,3,0,,t5_2qh3i,False
+1305984236.0,hgnk5,Do you give up on use some programs because of your ideologies?,schroderlesi,28,4,46,"I've come to a conundrum when it comes particularly on using in photo-editing software. There aren't sufficient features on the free/libre alternatives and the good ones are available only to win/osx. 
+
+I don't want to lose my features
+ ",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/hgnk5/do_you_give_up_on_use_some_programs_because_of/
+1299466666.0,fyqtl,Judge colludes with Sony to carry out terror campaign against people who have committed no crime,ElDiablo666,29,5,2,,t5_2qh3i,False
+1291086593.0,edooc,GNU Savannah Hacked via SQL Injection,lwf,28,3,5,,t5_2qh3i,False
+1268427538.0,bcox1,FSF calls for a database of school systems that distribute laptops-- so we won't have to cover our kids' webcams with tape.,holmesworcester,31,7,0,,t5_2qh3i,False
+1371440112.0,1ghras,What kind of portable PC does RMS use,NSAthrowaway123456,28,5,9,title,t5_2qh3i,True
+1363897138.0,1ar59f,FSF Interview with Adam Hyde of Booktype,donaldrobertsoniii,32,8,0,,t5_2qh3i,False
+1356884579.0,15oda6,Where can a Canadian student get a laptop that supports a truly free Linux distro for $250 or less?,,28,4,8,"As per the topic, etc)
+
+Thank you so much for helping me!",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/15oda6/where_can_a_canadian_student_get_a_laptop_that/
+1342236779.0,wj98f,"Short, Dumb, Funny Video: StallmanQuest",mynameisomar,31,12,False,
+1307719715.0,hwfql,The Right to Read,mattl,28,5,2,,t5_2qh3i,False
+1304295224.0,h1ozq,Decompress RARv3 with free software: The Unarchiver,,29,6,1,,t5_2qh3i,False
+1300506521.0,g6vnt,Often firmware and binary blobs are neglected. Let's try to fix that. ,TheSilentNumber,29,5,4,,t5_2qh3i,False
+1297196785.0,fhpzc,"Debian ""Squeeze"" makes key progress toward being a fully free distribution",mattl,25,2,5,,t5_2qh3i,False
+1286976400.0,dqnwu,YouTube users can finally choose to make sure their uploads are viewable in HTML5 + WebM,TheSilentNumber,30,6,7,,t5_2qh3i,False
+1282522687.0,d47v2,"The FreedomBox Project, inspired by Eben Moglen. Easy plug-in-and-forget freedom for everyone by 2015. ",TheSilentNumber,27,3,http://www.reddit.com/r/gnu/comments/d47v2/the_freedombox_project_inspired_by_eben_moglen/,,
+1280517587.0,cvltb,Richard Stallman at the Wozniak Lounge at 6:00 PM Today,BerkeleyCSUA,29,4,2,"Sorry for the short notice
+that Richard Stallman
+the Wozniak Lounge at the University of California
+
+He will be giving a speech on Copyright vs. Community.
+
+Further description can be found here:
+http://www.fsf.org/events/20100730-cvc-oakland
+
+Again,False,,t5_2qh3i,False,,,t3_cvltb
+1264617974.0,auvba,Apple iPad spanked with Defective by Design protest,enkiam,32,9,0,,t5_2qh3i,False
+1261672678.0,ai8r8,The Free Software Foundation's work represents the most important work for freedom that this culture has seen in many many generations.,mattl,26,4,2,,t5_2qh3i,False
+1338239775.0,u99a8,Want to help make Linux Tycoon and Illumination Software Creator (and more) go GPL? Now's your chance.,BryanLAS,45,24,16,,t5_2qh3i,False
+1337844657.0,u2g09,Computers Without Borders spread computing knowledge and computer sciences via Free Software and Free Hardware,JRepin,24,3,8,,t5_2qh3i,False
+1321552675.0,mfvzq,"A quarter of the Hurd: Arch Hurd with DDE, Debian boxes, GHM talk and GSoC: Java",JRepin,25,0,False,
+1320232057.0,lxknq,Vote for LibreOffice to get 1000 € from ING-DiBa (German bank),,28,5,3,,t5_2qh3i,False
+1312234178.0,j6224,Come work at the Free Software Foundation in Boston! We're hiring a full time sysadmin...,mattl,25,1,9,,t5_2qh3i,False
+1310746653.0,iqipm,The Free Game Lag: We can have free software games!,mattl,24,3,2,,t5_2qh3i,False
+1307549052.0,hupgz,Behind the scenes of the new GNU mailing list server,,22,0,1,,t5_2qh3i,False
+1304071853.0,h01jl,Bad documentation? Submit links to /r/manpages ,liquidzoot,26,3,0,,t5_2qh3i,False
+1301842056.0,ghnhk,Free Software and Anarchism,AndreasBWagner,26,3,4,,t5_2qh3i,False
+1300152589.0,g427y,GNU Free Call Announced,semente,22,0,4,,t5_2qh3i,False
+1281712504.0,d0szc,id Software liberates both Wolfenstein: Enemy Territory and Return To Castle Wolfenstein games,TheSilentNumber,28,6,11,,t5_2qh3i,False
+1280969330.0,cxibp,BusyBox and the GPL Prevail Again,,28,7,0,,t5_2qh3i,False
+1280285224.0,cuh51,"Apple, pushing a more restrictive and DRM heavy business model, is a bigger threat to free software than Microsoft",TheSilentNumber,28,3,False,
+1267129957.0,b6j1b,"Decade in DRM: DbD looks back on 10 years in the fight against DRM, and announces a day of action on May 4th.",holmesworcester,36,15,http://www.reddit.com/r/gnu/comments/b6j1b/decade_in_drm_dbd_looks_back_on_10_years_in_the/,,
+1248370603.0,93x3w,How the Swedish Pirate Party Platform Backfires on Free Software,,26,5,1,,t5_2qh3i,False
+1371357168.0,1gfsui,Is there some active forum people discuss GPL license issues and concerns?,Vermilion,28,6,8,"Is this subreddit pretty active on GPL license discussions?  Can someone suggest other websites with active discussions.
+
+For example
+
+",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/1gfsui/is_there_some_active_forum_people_discuss_gpl/
+1359643161.0,17mozu,New FSF membership benefit!,libbyr,30,9,2,,t5_2qh3i,False
+1343029659.0,x098p,Stallman Interviews Series | Techrights,r_schestowitz,34,15,4,,t5_2qh3i,False
+1329868036.0,q02ja,"LibrePlanet 2012 schedule -- Eben Moglen, Matthew Garrett, Karen Sandler, Evan Prodromou and more...",mattl,3,,False
+1322015999.0,mm8so,"This is why I hate Internet advertising. The I am not familiar with the Free Software Magazine, but I am pretty sure that they took the name because it sounded nice... however nothing makes me more frustrated than seeing this advertisement on a page claiming to promote free software. ",levl,32,11,http://www.reddit.com/r/gnu/comments/mm8so/this_is_why_i_hate_internet_advertising_the_i_am/,,
+1314661364.0,jyh4o,"With the proliferation of static site generators like jekyll, a good AGPL alternative to Disqus is needed",dumbmatter,23,4,http://www.reddit.com/r/gnu/comments/jyh4o/with_the_proliferation_of_static_site_generators/,,
+1310712421.0,iq7hj,Why is it called Debian GNU/Hurd instead of Debian GNU or even Debian Hurd?,sje46,26,6,25,"I understand the viewpoint (although I don't necessarily share it) behind calling the Linux version Debian GNU/Linux
+
+Apologies if this is a dumb question or anything.  ",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/iq7hj/why_is_it_called_debian_gnuhurd_instead_of_debian/
+1304543721.0,h4az4,"r/gnu, what Free Software blogs do you follow?",sbrown1992,22,3,http://www.reddit.com/r/gnu/comments/h4az4/rgnu_what_free_software_blogs_do_you_follow/,,False
+1301089272.0,gbkhv,Why must practical works be free/libre?,nullcat,26,6,31,"In [this interview with RMS](http://thephoenix.com/Boston/news/94550-tilting-at-windows/?page=3#TOPCONTENT)
+
+I am wondering about the justification for his statement. Is it because sharing practical works is beneficial to society
+
+What does this imply about works of entertainment? For example
+
+Perhaps it is a matter of degree,False,,t5_2qh3i,False,,,t3_gbkhv
+1300973209.0,gagll,"Don, copyright admin and sales guru from the FSF is donating bone marrow stem cells today -- ask him anything",mattl,22,0,http://www.reddit.com/r/gnu/comments/gagll/don_copyright_admin_and_sales_guru_from_the_fsf/,,
+1299528278.0,fz8fm,"Of course, the best thing about working for the FSF is working for Richard Stallman.",mattl,25,5,http://www.reddit.com/r/gnu/comments/fz8fm/of_course_the_best_thing_about_working_for_the/,,
+1290058930.0,e7y3u,Free Software Parable,joehillen,27,4,3,,t5_2qh3i,False
+1285796506.0,dkpeu,"On copyright assignment and Project Harmony: if you're contributing to free software, it should stay free",TheSilentNumber,23,1,http://www.reddit.com/r/gnu/comments/dkpeu/on_copyright_assignment_and_project_harmony_if/,,
+1285683976.0,dk040,LibreOffice - A fresh page for OpenOffice,pixiemotion,25,4,1,,t5_2qh3i,False
+1277156841.0,chhmk,What's this? FSF video blog! Introducing the campaigns interns,TheSilentNumber,25,5,2,,t5_2qh3i,False
+1276028088.0,ccv7f,For all security enthusiasts: A new /r/ - All about the GNU Privacy Guard,,25,2,0,,t5_2qh3i,False
+1376008011.0,1jzspr,Debian &amp; GNU - Stefano Zacchiroli speech at LibrePlanet 2013,BitpatternDesignator,23,4,6,,t5_2qh3i,False
+1347286718.0,znj50,"Celebrate Software Freedom Day 2012 in Cambridge, Massachusetts! — Free Software Foundation — working together for free software",bobcall,28,6,http://www.reddit.com/r/gnu/comments/znj50/celebrate_software_freedom_day_2012_in_cambridge/,,
+1342647528.0,ws692,"The FSF Compliance Lab Doubles
+",6,5,http://www.reddit.com/r/gnu/comments/ws692/the_fsf_compliance_lab_doubles/,,,False,t5_2qh3i,False
+1340547391.0,viw81,Anyone else noticing a backlash against GPL?,andreasw,30,10,36,"The reason given is ""GPL is less free than non-copyleft licenses."" Frankly
+
+I can't quite figure out the underlying causes of this anti-GPL tension or when it started to pick up.",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/viw81/anyone_else_noticing_a_backlash_against_gpl/
+1332716635.0,rdb1i,The Technotaph : Why Free Software is Important,MarkTraceur,23,4,0,,t5_2qh3i,False
+1291179272.0,eebb3,"Ryzom, the liberated MMORPG, now ported to GNU+Linux!",TheSilentNumber,24,1,False,
+1285022307.0,dgkps,TIL Creative Commons has a page for the GPL. :),,24,4,6,,t5_2qh3i,False
+1284409076.0,ddcq7,"They're using free software, why aren't you! ",TheSilentNumber,24,3,http://www.reddit.com/r/gnu/comments/ddcq7/theyre_using_free_software_why_arent_you/,,
+1280413871.0,cv32x,Free software will make Facebook the next AOL,TheSilentNumber,21,1,1,,t5_2qh3i,False
+1280344148.0,curgk,"Reject UltraViolet -- a new DRM scheme from Sony, Toshiba, Microsoft and Intel",TheSilentNumber,25,1,False,
+1276625024.0,cfayy,FSF is hosting a GNU social architecture meeting tonight,TheSilentNumber,24,3,5,,t5_2qh3i,False
+1275917487.0,ccbbn,Mailing out 'Patent Absurdity',mattl,23,5,0,,t5_2qh3i,False
+1259821623.0,aakff,We must make freedom our goal,mattl,20,0,6,,t5_2qh3i,False
+1250709367.0,9c6rf,Working with Ogg Theora and the video tag,bcs,27,8,1,,t5_2qh3i,False
+1356037627.0,156r8s,Join the FSF and friends in updating the Free Software Directory,donaldrobertsoniii,26,7,0,,t5_2qh3i,False
+1351923074.0,12jzrk,Are There Any FSF-Approved IT Certifications?,emacs-and-cheese,26,7,5,"I am interested in obtaining software or hardware IT certifications to bolster my education. As of now
+
+I know of the existence of the [Free Technology Academy](http://www.fsf.org/blogs/community/fta-sep-2011),False,,t5_2qh3i,False,,,t3_12jzrk
+1351017433.0,11yjlh,Student at WVU explains how he realized open source rocks,flipdabit,24,4,1,,t5_2qh3i,False
+1348240521.0,1091n2,Join the FSF and friends in updating the Free Software Directory Today,donaldrobertsoniii,28,9,0,,t5_2qh3i,False
+1342531496.0,wp7cj,"TechBytes Episode 69: Richard Stallman on ‘Secure’ Boot (UEFI), Coreboot, GRUB, and Boot Freedom | Techrights",r_schestowitz,8,,False
+1342195870.0,wi67x,Why not Debian?,mynameisomar,25,7,68,"I suppose this would be a good place to ask this question...
+
+Why does Stallman think Debian does not fit his rules for freedom? Just because there are nonfree packages in the repository doesn't mean Debian is nonfree -- it's up to the user to stay responsible and not download those said packages. It's completely possible for one to avoid those packages and keep Debian as clean as Trisquel or gNewSense -- especially with the help of vrms to make sure said person didn't do anything wrong by accident.
+
+ What I'm trying to say here is that
+
+",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/wi67x/why_not_debian/
+1338395162.0,uca20,Why GNU/Linux for Android is the most important Linux project today,TheSilentNumber,31,12,12,,t5_2qh3i,False
+1336973347.0,tm2a9,A few questions about the Lemote Yeeloong Netbook.,,20,0,7," I have read that the Yeeloong isn't being shipped with an open source bios now. Is this true? Also,,
+1335556078.0,svrb2,Help the Liberated Pixel Cup close the fundraising gap! ,TheSilentNumber,24,5,0,,t5_2qh3i,False
+1334564217.0,sc4h3,GIMP 2.7 for Photoshop Expatriates,r_schestowitz,24,4,0,,t5_2qh3i,False
+1316718013.0,ko70x,Locked down system firmware could prevent installation of free operating systems,nullcat,26,7,2,,t5_2qh3i,False
+1312323601.0,j74ob,New GNU Emacs manual released for version 23.3,mattl,22,3,0,,t5_2qh3i,False
+1312217106.0,j5t6n,"Media sharing webapp MediaGoblin 0.0.4 ""Inward Reflections"" released!",paroneayea,25,5,0,,t5_2qh3i,False
+1311584088.0,iz15v,Delete your Facebook for your birthday! ,TheSilentNumber,25,8,10,,t5_2qh3i,False
+1310425065.0,imulg,Richard Stallman will be giving two talks in Israel,,23,3,14,"Haifa:
+Copyright vs Community in the Age of the Computer Networks
+July 21 at 5pm (sharp).
+Baladna Youth Club
+Zion Street 3-A
+Haifa
+
+Tel Aviv area:
+For a Free Digital Society
+July 22
+Al Saraya Theater
+Mifratz Shlomo St. 10 (near the hamam)
+Ancient Jaffa
+
+Edit: Also,False,,t5_2qh3i,True,,,t3_imulg
+1285611113.0,djlfz,Beyond Diaspora: Another Facebook alternative has a head start!,TheSilentNumber,22,5,1,,t5_2qh3i,False
+1285268817.0,dhz0b,Looking for Coding Guidelines for GNU Social,,20,1,16,"Hello, how variables,
+1278871918.0,cod7p,GNU HURD - Altered visions and lost promise - The H Open Source: News and Feat,Samus_,22,4,8,,t5_2qh3i,False
+1263873454.0,araa6,Tell Ubuntu not to bundle proprietary apps!,brmj,28,9,16,,t5_2qh3i,False
+1254403853.0,9puuj,Ten Reasons Why You Should Boycott Skype,enkiam,29,12,3,,t5_2qh3i,False
+1245451817.0,8u105,New FSF membership cards are credit-card-sized thin USB flash drives (loaded with gNewSense Live),chkno,20,2,3,,t5_2qh3i,False
+1364028103.0,1aunek,How can the free software movement improve its communication?,tdobson,26,6,3,,t5_2qh3i,False
+1338919792.0,umfhn,URGENT: Want to be on the Students for Free Culture's Board of Directors?,TheSilentNumber,21,4,0,"If you are a student slash affiliated with a college
+
+I would love to help you with the election process if you are interested in any of the following roles: 
+
+* Treasurer
+* Outreach &amp; Campaign Coordinator
+* Chapter &amp; New Member Coordinator
+* Conference Coordinator
+
+Please private message me if you are interested! ",,t5_2qh3i,1338920014.0,,,True,http://www.reddit.com/r/gnu/comments/umfhn/urgent_want_to_be_on_the_students_for_free/
+1338365966.0,ubudg,"Linux kernel devs, Samba join GPL compliance effort",r_schestowitz,25,7,http://www.reddit.com/r/gnu/comments/ubudg/linux_kernel_devs_samba_join_gpl_compliance_effort/,,
+1334159059.0,s4gt3,"The Liberated Pixel Cup: Creative Commons, the FSF, and OpenGameArt team up for an epic contest for gaming freedom",mattl,24,0,False,
+1327721957.0,p02z9,It's not enough to simply open source an AR-15 lower for 3D printing.,ar0cketman,31,12,6,,t5_2qh3i,False
+1317184955.0,ktrmn,GNU is 28! Watch Happy Birthday to GNU -- a film I made with Stephen Fry in 2008 to celebrate 25 years of GNU,mattl,18,1,0,,t5_2qh3i,False
+1314147948.0,jscsk,Any experience with the Free GNU distros?,Inaimathi,18,2,26,"I figured this would be the right place to ask. I'm running Debian at the moment
+
+Does anyone here have experience using it (or any of the others) on their main machine? Any gotchas I should be aware of,False,,t5_2qh3i,False,,,t3_jscsk
+1310319273.0,ilpbz,FabFi: An free software wireless network built with trash,semente,21,2,2,,t5_2qh3i,False
+1305515391.0,hc98p,Is the Skype purchase reaction a good thing or a bad thing?,mikankun,20,2,11,Seeing the way most people in the GNU/Linux community are reacting to MS purchasing Skype is troubling. It's as if before MS purchased the software it was free but now that MS owns it the software is proprietary. Only now are people looking at free alternatives as if freedom suddenly matters to them. I'd like to see the reaction if MS decided to purchase Adobe. ,t5_2qh3i,True
+1302118725.0,gk56t,How I use GNU/emacs,taresp,43,23,22,,t5_2qh3i,False
+1297449277.0,fjlot,GNUdroid - An idea that's time has come?,,22,4,5,"Android has grown rapidly and the fact that there’s a fully FOSS OS available to run on our tablets and phones is remarkable. But, is a FOSS OS with a glut of non-free apps. The applications I use on a regular basis are non-free
+
+What we need now is what GNU did in the 80s but for Android. We need a project that sponsers and develops all of the tools people would want as their Android userland: a microblogging client, an IM client, widgets, a mail client, etc. We essentially need what GNOME does but without the desktop, OS, or APIs (well a GNUdroid launcher could be cool.)
+
+It would be important that the entire set of apps share a design language and can inter-operate well. I don’t know if this idea has come up before but I think there’d be a real place for a meta-project like this. If I could replace all of the non-free software on my phone and tablet with a unified FOSS app collection I’d be a very happy man.
+
+tl;dr Android's FOSS but most apps that people use on Android are not. We need a project like GNU or GNOME to develop and sponsor a collection of free apps for Android that can replace the non-free apps people use every day.
+",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/fjlot/gnudroid_an_idea_thats_time_has_come/
+1290920516.0,ecqqz,How can all these manufacturers get away with violating antitrust laws? Can we (or the SFLC or EFF or someone) do something about it? ,TheSilentNumber,21,2,1,,t5_2qh3i,False
+1281365195.0,cz3ds,GNU Accessibility Statement,hakl,18,0,0,,t5_2qh3i,False
+1278681757.0,cnosx,Defending against laws which threaten user freedom,TheSilentNumber,22,4,0,,t5_2qh3i,False
+1277304041.0,ci5it,Can you help us stuff envelopes? Free pizza!,mattl,22,4,8,"The Free Software Foundation is looking for volunteers for the rest of the week to come in and help us stuff envelopes for our spring/summer mailing.
+
+If you're interested,,False,,t5_2qh3i,False,,True
+1254771590.0,9r33h,Lest CodePlex Perplex - Richard Stallman's opinion on the CodePlex Foundation,mtjm,19,1,0,,t5_2qh3i,False
+1252408061.0,9ie17,"Myths debunked: YouTube, please use Ogg Theora for HTML 5",TheSilentNumber,26,8,http://www.reddit.com/r/gnu/comments/9ie17/myths_debunked_youtube_please_use_ogg_theora_for/,,
+1362746840.0,19wq74,Does Debian have a 'welcoming committee' and could we be helping out?,strange_kitteh,26,11,15,"I'm primarily a Trisquel user but I do recommend Debian to non-technical new users (I only know non-technical people irl) and run it on my very infrequently used netbook (I'm sorry. I do love Trisquel
+
+With the recent ubuntu community issues, they've never actually taught its users about Free software or what it is (the social movement behind it nor philosophy). In a way, they've actually coopted the term 'free software"" to mean ""open source"" in a lot of peoples minds (i.e. the belief that there's nothing wrong with TPM software, if it meets the four freedoms than it's Free software). 
+
+Of course, I've seen many say the same about mint, etc. but I haven't seen anything similar to a social contract or debians history from them). I think this may just be because those users feel slighted right now, but I also see an opportunity to teach too. As far as my understanding, Debian has always valued Freedom and has had goals that did not end with simply obtaining marketshare but I'm afraid the existing community may find themselves somewhat overwhelmed if they want to convey values to new users as well as welcoming them. Maybe, maybe not; Half of the reason for this post is to ask your thoughts on that?
+
+What can we do to help out Debian if this current ubuntu community  situation does turn out to be a diaspora? I had a feeling something was up (and to be honest, could we do more?",,False,,t5_2qh3i,False,,
+1343747189.0,xg9ip,Emacs Demographics Survey,OMouse,22,4,9,,t5_2qh3i,False
+1335490806.0,sukvu,The GPL Does Not Depend on the Copyrightability of APIs,eltondegeneres,21,3,1,,t5_2qh3i,False
+1332806685.0,rf14c,Trisquel founder Rubén Rodríguez's talk at Libreplanet 2012,nullcat,20,4,4,,t5_2qh3i,False
+1317203307.0,ktxxn,The Evolution of Privacy on Facebook,Cheatboy2,19,2,2,,t5_2qh3i,False
+1316682153.0,knql2,"""Free as in Freedom"" Panel with Richard Stallman and Nina Paley [xpost from /r/freeculture]",PehJota,19,2,1,,t5_2qh3i,False
+1295976076.0,f8siu,Technological power should be held by all users of a technology. ,mattl,22,5,10,,t5_2qh3i,False
+1282676751.0,d4yk8,"Please spread the word: Internship for the Women's Caucus of the FSF to increase the number of, and raise the profile of current women in free software! ",TheSilentNumber,22,4,http://www.reddit.com/r/gnu/comments/d4yk8/please_spread_the_word_internship_for_the_womens/,,
+1280583852.0,cvu2i,GNU and FSF audio and video repository,,17,1,0,,t5_2qh3i,False
+1259623315.0,a9nih,The Nobel Peace Prize for Richard Stallman (nobel2rms) group - Identi.ca,enkiam,23,4,0,,t5_2qh3i,False
+1354144051.0,13ylj3,Richard Stallman doing an AMA on Slashdot,Zak_at_FSF,21,7,1,,t5_2qh3i,False
+1351525942.0,12a2y0,MediaGoblin and OpenPhoto at the Federated Social Web Summit 2012: a recap,paroneayea,19,2,0,,t5_2qh3i,False
+1339958584.0,v6qjd,Anyone know of any early (pre-1991) GNU-related press or published discussions? ,dr_spork,24,6,1,"I'm researching the history of GNU, or books. ",t5_2qh3i
+1339628206.0,v0nd9,Hostility to Free Software,r_schestowitz,23,6,2,,t5_2qh3i,False
+1336406429.0,tbb7d,linux.com interview: MediaGoblin's One Year Anniversary: What's Next?,paroneayea,18,3,0,,t5_2qh3i,False
+1336404490.0,tb9lb,"RMS ""visiting"" Bull in Tunisia. #rmstunisie #OpBull",lnxed,19,4,1,,t5_2qh3i,False
+1334588037.0,scfvy,Ideas for spreading free software | LibrePlanet wiki,TheSilentNumber,19,3,0,,t5_2qh3i,False
+1327598164.0,oxs7k,Audio interview with GNU MediaGoblin lead developer Chris Webber on Frostcast,paroneayea,20,4,0,,t5_2qh3i,False
+1315412895.0,k7q1q,Fall internship opportunities at the Free Software Foundation!,mattl,25,9,1,,t5_2qh3i,False
+1305860416.0,hfkws,"Just curious, are you ""non-techie""? ",,22,6,http://www.reddit.com/r/gnu/comments/hfkws/just_curious_are_you_nontechie/
+TIA :)",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/hfkws/just_curious_are_you_nontechie/
+1298794099.0,ftlw2,What happened? Is GNU Social no longer GNU?,shii,18,2,5,,t5_2qh3i,False
+1297048968.0,fgm66,GNU and Free Software for the Computer Illiterate,VyseofArcadia,23,7,13,"I'm getting tired of trying to explain the basics.
+
+Let me back up and be a bit more concrete. My younger brother is currently in college with an eye on law school. He loves technology but is rather technically ignorant. I've tried to explain the importance of free software to him (as it might be important for future law workers
+
+Earlier this very evening, that it would explain everything. But it doesn't. It throws out a lot of technical terms with little in the way of explanation. It's all very understandable to me, but I have a computer science degree and have been using free software for years (and some would say drinking the free software kool-aid.)
+
+So I want a good introduction to free software for the computer illiterate
+
+Nothing I've read fits the bill. Does anyone know of such a document?",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/fgm66/gnu_and_free_software_for_the_computer_illiterate/
+1296693745.0,fe60k,"I wrote some software that I released under GPL2, and I believe someone copied large parts of it, what is my best course of action?",intervigil,22,5,False,
+1282096836.0,d2e7h,6 reasons why Flash isn't going away (Gnash still needs your help),codeus,18,3,2,,t5_2qh3i,False
+1280757967.0,cwfc2,The current state of free software - Eben Moglen at LibrePlanet 2010,TheSilentNumber,17,0,3,,t5_2qh3i,False
+1276102845.0,cd7du,"From preaching to practice, Ubuntu's commitment to free software",TheSilentNumber,19,3,http://www.reddit.com/r/gnu/comments/cd7du/from_preaching_to_practice_ubuntus_commitment_to/,,
+1261178207.0,agb8v,The Fall 2009 FSF Bulletin is now online. Includes an excellent piece from Mako Hill on the fight for software freedom on mobile phones.,holmesworcester,18,2,1,,t5_2qh3i,False
+1259845651.0,aanwg,"A month of the Hurd: initial work on network device drivers in user space, GRUB 2. ",goatmilk,18,2,http://www.reddit.com/r/gnu/comments/aanwg/a_month_of_the_hurd_initial_work_on_network/,,
+1254152846.0,9otxk,"Without Free Software, Open Source Would Lose its Meaning",,17,1,http://www.reddit.com/r/gnu/comments/9otxk/without_free_software_open_source_would_lose_its/,,
+1368296043.0,1e50zt,awk 4.1.0,based2,18,5,0,,t5_2qh3i,False
+1363210510.0,1a8qu5,The Guile 100 project,muuh-gnu,18,4,0,,t5_2qh3i,False
+1360800460.0,18h9n3,Keep the Pressure on White House and US Copyright Office to fix Anti-Circumvention Provisions,donaldrobertsoniii,22,7,0,,t5_2qh3i,False
+1332604778.0,rbhdr,"Live streaming of FSF's LibrePlanet conference in Boston -- registration still open, come on down",mattl,18,2,http://www.reddit.com/r/gnu/comments/rbhdr/live_streaming_of_fsfs_libreplanet_conference_in/,,
+1331802156.0,qxkki,GNOME 3.4 Beta 2 Released,r_schestowitz,23,8,0,,t5_2qh3i,False
+1328069563.0,p5nd9,"Free Software Supporter, Issue 46, January 2012",mattl,17,0,False,
+1316897163.0,kqaud,"Proposed software liability law: allow users to audit and disable software features, or accept liability",PehJota,16,2,http://www.reddit.com/r/gnu/comments/kqaud/proposed_software_liability_law_allow_users_to/,,
+1314485624.0,jwi4h,It’s Not About the Software,trombonechamp,18,3,1,,t5_2qh3i,False
+1305656548.0,hdjuj,Guest lecture by Richard Stallman at the Free Technology Academy,nullcat,17,3,3,,t5_2qh3i,False
+1300273775.0,g52c2,"LibrePlanet 2011 Conference: Boston, weekend of March 19",rmull,16,2,http://www.reddit.com/r/gnu/comments/g52c2/libreplanet_2011_conference_boston_weekend_of/,,
+1298108583.0,fofm9,/r/Freedombox a new reddit for news &amp; discussion about the newly announced FreedomBox project,Bhima,16,0,0,,t5_2qh3i,False
+1288111686.0,dwp76,Crosspost: You can get a degree in free software and the FSF will give members a discount on the course,TheSilentNumber,22,7,1,,t5_2qh3i,False
+1287442080.0,dt1f0,The GNU C library dynamic linker expands $ORIGIN in setuid library search path,kibosh_,15,2,0,,t5_2qh3i,False
+1287171253.0,drrpp,"""Fundamental issues of freedom in software are fundamental issues in our lives..."" -- Matt Mullenweg, co-founder of WordPress",TheSilentNumber,19,2,http://www.reddit.com/r/gnu/comments/drrpp/fundamental_issues_of_freedom_in_software_are/,,
+1277836904.0,ck8zz,"After Bilski, what's next for software patents?",TheSilentNumber,19,5,http://www.reddit.com/r/gnu/comments/ck8zz/after_bilski_whats_next_for_software_patents/,,
+1267088643.0,b6amv,When using open source makes you an enemy of the state,woof404,15,2,0,,t5_2qh3i,False
+1260244000.0,ac7za,Announcing the FSF Community Team,enkiam,15,0,0,,t5_2qh3i,False
+1257654238.0,a23pz,"Jeremy Allison explains free software. (video, Ogg Theora format)",rsho,15,2,http://www.reddit.com/r/gnu/comments/a23pz/jeremy_allison_explains_free_software_video_ogg/,,
+1242839528.0,8lxdc,FSF Settles Suit Against Cisco,mattl,26,11,0,,t5_2qh3i,False
+1361223521.0,18rwy0,texinfo 5.0 released.,the-fritz,18,6,7,,t5_2qh3i,False
+1358883780.0,172mcu,FSF Interview with Matthieu Aubry of Piwik,donaldrobertsoniii,21,7,0,,t5_2qh3i,False
+1356037853.0,156ri9,EUPL v1.2 to become GPL compatible,johdu,17,3,0,,t5_2qh3i,False
+1350508093.0,11ngdg,"Join the FSF and friends in updating the Free Software Directory on Friday, October 19th",donaldrobertsoniii,20,7,http://www.reddit.com/r/gnu/comments/11ngdg/join_the_fsf_and_friends_in_updating_the_free/,,
+1338999654.0,uo4tx,Making money by building free/open source software,OMouse,20,7,4,,t5_2qh3i,False
+1337791264.0,u17mk,The LibrePlanet Gaming Collective is ready for your ideas! ,TheSilentNumber,17,4,0,,t5_2qh3i,False
+1335637841.0,sx257,The RMS makes his appearence in Tunisia. Finally.,flesmih,19,7,3,,t5_2qh3i,False
+1324053264.0,nfanl,LibrePlanet 2012 conference announced: March 24th-25th,JRepin,18,5,1,,t5_2qh3i,False
+1312925606.0,jdwyd,7 necessary ingredients for freedom in the cloud by Georg Greve of the FSFE,TheSilentNumber,15,0,0,,t5_2qh3i,False
+1307771589.0,hwz9k,"Christopher Webber presents GNU MediaGoblin -  infrastructure choices, what ""federation"" means, why the project matters, and how to get involved [VIDEO]",gocoogs,2,,False
+1301164896.0,gc2au,Abandoning Android: Thoughts on the future of FOSS on modern devices,,15,1,0,,t5_2qh3i,False
+1293308771.0,erdzi,Why Indie Games Need GNU+Linux ,,17,2,0,,t5_2qh3i,False
+1286860555.0,dq1ty,gNewBook: the Free (Libre) Social Network,,22,8,4,,t5_2qh3i,False
+1285256196.0,dhvkx,A digital media primer for geeks,mattl,15,1,0,,t5_2qh3i,False
+1282772758.0,d5g62,LibrePlanet Audio and Video is now online for mass-consumption! ,TheSilentNumber,17,3,1,,t5_2qh3i,False
+1280340846.0,cuqns,Reminder: Use FLOSS daily to prevent buildup of PLAQUE (Proprietary Licensed and Questionable User Environments),TheSilentNumber,17,5,4,Credit to [these guys](http://www.reddit.com/r/programming/comments/bjh0r/#c0n3m2z),t5_2qh3i,True
+1279498216.0,cr0z6,Eben Moglen SSCL lecture 2010: When Software is In Everything: Future Liability Nightmares Free Software Helps Avoid,hakl,17,2,2,,t5_2qh3i,False
+1275335614.0,c9zu0,To be or not to be a purist? Discussion from /r/Anarchism about non-free network services (e.g. Facebook) and free software with proprietary software (e.g. Ubuntu),TheSilentNumber,19,5,12,,t5_2qh3i,False
+1260641771.0,adz7n,Free Software or: How I Learned to Stop Worrying and Love the Computer,enkiam,16,2,0,,t5_2qh3i,False
+1259701668.0,aa0fd,First GNU Bucks awarded - Free Software Foundation,enkiam,22,6,0,,t5_2qh3i,False
+1201512407.0,66u61,Support Freedom - Join the FSF Today,mattl,16,4,1,,t5_2qh3i,False
+1349905198.0,119vk4,Join the FSF and friends in updating the Free Software Directory This Friday,donaldrobertsoniii,15,2,0,,t5_2qh3i,False
+1349119268.0,10rwpw,"September's Free Software Supporter is out! Posts about software patent wars, new FSF staff and more.",Zak_at_FSF,18,6,http://www.reddit.com/r/gnu/comments/10rwpw/septembers_free_software_supporter_is_out_posts/,,
+1346155077.0,yygty,FSF on GoodSearch,buovjaga,17,3,6,,t5_2qh3i,False
+1337122863.0,tp03l,"Free Software, Open Source, FOSS, FLOSS – Same same but different",TheSilentNumber,8,,False
+1334730086.0,sfmz9,gNewSense 2.3 - deltah - gNewSense GNU/Linux,riveravaldez,16,4,16,,t5_2qh3i,False
+1334547906.0,sbulz,What ideas do you have for direct action techniques to further free software and free culture?,TheSilentNumber,16,3,0,,t5_2qh3i,False
+1310675560.0,iprp6,For the next hour I'll try and answer as many questions about the FSF and GNU as I possibly can.,mattl,15,1,26,"I'm Matt Lee
+
+http://www.fsf.org/about/staff/mattl
+
+EDIT: I guess that's about an hour. I'll continue to reply to anything posted here for a day or so.",,t5_2qh3i,True,,,True,http://www.reddit.com/r/gnu/comments/iprp6/for_the_next_hour_ill_try_and_answer_as_many/
+1306348396.0,hjzfu,Use of a GPL font,liftdeadtrees,15,4,10,"I've been looking for an answer to this for a while, and I was wondering if this would require me to release the source to my game. I actually do plan to do that at some point
+
+Also
+
+Any input would be appreciated.
+
+EDIT: I found [this](http://www.krissteele.net/blogdetails.aspx?id=155) which seems to indicate that as long as the font is converted to an image first I should be ok. Thoughts?",,t5_2qh3i,True,,,True,http://www.reddit.com/r/gnu/comments/hjzfu/use_of_a_gpl_font/
+1305851390.0,hfhm8,"Forgetting Facebook: What are the best, most freedom-respecting ways to share photos in the cloud?",rojodit,17,3,http://www.reddit.com/r/gnu/comments/hfhm8/forgetting_facebook_what_are_the_best_most/, and even restrict access to those photos.
+
+What are the best free alternatives to this service? I am interested in both hosted services and platforms that require self-hosting.
+
+Ideally
+
+* Post photos and create photo albums
+* Share those photos with friends
+* Control access to those photos. ""Only these 5 people can see them.""
+* (bonus) Update others when new photos are posted
+* (bonus) Collaborate on photo albums. If my friend Bob took a good picture of me,False,,t5_2qh3i,False,,,t3_hfhm8
+1304795865.0,h68gl,New Executive Director asks for feedback from Associate Members on effectiveness of FSF campaigns,Hobart,16,2,1,,t5_2qh3i,False
+1301657295.0,ggatt,"Anyone care for diaspora (alpha) invites, only 8 left?",547,18,6,http://www.reddit.com/r/gnu/comments/ggatt/anyone_care_for_diaspora_alpha_invites_only_8_left/
+
+If anyone is interested
+
+Once you're registered you should have 10 invites for yourself to give to other people.
+
+---
+
+**Edit:**
+
+No more invites left,,False,,t5_2qh3i,True,,True
+1300053903.0,g3b4p,To all Massachusetts GNU/Linux users: April 2nd Northeast GNU/Linux Fest,AndreasBWagner,15,4,0,,t5_2qh3i,False
+1298857009.0,ftzyw,Nix fixes dependency hell on all GNU/Linux distributions,TheSilentNumber,19,8,14,,t5_2qh3i,False
+1280853513.0,cwwck,StatusNet's total investment to date: $2.3 million,TheSilentNumber,17,4,4,,t5_2qh3i,False
+1279160089.0,cppfz,iTWire - FSF developing social networking software,sdubois,14,1,8,,t5_2qh3i,False
+1277853729.0,ckc4y,New campaign: Working together for free software! Thoughts? ,TheSilentNumber,20,6,3,,t5_2qh3i,False
+1276273252.0,cdzoe,Free software nominees for a TED Talk? (from /r/FreeCulture),TheSilentNumber,13,0,0,,t5_2qh3i,False
+1268414685.0,bcm22,My brother made this picture of Richard Stallman.,galactus,26,13,5,,t5_2qh3i,False
+1268059328.0,baohd,RMS and MIT friends do the Soulja Boy Dance,cdwillis,19,7,6,,t5_2qh3i,False
+1258372756.0,a4usc,RMS to change routine after sexism fuss,sambconf,16,2,10,,t5_2qh3i,False
+1244575874.0,8r4t2,Will you join the gNewSense subreddit? ,,16,2,5,,t5_2qh3i,False
+1242232375.0,8k6k3,The War on Sharing: Why the FSF Cares About RIAA Lawsuits,mattl,29,17,0,,t5_2qh3i,False
+1222514649.0,73vit,Richard Stallman looks back at 25 years of the GNU project,JRepin,17,3,0,,t5_2qh3i,False
+1220325666.0,6z59m,Happy Birthday to GNU -- Stephen Fry,polar,17,4,1,,t5_2qh3i,False
+1370479814.0,1frcp3,I think we may have a good shot at getting Flash (plugin) released as free software,ElDiablo666,28,16,10,"My colleague strongly hinted at internal favoritism within Adobe for a move like this. I'm going to try to schedule a meeting with them but since I am getting major surgery next week I will not be the best person to push them. Perhaps now might be a good time to publicly ask for the Flash plugin to be released as free software; then maybe we can get the IDE and runtime and shit too. ;)
+
+Thoughts? Am I deluding myself?",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/1frcp3/i_think_we_may_have_a_good_shot_at_getting_flash/
+1367264302.0,1dcw24,GDB supports AArch64 Linux,johdu,13,3,0,,t5_2qh3i,False
+1365614018.0,1c2ofq,HowTo: Set up a Page to Promote Your Organization’s Free/Open Source Contributions,OMouse,13,2,0,,t5_2qh3i,False
+1363266497.0,1aa5r4,"libre.js - could it be a little less crazy, please?",barnaba,17,5,http://www.reddit.com/r/gnu/comments/1aa5r4/librejs_could_it_be_a_little_less_crazy_please/
+
+RMS was visiting my university
+
+First of
+1. license
+2. information how the user can get the source code.
+
+Binary versions of almost all free software are available. That's convinient for the end user
+
+Instead of taking this path and requiring some comment of specific format with a link to the sources and the license
+
+The option would be much harder to adopt for a companies. Even if the company would like to endorse freedom
+
+My proposed solution: in free javascript set some global variable
+window.librejs = {license: ""GNU General Public License v2.0""
+
+What do you think? Could we think of minified javascript as binaries? Or do you think that what libre.js is doing right now is a proper solution?
+",,t5_2qh3i,1363266985.0,,,True,http://www.reddit.com/r/gnu/comments/1aa5r4/librejs_could_it_be_a_little_less_crazy_please/
+1363122877.0,1a671r,FSF announces LibrePlanet 2013 conference schedule (March 23-24 in Cambridge),libbyr,20,8,0,,t5_2qh3i,False
+1359678902.0,17nwzm,"New Empowermentors Collective: ""We recognize the need to address deep-seated cultural norms […] which, under the guise of openness, have excused and perpetuated alienating behavior. […] We cannot afford to be an inward-facing movement."" - FSF",kxra,24,3,False,
+1337376786.0,ttuyk,Optimizing pixman for Loongson: Process and Results,mattst88,14,1,2,,t5_2qh3i,False
+1336931551.0,tl78p,"Which one of these GPL (GNU General Public License) MATLAB clones would you recommend?
+",6,7,http://www.reddit.com/r/gnu/comments/tl78p/which_one_of_these_gpl_gnu_general_public_license/,,,False,t5_2qh3i,False
+1335012107.0,sl6zy,Can we help kdenlive - the libre video editor - raise money to become even better?,tdobson,13,2,0,,t5_2qh3i,False
+1326172507.0,oag3b,Are the BSDs totally free software like Trisquel and gNewSense?,,19,8,9,,t5_2qh3i,True
+1312236398.0,j6345,Did you know about these subreddits?,mattl,13,1,3,"* [r/sysadminjobs](http://www.reddit.com/r/sysadminjobs/)
+* [r/freesoftware](http://www.reddit.com/r/freesoftware)",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/j6345/did_you_know_about_these_subreddits/
+1302280499.0,glkeg,"LibrePlanet Ontario/Toronto Free Software, join up on freenode, #lp-ca-on",OMouse,12,0,False,
+1297935724.0,fn3rv,"The Document Foundation opens the challenge: Raising 50,000 € for founding a ""Stiftung"" till March 21st. I donated a ‰, do you?",,12,1,False,
+1287417116.0,dsugf,"Benjamin Mako Hill: Redefining ""Realistic""",enkiam,17,4,0,,t5_2qh3i,False
+1286818955.0,dpsta,Why should I join the Free Software Foundation?,AndreasBWagner,16,4,11,,t5_2qh3i,True
+1282329744.0,d3jrl,How should we celebrate the Free Software Foundation's 25th Anniversary? ,TheSilentNumber,16,5,6,,t5_2qh3i,False
+1278680760.0,cnolt,"""Working together for free software"" campaign has only just begun! ",TheSilentNumber,14,1,0,,t5_2qh3i,False
+1275375334.0,ca59m,"Check out /r/FreeCulture, because it is of a whole with free software",TheSilentNumber,12,1,http://www.reddit.com/r/gnu/comments/ca59m/check_out_rfreeculture_because_it_is_of_a_whole/,,
+1275335693.0,c9zug,WebM isn't open source according to the OSI? So is it free according to the FSF?,TheSilentNumber,18,7,12,,t5_2qh3i,False
+1248901558.0,95rzk,GNU Generation: Calling all pre-university students ,mattl,16,4,0,,t5_2qh3i,False
+1239921346.0,8d35s,Impeach Bezos for Amazon's Kindle Swindle,mattl,15,3,1,,t5_2qh3i,False
+1363373081.0,1ad4wo,"LibrePlanet &amp; Free Culture X 2013, two upcoming conferences at the intersection of technology, social justice, and media studies!",kxra,6,,False
+1362076674.0,19eri0,Please join Industrial Workers of the World's Communications &amp; Computer Workers Industrial Union 560 (mailing list at the bottom),kxra,25,14,12,,t5_2qh3i,False
+1359121464.0,1795rk,Join the FSF and friends in updating the Free Software Directory today,donaldrobertsoniii,18,7,0,,t5_2qh3i,False
+1355435688.0,14t2w5,FSF Interview with Kovid Goyal of calibre,donaldrobertsoniii,16,6,0,,t5_2qh3i,False
+1339612256.0,v07tc,I'm writing an article about the GNU Manifesto. What should I include? [x-posted from /r/opensource],dr_spork,14,4,8,"I'm writing an article about the GNU Manifesto for a book on manifestos. /r/opensource
+
+What I'm trying to find out is: what were reactions (if any?) to the manifesto when it was first published? Who were its opponents? Are there published responses anywhere? I already have the usual sources (Stallman books and anthologies) but I'm looking for any other resources you might know about. Also
+",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/v07tc/im_writing_an_article_about_the_gnu_manifesto/
+1318252024.0,l70lu,"ex-French minister of Culture wants people to buy a ""right for reading"" [French website, sorry]",Cheatboy2,16,5,http://www.reddit.com/r/gnu/comments/l70lu/exfrench_minister_of_culture_wants_people_to_buy/,,
+1317200325.0,ktx6e,Open Access to Scholarly Publications at Princeton,Cheatboy2,12,1,0,,t5_2qh3i,False
+1300946681.0,gaaws,Tomato parable [xpost from r/linux],,16,6,0,,t5_2qh3i,False
+1295992344.0,f8ykv,GNU Coding Standards for Bash Scripting?,tdrusk,12,0,22,"Hey guys. I have started working on a project involving time tracking,,False
+1290378178.0,e9mqr,Possible violation of the GPL?,isinned,13,3,16,"I believe I found some proprietary software that violates the GPL. I would like to read some opinions of others just to see if it actually does.
+
+The software in question uses software that has been licensed under the GPL
+
+Quoting gnu.org
+&gt; using the Lesser GPL permits use of the library in proprietary programs; using the ordinary GPL for a library makes it available only for free programs.
+
+**edit 1:** [Screenshot.](http://imgur.com/UduSH.png) *ekit* is the GPL'd software that it uses.
+
+**edit 2:** [ekit](http://sourceforge.net/projects/ekit/) is apparently licensed under the LGPL which means everything is fine. I'll notify GentleWare to update their credits for ekit. Thanks for the help everyone.",,t5_2qh3i,True,,,True,http://www.reddit.com/r/gnu/comments/e9mqr/possible_violation_of_the_gpl/
+1286904385.0,dq9wv,Identi.ca mode for Emacs,,12,1,2,,t5_2qh3i,False
+1285352155.0,difqm,"Women in free software, next IRC meeting on Tuesday!",TheSilentNumber,12,2,http://www.reddit.com/r/gnu/comments/difqm/women_in_free_software_next_irc_meeting_on_tuesday/
+
+Here are the minutes from *last* time
+http://libreplanet.org/wiki/Womenscaucus/8.24.2010
+
+Suggested Agenda:
+
+1) Follow-up on last month's action items
+
+2) New speaking opportunities
+
+3) New stuff to add to the wiki?
+
+We've made some great progress this month
+in advance
+""I'm a mentor!"" buttons.
+
+--deb nicholson",,t5_2qh3i,True,,,True,http://www.reddit.com/r/gnu/comments/difqm/women_in_free_software_next_irc_meeting_on_tuesday/
+1284768969.0,dfg72,Celebrate Software Freedom Day with the LibrePlanet community!,TheSilentNumber,11,1,0,,t5_2qh3i,False
+1282178964.0,d2t31,Keep original copyright notice on modified versions of work licensed under the GNU GPL?,isinned,13,1,16,"I've modified the source of some work that's licensed under the GNU GPL
+
+Should I replace it with my own copyright notice (that is replace their name in the notice with my own),,False,,t5_2qh3i,True,,True
+1277740829.0,cjui5,Come to the FSF office for lunchtime drinks and discussion on Bilski and our End Software Patents campaign,TheSilentNumber,12,1,0,,t5_2qh3i,False
+1249072375.0,96g65,"Apple says you can't have freedom because you might be clumsy, evil, and a drug dealer",mattl,21,1,False,
+1354127073.0,13y17x,"I know that Think Penguin has higher prices because they support gnu/fsf stuff, but is there a cheaper alternative for a poor college student?",analogphototaker,10,2,http://www.reddit.com/r/gnu/comments/13y17x/i_know_that_think_penguin_has_higher_prices/,,
+1353007917.0,1396gk,FSF to begin accepting scanned assignments from Germany,donaldrobertsoniii,11,2,0,,t5_2qh3i,False
+1341383270.0,w0r9y,Glibc 2.16 supports the x32 ABI - Update,r_schestowitz,13,3,0,,t5_2qh3i,False
+1340877086.0,vqfon,[Phoronix] GRUB 2.00 Boot-Loader Release Is Imminent,r_schestowitz,21,10,0,,t5_2qh3i,False
+1340325027.0,vesgv,The Technotaph : Hostility to Free Software (follow-up),MarkTraceur,13,4,2,,t5_2qh3i,False
+1337969576.0,u4t53,"Shakespeer, a beautiful user-friendly Direct Connect client, needs a new maintainer and a GNU/Linux port! ",TheSilentNumber,13,4,False,
+1334534252.0,sbipv,Is anyone here not on the LibrePlanet disucussion list yet?,TheSilentNumber,12,1,4,,t5_2qh3i,False
+1326262594.0,oc0xa,"""POSIX.2 requires that unrecognized options be diagnosed as 'illegal', but since they are not really against the law the default is to diagnose them as 'invalid'""",_delirium,18,9,http://www.reddit.com/r/gnu/comments/oc0xa/posix2_requires_that_unrecognized_options_be/,,
+1307584192.0,hv56g,"Source of the famous ""I'd like to interject for a moment"" speech?",pbunbun,15,6,12,"I'm assuming this doesn't need much further explanation
+
+Googling it just gives tons of people quoting it without a source or trolling forums/comment-sections with it.  
+Wikipedia and Wikiquote don't seem to mention it.",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/hv56g/source_of_the_famous_id_like_to_interject_for_a/
+1280436733.0,cv8bt,"So, who wants to test out the GNU Social alpha? ",TheSilentNumber,14,5,http://www.reddit.com/r/gnu/comments/cv8bt/so_who_wants_to_test_out_the_gnu_social_alpha/,,
+1280243698.0,cu93t,Richard Stallman talk+QA at the useR! 2010 conference,codeus,12,1,2,,t5_2qh3i,False
+1276031445.0,ccvx0,Why Ubuntu LoCo's should move to LibrePlanet,TheSilentNumber,12,3,1,,t5_2qh3i,False
+1258564108.0,a5pkf,Volunteer at the FSF in Boston this Friday (and next Monday and Tuesday),mattl,12,0,0,,t5_2qh3i,False
+1254152408.0,9otub,French court hands GPL victory ,,11,2,0,,t5_2qh3i,False
+1221524948.0,71mqm,Bits from the Debian GNU/Hurd porters,polar,14,3,2,,t5_2qh3i,False
+1375523501.0,1jmbyv,PSPP is a program for statistical analysis of sampled data,based2,10,2,1,,t5_2qh3i,False
+1340649016.0,vl123,/r/GNU is for GNU and /r/FreeSoftware is for free software,TheSilentNumber,12,4,9,"Currently, and other GNU things
+
+Hopefully this will avoid spreading our community thin and make it easier for people to know where their post belongs / where the stuff they want is. 
+
+x-post to /r/FreeSoftware: http://www.reddit.com/r/freesoftware/comments/vl125/rfreesoftware_is_for_free_software_and_rgnu_is/",,t5_2qh3i,1340733028.0,,,True,http://www.reddit.com/r/gnu/comments/vl123/rgnu_is_for_gnu_and_rfreesoftware_is_for_free/
+1337480348.0,tvhmc,DNSP (Distributed Social Networking Protocol) needs a new maintainer!,TheSilentNumber,10,1,1,,t5_2qh3i,False
+1334549962.0,sbwbm,"Freedom - a Struggle, not a Nose Dive",MarkTraceur,10,1,http://www.reddit.com/r/gnu/comments/sbwbm/freedom_a_struggle_not_a_nose_dive/,,
+1334540256.0,sbnto,"In Defense of Negativity
+ :: Benjamin ""Mako"" Hill",1,2,http://www.reddit.com/r/gnu/comments/sbnto/in_defense_of_negativity_benjamin_mako_hill/,,,False,t5_2qh3i,False
+1330535199.0,qbiic,The Women's Caucus of the Free Software Foundation needs a new organizer! [via /r/Cyberfeminism],TheSilentNumber,12,2,0,,t5_2qh3i,False
+1328069591.0,p5ne6,GNU spotlight with Karl Berry (January 2012),mattl,10,1,0,,t5_2qh3i,False
+1307415823.0,htesu,Ungulate!,blinkallthetime,17,8,1,,t5_2qh3i,False
+1297208572.0,fhsz7,Free Software Flash Replacement,VyseofArcadia,10,0,5,"It seems like there's been a substantial amount of effort to reimplement Flash (and Silverlight) in free software with swfdec
+
+Has there ever been a project that just said ""to hell with Flash!"" and attempted a free software rich web application framework from the ground up? If not
+
+(I'm not implying that gnash and friends don't have a place in free software. Just like there are always people who need wine to run windows binaries,False,,t5_2qh3i,False,,,t3_fhsz7
+1285744326.0,dke2v,"Future Ubuntu Releases Will be Shipped With LibreOffice, Says Mark Shuttleworth",pixiemotion,12,3,http://www.reddit.com/r/gnu/comments/dke2v/future_ubuntu_releases_will_be_shipped_with/,,
+1285640965.0,djsaz,"For my web class, i decided to use the Stephen Fry video for my first project...",TheSilentNumber,10,1,http://www.reddit.com/r/gnu/comments/djsaz/for_my_web_class_i_decided_to_use_the_stephen_fry/,,
+1285247515.0,dhtfz,Stallman interviewed by itnews Australia on why he protested the European Patent Office meeting (Theora),mattl,11,1,0,,t5_2qh3i,False
+1285201627.0,dhlpd,Every child deserves one,TheSilentNumber,12,3,1,,t5_2qh3i,False
+1283714354.0,d9x1e,"Free Software Needs Free Tools - by Benjamin Mako Hill, featured in the Spring 2010 FSF Bulletin",TheSilentNumber,13,2,http://www.reddit.com/r/gnu/comments/d9x1e/free_software_needs_free_tools_by_benjamin_mako/,,
+1282070430.0,d28tu,"ACTA signatures to be delivered on Thursday, please sign now! ",TheSilentNumber,12,2,http://www.reddit.com/r/gnu/comments/d28tu/acta_signatures_to_be_delivered_on_thursday/,,
+1280165248.0,ctvpp,"""Draft a Free Software Statement which organizations can adopt to declare their support for free software"" What are your ideas for the FSF? ",TheSilentNumber,11,3,0,,t5_2qh3i,False
+1276576261.0,cf2xk,"OSI's revamp gives us the opportunity to nudge it in the right direction, so let's do it!",TheSilentNumber,11,2,http://www.reddit.com/r/gnu/comments/cf2xk/osis_revamp_gives_us_the_opportunity_to_nudge_it/,,
+1270335391.0,bm4lh,Dear AskGNU: How do I start documentation writing?,woof404,12,1,0,"Fellow GNUs:
+
+I am a newly converted FLOSS user and are trying to find out ways to contribute to the cause of free software and/or the GNU Project. I am no expert in coding and the few things I have coded have been small scripts updating web pages and such
+
+I have done translations in the past, so I thought of documentation writer. It seems like a somewhat unwanted position but I like to write so it might be fun. I learned the basics of Texinfo to get me started as it seems like the best choice. 
+
+My questions is as following: 
+
+How do I start out? Where do I find projects that seek documentation writers? If I do get ""hired"" to do the writing
+
+And tips
+
+PS: Cross-posted this to /r/AskReddit also.",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/bm4lh/dear_askgnu_how_do_i_start_documentation_writing/
+1247801552.0,91yqr,FSF campaigns widget - subscribe to monthly news digest and action update,ferk,10,1,0,,t5_2qh3i,False
+1243289283.0,8n5uc,Another open door for software patents in EU,,9,2,0,,t5_2qh3i,False
+1237394619.0,85nc2, The Free Software Foundation’s LibrePlanet Conference and HackFest ,mattl,13,4,0,,t5_2qh3i,False
+1215900302.0,6rhon,"It's not the Gates, it's the bars",polar,11,3,http://www.reddit.com/r/gnu/comments/6rhon/its_not_the_gates_its_the_bars/,,
+1370653115.0,1fwfdy,I deleted that post I made about TLDRLegal...,strange_kitteh,12,3,3,"I did so because,,False
+1367533529.0,1dkxcg,Why new startups should consider going GPL,buu700,10,1,0,,t5_2qh3i,False
+1356051377.0,1576q1,GPL Copyright Ownership Question [please see post],m4xm4n,10,2,2,"Hey there GNUers!
+
+I'm currently a student worker with the IT department at my university who is working on a GPL'd project that was picked up from another University. The original developers of the project (those from the other University) had the code copyrighted by their University. I'm unaware of whether my university owns the copyright to my code or not, do I still retain the right to create a derivative work that while remaining GPL'd also provides a commercial (though still Libre) element?
+
+The project is a web application, SaaS-like solution in which I can sell hosting and support. If my university does own the copyright on my code, is this still allowed?
+
+It's my understanding that since it is GPL'd,False,,t5_2qh3i,False,,,t3_1576q1
+1348266628.0,109sml,Apple v. Samsung: A patent battle with freedom as the collateral damage,donaldrobertsoniii,9,3,0,,t5_2qh3i,False
+1341986956.0,wdfnk,Copyleft.next and the Future of GNU General Public Licenses,r_schestowitz,17,9,9,,t5_2qh3i,False
+1339243155.0,ut2nd,The Ethics of Combining Free Software Promotion With Ubuntu,lxskllr,15,8,25,"I've been toying with the idea of setting up a booth at a local festival to promote free software. I don't know if I have the time, would be receptive imo.  
+
+If something like that were done, and something like Ubuntu would somewhat run counter to the free software message.  
+
+The intricacies of the situation could be explained at a seminar, but give people semi-free software to use?  
+
+I'd like opinions on the best way to handle things. Is close enough good enough,False,,t5_2qh3i,False,,,t3_ut2nd
+1332440628.0,r8p4l,GCC 4.7.0 released to mark the 25 years of GNU Compiler Collection,r_schestowitz,10,0,0,,t5_2qh3i,False
+1314459929.0,jw5we,Free Beer Free as in Free Speech not as in Free Beer,AndreasBWagner,12,2,3,,t5_2qh3i,False
+1314182613.0,jsqtd,Free Software Foundation Europe Fellowship interview with Richard Shipman,JRepin,11,2,1,,t5_2qh3i,False
+1306912370.0,howb3,How much GNU is there in GNU/Linux?,pedrocr,30,22,26,,t5_2qh3i,False
+1305658545.0,hdkpu,"Stallman's keynote address at FKFT 2008 ""Free Software and Beyond""",nullcat,9,1,5,,t5_2qh3i,False
+1297829435.0,fmb2m,Free software games!,,11,5,3,,t5_2qh3i,False
+1283715578.0,d9x8k,VC's for investing in free software? Become a Venture Customer!,TheSilentNumber,10,2,8,,t5_2qh3i,False
+1280773707.0,cwi45,Support GNU social development by buying some sweet conversation-starting buttons,TheSilentNumber,13,3,0,,t5_2qh3i,False
+1280442941.0,cv9fl,$250 grand prize for GNU social theme design contest ($50 for three runners up)! [/r/LibreDesign],TheSilentNumber,13,4,0,,t5_2qh3i,False
+1251417464.0,9euz8,Anarchy and Source Code,semente,11,2,1,,t5_2qh3i,False
+1242306978.0,8kfhj,RR: The Spanish free software association Hispalinux is protesting plans by the Spanish government to massively introduce Microsoft's operating systems and applications on school computers. ,mattl,10,2,0,,t5_2qh3i,False
+1367839435.0,1dsbqg,Ask Reddit: Motivations in FOSS/FLOSS,shintoist,24,16,2,"TL;DR A really short survey on motivations in open source
+https://docs.google.com/forms/d/1FigRXVstzstH0L7A4QDv6U5ecpJPS8rgRLDxqXMbTm8/viewform
+
+We're writing our bachelor's thesis on the motivations of open source developers. This is a follow up to the earlier survey we did where we asked you to write shortly on what motivates you. We had a great turnout and amazing answers!
+
+In a similar vein this is very short and quick! We're looking at which factors motivate you more and which do less. Help us show the world what an extraordinary phenomenon the open source community is!",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/1dsbqg/ask_reddit_motivations_in_fossfloss/
+1362684941.0,19v25o,Free/Open Source And Responsibility,OMouse,11,4,0,,t5_2qh3i,False
+1346342895.0,z2zni,Join the FSF and friends in updating the Free Software Directory,donaldrobertsoniii,11,4,1,,t5_2qh3i,False
+1339932882.0,v6bx3,GPL and free software licensing: What’s in it for business?,r_schestowitz,14,8,1,,t5_2qh3i,False
+1333429200.0,rqrp7,Building an operation to circumvent Internet censorship and surveillance using FOSS and encryption. Plz help.,CAPTAIN_CAPS_LOCK,14,5,4,I am a member of the Pirate Party of Canada and am working on an operation to educate people how to protect their privacy with encryption and FOSS. I need instances of proprietary software spying on it's users to add to this page (http://encrypteverything.ca/index.php/Using_copyleft_software_for_privacy_and_freedom). I also am running into an issue where others involved in the party think it would be a good idea to include proprietary software. For obvious reasons this seems VERY dangerous for this type of operation to me. Any suggestions on how I can convince these people using anything not open source would be foolish?,t5_2qh3i,True
+1330628478.0,qd9k0,Does this posting offer a way to make useful comments from a Free Software perspective?,TheSilentNumber,11,4,1,,t5_2qh3i,False
+1325342817.0,nxixm,Thanking contributors with MediaGoblin contributor drawings,paroneayea,12,6,0,,t5_2qh3i,False
+1304981710.0,h7oiu,Could you please help me shorten this Free software primer?,,9,2,4,"Hi
+I made this post in /r/linux assuming everyone here was there too.
+
+http://www.reddit.com/r/linux/comments/h7ioo/please_help_me_shorten_the_definitiondistinction/
+
+Of the few responses I've gotten, I'm beginning to question that now?) and any suggestions you may have to shorten it? Thank you to everyone in advance :)",,False,,t5_2qh3i,False,,
+1295472827.0,f5d8w,Call for IceCat developers,mattl,8,2,0,,t5_2qh3i,False
+1282614872.0,d4ns1,Symbian wiki: Software Freedom Fighters project,hakl,7,1,0,,t5_2qh3i,False
+1282522375.0,d47t9,"We can use technology to fix politics, or we can wait forever for politics to fix technology. On freedom, privacy, and net neutrality - Eben Moglen at DebConf 2010",TheSilentNumber,2,,False
+1278714115.0,cnvjb,Week three with the campaigns interns: new Defective by Design site coming soon,TheSilentNumber,8,2,0,,t5_2qh3i,False
+1276723691.0,cfrnm,GNU social next steps: logo contest and progress from the meeting,TheSilentNumber,9,2,1,,t5_2qh3i,False
+1251443856.0,9eyec,Closed source isn't immoral if...,TheSilentNumber,15,7,0,,t5_2qh3i,False
+1251295057.0,9ebfm,Mini-summit on women in free software ,,10,2,0,,t5_2qh3i,False
+1228308922.0,7h3ju,Fix the GNU subreddit logo please... You can't even read the top submission.,Wiseman1024,11,6,5,,t5_2qh3i,True
+1374897732.0,1j55p1,"FSF Tries Pushing Blob-Free ""Replicant"" Android OS",johdu,7,2,0,,t5_2qh3i,False
+1342053242.0,weyg2,Small Copyleft.next Open Source Software License Project Attracts Big Interest,r_schestowitz,13,8,0,,t5_2qh3i,False
+1339689636.0,v1t1z,How To Retarget the GNU Toolchain in 21 Patches,JRepin,7,1,0,,t5_2qh3i,False
+1333525683.0,rsldu,GIMP 2.8.0-RC1: 1st release candidate now available ,r_schestowitz,8,1,1,,t5_2qh3i,False
+1316701501.0,knx2k,Free as in Freedom ... and zombies! A project to remix Richard Stallman's biography,fragglet,16,8,5,,t5_2qh3i,False
+1309548880.0,ieglv,Sending feedback to Google+,TheSilentNumber,8,2,2,,t5_2qh3i,False
+1307317149.0,hsfdv,The Drawback of CodeCanyon (it accepts GPL but doesnt advertise that fact),OMouse,6,1,0,,t5_2qh3i,False
+1304689719.0,h5lv6,Mono Developers Losing Jobs Isn't Good -- Bradley Kuhn,omgwtfchill,10,3,4,,t5_2qh3i,False
+1300453740.0,g6erz,Trisquel 4.5 Slaine Release Candidate is ready,,6,0,0,,t5_2qh3i,False
+1287600313.0,dtz29,Creative Commons’ Branding Confusion,skeeto,9,1,0,,t5_2qh3i,False
+1280974954.0,cxjcl,"Brisbane Australia GNUers...
+RMS is coming to Brisbane,6,0,2,http://www.reddit.com/r/gnu/comments/cxjcl/brisbane_australia_gnuers_rms_is_coming_to/,,,,,
+1280266068.0,cudzy,"Slashdot | Free Software, a Matter of Life and Death",TheSilentNumber,9,2,http://www.reddit.com/r/gnu/comments/cudzy/slashdot_free_software_a_matter_of_life_and_death/,,
+1278524068.0,cmyfm,"LinuxCon Preview: Eben Moglen on Bilski, Online Privacy",jencloer,9,3,http://www.reddit.com/r/gnu/comments/cmyfm/linuxcon_preview_eben_moglen_on_bilski_online/,,
+1275368757.0,ca4dx,GNU Certified Laptop?,MoogleGunner,6,1,5,"Hi everyone, and stopping to work,
+1263937738.0,armm4,Reimplementing Ideas Found in GPL Code,ChaoticXSinZ,7,1,6,"I'm working on making a MMORPG and have thus been doing some assorted research on a wide variety of topics. While studyingthe source code of a MMORPG server I found some points which I liked and thought were well done. Herein lies my question: would I have to release my code under the GPL if the original code which I got the idea from is licensed under the GPL?
+Also the code I was studying is written in Java using Apache Mina. I was planning to implement my own version in C++ using RakNet. ",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/armm4/reimplementing_ideas_found_in_gpl_code/
+1250612992.0,9bs2e,rms talks to the Pirate Party UK,,7,2,0,,t5_2qh3i,False
+1363538894.0,1agxso,The APEX body for higher education in India signed agreement with Microsoft for cloud adoption,jestinjoy,10,3,0,,t5_2qh3i,False
+1358973401.0,175616,"GStreamer Hackfest/Sprint 2013: March 28th - 31st Milan, Italy",kxra,7,2,http://www.reddit.com/r/gnu/comments/175616/gstreamer_hackfestsprint_2013_march_28th_31st/,,
+1357666984.0,166yun,Buscando el soporte de hispanoparlantes para la FSF,nico_fsf,9,6,4,,t5_2qh3i,False
+1352590917.0,12zhed,"ThinkPad user for a while, hate the new keyboards, Optimus and whitelist of wireless cards... help!",mattl,9,12, which is what I'm used to
+
+* Must have Intel graphics
+* Must be able to take an Atheros wifi card
+* Ideally it has a [pointing stick](http://en.wikipedia.org/wiki/Pointing_stick#Naming_and_brands)
+
+I don't much care if it comes with Windows
+
+It'll likely wind up running Debian.",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/12zhed/thinkpad_user_for_a_while_hate_the_new_keyboards/
+1337619090.0,txpv2,Why Freedom of Thought Requires Free Media and Why Free Media Require Free Technology ,salvia_d,5,0,0,,t5_2qh3i,False
+1334963886.0,skig5,Proposed: free software should be closed under composition,jtxx000,10,5,14,"If *X* and *Y* are programs and a user does not have the freedom to create a third program *Z* using bits of source code from both *X* and *Y*
+",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/skig5/proposed_free_software_should_be_closed_under/
+1333451003.0,rr0m7,I've always liked the ethics of GNU...,reallyreallyanon,8,3,0,"...and as such
+
+edit - ""Always liked the ethics"" since I discovered GNU/Linux,,False,,t5_2qh3i,False,,True
+1332341014.0,r6rw2,The Free Food Definition. GNKF (GNFK's Not Kentucky Fried).,AndreasBWagner,11,8,6,,t5_2qh3i,False
+1327348651.0,ota5d,"Not directly related to GNU, but does anyone here know how to boot a GNU/Linux install image with the PMON2000 command line?",,12,6,http://www.reddit.com/r/gnu/comments/ota5d/not_directly_related_to_gnu_but_does_anyone_here/
+
+I have almost asked for help everywhere else (except the PMON2000 forums; I can't find the registration) and am at a loss. Sorry for off topic post.",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/ota5d/not_directly_related_to_gnu_but_does_anyone_here/
+1325776123.0,o403m,The economic incentive to violate the GPL,kimmel_,8,3,0,,t5_2qh3i,False
+1311002407.0,isv53,An Open Letter To Jonathan Nadeau (a response to Jonathan's intro blog post) [not mine],mattl,9,4,1,,t5_2qh3i,False
+1282523439.0,d47zz,"The Motley Fool, ""Free Software, Real Profits""",TheSilentNumber,8,0,False,
+1280166295.0,ctvxy,"Is anybody here on Twitter, non-free/centralized, but not (yet) on Identi.ca, free/distributed? Well, here's the link",9,,t5_2qh3i
+1275675585.0,cbido,The call for a free culture funding platform (from /r/FreeCulture),TheSilentNumber,8,4,0,,t5_2qh3i,False
+1255588496.0,9u8gd,Ubuntu to kick start Cloud war with Ubuntu 9.10,jestinjoy,6,2,2,,t5_2qh3i,False
+1242744325.0,8llh5,The Mono Crusade,,8,4,2,,t5_2qh3i,False
+1238505882.0,88v7v,Audio released of LibrePlanet conference,mattl,8,3,0,,t5_2qh3i,False
+1237946479.0,878zo,Creative Commons announced as winners of the annual free software awards,mattl,7,2,0,,t5_2qh3i,False
+1373301672.0,1hvf4y,How to make bash abort the execution of a script on syntax error? (for safe programming),imz,7,4,0,,t5_2qh3i,False
+1363472540.0,1afk3c,RMS at 60!,b1ackcr0w,13,8,5,,t5_2qh3i,False
+1357684407.0,167kap,"Two quarters of the Hurd, Q1 and Q2 of 2012: Google Summer of Code, Barrier of Entry, Core, Porting.",7,,t5_2qh3i
+1355918340.0,153sni,"RMS lives conference, delivering messages. Is the face of this perfectionism will be what people will remember? Richard Stallman Revoltado",cm-t,24,18,http://www.reddit.com/r/gnu/comments/153sni/rms_lives_conference_delivering_messages_is_the/,,
+1350545349.0,11oh1m,The Free Software Foundation opens nominations for the 15th Annual Free Software Awards,JRepin,4,1,0,,t5_2qh3i,False
+1341581516.0,w4m12,The next GPL: Why it's being shaped on GitHub,r_schestowitz,10,8,3,,t5_2qh3i,False
+1341505351.0,w2yqf,"Canonical and Red Hat Receive Negative Publicity Over Submissive UEFI Choices
+",6,0,http://www.reddit.com/r/gnu/comments/w2yqf/canonical_and_red_hat_receive_negative_publicity/,,,False,t5_2qh3i,False
+1335887259.0,t1lxz,RMS on CISPA,NedStarkResurrected,4,0,0,,t5_2qh3i,False
+1333219093.0,rmnr0,Richard Stallman To Launch His Own Fashion Line,,5,1,1,,t5_2qh3i,False
+1332267827.0,r5eof,23 years on and still people don't get free software,r_schestowitz,5,1,0,,t5_2qh3i,False
+1329720128.0,pxhwg,Propose and vote on sessions for the upcoming Students for Free Culture Conference!,TheSilentNumber,6,2,2,,t5_2qh3i,False
+1313336949.0,jiib6,What are the best free software / free culture quotes? ,TheSilentNumber,8,6,1,,t5_2qh3i,False
+1282685237.0,d50c0,"""I see no system of moral philosophy generated by the economy of the past that could evolve a principle to explain the moral legitimacy of denial in the presence of infinite profusion."" -Eben Moglen",TheSilentNumber,7,4,0,,t5_2qh3i,False
+1280843757.0,cwu5r,Will it be impossible to create free drivers for certain hardware?,,7,3,12,"With a lot of hardware requiring loadable firmware(like the broadcom wireless NIC in my laptop),,
+1251294597.0,9ebcx,GNU Hackers Meeting 2009,,4,0,0,,t5_2qh3i,False
+1242423456.0,8kuc5,Obama and Free Software,mattl,7,4,0,,t5_2qh3i,False
+1232607209.0,7rjz0,Gnu Snowboards,,7,5,0,,t5_2qh3i,False
+1376525726.0,1kdwwk,The manual to GNU Emacs (v16) written by Richard Stallman from June of 85,tf2honeybadger,3,0,0,,t5_2qh3i,False
+1374703706.0,1izisk,TechBytes Episode 86: Debian GNU/Linux and Firmware | Techrights,raymii,7,2,1,,t5_2qh3i,False
+1363373794.0,1ad5r7,Upcoming first meeting of the Empowermentors Collective: intersectionally marginalized POC in free software &amp; free culture!,kxra,6,3,2,,t5_2qh3i,False
+1342294774.0,wk72j,Question About GPL and Re-Writing Apps,RecursionIsRecursion,9,5,10,"I work for a company that wanted some additional functionality for a program they use. They found that functionality in a plugin
+
+So, but the need existed in my company at least, and a paid plugin exists, so someone must be using it. It is, however, functionality taken directly from an existing plugin, I don't claim any kind of creativity in the matter at all. Even the user interface is basically identical (it was just a Windows Form), my company didn't need any more or any less functionality than what's in the original plugin
+
+Any advice?
+",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/wk72j/question_about_gpl_and_rewriting_apps/
+1341936446.0,wbzxo,Question about releasing software with GPL components,jayokay,9,6,2,"I have a possibly stupid question about the GPL.  If I develop a piece of software and one or more components uses software released under the GPL (the software I'm thinking of is R,False,
+1334585967.0,scec6,/r/Antifeatures - Covering DRM and other anti-consumer practices of non-free software,TheSilentNumber,5,1,0,,t5_2qh3i,False
+1332920807.0,rh9in,The GNU C Library Steering Committee disbands,r_schestowitz,4,1,0,,t5_2qh3i,False
+1332776055.0,reavp,"Richard Stallman, Founder of Free Software Foundation: Interview XIII - Real Leader Interviews ",r_schestowitz,4,1,http://www.reddit.com/r/gnu/comments/reavp/richard_stallman_founder_of_free_software/,,
+1328432743.0,pbp04,hey GNU what do you think of my anti-DRM comment?,Osamu_Tezuka,12,8,11,"The fundamental difference in terms of economics between a physical thing (book, a text file of a book
+
+So then this DRM technology is introduced so that they can still base their business models on scarcity - if something is rare you can get a lot of money for it. This is done by having a ""black box"" computer program that only grants you certain types of access to the files/games and also enables the company certain types of privileges (e.g. upgrading or deleting it). [N.B. those old games that required the CD to play aren't considered DRM]
+
+And I think what you described as optimal is possible: They could build a system that restricted certain actions (like copying the files to another computer or over the internet, but instead we'll be at the mercy of computers.
+
+My ideal would be that people distribute freedom-respecting software and put legal restrictions on it (like make it illegal to distribute it over the internet). [analogy warning] DRM to me seems like doing a retina scan on anyone that wants to drive a car
+
+**explanation** I've been trying for a long time to explain my view on DRM in a simple way (it necessarily demands technical understanding
+
+**PLEASE EXPLAIN THE REASON BEHIND YOUR DOWNVOTE**",,t5_2qh3i,True,,,True,http://www.reddit.com/r/gnu/comments/pbp04/hey_gnu_what_do_you_think_of_my_antidrm_comment/
+1303900425.0,gyho3,How to pre-populate GNU readline's input area (with a suggested value) in ruby?,imz,6,3,0,,t5_2qh3i,False
+1302541513.0,gniih,"""Free"" as in a museum",s_s,4,2,1,"The GPL is free as in a museum. Admission is free and you can look around,,
+1300071851.0,g3gas,"I'm always hearing complaints about Windows and Unix, and I agree that they are valid. My question is, what operating systems should have succeeded instead of the ones that are now dominant?",zarus,4,15,False,
+1281637027.0,d0giy,Anyone know of any free Quake mods/TCs?,ElDiablo666,4,1,5,I've been trying to find a WWII mod/TC specifically. I can't get any really good info on D-Day Normandy and its Wikipedia page seems to be gone. Wolfenstein: Enemy Territory was one of my favorite games for years but as far as I know it is still not freely available and distributed. Anyone know of any games like this? Any recommendations would be welcome and appreciated but I'm hoping to find something similar to what I've described.,t5_2qh3i,True
+1267630973.0,b8qwp,Document Freedom Day 2010 announced,leandrod,3,0,0,,t5_2qh3i,False
+1247514711.0,90u9c,Twenty questions about the GPL (without answers),Samus_,6,4,0,,t5_2qh3i,False
+1334653279.0,sdyj4,Visión general del sistema GNU - Proyecto GNU - Free Software Foundation (FSF),riveravaldez,2,0,0,,t5_2qh3i,False
+1333068146.0,rk5j1,Have you ordered anything from the FSF.org shop?,BodyByAushtwitz,3,1,3,"How long did it take to get your stuff?
+
+I ordered a bunch of stuff three weeks ago,,False,,t5_2qh3i,False,,True
+1332746594.0,rdwms,Exploring the Free world of numerical computation tools,r_schestowitz,3,1,0,,t5_2qh3i,False
+1332281217.0,r5qrf,Interview: Richard Stallman,r_schestowitz,4,2,0,,t5_2qh3i,False
+1317346401.0,kvym3,Does anyone else pronounce Nutella as Nootella?,tulsadune,4,3,3,I did this for years until my girlfriend corrected me.  Now I feel really stupid.  What are some other words with 'nu' that you mispronounce thanks to GNU.,t5_2qh3i,True
+1311488286.0,iy7rq,The Free Technology Academy needs your help! ,JRepin,4,2,0,,t5_2qh3i,False
+1302994045.0,grpv9,Ask Richard Stallman something possibly....,jayzalowitz,3,1,1,"Richard Stallman is coming to my campus this next Tuesday
+
+(You are more than welcome to attend
+
+He will be doing a Q &amp; A after words and we will be recording the session
+
+If you want to get in on the action,False,,t5_2qh3i,False,,,t3_grpv9
+1301500547.0,gerss,"The ""America Invents Act"" will eradicate the first-to-invent principle and make first-to-file - and a race to the patent office - the norm in the US. This will encourage inventors to file.",AndreasBWagner,3,1,0,,t5_2qh3i,False
+1285611160.0,djlgl,DRM In (and Out) of Schools. A strong and straightforward argument. ,TheSilentNumber,6,3,0,,t5_2qh3i,False
+1281431645.0,czf1f,Moglen: How We Can Be the Silver Lining of the Cloud,hakl,3,1,0,,t5_2qh3i,False
+1256062112.0,9vz47,iUnika - a ecologic and libre UMPC,semente,4,2,0,,t5_2qh3i,False
+1243284979.0,8n5fz,Transparent techies gather in Oxford,,3,1,0,,t5_2qh3i,False
+1242839570.0,8lxdw,Compliance is the goal,mattl,6,4,0,,t5_2qh3i,False
+1222845980.0,74k35,"Is it just me, or does this guy sound like he's writing for a high school newspaper?",,3,1,http://www.reddit.com/r/gnu/comments/74k35/is_it_just_me_or_does_this_guy_sound_like_hes/,,
+1222523184.0,73vyk,The GNU Cake,JRepin,5,3,0,,t5_2qh3i,False
+1347036283.0,zih1h,Join the FSF and friends in updating the Free Software Directory,donaldrobertsoniii,6,5,0,,t5_2qh3i,False
+1342634503.0,wrr9j,Can the Terms of the GPL Prevent GNU/Linux being used for War?,r_schestowitz,5,4,4,,t5_2qh3i,False
+1336860422.0,tk641,Can someone give me a super tl;dr of LGPL?,xenonscreams,2,1,0,"I'm interested in working with [this code](https://gforge.inria.fr/scm/viewvc.php/trunk/proofs/?root=coq) for fun. It's LGPL-licensed
+
+As a side-note, since I don't think this is going to be a one-person project.",,False,,t5_2qh3i,False,,
+1333129140.0,rl6w1,"Gimp 2.8: So Close, Yet So Far, Yet So Close",r_schestowitz,5,0,False,
+1332535012.0,rahmr,Glibc 2.15 released with optimisations and new locales,r_schestowitz,3,2,0,,t5_2qh3i,False
+1332408184.0,r85ow,GNU HURD wants Google funding for OS kernel development,r_schestowitz,3,2,0,,t5_2qh3i,False
+1332368485.0,r7fci,GNOME 2 vs. GNOME 3,r_schestowitz,3,2,0,,t5_2qh3i,False
+1331242958.0,qnwd9,Bring Some GNU Goodness to Windows with Gow,scrubs,1,0,0,,t5_2qh3i,False
+1328272693.0,p96i2,Parabola GNU/Linux: Freedom Packaged,JRepin,1,0,0,,t5_2qh3i,False
+1327333883.0,osyov,Richard Stallman: Facebook is a surveillance system ,an1var,1,0,0,,t5_2qh3i,False
+1311635511.0,izmk2,MarkTraceur's Video Blog - Episode 1 - Our Focus,MarkTraceur,1,0,0,"Using a really hackish method
+
+This video is about two things I've noticed that the free software movement could do better. I hope you like it!
+
+There are also .txt files
+
+Thanks so much!
+
+EDIT: Oh,,False,,t5_2qh3i,False,,True
+1307981397.0,hyli6,"FSF says - ""You wont find us on Facebook""; but GNOME is there - Things not adding up",jestinjoy,7,6,17,,t5_2qh3i,False
+1242503100.0,8kyrc,"Open Source, Open Standards, Open Data, Open Vancouver",,2,,False
+1375442218.0,1jk3gi,Isn't the choice to use proprietary software a freedom?,cyphar,10,8,17,"I understand RMS's hatred of force proprietary software
+
+My example is Debian. They were the first distro that pushed freedom, that should be my choice and RMS shouldn't fight that freedom.",,False,,t5_2qh3i,False,,
+1375438882.0,1jk1no,Why doesn't the FSF make a GNU distribution of Linux?,cyphar,5,5,4,Surely it would be in the FSF's interests to make a new distribution that RMS will be happy with. Or are they waiting to finish GNU/Hurd?,t5_2qh3i,True
+1362612119.0,19t2rm,The Great Debate: Is it Linux or GNU/Linux?,JRepin,4,4,9,,t5_2qh3i,False
+1344019203.0,xms3b,"My site, where I publish software under the GNU GPL license :)",Ma-kun,8,9,http://www.reddit.com/r/gnu/comments/xms3b/my_site_where_i_publish_software_under_the_gnu/,,
+1341984880.0,wde3h,Richard Fontana blows hot and cold on GPLv3 fork ,r_schestowitz,5,5,0,,t5_2qh3i,False
+1340556901.0,vj2f6,"GPL, copyleft use declining faster than ever",andreasw,1,1,http://www.reddit.com/r/gnu/comments/vj2f6/gpl_copyleft_use_declining_faster_than_ever/,,
+1338847351.0,uky5l,Clarification needed for jobs supporting free software,,2,2,0,"The FSF claims that the majority of the developer positions are free software jobs. This is because that the majority of the distributed software comes from a minority of the companies and that the overall majority of software is not distributed to another party (private software).
+
+Would you agree that we know that:
+
+* free software operating systems are not in the majority. Most job offers will ask for knowledge of a propertary operating system.
+
+* the majority of companies ask you to sign a non-disclosure agreement if you are to develop software for them
+
+* the definition of in-house software can mean that the organization holds the copyright over that software and you will violate their copyright if you copy it for other projects.
+
+
+If these are truths or untruths is there an easy way to help identify a free job from a non-free job? Maybe profiles of people working in related positions would help.",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/uky5l/clarification_needed_for_jobs_supporting_free/
+1337597819.0,txciq,Call for Proposals to host Software Freedom Day Summit 2012,JRepin,2,2,0,,t5_2qh3i,False
+1337086231.0,to4l4,MediaGoblin's One Year Anniversary: What's Next? | Linux.com,r_schestowitz,3,3,0,,t5_2qh3i,False
+1336912549.0,tkw2n,When Rob pike meets RMS,kracekumar,1,1,0,,t5_2qh3i,False
+1336769340.0,tiqdf,"Richard Stallman Cancels Event, Rushed to Hospital",r_schestowitz,3,3,http://www.reddit.com/r/gnu/comments/tiqdf/richard_stallman_cancels_event_rushed_to_hospital/,,
+1334734848.0,sfpe4,"Science the GNU Way, Part I",r_schestowitz,3,3,http://www.reddit.com/r/gnu/comments/sfpe4/science_the_gnu_way_part_i/,,
+1332233072.0,r4uqj,"An Interview with Richard Stallman on Freedom, Android, Amazon, Facebook, Steve Jobs…",2,,t5_2qh3i
+1331733308.0,qw5nc,Quick GPL question,classicrockielzpfvh,1,1,4,"**Pretext** So I've done a few projects that I've released under GPL. I love GPL because it strongly encourages people to contribute back to the community. I do
+
+**Now for the crux of the question**: In one of my previous GPL projects
+
+From what I understand, I think I can re-license that code so long as a (previous) version remains GPL'd. 
+
+Something else that may be relevant is that I am going to continue developing the other GPL licensed projects so the script in question will be doubly-licensed were I to re-license it.",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/qw5nc/quick_gpl_question/
+1330925781.0,qi73b,Made a brochure using LaTeX leaflet class and got it signed by RMS,jestinjoy,1,1,3,,t5_2qh3i,False
+1329845320.0,pzjcn,"How to teach programming: shy, practical people edition - Little Green River",TheSilentNumber,1,1,http://www.reddit.com/r/gnu/comments/pzjcn/how_to_teach_programming_shy_practical_people/,,
+1328208876.0,p819l,Pack Liberté 3-en-1 pour soutenir les libertés informatiques et Internet [french speakers],Cheatboy2,1,1,0,,t5_2qh3i,False
+1328030877.0,p4rk5,Samba 4.0 Dances Closer To Release. [Phoronix] ,iiiears,1,1,0,,t5_2qh3i,False
+1324907308.0,nr52x,The Coming HTML 5 Revolution in GNU/Linux,arscariosus,1,1,0,,t5_2qh3i,False
+1322956817.0,mz770,"What about changing the term ""Free Software"" to ""Freedom-based Software""?",joehillen,5,6,10,I feel like this would clear up the confusion.,t5_2qh3i,True
+1321900276.0,mkeh8,"Amend the Constitution, making the Internet an unalienable right",nullcat,2,2,http://www.reddit.com/r/gnu/comments/mkeh8/amend_the_constitution_making_the_internet_an/,,
+1318362387.0,l8ne0,Cross posting (on a stupid dare at that!). Please help dispel some myths and otherwise help this person.,,3,3,4,,t5_2qh3i,False
+1317830562.0,l1th1,GnuBio - I'm confused...if there's some relation here I'm not seeing it,gocoogs,1,1,0,,t5_2qh3i,False
+1305324716.0,havik,[x-post] Ubuntu's Bug #1 is no longer just about Microsoft... [=,TheSilentNumber,3,3,2,,t5_2qh3i,False
+1303961467.0,gz08j,Internships at Free Software Foundation Europe,547,1,1,0,,t5_2qh3i,False
+1299722963.0,g0vk4,Just had an awesome idea: adopt Mr. Rogers as the anti-DRM mascot,ElDiablo666,2,2,0,"Right? He said that people should be able to tape his show and that people should be in control of.their own lives. Who better to use as an example against digital restrictions management? I'm seeing huge posters or graphics on websites (reddit!) with Mr. Rogers saying ""you deserve to be in control of your own life; you deserve freedom and autonomy; you deserve to be free from DRM"" or something of this nature.
+
+Thoughts? I really think this could be a great way to connect all types of people across generations to put a stop to this injustice.",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/g0vk4/just_had_an_awesome_idea_adopt_mr_rogers_as_the/
+1299704909.0,g0p5k,logo-fsf-ratios-00.png,cobe571,3,3,1,logo fsf ratios,t5_2qh3i,True
+1295621517.0,f6hrw,Entering: Apple Restriction Zone,mattl,2,2,0,,t5_2qh3i,False
+1288723966.0,e06r1,"A critique of copyright regimes, and current liberal 
+views of free software and free culture which seek 
+to trap culture within capitalism. Kleiner proposes 
+copyfarleft
+Production License.",4,1,http://www.reddit.com/r/gnu/comments/e06r1/a_critique_of_copyright_regimes_and_current/,,,False,t5_2qh3i,False
+1281204928.0,cyj27,Regarding Google Wave and Google Me,TheSilentNumber,1,1,0,"Google Wave (as we know it) will be supported only for the year. The idea behind it was pretty cool, ""Are you on Me?"") and if you'll remember
+
+My questions are: 
+
+* Overall
+* What are your concerns? 
+* If it happens
+* Will this be good or bad for user freedom? ",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/cyj27/regarding_google_wave_and_google_me/
+1277081340.0,ch5ic,Beginners guide to installing programs in Ubuntu Linux.,jestinjoy,6,6,0,,t5_2qh3i,False
+1261571662.0,ahtsq,OpenLogic Moves To Help Prevent License Lawsuits,goatmilk,1,1,0,,t5_2qh3i,False
+1261417014.0,ah52v,Fellowship interview with Simon Josefsson,goatmilk,2,2,0,,t5_2qh3i,False
+1252401862.0,9id7c,There is still no Copyleft symbol in Unicode,TheSilentNumber,4,4,2,,t5_2qh3i,False
+1252401260.0,9id4p,Fund Your Project With The Threshold Pledge System,TheSilentNumber,1,1,0,,t5_2qh3i,False
+1252400653.0,9id1w,What ever happened to P2P Streaming Media?,TheSilentNumber,1,1,0,,t5_2qh3i,False
+1356636977.0,15j68x,Stallman mismanaging FSF?,acidw4sh,4,5,1,,t5_2qh3i,False
+1343957021.0,xlhio,Theory #4: The Stallman effect,NightshadeForests,6,6,5,,t5_2qh3i,False
+1342580386.0,wqm8l,"Under GPLv2, can I take software, change it, and sell it?",ababsy,4, just need clarification for my paper.",t5_2qh3i
+1342052768.0,wexzj,[Phoronix] Decoupling GCC From Debian By Using LLVM/Clang,r_schestowitz,3,4,0,,t5_2qh3i,False
+1335983708.0,t3nxv,Job opportunity: Operations Assistant at the Free Software Foundation,mattl,2,3,0,,t5_2qh3i,False
+1333040926.0,rjh9m,This is a must-read. A strong criticism of Ubuntu and a look at where it's headed. ,TheSilentNumber,3,4,2,,t5_2qh3i,False
+1329605564.0,pvqxm,"Why don't we take all the creationist, and ...",Mknox1982,3,4,http://www.reddit.com/r/gnu/comments/pvqxm/why_dont_we_take_all_the_creationist_and/,,
+1329305601.0,pql4z,What's a pirate's favorite statistical tool?,enferex,2,3,0,,t5_2qh3i,False
+1313164265.0,jgulg,"I'm all for Free Software, but I'm not sure if I get the part where others feel they can pirate it? Isn't that infringing on Freedoms of others?",bobdoleatbobdole,1,2,http://www.reddit.com/r/gnu/comments/jgulg/im_all_for_free_software_but_im_not_sure_if_i_get/
+
+Artists, but I think it's counter-intuitive to think that gives me the right to impede on the freedom of those who wish to keep it closed.",,False,,t5_2qh3i,True,,
+1308184814.0,i0sld,Introducing Baby GNU,blinkallthetime,2,3,0,,t5_2qh3i,False
+1306685062.0,hmvdn,Stallman face palm. (x-post from r/israel),ShamanSTK,11,12,5,,t5_2qh3i,False
+1292347476.0,elq9d,"Mono Applications Use Unsafe, Tainted Namespaces",semente,4,7,http://www.reddit.com/r/gnu/comments/elq9d/mono_applications_use_unsafe_tainted_namespaces/,,
+1281188059.0,cygvx,What to expect in Debian Squeeze??,jestinjoy,3,4,0,,t5_2qh3i,False
+1277841147.0,ck9vr,"Random question: Would anyone be interested in seeing Stallman debate Steve Jobs? If so, do we care to make it happen?",JohnnyKreddit,1,2,http://www.reddit.com/r/gnu/comments/ck9vr/random_question_would_anyone_be_interested_in/,,
+1243291190.0,8n60h,"The impact of the Symbian case revisited; Europe under threat of anti-FOSS laws, which Microsoft craves",,6,7,http://www.reddit.com/r/gnu/comments/8n60h/the_impact_of_the_symbian_case_revisited_europe/,,
+1233016118.0,7smnc,Is there a canonical rebuttal of criticism of GNU's agenda of taking over the (software) world?,aintso,4,6,3,,t5_2qh3i,False
+1365605370.0,1c2cxo,"Microsoft planning to release console with always-online DRM system, is a jerk about it",Zak_at_FSF,2,4,http://www.reddit.com/r/gnu/comments/1c2cxo/microsoft_planning_to_release_console_with/,,
+1342636835.0,wru1f,"Restricted Boot Arguably Fought Against by Linux, Not Just GNU | Techrights",r_schestowitz,2,4,http://www.reddit.com/r/gnu/comments/wru1f/restricted_boot_arguably_fought_against_by_linux/,,
+1340216099.0,vc8iu,Microsoft Suffocates the Free Software Foundation (FSF) | Techrights,r_schestowitz,9,12,0,,t5_2qh3i,False
+1339754747.0,v37zv,This Danish girlie-beer made me think of someone we know...,1337_n00b,2,5,7,,t5_2qh3i,False
+1332640613.0,rc5x6,More on RMS on the Linux Action Show,italklotsofshit,1,3,0,,t5_2qh3i,False
+1302880425.0,gqsg8,Articles of Roy Schestowitz,gnuboy,6,8,0,,t5_2qh3i,False
+1302698672.0,gp0jq,Mono conspires to rape Android,gnuboy,8,9,2,,t5_2qh3i,False
+1300955160.0,gacvj,Hail RMS,iheartrms,4,4,0,"Hail rms
+
+full of grace
+
+the GNU is with thee
+
+Blessed art thou among hackers
+
+and blessed is the fruit
+
+of thy brain
+
+Holy rms
+
+father of emacs
+
+code for us sinners now
+
+and at the hour we use non-free software
+
+Amen
+",,t5_2qh3i,False,,,True,http://www.reddit.com/r/gnu/comments/gacvj/hail_rms/
+1278504293.0,cmucv,Why doesn't GNU/EFF make an appstore?,Jasper1984,3,6,11,"Arguably with the various systems, the other half being the payment and registration and such. Well
+
+I know GNU is about libre software but:
+
+* Nonlibre software is a fact of life anyway in most installations of linux. Why not allow payed-for nonlibre software too.
+
+* You could make payment/donation for libre software optional.
+
+* It is also about freedom to use your computer
+
+* If organized properly
+
+While we're at it
+
+Edit: Nowhere is it implied they take over repos. Obviously they'd make the system libre,False,,t5_2qh3i,True,,,t3_cmucv
+1363492600.0,1ag4l6,Badass Stallman,Desiderantes,5,8,0,,t5_2qh3i,False
+1318253449.0,l715o,Time to fork the FSF,Y444,1,4,3,,t5_2qh3i,False
+1295701223.0,f7100,GPL == communism,anon715,2,6,1,,t5_2qh3i,False
+1248214501.0,93b3j,RMS Goes to the Zoo,,2,5,0,,t5_2qh3i,False
+1241463395.0,8hs7m,A GnuAlien,F4il3d,1,4,0,,t5_2qh3i,False
+1302784297.0,gpus4,"Why Microsoft’s Guy Miguel de Icaza Pushes for C# at Apple, Which is Not Successful",gnuboy,8,12,http://www.reddit.com/r/gnu/comments/gpus4/why_microsofts_guy_miguel_de_icaza_pushes_for_c/,,
+1302695115.0,goznm,.NET and More Microsoft APIs Pushed Into GNU/Linux by Microsoft MVPs and FUD Spreaders (Against Linux),gnuboy,7,11,0,,t5_2qh3i,False
+1291902324.0,eiwz7,"Canonical is Hiring Mono Developers, Losing COO",gnuboy,19,23,http://www.reddit.com/r/gnu/comments/eiwz7/canonical_is_hiring_mono_developers_losing_coo/,,
+1303297149.0,guda4,Sources of Endlessly-repeated Lies About GNU/Linux,gnuboy,5,11,0,,t5_2qh3i,False
+1303297062.0,gud9i,"While Helping Microsoft, Novell Harms Linux Companies and Instead Markets Proprietary",gnuboy,3,9,http://www.reddit.com/r/gnu/comments/gud9i/while_helping_microsoft_novell_harms_linux/,,
+1303296983.0,gud8t,Mono is Microsoft,gnuboy,3,8,0,,t5_2qh3i,False
+1303296940.0,gud8l,ZDNet Censors Comments Editors Disagree With,gnuboy,4,7,0,,t5_2qh3i,False
+1302792781.0,gpxw5,Ostracise Miguel de Icaza Like Stephen Elop Should Have Been Ostracised From Nokia,gnuboy,8,12,0,,t5_2qh3i,False
+1302794105.0,gpyhl,What Techrights Really is and How to Help Techrights,gnuboy,8,12,2,,t5_2qh3i,False
+1302791997.0,gpxie,"Miguel de Icaza is at Microsoft, Attacking Ubuntu GNU/Linux",gnuboy,7,15,http://www.reddit.com/r/gnu/comments/gpxie/miguel_de_icaza_is_at_microsoft_attacking_ubuntu/,,
+1295213216.0,f3fg0,"Ubuntu Has No Open Respect, Needs Introspection",gnuboy,12,18,http://www.reddit.com/r/gnu/comments/f3fg0/ubuntu_has_no_open_respect_needs_introspection/,,
