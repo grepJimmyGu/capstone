@@ -7,7 +7,7 @@ function dl(){
        echo "You Have downloaded "$i
        newname=$i-"new"
        cut -d',' -f1,4,5,6-9,11,15,19 $i>$newname|mv $newname ~/Capstone/MetaData/$i
-       rm ~/Capstone/$newname
+       rm ~/Capstone/$i-"new"
        rm ~/Capstone/$i
     done
 }
