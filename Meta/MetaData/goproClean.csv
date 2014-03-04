@@ -1,0 +1,1869 @@
+created_utc	id	title	author	ups	downs	num_comments	selftext	subreddit_id	is_self
+1363782250.0	1anq5d	GoPro doesn`t like you to use their name. DMCA abuse.	Ex3qtor	1360	287	832	"DivitalRev is being bullied by GoPro lawyers for using the name GoPro and Hero. Should we expect all videos using these names to be taken down? 
+
+http://www.digitalrev.com/article/gopro-doesn-t-like-their/ODUyNjU2ODc_A
+"	t5_2rvat	True
+1361337326.0	18vbrm	FOUND: GoPro along Watauga River near Boone, NC	thesimpletoncomplex	900	124	186		t5_2rvat	False
+1358704421.0	16xruq	Used the GoPro for a huge parkour jump.  What do you think?	Space_Penguin	480	39	46		t5_2rvat	False
+1365623931.0	1c32a0	That moment when you go record your hour long ride with your GoPro and get home only to realize you only took one picture in your driveway.	reppinthe509	399	23	61		t5_2rvat	False
+1357414667.0	160qiw	This is what you get from the gopro daily giveaway. 	Devywhop	301	22	121		t5_2rvat	False
+1371705379.0	1gpkiw	I finally understand why people mount GoPros on their DSLRs. This video is brilliant.	schnow	281	22	41		t5_2rvat	False
+1359851490.0	17s4o7	First GoPro, decided to do an unplanned 'seamless' edit of Tignes footage	CloddyV	270	15	59		t5_2rvat	False
+1357948828.0	16eqyc	Found GoPro HERO at Bear Mountain during tree run.	shazbot28	274	26	31	"I was freeriding through the trees on Bear Mountain on New Years day and found someone's original GoPro HERO. Attached it to my bag and forgot to drop it off at lost and found. Trying to get it back to it's rightful owner. Any help would be appreciated!
+
+Here are some stills from the videos of the 3 friends and the rig.
+
+http://imgur.com/a/CFLWn
+
+If there's no leads, I'll be in Big Bear this weekend and will drop it off at lost and found at Bear Mountain resort with the video stills for security to verify."	t5_2rvat	True
+1373171403.0	1hscqm	Dress for the job you want, not the job you have.	canadian_stig	277	26	23		t5_2rvat	False
+1366143876.0	1chfqx	"I ""Stealth-ed Out"" my GoPro. Hero3:Black Edition... Literally [Album]"	DesignNomad	246	10	55		t5_2rvat	False
+1375810392.0	1jtnx5	Lost a good friend and a GoPro fan this last week. He was buried today, and I just wanted to share a few of his pics as a memorial. Rest in peace, Danny.	DesignNomad	260	29	24		t5_2rvat	False
+1365273414.0	1bt3he	My favorite picture I've taken with my GoPro	bajp	250	25	27		t5_2rvat	False
+1366441962.0	1cqb5t	"6'7"" guy straps a GoPro Hero 3 to his forehead and heads to Coachella. This is his experience."	YoGramMamma	239	18	33		t5_2rvat	False
+1365569544.0	1c1lua	My GoPro Hero 3 fell 10,000+ ft, landed on asphalt and this is how the camera turned out.	rgumai	229	15	50		t5_2rvat	False
+1362614035.0	19t59r	I've been making a bunch of these with my GoPro, and this one I put the most work into	JoeBMX	226	10	29		t5_2rvat	False
+1351187598.0	122rk3	Taken from GoPro. My brother fist bumping Bear Grylls during the Tough Mudder Seattle. 	mathliability	215	7	8		t5_2rvat	False
+1366524104.0	1csd1t	Took this pic of me and my car tonight.	Gargladdy	219	19	44		t5_2rvat	False
+1372915766.0	1hm92z	My GoPro arrived today, and after watching an hour of GoPro videos at YouTube...	astral_cowboy	282	78	49		t5_2rvat	False
+1350872932.0	11viti	Let's Talk About Workflows	xdamanx	227	31	85	"[Selfless Promotion] Please upvote this post so we can get some more exposure and so the mods can see, and possibly consider adding it to the sidebar.  I will receive no Karma from a self-post.
+
+----
+
+I think it would be good if we could get some comprehensive guides that we could compile into this post, and maybe add it to the sidebar so newer people can better understand the ropes.
+
+It seems like a lot of people are willing to purchase a Gopro, and are really happy with the camera, until they offload their clips onto the computer and realize its not nearly as good as what Gopro has on their YouTube page.
+
+I use an Adobe workflow, so I will start but **it would also be great to get other people's opinions/workflows** for programs such as Avid, Vegas, FCP, and others.  **Also feel free to suggest improvements to workflows as well as video's that have helped you learn more such as tutorials on slow motion, color correcting etc.**  I will make sure to give credit, when credit is deserved.
+
+
+
+So I will start:
+
+
+
+Description:
+
+* I primarily film snowboarding, skiing, wakeboarding, wakeskating, and occasionally skateboarding.  So the Gopro makes a great action camera for me, and allows me to get close in on the action.
+
+* I use Adobe CS6, which consists of After Effects, Premiere Pro, Encore, Soundbooth, Audition, Speedgrade, and occasionally Photoshop.  I also use Gopro's free Cineform software.  Lastly, I use a few plugins for some of the programs.  In after effects I use the following programs: Twixtor, Twitch, Magic Bullet Looks, and Optical Flares.
+
+
+* I originally had a Gopro Hero for my filming and I often filmed at 720p 60fps.  However it is important to note, that when filming in lower light or cloudy conditions, step the frame rate down to allow more light to enter the shutter.  If your frame rate is too high, and not enough light is getting to the camera, then your clips will look dark, and it will be harder to correct in post.
+
+
+
+
+
+Now for the workflow:
+
+/u/xdamanx's Workflow With Adobe CS6 and Gopro Cineform
+-------
+
+-----
+
+Part 1 - Gopro Cineform
+-----
+
+1.  I start by shooting my footage, I try to use a large variety of mounts and in as many creative ways as possible.  One of the most important rules I follow, is if I have a chance to mount the camera upside down, I do.  This allows the weight of the camera to help stabilize the camera.  
+
+2. I try and use high quality SD cards, this isn't as important for the original hero, but with the Hero2 and especially the black Hero3, it will be very important to have at least a Class 10 card.  I recommend looking on amazon for them as their prices tend to be fairly reasonable.
+
+3.  After shooting my footage, the first step I take is to put them on a computer.  If you are serious about your video editing, it is best to use a ""scratch disk"" to store your footage on.  This removes bandwidth issues when you edit and will help speed up your workflow.  I was able to scavenge up 4 250gb disks that I have set up to act as Scratch Disks.  This enables your editing program to work more efficiently and helps remove hard drive bottlenecking.
+
+
+ I like to put my footage into a folder system that allows me to easily understand how things work.  I start by creating a top level folder called something such as ""Gopro"" or ""Media"".  Inside of that I like to put the year, for example ""2012"".  Inside of that folder I put the event name such as ""Fernie_Snowboarding_March"".  I use underscores and capital letters for my folders so that they are easier to read.  Inside of that folder I create a folder called ""RAW"".  Inside this folder I put all the footage off of the SD card.  It's called RAW because its footage that still needs to be sorted through, and has yet to be edited.  I also like to create other folders that I will talk about later in my workflow such as ""Colored"", ""Transcoded"", and ""Output"".
+
+
+4. After I have put my footage in the RAW folder, I go ahead and open up the Gopro Cineform Studio application.  Once inside, I go ahead and import all of my footage, and begin to start to sort out my cuts.  I start by going into the ""Advanced Settings"" box, and changing a few settings:
+
+* I usually leave the frame size at the original setting, in my case this is usually 720p.  However yours may be different.
+
+* I change the frame rate to 23.976, I know several people like 29.97 but I prefer the ""film"" look.  It also allows for a slight increase in slow motion percentage.
+
+* I leave the ""Speed Up"" box blank.
+
+* I set the file format to ""MOV"", this isn't really a crucial step, as premiere has great support for both, but after conducting a few quality tests I have found that the MOV format works a little better for uploads to websites such as Youtube and Vimeo, whereas AVI tends to be better for DVD's and other physical media.
+
+* For the quality box, its up to you, I have an abundance of space and a powerful computer so I set this to High, however medium will be more then fine for most of you.  It really depends on how capable your computer is of editing the file, as well as the hard drive space you have.
+
+* I tick the ""remember settings"" box so that it saves my settings for all of my clips.
+
+After hitting ok, I then proceed to making a few other adjustments:
+
+* I can hit the Rotate/Flip box if I need to flip my clip.  (The gopro has an upside down mode, but I occasionally forget to change it. Remember that its important to film upside down for the best stability.)
+
+* I change the ""save to"" directory to wherever its applicable.  This is usually an external hard drive.  This time though I put it into a ""transcodes"" folder in the same level as the RAW folder.  (So it looks like: D:\Gopro\2012\Project_Name\Transcodes)
+
+* I change the file name, to describe the clip.  It's really personal preference as to how you wish to do this.  I like to use effective names to describe it such as: PersonsName_WhatTheyAreDoing_RatingOutOf5.  So it may look something like: Josh_DownRail_4.
+
+* I then click the ""Add Clip To Conversion List"" box.  When I have done this to all of my clips, I click the ""Convert All"" box.  Usually I then go eat something, watch some TV, or do something else while my computer transcodes my footage.  When its finished, this portion is complete.  I don't use the ""Edit"" function of the Cineform application as I use Premiere Pro for that.
+
+
+Premiere CS6
+-----
+
+
+
+With any video editing program, I find that its best to watch some videos on youtube, and then play around in the program similar to a ""Sandbox"".  Explore around in the program, and don't be afraid to make mistakes.  Find out what each tool does, and how effects work, and become familiar with the program.  This is the basis of becoming better at content creation.  When you edit videos, its a personal task, you are in charge of making the cuts, coloring the video, and choosing which shot goes where.  
+
+
+Now this part of the guide is going to assume you have a basic understanding of how to navigate around in the program, as well as how to use some of the tools.  This part won't go too in depth specifically on how to edit your videos, but rather parts specific to gopro.
+
+
+So lets begin:
+
+
+* When you installed the Gopro Cineform application, you also installed Codecs that are specifically for the Gopro, it helps enhance the productivity of your workflow by allowing your computer to work more efficiently.  So when I first open up Premiere I start by creating a new project.  A new dialog box will open up, with 2 tabs.  The first tab is where you can set the project file name, as well as where to save the project.  The second tab is also important.  This is the scratch disks, if you have an external hard drive with available space, consider using this as your scratch disk to improve your performance.
+
+* After creating the project, a new dialogue box will open up, in here we want to change some settings to match our gopro's video.  Start by clicking on the Settings tab.  [Then match up your settings with these](http://imgur.com/5tPh4), tabs in green will remain the same for all of your gopro footage, and tabs in orange will vary based on your resolution, and destination frame rate.  Also make sure you save your preset for future use. After this, give your sequence a name and then press ok.
+
+* After this point, your settings should be correct and you are ready to begin editing, I won't go into too much detail beyond this, perhaps at one point I will expand this part of the guide.  For this part I highly recommend you watch some Youtube videos for more information.
+
+
+
+Other Stuff To Check Out:
+-------
+
+* [Tips &amp; Techniques for filming Skiing/Snowboarding](http://www.reddit.com/r/gopro/comments/137fzo/tips_techniques_for_filming_skiingsnowboarding/)
+
+* [Exporting + Uploading to Youtube](http://www.youtube.com/watch?v=gIvV0qjqhIA)
+
+
+
+Still to be added:
+-----
+
+* Special Effects (Twixtor, Twitch, Optical Flares etc.)
+
+* Color Grading and Color Correction (Using either SpeedGrade, Premiere, or BlackMagic Design's Resolve)
+
+* Suggestions from others
+
+
+----
+
+If you feel your computer is becoming old, and you are ready to make an upgrade to a newer more powerful one for video editing.  Consider building your own to save some cash and squeeze out some more performance.  Check out /r/buildapc for more information.  For $650 you can get some serious performance:
+
+[PCPartPicker part list](http://pcpartpicker.com/p/l24p) / [Price breakdown by merchant](http://pcpartpicker.com/p/l24p/by_merchant/) / [Benchmarks](http://pcpartpicker.com/p/l24p/benchmarks/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel Core i5-3570K 3.4GHz Quad-Core Processor](http://pcpartpicker.com/part/intel-cpu-bx80637i53570k) | $189.99 @ Microcenter 
+**Motherboard** | [ASRock H77 Pro4/MVP ATX  LGA1155 Motherboard](http://pcpartpicker.com/part/asrock-motherboard-h77pro4mvp) | $69.99 @ Newegg 
+**Memory** | [Patriot Viper 3 16GB (2 x 8GB) DDR3-1600 Memory](http://pcpartpicker.com/part/patriot-memory-pv316g160c0k) | $61.99 @ Newegg 
+**Storage** | [Seagate Barracuda 1.5TB 3.5"" 7200RPM Internal Hard Drive](http://pcpartpicker.com/part/seagate-internal-hard-drive-st31500341as) | $81.98 @ Newegg 
+**Video Card** | [EVGA GeForce GTX 560 Ti 1GB Video Card](http://pcpartpicker.com/part/evga-video-card-01gp31561kr) | $159.99 @ NCIX US 
+**Case** | [NZXT Source 210 Elite (White) ATX Mid Tower Case](http://pcpartpicker.com/part/nzxt-case-s210e002) | $49.99 @ Newegg 
+**Power Supply** | [OCZ ModXStream Pro 600W 80 PLUS Certified ATX12V / EPS12V Power Supply](http://pcpartpicker.com/part/ocz-power-supply-ocz600mxsp) | $38.91 @ NCIX US 
+ | | **Total**
+ | Prices include shipping, taxes, and discounts when available. | $652.84
+
+
+------
+
+**If you have any suggestions for this guide, please feel free to post them in the comments.  If you have any questions please also make sure you ask.**
+
+
+
+
+
+-----
+
+Cheers,
+xdamanx"	t5_2rvat	True
+1347317171.0	zodu8	GoPro STOLEN by a SEAGULL!! - Unique San Francisco sunset.	bobsmo	210	15	16		t5_2rvat	False
+1376410832.0	1kaabi	Thought you guys would appreciate this	Gator813	230	34	43		t5_2rvat	False
+1367982860.0	1dwr2v	What People Do With Their GoPro Vs. What I Do With My GoPro	TheAndrewSpence	217	23	28		t5_2rvat	False
+1365375542.0	1bvp6c	Every damn time...	blaircook	202	16	32		t5_2rvat	False
+1370155696.0	1fibj0	We all have our GoPro face, here's my friend's!	redsox985	196	18	30		t5_2rvat	False
+1359962142.0	17uu8k	A little slice of magic from my GoPro this weekend.	LeoZuckerman	186	4	8		t5_2rvat	False
+1360250639.0	182g41	I won GoPro's EWM Daily in December.	SpyreFox	187	12	58		t5_2rvat	False
+1372680619.0	1hf6xi	GoPro + Fireworks + Ceiling Fan + 240fps	jeremiahwarren	186	14	23		t5_2rvat	False
+1375196542.0	1jcnuh	Just thought of this today.	Iwokeupoutsidetoday	186	14	42		t5_2rvat	False
+1370308106.0	1fmdex	Peak Into The Swamp	justinduke	198	28	25		t5_2rvat	False
+1366232485.0	1ck516	Someone recently posted an awesome snowboarding video using seamless transitions. I decided to try out the same style with my skydiving footage.	helichris	181	10	58		t5_2rvat	False
+1359575726.0	17kvg0	I lofted my GoPro with one of my kites yesterday. Cable Bay, near Nelson, New Zealand.	NZ_ewok	180	10	43		t5_2rvat	False
+1345283716.0	yf8uj	Life with a gopro is about documenting extreme lifestyles...	iamthatguytoo	174	8	9		t5_2rvat	False
+1361464674.0	18yluq	The GoPole was a good purchase.	DecentDudeDustin	176	9	16		t5_2rvat	False
+1376312692.0	1k7cwm	I do weird things.	abovebeyondkms	189	37	16		t5_2rvat	False
+1375688280.0	1jq8dr	Drift Trike	ap73	170	19	21		t5_2rvat	False
+1371587784.0	1glx78	This software will spice up your timelapses big time.	Schwimp	157	7	39		t5_2rvat	False
+1355239538.0	14o1r2	Before there was GoPro..	MrMish	156	7	11		t5_2rvat	False
+1362673100.0	19un1b	GoPro HD3 makes great GIFs. 	ridetehbike	158	13	21		t5_2rvat	False
+1370960656.0	1g4eeo	The joys of being a rigger.. In Dubai.	Jensway	162	15	17		t5_2rvat	False
+1359258516.0	17coof	What do you do when you forget the tripod?	thecattleroper	154	9	5		t5_2rvat	False
+1367907470.0	1dujk9	Golden Sunrise with the hd3 black	jalop	156	13	11		t5_2rvat	False
+1355432643.0	14szcp	GoPro just uploaded this to their facebook... I don't think they have enough on that rig...	alphanumerica	152	12	45		t5_2rvat	False
+1375153406.0	1jbnz0	Got barreled at the lake on my jet-ski	Harder_Tory	159	17	17		t5_2rvat	False
+1360604295.0	18bhhg	Sometimes the best footage you get is in the B-roll [gif]	skilks	159	18	14		t5_2rvat	False
+1374136296.0	1ijq9x	Hero 4? (Found on Facebook)	ap73	155	13	14		t5_2rvat	False
+1373074789.0	1hq4ue	Throwing a GoPro on burst mode is very cheap aerial photography.	DecentDudeDustin	153	19	24		t5_2rvat	False
+1367441346.0	1di7hu	Screen grab from my ride yesterday.	InSearchOfLight	143	9	12		t5_2rvat	False
+1375004449.0	1j7jex	My friend and I recently got hero 3 blacks and stickerbombed them before our snow trip	upvotelikeaboss	165	33	16		t5_2rvat	False
+1347658146.0	zwazv	Best use of a GoPro EVER! Hula Cam at Burning Man 2012	steppinraz0r	152	18	15		t5_2rvat	False
+1367540055.0	1dl5fi	Either going to get some love, or hate for this...	FloridasFinest	158	27	42		t5_2rvat	False
+1357798835.0	16aum0	"New roommate moved in, said I could edit videos on his ""battle station"". "	BlueJayy	143	13	52		t5_2rvat	False
+1373221303.0	1hta3a	Say hello to my little friend!	ScarySquirrel	139	10	18		t5_2rvat	False
+1374458349.0	1isa2e	Just glad it was a cheap Walmart pump gun! [H3B/1440p]	coreoski	141	16	24		t5_2rvat	False
+1374187799.0	1ild2s	Combined a few timelapse photos	abekislevitz	142	12	16		t5_2rvat	False
+1373898523.0	1ica2f	Stay off the tracks	redbullhamster	137	12	10		t5_2rvat	False
+1366804552.0	1d05rk	BASE jumping from a car (xpost /r/skydiving)	b_masterfleX	129	8	18		t5_2rvat	False
+1373621500.0	1i56q6	I broke my back a while ago, so paraglide to see the sights. Can't walk, can fly! (Hero3 Black mounted on my wing)	derpchair_warrior	134	13	30		t5_2rvat	False
+1371227559.0	1gchca	My buddy just took this cool pic of him golfing	McGrubenstein	137	11	11		t5_2rvat	False
+1352853419.0	135iwh	My painted and battle hardened GoPro! +Pics of me wearing it in Afghaniland	crizzthewizz	132	9	41		t5_2rvat	False
+1363734474.0	1amjde	Biting Elbows - Bad Motherfucker. A music video shot entirely on a GoPro. Boobies, guns, explosions, and parkour	hooktonfonix	147	27	18		t5_2rvat	False
+1373055250.0	1hpk91	Lost my GoPro for 2 weeks... FOUND IT!	cshontz	131	11	14		t5_2rvat	False
+1363087522.0	1a54cu	Skateboard speed blur	sammy_gray	135	12	12		t5_2rvat	False
+1375365313.0	1jhs96	Have a GoPro 3 Black? Like to shoot timelaps or panoramics? I made a nice cheat sheet you can print to help plan a sequence. Description in comments [OC]	KevinAndEarth	127	8	29		t5_2rvat	False
+1348086947.0	105ku6	Got a helmet for my GoPro	Crath	126	10	13		t5_2rvat	False
+1376511054.0	1kddac	Threw my GoPro up to god, took a picture of his son.	jakeblue	160	46	30		t5_2rvat	False
+1371510455.0	1gjrer	This is GoPro's video of the day today but it's too incredible not to repost. A deepflight submersible in search of whales.	ILiveInAVan	117	4	13		t5_2rvat	False
+1364394311.0	1b3zzi	Best Motorcycle Footage I've ever seen from a GoPro. Shot using 10 Foot Long Swivel Pole with Safety Break-Away	ktmexc300	123	14	44		t5_2rvat	False
+1368640445.0	1ee8xx	In memory of my brother who passed at 23 I filmed a second of video everyday when I was 23 (x-post Videos)	worchestire_sauce	122	14	41		t5_2rvat	False
+1358795680.0	1705tq	How all of my gopro videos start:	jbh1126	128	14	45		t5_2rvat	False
+1372435215.0	1h969h	Took my GoPro into Chicago yesterday, this one came out better than I expect. Chicago's Sears Tower (Willis Tower)	Allofasutton74	113	2	5		t5_2rvat	False
+1368288151.0	1e4sr6	Bodysurfing in Laguna Beach	jalop	116	9	8		t5_2rvat	False
+1367840761.0	1dscjm	Holy crap. This South Korean military exercise is about as extreme as a gopro can get.	SamMaghsoodloo	116	4	8		t5_2rvat	False
+1365178206.0	1bqnsw	Yes please!! This would be perfect for my GoPro. [Demo video and original article in comments.]	coreoski	122	13	31		t5_2rvat	False
+1371838886.0	1gt4sk	Looking forward to some great shots with this	Bakgon	111	4	24		t5_2rvat	False
+1368549881.0	1ebn4g	Just planted a sunflower seed - long-term project?	Jim_Bacon	118	10	25		t5_2rvat	False
+1358176494.0	16jxox	My dog, wife and I on a scooter ride.  Mounted Gopro caught the moment. 	brazilliandanny	125	15	22		t5_2rvat	False
+1371431920.0	1ghi5j	Sunset Wakesurfing!	coolstorycorey	115	11	15		t5_2rvat	False
+1361216157.0	18rn8e	Brett Turcotte GoPro Jump [GIF] x-post from r/woahdude	PotentialBIllionaire	109	5	12		t5_2rvat	False
+1358550810.0	16ug7r	The reflection is hauling ass. 	redbullhamster	122	16	7		t5_2rvat	False
+1357110219.0	15tcle	GoPro + Head Mount = Classic Reaction	Stambout2Slam	118	12	10		t5_2rvat	False
+1352668154.0	130y3t	Hey r/GoPro, it's time for a change, please read. New rules for this subreddit.	post_break	116	13	29	"I took over /r/GoPro when there was maybe 50 subscribers and not much was posted here. Now we're over 2,000 readers and new content is posted daily. I've taken a very neutral role when it comes to moderating this subreddit, almost anything goes. The only thing that isn't allowed right now is obvious spam, referral links, and some for sale threads.
+
+This is going to change soon. 
+
+Starting with the for sale thread. I have registered [r/GoProMarket](http://www.reddit.com/r/GoProMarket/). This is where you can post all your gear for sale or any deals you find. This will keep /r/GoPro clear of for sale style posts.
+
+The next rule won't go into effect right away. Basically we want to cut down on the same type of questions. What SD card should I get? What is a good microphone? What GoPro should I get? These type of posts will be cut down thanks to a FAQ page. The FAQ page is in the works and will be going live on 11/17. It will be constantly worked on, content added to it as we go. Posts that ask for information that is clearly answered in the FAQ should be dealt with accordingly. 
+
+
+What I don't want to happen is turn this subreddit into a heavily moderated one. That's what the voting system is for and the mods have done a pretty good job here staying neutral. These new rules recognize this idea. 
+
+Going forward I want to do a better job maintaining this subreddit and updating the FAQ. 
+
+If you have any questions or suggestions for other rules feel free to post them. "	t5_2rvat	True
+1356045680.0	1570jp	My university posted some pics from graduation on facebook. Thought you guys would enjoy this	TheMafioso	118	13	16		t5_2rvat	False
+1358389766.0	16q5n2	Rained a bunch in Atlanta so I went River Wakeboarding!	savageotter	112	9	19		t5_2rvat	False
+1367517041.0	1dkb1h	Sunrise in Newport Beach	jalop	114	12	22		t5_2rvat	False
+1363619062.0	1aiz48	First try with a kite. (H2)	FFFrank	111	8	26		t5_2rvat	False
+1358000368.0	16fqmc	Age is just a number. 	Adicko85	118	16	9		t5_2rvat	False
+1375545667.0	1jmpqt	Amazing Sunset &amp; A Bike. Perfect.	redbullhamster	112	13	9		t5_2rvat	False
+1367318487.0	1dej1o	Decided to take a GoPro still before work, I was pleased with the result	rtota14	108	8	9		t5_2rvat	False
+1362675245.0	19upmy	Hero3 on a tricopter, found a pack of coyotes Planet Earth style.	toemat	108	7	27		t5_2rvat	False
+1374300821.0	1iol1c	My first attempt at a sequence shot	doyouhavealighter	107	5	28		t5_2rvat	False
+1363015121.0	1a32t5	An GoPro spotted in a unexpected place.. (NSFW)	Shadow647	118	18	26		t5_2rvat	False
+1357482053.0	1627c8	What the GoPro was created for. - [1:47] [x-post from /r/videos]	YourACoolGuy	117	16	15		t5_2rvat	False
+1370125155.0	1fhj6n	Wanted a GoPro mount for my Nerf guns, couldn't find a good one, so I 3D printed one. (xpost /r/nerf)	pkb4112	110	13	25		t5_2rvat	False
+1363834666.0	1apjup	kris33's kick ass response to GoPro's PR Director's response. 	InitechSecurity	124	26	14		t5_2rvat	False
+1376267136.0	1k6b2w	Took some photos of a storm at my house last night.	SkamX	102	9	12		t5_2rvat	False
+1375485581.0	1jlgxl	I've posted a picture like this on here before, but this is a recent one I like better.	timbergling	109	11	6		t5_2rvat	False
+1374697120.0	1iz9k4	Grand Theft Auto in Real Life shot on GoPro	abekislevitz	110	13	17		t5_2rvat	False
+1367365034.0	1dg2dm	Found! GoPro Camera in Hanalei Bay, Kauai	ennethouse	102	9	45	"Link: https://vimeo.com/65165859
+
+Help find the owner of this camera. Two unsuspecting tourists (probably from great plains states or Canada, eh)  got wiped out by a humongous (2 ft) wave. Their GoPro stayed on the bottom of the ocean for a long time. 
+
+To skip to the wipe-out go to 3:17. "	t5_2rvat	True
+1345825115.0	yrdgx	"GoPro, capturing the best images at the ""worst"" times."	everythingsbs	100	1	6		t5_2rvat	False
+1363574794.0	1ai327	Took this photo of a sea turtle swimming on a reef in West Coast Australia with my new GoPro3. 	neslot	106	8	16		t5_2rvat	False
+1369011990.0	1enyx1	Flying over Lake Huron...	canadian_stig	99	8	27		t5_2rvat	False
+1367389234.0	1dguor	From my ride home tonight...	InSearchOfLight	96	4	8		t5_2rvat	False
+1357304196.0	15y5fv	Just because I could!	russ3001	106	11	29		t5_2rvat	False
+1367854659.0	1dsp6j	Last night I went for a ride in Toronto.	canadian_stig	101	9	15		t5_2rvat	False
+1365506733.0	1bzeix	"On the ""Artemis"", North Sea"	petok	98	6	10		t5_2rvat	False
+1357341228.0	15z6b6	So, you guys want to play this game?	bking	109	12	24		t5_2rvat	False
+1356328778.0	15d1sh	"""We can't all be Heros"" "	BlueJayy	103	9	3		t5_2rvat	False
+1375293486.0	1jfogf	Homemade Bait Cage &amp; Underwater Lighting	lazerbaconpro	100	7	29		t5_2rvat	False
+1358227336.0	16lot8	Photo of my airboat I took this weekend.	kriscad	108	17	22		t5_2rvat	False
+1372155727.0	1h138t	I just finished this mockup of my favorite camera.	iLife87	119	27	18		t5_2rvat	False
+1368108030.0	1e01h0	2 month timelapse on an icebreaker in the Antarctic (h/t NYTimes) [4:46]	iced327	97	5	17		t5_2rvat	False
+1374528978.0	1iua5h	Got this cool shot of my car today with my HERO3	zwakephoto	97	6	11		t5_2rvat	False
+1372260000.0	1h41ps	I worked on the Nik Wallenda Skywire show at the Grand Canyon and brought my GoPro along	dmbdanfan	97	4	15		t5_2rvat	False
+1376597080.0	1kfv27	Surfboard	jwr_	96	5	9		t5_2rvat	False
+1368038052.0	1dy3lv	Too much awesome for only 1 GoPro	Crath	104	17	20		t5_2rvat	False
+1375834435.0	1jukm6	Lake Mead cliff jump	keepitreal123	94	10	7		t5_2rvat	False
+1360518025.0	189624	Can I chase it yet?	HopelessStock	95	9	8		t5_2rvat	False
+1351429645.0	127tzy	Hero3 on a MTB with alternative angle (xpost from r/bicycle)	anders202	93	4	14		t5_2rvat	False
+1372563526.0	1hcifn	Someone appears to have lost a gopro	deanoau	92	2	30		t5_2rvat	False
+1370452856.0	1fqdrh	Here is the new link to my Mexico video I posted yesterday in case anyone ever wants to take a look!	ewoolsey	94	8	49		t5_2rvat	False
+1368979244.0	1emvhw	Attached my H3B to a stick and threw it in the lake for my dog. I'm happy with the results!	eatingacookie	91	4	18		t5_2rvat	False
+1359520586.0	17jkt1	My mic set up	hankuti	94	7	39		t5_2rvat	False
+1357684907.0	167kzm	After a week of filming on a ski vacation	GoReadEmersonAgain	98	13	13		t5_2rvat	False
+1371663312.0	1go1kw	Kayak Fishing action shot	3wire	95	10	22		t5_2rvat	False
+1369275594.0	1evmlu	Sunset in the Sahara Desert, GoPro style...	negative4productions	92	9	18		t5_2rvat	False
+1373756820.0	1i8s23	Figured you guys might like this.	SDPilot	96	8	7		t5_2rvat	False
+1370622627.0	1fvc4d	Best seat in the house. (Conan)	riffraffrevival	95	8	8		t5_2rvat	False
+1363815985.0	1aovd5	So many GoPro DMCA articles in such a short time. I hope the PR hit was worth it. 	Peralton	99	16	28		t5_2rvat	False
+1359177768.0	17aw7x	My shot made it into the X Games commercial!	coolstorycorey	92	3	8		t5_2rvat	False
+1368662160.0	1ef1vl	Graduating next Friday, thought you guys might like my set-up	zipposrmylife	103	23	26		t5_2rvat	False
+1366119576.0	1cgk6b	Got a pretty sweet shot while biking with my Hero 2.	RhinoMan2112	93	9	15		t5_2rvat	False
+1359021937.0	176lqj	GoPro + Drone + Snowboarding = Interesting Footage	Digitalanthill	92	8	30		t5_2rvat	False
+1376016122.0	1k02cj	One of our guests brought a GoPro to our wedding... This is the outcome.	ShitKickers	89	7	30		t5_2rvat	False
+1372103035.0	1gzldb	Shot some night car driving	abekislevitz	89	3	17		t5_2rvat	False
+1369825800.0	1f9fyt	Not the best picture, but I wasn't moving in for a better shot. Galapagos shark in open water, ~10ft.	iced327	96	14	21		t5_2rvat	False
+1364065389.0	1aveog	Underwater DIY mount, it floats perfectly! 	pussyking69	90	7	15		t5_2rvat	False
+1362060345.0	19e8za	I'm pretty much prepared for anything at this point. 	savageotter	93	13	27		t5_2rvat	False
+1375649431.0	1jp5zx	"Evening ""SUP""-er"	Suh5pence	89	8	10		t5_2rvat	False
+1372772106.0	1hhugw	Burst mode test with my dog/bear	BenPr	88	5	9		t5_2rvat	False
+1367001816.0	1d64vf	Guy sends a GoPro into space to try and fly an RC plane back down to him.	photoknut	87	7	12		t5_2rvat	False
+1365427318.0	1bwyu7	Me trying to keep up! Fav pick from yesterdays ride. No editing done.	gloslad	87	2	17		t5_2rvat	False
+1360350273.0	185a7j	Up to 3ft on the way. Should make a good time lapse!	Boston_TD_Party	88	6	41		t5_2rvat	False
+1363698891.0	1al9pl	Went for a sunset kayak in Sydney Harbour this afternoon [pic]	neslot	89	9	11		t5_2rvat	False
+1370200539.0	1fj7fc	Took mine with me to a local hillclimb, Wasnt expecting to see this beauty there!	gloslad	91	9	8		t5_2rvat	False
+1363220913.0	1a944s	Mounted to my R/C Car.  Had tons of fun.	vanawesometown	95	17	28		t5_2rvat	False
+1361978015.0	19bvt8	2013 Audi RS 4 Avant :: 'Ultimate Paintball Duel' [HD]	kash04	87	6	5		t5_2rvat	False
+1352933308.0	137fzo	Tips &amp; Techniques for Filming Skiing/Snowboarding	xdamanx	88	13	28	"[**Also make sure to check out my other post on Workflows**](http://www.reddit.com/r/gopro/comments/11viti/lets_talk_about_workflows/)
+
+
+In my experience, a skier has always been able to capture the best footage. They can do this is because they face down the hill, rather than sideways, and are able to better “absorb” shocks with the core of their body. This causes the overall video to come out smoother.  I've tried filming both ways, and I have found that skiing lent itself to be much easier.  You also have the nice bonus of being able to use one of your ski poles as a mount for your GoPro when filming others. I find that you also have better speed control as a skier, you don't have to rotate your entire body to slow yourself down, but rather you can ""pizza"" brake. Overall, filming while doing either of these will still warrant you great results, however I would prefer to be skiing if I were going to be filming others.
+
+----
+
+With that aside, lets talk about the types of mounts we can use while we film:
+
+1. **Pole Mount** - First and foremost is my favorite mount, The GoPole.  You can create this mount for yourself, [buy a GoPole](http://www.gopole.com/), [or use an old ski pole.](http://www.youtube.com/watch?v=qzhFPtH83Mw&amp;feature=related)  The reason I love this mount is because of its versatility, you can use it in a large variety of ways to capture content.
+
+ I highly recommend when you aren't filming yourself with the pole, you invert the camera upside down.  This helps stabilize the footage by using the camera as a counter-weight. Now when you are filming others, try to absorb the rollers on the hill with your legs (this is where being a skier is a huge advantage).  When you use this mount, it is most effective when you are in motion either following the subject, or trailing behind him.  One of the best examples of a follow cam can be seen in several of AbeKislevitz's video's.  He makes use of it several times as a ""follow cam"".  [You can check his videos out here.](http://www.youtube.com/user/abekislevitz).  By watching and analyzing his videos you can get a good idea on how to effectively use the mount to capture certain shots.  An example is putting the camera near the ground (~4 inches off snow) and then panning it up as the rider moves towards the feature.
+
+
+ In my personal experience, filming upside down has always garnished me the best results, however AbeKislevitz pointed this out:
+
+ &gt;The one thing I would like to add from my own experience is when filming others to actually not turn the camera upside down. I tried this for a while, and while it does act as a nice balancing weight, you get more of a lateral rotation in the camera since you're letting it hang more freely in your hands - this gives footage more noticeable rocking motion in the corners. Cheers!
+
+ So next time I get up to the hill I will have to try this out again, I encourage you to try both and decide for yourself which you prefer.
+
+ I am sure you have seen video's where people use the pole to film themselves.  In my experience, this works best with the camera upright, as it makes it easier to film yourself.  However, please don't create an entire video with this shot, it makes the video long and boring.  However, using it in accompany with other shots that help ""place"" the skier in the viewers mind works well.  Think of it as a ""secondary"" shot, that gives depth to the shot.
+
+ There are lots of creative ways to use this mount, so I encourage you to give it a try, and get creative!
+
+2. **Helmet Mount** - This is one of those shots that can be used very effectively, or it can turn into a boring POV ride down the hill. I find this mount to be most useful when I have a second camera available.  When you use the pole mount to film one angle, use the helmet mount to give a perspective of the rider.  Nobody likes videos composed entirely of this shot, but people love when they get to see the ""riders perspective"" when they complete a certain trick.  Think of a skier doing a rodeo, whenever I see the helmet cam shot, I am tempted to move my head like the skiers.  This really attracts the viewer in, and makes the shot much more interesting!
+
+ There are basically two ways you can go about mounting for this shot, you can use the adhesive mounts, or you can use the head-strap.  People have claimed to get shaky footage when using the head-strap, but I would assume that this is due to the improper tightness of the strap.
+
+ Don't just think the front of the helmet is the best place to mount the camera, I've seen plenty of videos where people get creative and place the camera on the side of the helmet, or they create a ""narwhal"" mount and have a pole extend from the helmet, looking back at them.
+
+
+3. **Chest Mount** - Lets face it, this mount is best suited for skiers.  With snowboarding you get the awkward ""what's beside me"" shot.  Whereas with skiers, you can see what is actually happening in front of you.  [This video is one of the better uses I have seen of it.](http://www.youtube.com/watch?feature=player_detailpage&amp;list=SP7268F0D90ADC9DF8&amp;v=lzSm9dMVtB4#t=33s)
+
+ When you use this mount, don't create an entire video of you riding through powder with this as the only angle.  Rather, use it as a ""pinnacle"" shot where you focus on the rider doing his trick in the air, or as he hits a rail.
+
+ Also make sure that you firmly secure the chesty, when it's loose you tend to get a ""bouncy"" shot.  Firmly securing it should allow you to keep the motion a bit more stable.  Recall that mounting the camera upside down will also help reduce motion.
+
+
+4. **Boot Mount/Board/Ski Mount** - This is one of the shots where you are going to have to get creative an maybe engage in some DIY. These shots give you nifty perspectives that you wouldn't expect to see.  If you plan on mounting to a ski boot, I recommend using the ""helmet strap"" to secure it to the boot (you may have to use 2 of them).  You can then easily attach the camera to your boot.
+
+ I have also seen a few DIY tutorials for mounting it to your Ski/Board.  I have personally never done this, so I don't have any advice; but I know there are lots of How-To's scattered about the internet on this.
+
+5. **Stationary Mounts** - This all comes down to being creative.  With this, I recommend you use that ""black flat plastic piece"" that came with your camera box.  you can attach your GoPro to it, and use it as a ""base"". Place it all over when you go to film.  I've seen people place it on the middle of jumps, where the skier's skis are splitting the camera.  I've also seen people place them on boxes and have the rider jump over it.  Whatever it is, get creative! It's generally OK if the rider hits it while riding, these cameras are designed to take a beating when they are encased in their housing!
+
+
+6. **Tripod Mount** - With the [GoPro tripod adapter](http://www.amazon.com/GoPro-Tripod-Mount-HERO-Cameras/dp/B002RCLYXG) you can make a good assortment of mounts. I used some pvc and a 1/4""-20tpi bolt to make a short pole mount for under $10.  This can be used in a variety of different ways, such as a small handheld pole, use on a tripod, or as a ""starter piece"" in a lot of DIY mounts.
+
+
+7. **Scorpion Mount** - I have never used it before, but I have seen it, really cool mount.  [Here is a DIY tutorial for it](http://goprouser.freeforums.org/stickie-gopro-scorpion-mount-t92.html).  It's basically a view from above the rider looking down. Neat!
+
+
+8. **Head Swivel Mount** - Did you see in the new Hero3 video where Eric Willet (Snowboarder) has the camera directly in front of him, and continuously swiveling?  Well if you are at all interested, pick up a [swivel mount](http://www.rhinocameragear.com/Rhino%20Products/GoPro%20Camera%20Mounts/Pro-Pole%20Attachments?product_id=90), and 2 [pro poles!](http://www.rhinocameragear.com/Rhino%20Products/GoPro%20Camera%20Mounts/Pro-Pole)
+
+**There are plenty of other ways to mount the camera as well, so get creative!**
+
+
+-----
+
+
+I've also created a little list of things I try and focus on when I am filming others:
+
+* Get way closer then you think you need to be! The FOV of the camera is really wide, so being overly close doesn't tend to be a problem.  Make sure you don't crash into the rider though.
+
+* Make the rider the focus of the shot, try to fill the composition with this body, and keep the large masses of snow out of the background.
+
+* Absorb the bumps! Nobody likes shaky footage.
+
+* Try to film when the sun is ""beside"" you instead of ""above you.  This usually tends to be early morning or later in the afternoon.  This helps keep the shadows from becoming too harsh, as well as keeping the snow properly exposed.
+
+* Film everything, review later.  Don't be afraid to keep the camera rolling, you would be surprised how much ""b-roll"" footage you can keep for your videos.
+
+
+* Buy more batteries! When it gets cold outside, the batteries die faster, so having extras is a must.
+
+
+-----
+
+**This is all I have for now, I hope to add to this in the future though! If you have anything to add, please let me know in the comments!**"	t5_2rvat	True
+1376745328.0	1kjqjz	Ridge Ride	redbullhamster	85	6	12		t5_2rvat	False
+1373417196.0	1hz37j	The exact moment the branch I was standing on broke.	DecentDudeDustin	83	7	5		t5_2rvat	False
+1360775103.0	18gby5	*1 Day Only* Hero 3 Black for $359 UPVOTE FOR VISIBILITY	NightSlider	99	22	53	"I get no kharma for self-posts. Please upvote for those wishing to buy an H3B for 10% off!
+
+DEAL HAS NOW ENDED. Over 600 were sold from that seller over the course of the day through 2 listings. Hopefully they update their firmware! Haha
+http://www.ebay.com/itm/New-GoPro-HD-HERO3-Video-Camera-Camcorder-Black-Edition-1080P-WiFi-CHDHX-301-/360592884022?pt=Camcorders_Professional_Video_Cameras&amp;amp;hash=item53f502c136"	t5_2rvat	True
+1346286990.0	z1tn0	CatPro	Antwelm	78	0	7		t5_2rvat	False
+1373890640.0	1ic2q0	Taking a moment to look up	FeralBeard	82	5	4		t5_2rvat	False
+1372377826.0	1h7qnm	Picture I took with my HD Hero 2 at Folsom Lake CA.	Tcbrash	87	9	10		t5_2rvat	False
+1358345279.0	16ono6	Hey r/GoPro we need to have a talk about GoPro employees on here	post_break	79	3	51	"It has come to my attention that users have been bugging GoPro employees on this subreddit for ticket escalation. This is bad. The employees that are on this subreddit are not support staff, they don't work in that department, nor is it possible for them to suddenly make your ticket jump the queue. 
+
+We have a link in the sidebar that says [GoPro Support](http://gopro.com/support/) and that's pretty much the only way to get support from the company. I'm updating the link below it so you don't get confused. 
+
+From now on please do not contact the GoPro employees on here for support unless they ask you specifically through PM. 
+
+Sorry to put on the Mr. Butthurt hat but I just want to keep these guys here, and if it turns into a ""MY HERO IS BROKE PLZ HELP"" red envelope circle jerk I don't think they will stay much longer. "	t5_2rvat	True
+1357715666.0	168kd6	New Website Post - Understand HERO3 Black Modes &amp; Settings	abekislevitz	86	5	12		t5_2rvat	False
+1351463627.0	128p2h	Got this shot exiting the aircraft on my last jump, hope you enjoy! (US Army 82nd Airborne)	crizzthewizz	83	7	13		t5_2rvat	False
+1374630741.0	1ixeao	Snapped this while on a hike in San Luis Obispo	CarterJW	81	2	19		t5_2rvat	False
+1358447633.0	16rja1	You guys seemed to like the pic of my dog joining me on a scooter ride. She also likes to join me while Kayaking. [Gopro Hero 960]	brazilliandanny	92	20	6		t5_2rvat	False
+1374774774.0	1j1ho2	A screenshot from one of my more recent videos	MLGviris	85	8	3		t5_2rvat	False
+1374198264.0	1ilq1w	ghost ride the whip	doyouhavealighter	84	9	12		t5_2rvat	False
+1368791881.0	1eigmp	Fox steals Go Pro Hero 3 Black Edition	blacklodgebaby	77	3	18		t5_2rvat	False
+1353372676.0	13hcd6	I GoPro in the morning.	Mark_W	80	5	14		t5_2rvat	False
+1370844951.0	1g142o	Best accidental picture ever, taken while catching a time-lapse of a sunset at Bethel's Beach, NZ.	lebleuceleste	91	14	3		t5_2rvat	False
+1367146608.0	1d9ma8	My GoPro party setup! (L-Bracket + LED Light)	lucash_	78	5	24		t5_2rvat	False
+1359417122.0	17glr5	GoPro Crabbing	lazerbaconpro	78	4	23		t5_2rvat	False
+1356363609.0	15dko6	3 years I've had these cameras recording my mountain bike adventures, and this is what I do with the best of the 700gb of footage	JoeBMX	77	3	24		t5_2rvat	False
+1349718909.0	115c8w	Here it is what you all have been waiting for!!!!!	GPPB	85	12	125		t5_2rvat	False
+1369906192.0	1fbsrq	Hero3 Black + Frame Mount + Suction Cup + Usb Car Charger = my setup for a 16 hour timelapse	dollerbill	79	5	51		t5_2rvat	False
+1365774507.0	1c7ec4	Ken Block in Russia - with a TON of GoPros.	englishmanincan	85	9	21		t5_2rvat	False
+1361665892.0	193uva	Stuck the landing (OC) [gif]	skilks	78	6	10		t5_2rvat	False
+1352396233.0	12v6dd	A whole shit-load of GoPro cameras - GoPro production at work	TheTigon	76	4	15		t5_2rvat	False
+1370037575.0	1ffigj	Took this while hiking at Zion National Park in The Narrows	ILiveInAVan	81	6	12		t5_2rvat	False
+1367798790.0	1dre3q	GoPro + Aventador + HDR edit = O_O	babowling12	105	31	12		t5_2rvat	False
+1364689382.0	1bbxjs	This is why you should buy a gopro even if your not an extreme athlete	Zhaopow	92	22	52		t5_2rvat	False
+1363022312.0	1a3b4p	Sea Lion joins diver on kayak [H2, H3]	iced327	74	1	10		t5_2rvat	False
+1362508591.0	19pygw	Lake Powell ate one GoPro, but the others survived!  We made lots of custom rigs including a cable cam for this video	ProgenyLab	78	8	27		t5_2rvat	False
+1363196525.0	1a86kc	Another before the gopro..	rfleason	84	11	4		t5_2rvat	False
+1358047389.0	16h162	Caught this nice pic on my new GoPro.	sam24551	81	13	6		t5_2rvat	False
+1352830629.0	134syg	"30 synchronized GoPros make for awesome ""bullet time"" shots"	tlrobinson	75	4	10		t5_2rvat	False
+1372642197.0	1heck0	A perfect night on the water.	coolstorycorey	76	6	4		t5_2rvat	False
+1372529137.0	1hbjxr	First day with GoPro HERO3 Black	drejjjko05	74	3	10		t5_2rvat	False
+1365708117.0	1c5k5z	Cool article for you DIY buffs.	GoPro_HERO	71	3	5		t5_2rvat	False
+1376678720.0	1ki5p2	GoPro on a kite over Higbees Beach, NJ	thekush	71	1	20		t5_2rvat	False
+1369403477.0	1eyxnv	Strapped my Gopro to a bottle rocket! (Video in comments)	Gwell9205	83	12	13		t5_2rvat	False
+1363564122.0	1ahqsu	I asked my Indian friend what it was like to rides camel..	waltersadam	80	10	6		t5_2rvat	False
+1362426714.0	19nmkb	Understanding your GoPro Part 2 - Battery-Photos-Loop Video-PAL	abekislevitz	75	9	20		t5_2rvat	False
+1358885585.0	172or8	Fisheye mirror as seen by a fisheye lens. Hero Black 3	skeeterou	78	13	8		t5_2rvat	False
+1358129625.0	16ixto	Somedays, I love my job... especially when the Tampa Bay Lightning Cheerleaders leave surprise selfies on my gopro. Today was a good day!	babowling12	74	4	11		t5_2rvat	False
+1375196814.0	1jco71	GoPro App: Control. View. Share.	martinohansen	70	6	28		t5_2rvat	False
+1373984054.0	1iewpb	Perfect reflection - Cradle Mountain, Tasmania (H3B)	sammy_gray	71	5	5		t5_2rvat	False
+1362591992.0	19sbjt	GoPro's Chris Farro doing his first attempt at editing, what is first though if Abe Kislevitz is your teacher	stoicka	76	9	19		t5_2rvat	False
+1361037889.0	18na90	Handle that I welded.	get_logicated	76	10	15		t5_2rvat	False
+1374855435.0	1j3rnr	Hot Air Balloon Ride at Sunset	azdesign	78	12	4		t5_2rvat	False
+1373589089.0	1i4cjf	GoPro is watching!	Gopro_ms	72	3	35	"Hello GoPro users and creators,
+
+I am Matthew with GoPro's UGC department. I have the glorious duties of finding crazy/awesome/cute/epic/moving footage that people like you create! UGC stands for 'User Generated Content'. What we do is we license the raw footage from the person(s) who shot the footage to store in our content library. Our editors would then make an edit with that footage and if all is gravy, it could be a web edit or even a TV commercial. (With compensation!)
+
+This is by no means a sales pitch, but a reminder that myself and other GoPro employees are watching! :)
+
+
+Here is an example of a web video that an 'average Joe' shot that became a web edit:
+https://www.youtube.com/watch?v=gXlDStpJVhM
+
+The things we look at the most is the quality and the story of the content. Very key. I browse this site EVERYDAY and love the stuff you guys have been outputting! Keep it up and keep creating!
+
+See you around folks!
+Matthew"	t5_2rvat	True
+1371990671.0	1gwmas	Strapped a GoPro to my head for a typical day at Oxford University, very happy with the results!	Bladerunner247	74	7	27		t5_2rvat	False
+1375415232.0	1jjki4	Cool shot riding in Brooklyn	MadFunGus	74	10	17		t5_2rvat	False
+1373554526.0	1i2zqx	How GoPro Made A Billionaire	Jerrybboy	74	7	9		t5_2rvat	False
+1367003907.0	1d67iq	We went for a drive yesterday.	Cromptown	71	5	13		t5_2rvat	False
+1362802952.0	19yf2s	I have a bamboo patch in my yard, so I started making accessories with it.	Hold_the_mustard	73	6	7		t5_2rvat	False
+1360699310.0	18e974	This one took me a while to finish, my first project since switching to FCP X. A ski and snowboardvideo shot in Switzerland, every view is much appreciated! Hero 3 Black and Canon 5D III.	Matjoez	72	9	51		t5_2rvat	False
+1358434687.0	16r50z	Lion vs GoPro	Jhatesjazz	69	6	5		t5_2rvat	False
+1357739365.0	168xmw	The view from my hike today...	negative4productions	70	5	5		t5_2rvat	False
+1353269233.0	13et26	Can't wait to see the footage....	thinkbox	73	5	20		t5_2rvat	False
+1375645431.0	1jp1ju	Oceanside sunset. Love being able to upload and edit straight to my phone with the GoPro app!	Euphor1c	67	1	9		t5_2rvat	False
+1372214711.0	1h2zjq	Evening drive during a break in the rain	spurscar	75	9	12		t5_2rvat	False
+1369617242.0	1f40tw	Just got an AR phantom drone...what do I need to know	jbh1126	69	6	25		t5_2rvat	False
+1366978630.0	1d5dnn	Got some GREAT footage yesterday	jbh1126	76	12	30		t5_2rvat	False
+1353220649.0	13e199	Mountain Air.	buddybolden	72	5	10		t5_2rvat	False
+1373230349.0	1htkec	So I tried wakeboarding yesterday...	chrisefaw	67	5	12		t5_2rvat	False
+1371493518.0	1gj3vn	This guy came and swam with me for a bit on Saturday (x-post r/pics)	SourCreamWater	69	5	15		t5_2rvat	False
+1369080519.0	1epqzc	"My friend asked to borrow my GoPro camera in a ""car scene"" for a movie... he sent me this picture."	ILiveInAVan	70	6	17		t5_2rvat	False
+1364836156.0	1bfjkp	"New 3rd Person ""Wife"" Mount for GoPro"	errorik	81	13	12		t5_2rvat	False
+1364502809.0	1b75wk	When you only have 7.5 seconds of action, (Drag Racing,) you need more cameras!	RodShopDodgeColt	71	4	15		t5_2rvat	False
+1363391647.0	1adqxv	Is that a GoPro?	waltersadam	83	17	5		t5_2rvat	False
+1363138489.0	1a6rfy	This is how we Iditarod in Southern California. Mush Puppy! Mushhhh! 	steakgood	73	11	20		t5_2rvat	False
+1360046491.0	17x60a	Just a quick tip (I learned the hard way)	mylastnameisgunter	74	6	21	"If you are filming in high altitude, don't forget to crack the case open before you head back down, or you'll have to do like I did and summon some serious herculean strength to get the damn thing open once you are lower in elevation. When they say it's watertight/airtight, they are not lying. :)
+
+Yes, I am aware that this is probably common sense, but let me serve as an example of how often you can forget common sense things! Any way, happy filming!"	t5_2rvat	True
+1360008613.0	17vuw8	My Cat Hove Vs. a String (GoPro POV, Twixtor)	justindolan	66	4	19		t5_2rvat	False
+1353712363.0	13osr2	Night Out, with the Pro. 	diemondback	70	9	6		t5_2rvat	False
+1350323378.0	11irv7	GoPro 3 announced...more info	darkwingdck	71	7	77	"From another site....  
+
+http://www.tetongravity.com/forums/showthread.php/251576-GoPro-3-announced
+
+The HD Hero 3 is a huge step ahead of the HD Hero 2. People are going to love these cameras. We will offer three models; the HD Hero 3 White Edition, Silver Edition and Black Edition. We will have three price points, and all three models have WiFi Built into them. They all share a new form factor which is the same rectangular shape (which lends itself to be mounted anywhere, including the Chest), but it's much thinner than the HD1/ HD2. The HD Hero 3 + Backpack is the size of todays camera by itself. All three models will come shipped with the new housing which incorporates an underwater lens into the housing and an improved locking latch. The camera needs to work as well under the water as above the water since it's waterproof. We did have to go to the Micro SD Card format since SD Card Trays are way to big for this camera. There are ton of other improvements; I'll send out a Camera Comparison Sheet once we have that and are allowed to send images.
+
+Camera Line Up:
+
+HD Hero 3 White Edition - $199 Retail. This is basically an HD Hero 1 Camera (5mp photo sensor, etc.) that includes WiFi, dive lens and the new, thinner form factor. Available 10/21/12 to ship. 
+
+1080/30, 960/30, 720/60
+5MP Photo
+3 shots 1 second photo burst
+WiFi Built in
+Improved Housing (locking latch / dive lens)
+
+HD Hero 3 Silver Edition - $299 Retail. This is your HD Hero 2 camera with WiFi built in, new form factor and improved housing. Available 10/21/12 to ship.
+
+1080/30, 960/48, 720/60
+11MP Photo
+10 shots 1 second photo burst
+WiFi Built in
+Advanced Features / Capture (Protune and White Balance)
+Improved Housing (locking latch / dive lens)
+
+HD Hero 3 Black Edition - $399 Retail. This is brand new technology with incredible new settings. Available mid to late November to ship.
+
+4K/15, 2.7K/30, 1440/48, 1080/60, 960/100, 720/120
+12MP Photo
+30 shots in 1 second (plus many more burst settings where you can control how many shots in the burst and how long the burst lasts)
+WiFi Built in
+Remote Control Included (only on this model - remote is $79.95 by itself) - if you net out the price of the remote, the Black Edition is only $20 more than the Silver Edition.
+Advanced Features / Capture (Protune, White Balance, Continuous Photo, and Picture in Video - PIV capabilities)
+Improved Housing (Locking Latch / Dive Lens)
+
+* This is the one camera model that comes in two versions; the Adventure Version and the Surf Version. The surf version simply comes with a surf mount, but no floaty back door.
+
+edit....the site may be down now.  This info was posted yesterday.  "	t5_2rvat	True
+1345580143.0	yljga	This is why you don't give a teenager a BMW M3 and a GoPro	Peralton	67	0	17		t5_2rvat	False
+1374623781.0	1ix5pj	Cruising CA Hwy 88 with my GoPro	errorik	67	2	7		t5_2rvat	False
+1373398602.0	1hye39	Hiking around Grindelwald, Switzerland.	Takingadumpnow	70	6	8		t5_2rvat	False
+1370855907.0	1g1axt	GoPro app v2.0 hands-on: Access and share Hero3 files with your smart devices	Tw1sty	70	6	27		t5_2rvat	False
+1370312754.0	1fmj70	I came close to colliding with a Black Bear yesterday on a bike ride (X-Post r/MTB)	BigCashMooney	67	2	17		t5_2rvat	False
+1366861594.0	1d279b	Five lil' guys.	Mark_W	72	8	5		t5_2rvat	False
+1364963735.0	1bkhg7	GoPro Collaborative film - who's up for it?	englishmanincan	64	4	208	"I posted something similar in a film making us reedit last week but it didn't really see too much response. I'm hoping You guys may be more interested.
+
+I have an idea for a film that will only work with the participants of many Redditors (20+) It may or may not have been done before, but I'm not sure if it has been done using entirely GoPros. It would be pretty cool to see what we can create and then submit it to GoPro as a contender for their video of the day.
+
+I want to create a short film, shot in various locations all over the world. A few ideas bouncing around right now are time lapses in all the cities/towns we live in. I'm not talking the big ones that have been done tons of times before, I mean little, unknown towns, with interesting features.  
+Another idea (which is similar) is to show the diversity and differences of one thing across all our different towns. For example, the same static 2 second shot of a sunset, in one town, then a shot of a sunset in a town 2000 miles away on a different continent - a sunset is just an idea so you can understand the concept.
+
+Only requirement would be that you have a GoPro (any model that shoots 1080p) and are willing to do a Video Timelapse and upload it somewhere (probably a Dropbox account or something)
+
+If you are interested, comment on here with where your from and wel use this as the basis for the creativity to flow.  If you have any extra ideas towards this, comment and wel all work together to make it happen. 
+
+
+
+**EDIT:**
+
+
+Lots of responses from all over the world, great work everyone. Lets make this happen!!
+
+I agree that it could get boring filming the same thing over and over, so wel open it up a bit to film a timelapse of anything scenery/cityscape/country that you want to in your area (Open to eggtimer timelapse too if people so desire.) The principal behind it all now will be a film created from Redditors worldwide. Lets set a deadline of 1 month from today (May 3rd) this gives people plenty of time to get their footage together (Your more than welcome to do more than one if you are travelling soon!) All shot in 1080p please. I will be putting titles on each clip from the city/town and Country that clip is shot too. I will find the best way for us to all share videos and then re-post later.
+
+FatShadyLives idea is really cool too, if people are willing we can make a separate video with this too, same concept with a twist. It basically involves starting and ending a clip by taking the camera out of a bag (where its black) and ending it by putting it back in the bag (where it returns to black) Make it look like one person has been all over the world. This could be used to film anything, be it removing the camera for a quick shot of London Bridge and then putting it back in the bag, or bringing out the camera for a quick snowboard jump before putting it back in the bag. Again with the locations added to each clip.
+
+
+**EDIT 2:**
+
+
+So far we have:
+
+Toronto, Canada. Syndey, Australia. Queensland, Australia. Ecuador. Finland. Oslo, Norway. Tasmania. Hawaii. Aruba. Vinena, Austria. Dublin, Ireland. Germany. London, UK. Thetford, UK. Colchester, UK. Chilterns, UK. Edinburgh, Scotland. Okinawa, Japan. Italy. Milan, Italy. Benidorm, Spain. Oklamona, USA. Minneapolis, USA. Rexburg, USA. Austin, USA. Seattle, USA. Rochester, USA. Cincinnati, USA. Boulder, USA. Buffalo, USA. Alabama, USA. Northern California, USA. Topsham, USA. La Cross, USA, Dallas, USA, Atlanta, USA, Wash DC, USA, Col Springs, USA, Raleigh, USA. Detroit, USA. Davenport, USA. San Francisco, USA. San Luis Obispo, USA. Nashville, USA. Stillwater, USA. San Diego, USA. Pittsburgh, USA. Miami, USA. Manhattan, KS, USA.
+
+
+**EDIT 3**
+
+
+I commented this but for those who didnt see it
+
+I have created a new subreddit, r/goprofilm (http://www.reddit.com/r/goprofilm) as a way for us to all share the clips. If you subscribe it also allows you to see any updates and contribute to the ever growing idea.
+You can upload clips to your site of choice and then post the link on r/goprofilm. I will go through and download the clips over the next month or so.
+
+Lets try and make everything the same:
+*1080p 
+*Mp4 only 
+*10-15 seconds of timelapsed sped up footage per location (this will be edited down) doesnt matter if eggtimered or not
+*Title the clip as city_country_redditusername.mp4 I will add the titles when editing.
+
+
+A little tip for people, every time you re-encode a video is looses quality, so try to cut the clip down the clip to want, speed it up and then en-code straight to the MP4 you are planning on uploading. Youtube isnt great because it hugely reduces video quality when I download the compressed version. Vimeo is great, just make sure its downloadable :) Mediashare etc are all fine too. If anybody has any suggestions for places to upload please feel free to share."	t5_2rvat	True
+1364164002.0	1axr8k	Take a white board to Thailand and ask for directions	linusoura	70	8	26		t5_2rvat	False
+1360171607.0	180b47	Baltimore Ravens safety Ed Reed yesterday at the SB victory parade.	ErichUberSonic	65	3	12		t5_2rvat	False
+1359820971.0	17r8vq	Finally got my GoPro to stream to my laptop over WiFi (tutorial)	giss32	66	3	45		t5_2rvat	False
+1356894032.0	15ol5q	Owning both a DSLR and a GoPro, I find this setup very interesting. (X-post r/emmawatson) 	shphoto908	71	7	19		t5_2rvat	False
+1353022245.0	139n6q	Who remembers the orignal GoPro?	dmcipod	66	3	9		t5_2rvat	False
+1373325920.0	1hwc4s	Breakfast 9000ft up a Spanish mountain	Adicko85	70	8	6		t5_2rvat	False
+1368564016.0	1ec67b	Best Skiing POV Edit I've EVER seen!! : Candide Thovex	Xtremeskierbfs	80	14	15		t5_2rvat	False
+1355507794.0	14up03	GoPro's Abe Kislevitz AMA	GoPro_HERO	89	26	214	"Post up your questions here everyone. Abe and maybe a few other guys on our media team will pop in and answer what they can.
+
+Have at it!"	t5_2rvat	True
+1368454438.0	1e8tlf	Note to self: Don't go riding with friends.	Jensway	76	18	3		t5_2rvat	False
+1368130118.0	1e0tk0	My GoPro set.	MUFC17JW	68	5	11		t5_2rvat	False
+1359895753.0	17szex	In the kitchen last night and decided to mount a GoPro on the pan and flip some pancakes	harmuth	72	8	26		t5_2rvat	False
+1356575417.0	15hxm6	Its been a while but here it is! A late Christmas Present from me to you and my first edit with the GoPro Hero 3 Black! Check it out! 	BlueJayy	66	4	77		t5_2rvat	False
+1376065931.0	1k18bl	Georgia Dome GoPro	gdawgs100	64	6	7		t5_2rvat	False
+1375713335.0	1jqp89	My daily commute summed up in a minute	letstalkaboutrocks	68	9	21		t5_2rvat	False
+1369109987.0	1eqtv0	I graduated college and went on a road trip across Utah with my sister and mom. This is one of my favorite photos.	tittysprinkles1130	71	9	11		t5_2rvat	False
+1362827179.0	19yt69	What do you think of my 3rd person GoPro mount?	kirche5	69	10	14		t5_2rvat	False
+1371093310.0	1g8su7	I went surfing in Nicaragua and got my first barrel ever.	tittysprinkles1130	63	6	14		t5_2rvat	False
+1364888218.0	1bi4k3	Took my drone and Hero3 to my Dad's for Easter. Got a pretty cool shot of his property with Mt. Rainier in the background	Lencmb	63	3	18		t5_2rvat	False
+1363455025.0	1af17w	I'm a High School Ski Team Coach.  This was my season long project this year for the banquet. (Including my favorite shots using my 16 foot GoPole Mega at 0:54). What do you think? [H3B/4:39]	coreoski	66	5	17		t5_2rvat	False
+1361238903.0	18sgfu	Testing out my new homemade GoPro Pole MEGA.	coreoski	60	6	43		t5_2rvat	False
+1359053789.0	177czt	My gopro camera back pack unpacked	onemorepost	66	10	39		t5_2rvat	False
+1358520763.0	16tgm3	RefCam at an NHL scrimmage with the Detroit Red Wings	GriffinsHockey	62	6	12		t5_2rvat	False
+1358310258.0	16nzjf	I think I have you figured out r/gopro. You want to be in and out of a link quick, which is why pictures are usually upvoted highest. Well, lets try a gif. 	redbullhamster	84	24	16		t5_2rvat	False
+1356745303.0	15lpzv	Working on a motorcycle helmet rig for a shoot on Sunday	bking	65	9	24		t5_2rvat	False
+1353425985.0	13igbl	How To Make A GoPro Pan Tilt Time-Lapse Rig [~$15] [DIY]	errorik	64	5	5		t5_2rvat	False
+1350457236.0	11mb39	Official GoPro HD HERO3 YouTube Video	errorik	63	7	41		t5_2rvat	False
+1374433237.0	1irhne	Check out my poor man set up, trying to get some of that sweet sweet bird action in my back yard	Zanowin	59	3	10		t5_2rvat	False
+1372870026.0	1hkr42	Family's new towable on the lake yesterday	errorik	60	4	7		t5_2rvat	False
+1372600710.0	1hd4o7	Pics from the last few months taken with Hero3 Silver. All pics taken in Thailand.	w4ktt	63	3	13		t5_2rvat	False
+1369782578.0	1f8cbh	Another shot in Laguna Beach.	jalop	64	7	9		t5_2rvat	False
+1369165366.0	1es840	Cruising with a Chesty	ski_chef	67	12	4		t5_2rvat	False
+1367642638.0	1dnwwi	Industrial Firefighting At Night. 3Black 1080/30 Screencapture	invision240	61	1	5		t5_2rvat	False
+1353104781.0	13bm0j	GoPro2 on a Drone in the Pakistani Mountain Ranges	vlsi_comparch	61	4	17		t5_2rvat	False
+1376456983.0	1kbx2m	Took this amazing shot with my Hero 3 (Lake Powell, Arizona)	blacknight2	60	5	9		t5_2rvat	False
+1372879810.0	1hl4c1	My flight around Miami with GoPro Black	Airspeed35	58	4	13		t5_2rvat	False
+1370909586.0	1g30i0	For when the 85mm just doesn't get it	Bakgon	66	12	10		t5_2rvat	False
+1366339661.0	1cnk11	GoPro Hero 3 Black, on the way to the gym last night	Beto_Flores	62	9	14		t5_2rvat	False
+1358829742.0	171cwa	Hero HD 2 Still not bad	dodadoo	57	3	7		t5_2rvat	False
+1357842937.0	16brzg	Behold! The greatest DIY panning timelapse tool known to gopro owners!	babowling12	64	7	61		t5_2rvat	False
+1369235287.0	1eu5t4	Snapped this of my bike while enjoying the sunset at Golden Gardens Park	Lencmb	67	12	9		t5_2rvat	False
+1367244021.0	1dc5u8	Here's all of the random stuff I've done with my gopro since I got it 2 weeks ago. (Yes that's a baby fox)	Gargladdy	65	7	29		t5_2rvat	False
+1362452372.0	19okn5	Best shot I've gotten on my GoPro thus far.	fuzzball90	102	48	15		t5_2rvat	False
+1356821441.0	15n7jh	Funky looking shot i got today with my new Hero3	aceair	64	6	5		t5_2rvat	False
+1353710834.0	13ordn	GoPro Beautiful Filter!	VuduDesigns	63	8	17		t5_2rvat	False
+1375997382.0	1jzfcz	heli rescue	rwik1234	55	0	7		t5_2rvat	False
+1375109084.0	1ja0yf	Went for a walk	jkrhn	66	11	8		t5_2rvat	False
+1374268736.0	1inor3	GoPro App 2.0 Coming on 7/30	christoc	59	5	23	"Word is GoPro has a new app (2.0) coming out on 7/30 with some much needed features! 
+
+Here's the info I received 
+
+NOTE: The latest camera software update is needed to use the new GoPro App features. Visit
+
+Gopro.com/update to download update.
+
+Control-View-Share.
+The GoPro App makes it easy to control your camera, and lets you do more with your GoPro content than ever before. 
+
+Get full remote control of all camera functions. See what your camera sees with live preview for easy shot---framing. 
+
+View photos and play back videos, then quickly share your favorites via email, text, Instagram™, Facebook® and more*.
+
+What’s New in Version 2.0
+• Instantly view photos and play back videos*
+• Share photos and videos* via email, text, Instagram™, Facebook® and more
+• Copy photos and videos* to a GoPro album on your smartphone or tablet
+• Browse and delete files on the camera’s memory card
+*Select video modes only. Compatibility varies by device.
+
+Control your camera remotely.
+Use your smartphone or tablet as an ultra---convenient remote control for your GoPro. Quickly adjust camera settings, 
+
+start/stop recording, switch modes, check your battery level and more. It’s great for gear---mounted shooting where 
+
+the camera is out of reach. Plus, live preview lets you see what your GoPro sees so you can frame your shots with confidence.
+
+View photos, play back videos.
+Don’t wait until you’re back home to see your content. Use the GoPro App to instantly view photos and play back select videos captured with your camera. Check out your last run—on the chairlift. See your best wave once you’re back on the beach. Plus, you can browse and delete content on your camera’s memory card, freeing up space for more great footage.
+
+Share content instantly.
+Want to send that awesome shot you just captured to your buddies back home? Now you can copy photos and select videos from your GoPro to your smartphone or tablet, and then share them via email, text, Instagram™, Facebook® and more. It’s a great way to quickly share the moment with friends near and far."	t5_2rvat	True
+1372020730.0	1gxe16	GoPro + Roller Coaster = Awesomeness!	zwakephoto	76	24	18		t5_2rvat	False
+1368636158.0	1ee37z	Percentages now? I'm impressed.	NightSlider	63	8	34		t5_2rvat	False
+1362353838.0	19lr48	$14 Home Made GoPole made from Walmart walking stick (Details Inside)	ewoolsey	59	6	17		t5_2rvat	False
+1361357852.0	18vplg	Lantern Festival (Yeepeng Lanna) in Thailand!	linusoura	59	4	6		t5_2rvat	False
+1360791006.0	18gwvi	Kash Shaikh of the Patriots Jet Team flying an L-39 inverted (x-post r/aviation)	Gov-	59	9	10		t5_2rvat	False
+1373428108.0	1hzgv0	You NEED to take your Hero 3 and film at the pool in 120fps! Here is what shot with it this last weekend, I was amazed on how nice and clear some of it came out!	Radjage	56	2	14		t5_2rvat	False
+1371758240.0	1gqyan	Brought my GoPro to our Global Reddit Meetup this past weekend, this was the resulting edit.	luckyyirish	57	2	20		t5_2rvat	False
+1370189048.0	1fiuzk	GoPro+GoPole+Pool= Win.	DaKuech	73	21	10		t5_2rvat	False
+1365906683.0	1cazsv	Sunrise in Afghanistan (H3B Screengrab)	ThumbAttack	54	1	5		t5_2rvat	False
+1363901103.0	1arau2	How to spend $1000+ w/gopro	yellowflashh	76	22	22		t5_2rvat	False
+1361766007.0	1969d5	Sure, it's impressive. But it's also his only trick. [H3B]	redbullhamster	54	4	12		t5_2rvat	False
+1357884625.0	16d6p9	From An Old Trowel To A Mini Skate Style Handle.	Digitalanthill	60	4	4		t5_2rvat	False
+1351081062.0	1202rs	Why I'm not buying a Hero 3	Ceret	74	18	40	"I really like my Hero 2. It's been a great little camera, and I think Gopro is doing really interesting things.
+
+There's one big factor that means I won't be buying a Hero 3, however.
+
+I'm writing this in part because I know some of the people at Gopro frequent this forum, and wanted to leave the feedback somewhere where it can be part of a dialogue.
+
+The Hero 3 seems to me to be a great step up, especially in its ability to handle low light. I'd be buying one for sure, except. . . 
+
+The thing is, I'm really very disappointed that the Hero 3 is not more backwards compatible with existing Hero 2 accessories. I have spent more on the accessories in my kit (stuff like housings, filters, bacpacs and so on) than I have the camera itself. I use mine for scuba diving, so need much of this stuff to take a decent video.
+
+If gopro are heading the way of a new model every year (with feature and price creep) and poor legacy support, then I think I will skip this purchase. I really dislike vendors that do this. 
+
+With a product like this, that has a number of relatively expensive optional extras, I prefer a product that has some backwards compatibility with peripherals. 
+
+Let me run through what won't work:
+
+* I have several extra memory cards. No good now.
+* I have an extra battery. It won't work.
+* I have a LCD bacpac that IS backwards compatible (yay) but it is unclear at the moment how it will work in terms of the new housing. With the current backdoor just slot into the new housing?
+* I have a current filter that fits the dive housing for the hero 2. Because the housings are so different, this won't work with the hero 3. It seems to me snake river prototyping has been really burned here too. They have had a lot of customers eagerly awaiting the Dome, which is now an accessory that is only useful to legacy customers, as it won't work on the Hero 3.
+
+And so on. 
+
+Good design, for me, is absolutely about embracing new sensor tech etc - and I would have bought the new camera in a heartbeat if it was *just* the camera I'd need to buy - but it is also about respecting an existing user base with well considered modularity (within reason). You can maximise profit by requiring everything to be upgraded along with the core machine. But a smarter route (imo) is to keep peripheral compatibility. I frequently upgrade my PC box. If I needed to upgrade monitors and keyboards and usb devices each time too, I would pace my purchases very differently.  
+
+Corporate philosophy towards legacy customers is important to me. Brand loyalty is a two-way street. With rumors already circulating about a more expensive, more semi-pro Hero 4 in development - and with competitors likely to appear soon competing for the same market niche the gopro currently occupies - I see lack of good modularity as being a real and significant downside to the gopro range.
+
+Sorry for the rant. The cat isn't interested in hearing it again."	t5_2rvat	True
+1350427616.0	11lgzs	First leaked image of the Hero 3. 	post_break	54	1	25		t5_2rvat	False
+1375884815.0	1jvtu1	Just another guys night!! By Myself?	Suh5pence	64	14	25		t5_2rvat	False
+1371055344.0	1g7dst	Old game boy case makes a handy Gopro case	Me_Yorksta	60	5	1		t5_2rvat	False
+1370806793.0	1fzwqw	Sent my camera up to take a picture of a local skatepark.	Armand9x	60	8	17		t5_2rvat	False
+1370367527.0	1fnwpl	Gotta love that 170° angle	WnbTravellerDude	62	11	8		t5_2rvat	False
+1367021707.0	1d6syt	Out playing on the train tracks today	Crath	60	6	7		t5_2rvat	False
+1365385525.0	1bw1k5	My favorite picture from my GoPro ever. Bet you don't see a lot of GoPro's getting used like this...	invision240	55	5	7		t5_2rvat	False
+1364915453.0	1bioem	Custom backpack mount. Got this shot in Lower Fish Creek, UT	johnnydunn1	55	1	13		t5_2rvat	False
+1364486820.0	1b6m3u	I convinced my buddy to buy a Hero2 for his trip to Hawaii and told him I would edit his footage for him. This is result. Pretty happy with how it turned out.	Lencmb	57	5	23		t5_2rvat	False
+1364196466.0	1ayny9	I think someone had a good time at the park this weekend...	Lencmb	62	10	0		t5_2rvat	False
+1371946630.0	1gvsxq	It isn't fantastic wakeboarding but it's fantastic to wakeboard in Jamaica.	redbullhamster	66	15	4		t5_2rvat	False
+1371705186.0	1gpkcj	Attached my camera to a vodka bottle at a big houseboats party, thought you guys would enjoy the outcome (around 3:00 for vodkacam)	MarleyDaBlackWhole	58	8	19		t5_2rvat	False
+1368391252.0	1e7a35	Dream Stream, South Park CO [Hero 3 Black Edition]	down_view	53	0	5		t5_2rvat	False
+1335209135.0	som8k	A year of my GoPro footage.  Enjoy.	getyourlol	51	1	36		t5_2rvat	False
+1375916987.0	1jx1zg	All of the aerial shots were from my trusty hero 3	animalkracker	52	4	6		t5_2rvat	False
+1369437277.0	1f01ih	Selfie with a sea lion [Santa Fe Island, Galapagos]	iced327	57	8	10		t5_2rvat	False
+1368817056.0	1ej86r	1 Day in Paradise -- Scuba Skydiving. (X-post /r/skydiving)	b_masterfleX	55	3	6		t5_2rvat	False
+1358496144.0	16t2pc	Skiing with GoPro CEO! Wee	abekislevitz	62	8	22		t5_2rvat	False
+1352039202.0	12m1nm	Yo Dawg, I heard you like cameras...	dbto	61	9	9		t5_2rvat	False
+1375111731.0	1ja483	Send it.	redbullhamster	58	8	17		t5_2rvat	False
+1373374391.0	1hxjsp	I went to Iceland for my honeymoon, a GoPro was the perfect camera for this trip.	ryanh012	50	1	22		t5_2rvat	False
+1370595023.0	1fuoeh	what's up with the antenna? is it a wifi range extender or a remote?	21fox	55	8	7		t5_2rvat	False
+1365951337.0	1cbs70	Static Line Jump out of a C-130 (H3B)	ThisTextIsNotGreen	50	4	21		t5_2rvat	False
+1364764637.0	1bdnfs	Matterhorn on my finger tips today	Harry_Mooo	62	14	14		t5_2rvat	False
+1363119207.0	1a620y	Before the GoPro..	RhinoMan2112	56	8	7		t5_2rvat	False
+1361138068.0	18pn4w	So one of my friends stuck GoPro's all over his drift car.  This is him just testing a set up on Thunderhill Raceway.  	coffee_obsession	54	7	8		t5_2rvat	False
+1360072092.0	17xjsl	You guys probably understand this better [x-post from r/adviceanimals	donald_dickhead	77	27	15		t5_2rvat	False
+1359765971.0	17q84t	We sent 2 GoPro cameras to space in a home made capsule.	JustAnAverageGuy	53	6	22		t5_2rvat	False
+1359630278.0	17mgv4	Cool picture I took with my Hero 2 at the top of the Bullet Chair at Big White	aMazingBanannas	53	8	7		t5_2rvat	False
+1356147621.0	159iv3	How to tether a GoPro	uncovery	53	5	13		t5_2rvat	False
+1353391315.0	13hvxd	Screenshot from my Hero 3 Black this last weekend	justin_144	51	2	12		t5_2rvat	False
+1347140378.0	zkn81	Happy birthday to me from my awesome wife	Wally_Jack	55	8	8		t5_2rvat	False
+1346873687.0	zepe4	The gopro desperately needs a lens cap. But for now... 	SamMaghsoodloo	50	2	11		t5_2rvat	False
+1376085542.0	1k1yc9	Playing with the GoPro in Norway!	Crath	50	2	5		t5_2rvat	False
+1374085402.0	1ii2ti	Jet Skiing in Los Gigantes	flowdan	51	4	4		t5_2rvat	False
+1373830019.0	1iahc8	I ran The Dirty Dash yesterday, and after the race the showers weren't working yet. I decided it was bath time.	reppinthe509	56	7	21		t5_2rvat	False
+1371008555.0	1g690q	Me flying over my gopro (it's in the gap of a dirt jump)	Seera7	55	5	5		t5_2rvat	False
+1365088775.0	1bnxy1	With the new firmware, you can actively charge the camera with the battery bacpac and non-waterproof door. No frame mount needed. (Album - Description in comments)	DesignNomad	49	5	26		t5_2rvat	False
+1363649311.0	1ak2ef	I went skydiving the other day, hand mounts fucking rock.	atworkbored	54	4	8		t5_2rvat	False
+1361599373.0	192h2y	Backpack mount. What do you think.? 	Stick4444	49	3	7		t5_2rvat	False
+1361427440.0	18xvao	Think a GoPro can survive being chewed by a grizzly bear?	Ssmallfry	52	4	8		t5_2rvat	False
+1360957581.0	18lhsk	Going to test this mount out in the snow next week.	Jerrybboy	51	2	16		t5_2rvat	False
+1358973329.0	1755xh	I used Twixtor to play back footage at 1.25% of it's original speed	Sladekious	52	4	25		t5_2rvat	False
+1357777983.0	16a6l7	Hey all - GoPro Image Quality Department checking i	GoProIQ	55	6	121	"Now that I've talked to social and am on this subreddit officially...
+
+Hey everybody! I'm a member of the GoPro Image Quality team. We're the guys who are responsible for making sure the image...is quality. (I'm sorry, I had to.) I've been with the company for a few months now, and it's a fantastic place to work. I'm really glad, too, to see this community has sprung up and all the great stuff you guys are posting.
+
+I am *technically* in the engineering department. Buuuuut I'm not an engineer. I was hired because I'm a video guy. I've learned a lot in the past few months, so ask me any questions you may have, and *please* forward me any image related problems you find...but if you ask me the formula to find an ISO I probably won't know it. :)
+
+EDIT: This turned into a mini-AMA and I forgot to verify myself. Herp a derp. Ok, I'm home, I've fed my cat, and I'm sending verification to the mods ASAP...*cracks knuckles* let's do this. 
+
+EDIT: Allrighty, for now I am off to watch Star Trek with my wife. More questions answered tomorrow!
+
+EDIT THE THIRD: Aaaand it's a good morning and I'm back at work. We're talking about possibly doing an official AMA later on, but for now let's keep on cracking in here. Have at thee!
+
+
+"	t5_2rvat	True
+1355303428.0	14pv5b	Hero 3 Black issues I have faced and solved. (May help you out)	icarelessi	51	5	55	"Hello fellow Hero 3 owners.
+
+I just received my Hero Black yesterday, and have run into problems just like many others.
+
+Some of the issues were: Freezing and not powering up, freezing after being plugged into computer, cameras first video only recording a few seconds at the first power on then stopping but going back to normal recording after that, SD err message, Wifi not connecting (remote and phone).
+
+So here are the solutions that worked for me:
+
+1)**Freezing and not powering up**: The Camera would be fine for a bit, and then no longer turn back on. When I tried to power on, the LED on the back would flash slowly. 
+
+**Solution**: This is telling you the battery is low. I noticed the camera takes a long time to charge, especially if plugged into a computer. Make sure the red light is on when plugged in, and the display is off. I know if you power the camera up the display shows a charging image. It is not charging! It is only charging if the red light is solid on the front of the camera and the display is off. Leave it like this until the light turns off. Once the light is off, the camera is fully charged. If you have a wall mount charger (like for an i phone) then plug that into the camera; it charges much faster this way.
+
+2)**Freezing after being plugged into the computer**: After having the camera plugged into my computer it would not turn on. I saw the charging symbol, and left it ""charging"" for about an hour. When I went to use it, it wouldn't respond.
+
+**Solution**: If the display is on, the camera is not charging. Ensure the camera has the solid LED on the front lit up, and the display is off. Once the LED turns off the camera is fully charged. If there is further issue, try removing the SD and battery and trying to charge after replacing the battery alone. Leave it on until the light turns off so you know its fully charged.
+
+3)**Cameras first video only records for a bit, then stops recording**: The camera would take some video after the initial start up, and then stop recording all on its own.
+
+**Solution**: The solution that seems to be working for everyone is saving the files you want to keep and wiping the SD card clean. This issue can be caused by ""ghost"" files on the SD which can bug it up. Make sure to delete ALL files off the SD and let the GoPro re-format the card. Once it's formatted the issue should stop. Repeat if it comes up again.
+
+4)**SD ""err"" (error) message**: The GoPro will display an ""err"" message on the screen. 
+
+**Solution**: This usually is caused by the card being formatted to a separate device. Delete all the files off the device, and I mean ALL! When you use the card in the GoPro it will format it and work fine. There can also be an issue with the card not being compatible with the camera (due to low class, and other issues) if the camera still displays the err after having it formatted, then look into the card being the issue. Also, if the card has been formatted to the GoPro, then it will say ""DCIM"" and ""MISC"" on the card after there was nothing present from the deletion.
+
+5)**Wi-Fi not connecing to the camera (via remote or phone)**: The Remote and/or phone will not connect to the camera.
+
+**Solution**: Make sure the Wifi is turned on in the camera. Go to the settings menu (picture of a wrench) and cycle through until you get to the ""wireless controls"" menu (looks like a sun) Enter the menu until you see ""Wi-Fi RC."" select it then select ""current"" or ""new connection"" once you have done so it should be good to go. Make sure the BLUE light on the camera is flashing to interact with the remote. Connect the camera to the remote, and you're all done.
+
+If your issue is connection to the GoPro app on a phone, then that is due to it not being compatible currently. A release is set for the 14th of December that will allow it to connect. Wait till then and you're good to go. If it isn't connecting still then follow the above directions for the remote, and what the app tells you to do if it doesn't find the camera."	t5_2rvat	True
+1351023278.0	11yqjb	This guy made a awesome video!	ssmsti	52	5	27		t5_2rvat	False
+1376347544.0	1k8lud	Photoshopping your sticks out!	casso	54	6	20	Hey guys! Lately I've been getting some positive feedback from posts where I use photoshop to remove your gopoles, sticks, etc from pictures. If you would like me to have a go at one of your shots please post it here! I will do this for free but please don't expect it in a timely manner. I mostly do these when I have some down time and feel like doing them. Here are a couple that I have already done so you can get a feel for what I do! http://imgur.com/a/OeDG3 	t5_2rvat	True
+1376209245.0	1k4wfx	Snowboarding at Mt Buller	bradiz13	55	6	7		t5_2rvat	False
+1373121606.0	1hqzrt	Putting my new GoPro to use during a platoon live fire range.	OKComputerr	57	9	10		t5_2rvat	False
+1371800676.0	1gs7l5	Got on a new aircraft at work. This is how we train. [pic]	andersontucker	52	4	10		t5_2rvat	False
+1371287370.0	1ge57h	The weak link in any Gopro camera :(	zatic	57	11	29		t5_2rvat	False
+1367847957.0	1dsi4p	What I do!	SDPilot	58	11	14		t5_2rvat	False
+1366766744.0	1cz8xj	Im really impressed with the Hero 3 Black low light photos. As long as the camera is steady it can come out great!	brasher	52	2	16		t5_2rvat	False
+1362865295.0	19zngi	Easy clamp mount I made. Total cost: $2.13	BentRods	57	12	12		t5_2rvat	False
+1362187330.0	19hyme	Took some friends on a 5 day kayak down Whanganui river (New Zealand). One didn't make it to the finish... 		52	5	13		t5_2rvat	False
+1361944573.0	19b9nn	Insanity at its finest 	animalkracker	51	6	6		t5_2rvat	False
+1360895423.0	18k2v2	Looks like Ken Block's puppy got some good footage today.	coolstorycorey	51	6	7		t5_2rvat	False
+1358902588.0	173bg7	Pushing the limits of usuable light for the Hero3 White, but hard to pass up such a crazy Florida sky after sunset!	babowling12	51	6	9		t5_2rvat	False
+1357070201.0	15s7tb	Self Shot While Snowboarding	schloopy91	53	8	9		t5_2rvat	False
+1346884431.0	zf0vz	My miniature planet, shot on a gopro	catch1	52	9	6		t5_2rvat	False
+1376579606.0	1kf7p5	NYC (HERO 3 and DJI Phantom)	jwr_	49	1	23		t5_2rvat	False
+1374337885.0	1ip8ky	Always bring the GoPro (Flam, Norway)	Crath	52	3	13		t5_2rvat	False
+1369342986.0	1exf9o	Just got a GoPro, here's me testing it out! [x-post /r/bmx]	PezBmx	51	6	9		t5_2rvat	False
+1369160511.0	1es1er	Taken along Highway 84 in Portland, OR. The most beautiful road trip I have been on		56	13	13		t5_2rvat	False
+1368736646.0	1eh22f	Kite Aerial Photography with GoPro2 in Cassis, France. Includes pic of kite and simple GoPro rig. [x-post /r/KAP]	kickm3	50	2	24		t5_2rvat	False
+1368703423.0	1eg0sl	GoPro survives a Grizzly Bear	Kerplowblimp	48	1	14		t5_2rvat	False
+1364416299.0	1b4rs4	 Aerial photo with a quadcopter.	Armand9x	48	2	6		t5_2rvat	False
+1361738273.0	195dbn	H3B, an unbelievable stills cam...SPELUNKING!!!	NightSlider	55	10	8		t5_2rvat	False
+1359334671.0	17edgw	Went skiing during sunset, one of the best experiences ever!	VuduDesigns	53	5	2		t5_2rvat	False
+1352759852.0	1335z0	ANDROID APP is here! 	GoPro_HERO	64	17	34		t5_2rvat	False
+1348868668.0	10n1zz	Follow-behind mount	Nougat	50	2	15		t5_2rvat	False
+1373407730.0	1hyqx7	Why the Silver Edition is better according to Yahoo! Answers ...	spyder93090	51	5	7		t5_2rvat	False
+1373303624.0	1hvhtx	I made a $.65 motorcycle mount	chunkyks	51	8	9		t5_2rvat	False
+1371966446.0	1gw9xv	Always impressed by this camera's quality.	BlueJayy	49	7	22		t5_2rvat	False
+1366395589.0	1coty2	GoPro video of my most recent kart qualifying	Gator813	50	3	13		t5_2rvat	False
+1365109903.0	1borpn	You better be sitting down for this one!	negative4productions	52	9	16		t5_2rvat	False
+1365034853.0	1bmkck	GoPro 3 Firmware 2.37 has just been released	uncovery	45	1	118		t5_2rvat	False
+1364243438.0	1azu7b	Got a chance to take some pictures and drive at VORE this weekend. 	redbullhamster	56	7	17		t5_2rvat	False
+1362900089.0	1a0jpz	I bought my first GoPro today and the first thing I did with it was hook it up to my dog's collar.	jetshred	51	4	24		t5_2rvat	False
+1361642555.0	19366p	Cool picture of my friend jumping on snowboard, taken with hero3 BE 30/1s burst	Vvoa	47	2	2		t5_2rvat	False
+1350748748.0	11sup5	"First ""raw"" GoPro Hero 3 footage (720p 120 fps)"	NewbfromDK	51	6	11		t5_2rvat	False
+1376631349.0	1kgzzz	Just got my 3D printed GoPro Hero2 skeleton case. Designed it all from the ground up.	whitenoise106	47	4	35	"Keep checking this post for updates if you are interested because apparently I'm an idiot and don't check things over when I should.  I'm going through and making sure everything is working as it should.
+
+[Here's the album of the case.](http://imgur.com/a/hjgeS#0)  I designed it so I could access the ports and SD card while it was mounted somewhere.  I also added the sunshade to slightly improve the picture quality while protecting the lens from some minor falls.  The wide angle still works with the sunshade on.  It is also compatible with all the bacpac accessories.  Using the GoPro in anything other than 16:9 means the hood will be visible in the picture or video.
+
+Because I designed it to have a bacpac accessory item on it a majority of the time, it works better with the battery cover off.  But it still works well with it on as you can see from the pictures.  
+
+__________________________________________________________________________________________
+
+Edit: ~~If you are interested in getting this, PM me.~~
+
+Edit2: I guess this was a little more popular than I thought it was going to be.  [I'll just put the link to get the case here.](http://shpws.me/oSw2)  Be sure to specify which color material you want.  If having this link in the post is a problem, please let me know asap.  ~~Please wait for just half an hour if you plan on getting this.  I just realized that there is a tiny bit of the sunshade when filming on wide.  I'll strike this out when complete.~~ Fixed =]
+
+[Someone was wondering about the durability of the case so here's a quick test I did to show how flexible it is.  It can still go further.](http://imgur.com/lK0bih9)
+
+Edit3:  [I added a case for those of you who would like to use GoPros as a stand alone camera.](http://shpws.me/oSHm) 
+
+Edit4:  Sorry guys, I made a mistake and the wide 1080 mode will not work without showing some of the hood.
+
+EDIT5:  Keep editing this post.... I have updated/uploaded the design again so now it SHOULD work fine with 1080p-wide.  I measured the material needed to take off of the original hood so it will not show in 16:9.  As for 4:3, that will still show some of the hood.  Fortunately, you can crop the photo into 16:9 if you are using it in a video.  Video comparison of MY printed case should be up shortly.  The video does not reflect the new changes to the case that are already uploaded into the design and ready for printing if you choose to get it.
+
+Edit6:  [Here's the test video for my case.  Again, the case that is currently available has addressed the wide angle issue.  4:3 is still a problem, though.](http://www.youtube.com/watch?v=9TW7FrQXKEk&amp;feature=youtu.be)"	t5_2rvat	True
+1376159910.0	1k3n7l	Having fun in Tinos, Greece	ambessa	48	4	1		t5_2rvat	False
+1372701499.0	1hftq2	We dug a hole at the beach.	ILiveInAVan	53	10	4		t5_2rvat	False
+1372657220.0	1hesir	Using Cineform Speedup &amp; Motion Blur, Got a lot of Cool Shots from Video	abekislevitz	47	3	6		t5_2rvat	False
+1369666682.0	1f50zu	No photoshop, All GoPro at Taormina, Sicily.	theroob85	59	13	4		t5_2rvat	False
+1369640475.0	1f4lgd	Getting dizzy with wife while camping (Kirkham Hot Springs, Idaho) [Animated GIF, Time-lapse 0.5sec]	errorik	51	8	3		t5_2rvat	False
+1367465274.0	1dj2nw	The more I use it the more I am amazed at what can be pulled out of these things. Great for landscapes.	InSearchOfLight	49	2	8		t5_2rvat	False
+1367288838.0	1ddupt	Sunset Surfing in Oceanside, CA	AwssumPossum	47	1	5		t5_2rvat	False
+1365724806.0	1c66zs	Borrowed a friends GoPro, first experience with it; he's not getting it back...	5D5hot	53	11	14		t5_2rvat	False
+1361829470.0	197tin	Got my first gopro today, cant wait for the weekend!	gloslad	61	17	19		t5_2rvat	False
+1359665705.0	17ng0i	Unique GoPro Application: Security Guard Chest Mount (NSFW Language)	PotentialBIllionaire	51	8	28		t5_2rvat	False
+1359490824.0	17ijqm	Finally got my case in and decided to hop on the wagon. 	caosborne	51	6	23		t5_2rvat	False
+1355926036.0	153x57	GoPro Ceiling Fan 4:28am lol	Dandavazo	57	11	14		t5_2rvat	False
+1352946862.0	137uoj	My favorite picture of myself	zig83	51	8	12		t5_2rvat	False
+1350833559.0	11uh7l	Just got a gopro 3 black at best buy!	lfshammu	50	8	52		t5_2rvat	False
+1376492076.0	1kcn19	If all your friends jumped off a bridge...	gpasq	56	11	5		t5_2rvat	False
+1376149605.0	1k3ciw	snorkelling off the rocks, one of the better holiday snaps...	mattinatorio	48	5	4		t5_2rvat	False
+1375671311.0	1jptro	Went for the throw with friends at the lake.	-keeper-	60	18	7		t5_2rvat	False
+1373999827.0	1ifi0e	Niagara Falls above, shot with GoPro Hero 3	jwr_	44	0	6		t5_2rvat	False
+1372483202.0	1hap36	I'd like to give a shout out to the people at GoPro	geekayy	48	3	8	I was having issues with my Hero 3 Black Edition after a few uses. I had the issue where it'd record flawlessly while sitting still but as soon as I mounted it and rode my downhill bike with it, it would stop recording after about 30 seconds. I emailed customer support and within 15 minutes got a response back telling me what to try to do to fix the error. It worked! I was stoked and was happy to have my camera working again. A week later, the camera started acting up again. I emailed the same customer service representative and received another speedy response telling me to send images and proof of purchase. After doing that I unfortunately had to send my camera back to GoPro. I called before sending and talked to the nicest guy named Daniel who took my case into his own hands. I paid the lovely $2 charge to ship the camera back and sent the tracking number via email to Daniel. He told me a new camera would be on it's way back to me before they even had received mine. I got the camera a few days later and they even sent it FedEx and got it to me in a hurry. The customer support at GoPro was much much better than I could have ever expected. Just wanna give a huge shout out to them! Keep up the great work. You'll definitely have my business over any other action camera company. 	t5_2rvat	True
+1369823073.0	1f9eh2	The Lost GoPro-A Facebook page for people who lost their awesome cameras! Let's spread the word!	dnatriplehelix	52	9	3		t5_2rvat	False
+1368258156.0	1e4be3	Photo from the front of a quadbike in kalbarri Western Australia.	Jimmyboy_101	43	1	4		t5_2rvat	False
+1362099865.0	19flbb	Direct transfer of photos to mobile devices is coming... [further proof]	burtonownz	49	5	14		t5_2rvat	False
+1361802213.0	196xtk	Extreme dish washing	ktib	58	18	15		t5_2rvat	False
+1348706168.0	10jcsk	U.S. Soldier Films Himself Being Shot By Taliban Machine Gun Fire [X-Post from /r/Videos]	ASA09	50	3	6		t5_2rvat	False
+1376648431.0	1khb06	GoPro: Jeb Corliss Flies Through Tianmen Cave	w4ktt	43	1	3		t5_2rvat	False
+1375664217.0	1jpm08	Was lucky enough to do some Flyboarding this weekend and it.. was.. AWESOME	coolstorycorey	47	1	10		t5_2rvat	False
+1375051808.0	1j8ns6	Filmed a crane climb at daybreak	Space_Penguin	53	14	20		t5_2rvat	False
+1370536814.0	1fssk9	An Old bicycle Bull-Bar makes a great, cheap and rugged hand mount	CubicalBeaver	48	8	5		t5_2rvat	False
+1370357252.0	1fnjnu	I love my motorcycle, my GoPro, and warm weather ! [crosspost from r/motorycles]	smitsmat	51	9	15		t5_2rvat	False
+1369757144.0	1f7ei7	First GoPro, did a timelapse on top of Maui of the epic sunrise	meltedxice	44	2	18		t5_2rvat	False
+1368125439.0	1e0n8v	First Person vs Third Person (Splinter Cell: Blacklist) Shot with a LOT of GoPro's.	HowieGaming	47	4	5		t5_2rvat	False
+1367517377.0	1dkbgj	Took my GoPro swimming.	FFFrank	44	4	13		t5_2rvat	False
+1366829262.0	1d0z9h	I used my GoPro to see if hummingbirds were using the new feeder. I got better results than expected.	Peralton	46	5	11		t5_2rvat	False
+1366803434.0	1d051v	Took this picture in St-Malo, France... Pretty happy of the result! (GoPro Hero 3 Black)	CrunkFreak	43	4	7		t5_2rvat	False
+1363926046.0	1as5l4	GoPro can fall from planes with no parachute, can’t get copyright law	Lapworth	57	15	9		t5_2rvat	False
+1363207518.0	1a8mnl	Made this Chesty out of the maunting plate from the retail box and some old life preserver nylon straps!	LaGnoo	43	3	13		t5_2rvat	False
+1362717192.0	19w6u4	The Mad Billionaire Behind GoPro: The World's Hottest Camera Company	Xtremeskierbfs	53	10	6		t5_2rvat	False
+1360298877.0	1844mb	Finally, something for car-lovers	smackythefrog	45	1	19		t5_2rvat	False
+1353306062.0	13ftgw	Needs more gopro	Grphx	46	8	19		t5_2rvat	False
+1351882966.0	12j07i	Lost my gopro in the forest over 2 weeks ago. Since then it has snowed and rained. Just found it! 	brian_diener	47	6	11		t5_2rvat	False
+1375887660.0	1jvxat	Tire Fail at Sebring	Gator813	43	3	9		t5_2rvat	False
+1375347568.0	1jhexu	A really cool brushless gimbal stabiliser	The_Hox	42	0	12		t5_2rvat	False
+1372516696.0	1hb7xd	Played in the surf till it was dark last night. At Topanga	pjstahl	41	3	5		t5_2rvat	False
+1372184750.0	1h1x29	A GoPro and a 14 year old dog.	Pr0sper0	46	4	13		t5_2rvat	False
+1371142709.0	1ga0r8	My DIY shin mount	brasher	46	8	18		t5_2rvat	False
+1370426715.0	1fpoa4	3 gopro pics stitched together. Came out better than I expected.	Gwell9205	47	2	5		t5_2rvat	False
+1370171315.0	1fiivg	Lu Dog.	DaKuech	48	6	15		t5_2rvat	False
+1364579376.0	1b95b1	SUPing off the coast of Waikiki!	coolstorycorey	46	5	7		t5_2rvat	False
+1363361436.0	1acr4n	Gave one of my GoPro H3B's to my GF (at the time) for a 10 day ecology trip to Costa Rica.  It was interesting to edit footage I wasn't a part of!	coreoski	50	9	18		t5_2rvat	False
+1358257671.0	16m7yn	My solution to losing my GoPro.. 	YourACoolGuy	51	7	18		t5_2rvat	False
+1354906041.0	14gfx6	I was told I should share this with you guys.	SDPilot	51	12	11		t5_2rvat	False
+1354815524.0	14e5co	Kitesurfing at sunset in the UK. [OC] GoPro HD Hero2	WholeWideWorld	46	5	2		t5_2rvat	False
+1354270834.0	141oul	Cool shot of the coast over Pacific City, Oregon	Beto_Flores	42	1	3		t5_2rvat	False
+1353877406.0	13rwwz	[X-Post] AMA Request: Nick Woodman, Founder and CEO of GoPro : IAmA	lateralg	44	3	6		t5_2rvat	False
+1349290308.0	10w0uh	Thank you Target	conanoid	47	9	25		t5_2rvat	False
+1373311719.0	1hvt7t	Launched my GoPro with a string and got an aerial photo.	Armand9x	45	3	15		t5_2rvat	False
+1369191988.0	1et76u	hero 3 black + dji phantom quadcopter + chocolate lab	mag274	46	5	15		t5_2rvat	False
+1367260950.0	1dcr91	Simple under the barrel shotgun mount, should work with most pump or semi-auto.	Conboneeshnahad	46	6	13		t5_2rvat	False
+1364038875.0	1aurvr	You know water skiing? How about snow skiing behind a train?	jedrekk	48	6	10		t5_2rvat	False
+1363650471.0	1ak414	My GoPro Array	brttf3	44	7	3		t5_2rvat	False
+1361075229.0	18od9m	Finally able to thank my dad for years of being an awesome parent. 	thefuckingscenery	49	9	12		t5_2rvat	False
+1359734465.0	17p67v	Time-lapse I made in the spinning restaurant at the top of the Stratosphere, Las Vegas.	iamrook	43	4	5		t5_2rvat	False
+1374067330.0	1ihfdi	First timer trying to board.	Jerrybboy	45	9	9		t5_2rvat	False
+1372629612.0	1hdypj	Summer evenings by campfire can be quite beatiful	bobsegal	44	2	2		t5_2rvat	False
+1368493901.0	1ea8xm	Final piece of the WTC spire lifted into place	sixdust	45	8	5		t5_2rvat	False
+1368453886.0	1e8t0p	Gave my Hero3 to my GF while she did the Color Run in Seattle. This one was my fav. Shot with the 30/3 sec burst mode.	Lencmb	44	4	11		t5_2rvat	False
+1366650739.0	1cvgji	Tough Mudder and two gopro's that got annoying to carry by the end! Fun to edit though.	klif01	45	9	17		t5_2rvat	False
+1365881996.0	1ca8yw	High Speed Single Track run @ Balm Boyette Preserve in Florida; H3W, HDR edit in Photomatix and Lightroom adjustments.	babowling12	42	4	2		t5_2rvat	False
+1364151250.0	1axcar	Went Snorkeling with some sea turtles	RossMo21	45	7	2		t5_2rvat	False
+1359138668.0	179nsf	I built a 3rd-person mount.	patrick_j	45	4	16		t5_2rvat	False
+1354682748.0	14b178	How many of you are interested in cheaper accessories for your gopro?  	nojusticenpeace	44	6	27	"What the title says. Once I bought my gopro, I realized even the most simple accessories were stupidly overpriced.  Some things you could find made by a third party such as a tripod adapter but not many other things.
+
+Other things such as the Chesty were too expensive in my opinion at $40 but there were no alternatives.  Living on a fellowship (working scholarship) I have a limited budget so i could only buy so much.
+
+I have recently been able to come across some supplier of several accessories. I am about to embark on a motorcycle trip through Vietnam/Cambodia and will be taking the samples with me to see how they hold up.
+
+If they hold up well, I will make a large order and start selling them online for cheaper than the gopro branded items.
+
+So, how many of you would be interested in cheaper but great quality accessories?  I know I would personally use a lot more attachments and put them on a bunch of stuff if they weren't so expensive
+
+
+
+
+"	t5_2rvat	True
+1350161766.0	11fhey	"Accidentally took this picture that turned out to be a great example for why you want a ""Red Filter"" for shooting underwater."		41	5	13		t5_2rvat	False
+1344984340.0	y899p	Locked and loaded	BioGeek	52	13	13		t5_2rvat	False
+1342592680.0	wqx4a	Seconds of Playback = Hours of Editing. 	BlueJayy	40	1	26		t5_2rvat	False
+1375051449.0	1j8nes	caught my brother mid side-flip	doctorflaggot	51	13	6		t5_2rvat	False
+1374685337.0	1iystw	Top Gear uses a lot of (sometimes well-hidden) GoPros lately, here are a few screenshots of the hovercraft-van, that featured in S20E04 of last Sunday	stoicka	42	5	15		t5_2rvat	False
+1370478984.0	1frbr1	Made a quick edit of a bunch of stuff :)	abekislevitz	42	5	21		t5_2rvat	False
+1370010577.0	1felh1	360Heros - 360 degree video with GoPro. Kinda silly, but still cool.	DesignNomad	42	2	27		t5_2rvat	False
+1369540743.0	1f2dqg	One of my favorite Gopro images from my Quadcopter.	1D10Terror	49	9	9		t5_2rvat	False
+1368829598.0	1ejn5a	3 days ago I posted the setup for my sunflower timelapse - This is the result	Jim_Bacon	42	5	9		t5_2rvat	False
+1368527304.0	1eb1ta	4x4ing in South Australia	JBuck13	41	1	3		t5_2rvat	False
+1367878490.0	1dtknq	Cows like gopros too...	Gwell9205	40	3	0		t5_2rvat	False
+1367768852.0	1dqh10	I couldn't stop thinking that this guy on the boat was actually doing a self-shot so I have added the camera (Original: one of the last pics of Titanic)	n00k1e-X	63	28	1		t5_2rvat	False
+1362496645.0	19pjrg	just bought a magic arm for my gopro! IMO the best mount you can have in your kit	03ruben	44	7	27		t5_2rvat	False
+1360985648.0	18mc2c	Another night out, with the Pro. 	diemondback	45	7	8		t5_2rvat	False
+1354737329.0	14c7y6	Really Fun GoPro2 Hawaii Edit (5:35) - Flying, surifng, cliff diving, spear fishing	hawaiiankine	42	1	17		t5_2rvat	False
+1353718022.0	13oxk5	A Great Cheat Sheet for the Camera Resolutions	xdamanx	41	5	14		t5_2rvat	False
+1352692008.0	131mse	Barrel shot I took today on my Hero 2	milkywill	45	4	2		t5_2rvat	False
+1352344744.0	12u639	Decided to take the GoPro golfing today...	timbergling	45	5	6		t5_2rvat	False
+1341848511.0	w9vpi	Epic use of GoPros - Ken Block's Gymkhana 5.	Fireflyhm	45	8	19		t5_2rvat	False
+1374332781.0	1ip3l9	GoPro bunker shot	Gator813	41	4	4		t5_2rvat	False
+1373939477.0	1idst1	Mother Nature... You are awesome!	gvsu141	42	7	3		t5_2rvat	False
+1370295506.0	1flx5g	My trip to Mexico. I've spent numerous hours putting together this edit and I really hope you enjoy it! [H3B] [03:27]	ewoolsey	38	2	22		t5_2rvat	False
+1369857649.0	1faf3y	Skatepark Quad-copter Flying	Digitalanthill	40	3	13		t5_2rvat	False
+1369104133.0	1eqmwr	As you requested, the pancake flipping video I made	AwssumPossum	50	13	17		t5_2rvat	False
+1368891772.0	1ekwd1	Setup for a Timelapse at the Hangout Music Festival	willsfc	42	3	7		t5_2rvat	False
+1362297961.0	19khgc	found this youtube channel with 125 gopro tips. there's a lot of neat stuff here!	tdvx	44	5	8		t5_2rvat	False
+1357698328.0	1681ox	GoPro DIY Accessory Guide	ottosunday	41	5	14	"Does anyone else think it would be a really good idea for this page to have some sort of database for How-to's when it comes to making awesome mounts, accessories etc. for GoPro's that are either flat out not offered by GoPro, work better or are less expensive than the ones GoPro offers to sell?
+
+Whenever I google DIY options I always run across a multitude of ways to go about trying to make a mount or something of the sort myself and it takes a long time to research and determine how well they work, their cost effectiveness and how they compare to official products and other DIY options"	t5_2rvat	True
+1351972555.0	12kstg	This is our newest video.  Im very proud of this one.  2012 Season (a gopro story done right) - YouTube	matthewburke	40	2	19		t5_2rvat	False
+1351567128.0	12bi0k	Pumpkin Hero!  Happy Halloween, everyone.	DesignNomad	42	5	16		t5_2rvat	False
+1347986024.0	1033fk	I found the most awesome GoPro video ever. Awesome video. Just watch till the end. 	jwr_	47	9	11		t5_2rvat	False
+1375757821.0	1jsbsp	My cheap gopro case.	oodleskaboodles	47	11	9		t5_2rvat	False
+1375454453.0	1jkdwl	Lend my friends my GoPro at the range...this is what I got back. Never Again !!!	ettiol	45	12	60		t5_2rvat	False
+1375136883.0	1jb3he	Nothing like hitting the range after coding 9 hours straight.	EthanZachary	49	11	4		t5_2rvat	False
+1374759048.0	1j0xv8	Made another vacation edit, mostly shot with a gopro. Vegas!	snowtroopin	43	4	12		t5_2rvat	False
+1374588681.0	1ivuwx	I thought you guys might enjoy this. The history of GoPro.	Zdarnel1	42	4	1		t5_2rvat	False
+1373038556.0	1hp108	Can't wait to edit the footage from my ride this morning	Humbabechet	40	1	14		t5_2rvat	False
+1372976082.0	1hnq4p	Evening ride in Somerset.	Gwell9205	40	6	5		t5_2rvat	False
+1371943866.0	1gvqdq	Midsummer night in Finland	bobsegal	41	4	0		t5_2rvat	False
+1369800004.0	1f8yju	PSA Announcement: If you have a gopro hero2 and plan on going underwater with it, you 100% need to purchase the $40 dive housing.	arod2788	40	5	12	"I bought a gopro hero 2 before my trip to maui so I could get some awesome underwater videos of it when I went snorkeling.  However, due to the curved glass of the standard housing, the gopro cannot focus underwater.  All my videos and photos underwater are terrible, even in good light close to the surface.
+
+Watched some videos of the same camera with the dive housing, and that is how I imagined my videos would look.
+
+Just thought I would mention this in case anyone was thinking of doing something similar."	t5_2rvat	True
+1369763104.0	1f7m6l	Rigged by GoPro up to my dog for our morning walk yesterday; here she is rigged up, album in comments. (X-post from r/pitbulls by request)	AgentDL	40	7	11		t5_2rvat	False
+1369516143.0	1f1qj4	Don't ever play fetch with a Gopro...	Gwell9205	42	8	2		t5_2rvat	False
+1366729433.0	1cxt31	Getting on a plane to Cabo, hope I'm not forgetting anything	dollerbill	40	6	41		t5_2rvat	False
+1366705187.0	1cxanu	Here is my night shot.	mike213player213	44	11	22		t5_2rvat	False
+1365967200.0	1cc9hg	Anyone interested in Video Tutorials? (repost because the last one disappeared)	BlueJayy	43	7	14	"Hey /r/GoPro guys and gals! Some of you might recognize me around here but since this sub has grown tremendously since when I first started a lot of you may not. Either way, I'm going to start doing some GoPro Q&amp;A / Tutorials where users can ask pretty much any questions they want and I'll either do an editing tutorial or just answer the question in a video (as long as i know the answer to your question). 
+Hopefully this is something you all are interested in, if not I'll delete this post based on the downvotes ;)
+
+You can check out my most popular video [HERE](http://youtu.be/dFEvajetGNE) 
+
+Also check out some of the different effects I use [HERE](http://youtu.be/AYNyxFxaKew) and [HERE](http://youtu.be/PUV3SnWJBO0) 
+
+Finally, If you want to participate [WATCH THIS VIDEO](http://youtu.be/4pO22DxVjK4) and post your questions in the video comments. 
+
+Lastly I'll also be promoting different users on my upcoming videos so those of you who make rad content, submit them as a video response and I'll choose someone when my next video/tutorial comes out. 
+"	t5_2rvat	True
+1365366284.0	1bvdmy	So, you guys encouraged me to learn to edit... and my first ever edit was chosen as a finalist to win a skydiving license. A big THANK YOU, as well as a request to vote for me, if you have time.	DesignNomad	40	2	8		t5_2rvat	False
+1363462754.0	1af9gu	These guys went wingsuit flying through the city, filmed partiality with H3B's  	brian_diener	39	2	5		t5_2rvat	False
+1361904929.0	199v0f	"""Salomon Freeski TV S6E11 - Not another GoPro edit"" - Best GoPro Skiing Edit I've EVER seen! "	Xtremeskierbfs	42	6	8		t5_2rvat	False
+1357775292.0	16a36x	Go pro Hero 3 pic, skiing trip to Copper Mountain CO 		43	3	11		t5_2rvat	False
+1355091413.0	14kgpa	I've been waiting a while to get my hands on you. 	diemondback	57	22	14		t5_2rvat	False
+1354085749.0	13x946	GoPro is setting the bar really high.		50	15	19		t5_2rvat	False
+1350595718.0	11pmrs	Official unlisted GoPro Hero 3 review	jwr_	38	2	15		t5_2rvat	False
+1347572365.0	zudbc	GoPro freefalls from 12500 without case, survives (warning not for people with epilepsy problems)	jwr_	40	4	13		t5_2rvat	False
+1345540021.0	ykmrb	Normal? yeah, you can still use a gopro (Xpost from youtubehaiku)	Marbro_za	41	4	4		t5_2rvat	False
+1344612516.0	y00hr	incredible underwater footage of dolphins swimming	brttf3	39	1	10		t5_2rvat	False
+1341257646.0	vxt0q	A friendly request from your GoPro Community Manager.	GoPro_HERO	38	1	37	"Hey r/GoPro,
+
+As some of you may have already noticed, I pull a lot of the great content from this subreddit for our social networks. Keep it coming! It doesn't have to be action sports oriented. For instance, I posted up the clocktown timelapse on our Twitter and it got a *great* response. Get creative.
+
+Here is my one request.. Please, please.. *please* stop using AWOLNATION - Sail as the song to your video. Or M83 - Midnight City for that matter. I have to hear that Sail song about 3 times a day.
+
+I usually monitor this subreddit pretty closely, although I did miss a lot from being down at XGames for the past 5 days, so if you think you have something really interesting or compelling you want me to check you shoot me a message (link is in the sidebar). If you just post something up for everyone to see, include your first name or even better your twitter handle in the video so I can give you the proper credit. 
+
+Most of the stuff I find here goes on Twitter, as we save our Facebook for our media team edits or extremely well done content.
+
+Thanks for being such an awesome community! 
+
+PS- Before anyone asks, the Wi-Fi app will be out very soon. Hang tight! "	t5_2rvat	True
+1374412801.0	1iqyth	GoPro Pizza Making POV	solorzanobros	41	9	7		t5_2rvat	False
+1373839474.0	1iasco	VW Campervan - Redbull Soapbox London	Crazzymax	36	1	6		t5_2rvat	False
+1373451690.0	1hzzkq	I mounted my Hero 3 on my DSLR's hotshoe at a local techno festival this weekend, here are some shots!	Matjoez	41	7	10		t5_2rvat	False
+1372168664.0	1h1chz	My HB3 has started an itch that can only be scratched with an underwater housing for my DSLR.	redbullhamster	38	6	7		t5_2rvat	False
+1370297086.0	1flzam	POV Crane Climb &amp; One Arm Hang at 250ft	methedude	37	5	13		t5_2rvat	False
+1368254280.0	1e496h	Great view of landing an A319 in Rio de Janeiro, Brasil (no edit)	Zenoren	35	2	9		t5_2rvat	False
+1358098112.0	16hy2i	DIY Motorized GoPro Time Lapse Dolly using Arduino (pics &amp; details in comments)	boomhaeur	37	2	12		t5_2rvat	False
+1357268011.0	15xejg	DIY GoPro screws, extremely helpful and cheap alternative. 	YourACoolGuy	36	1	8		t5_2rvat	False
+1355013864.0	14ivc3	Great stuff.		39	4	8		t5_2rvat	False
+1351280518.0	1251e0	Running the Tough Mudder w/ GoPro ~ Seattle 2012	mathliability	37	5	8		t5_2rvat	False
+1350266783.0	11hone	Confirmed - GoPro 3 hits stores by end of October.	NeverNude123	40	6	45	Unfortunately I can't say the source of this information but I can share with you what I know is 100% accurate. The GoPro 3 will be arriving at most stores before the end of October. There will be 3 separate models. The GoPro 3 White coming in at 199.99, the GoPro 3 Silver at 299.99, and the GoPro 3 black toping out at 399.99. My main guess as to the difference in these models would be an actual filming and image quality improvement between the white and silver editions and only an attachment difference between the silver and black. Even though they should be hitting the stores by the end of October I have yet to find a sell date. Hope that helps some of you out!	t5_2rvat	True
+1346927340.0	zfzeb	Attaching a pole to a steadicam creates a really cool effect.	Schwimp	37	5	1		t5_2rvat	False
+1345426893.0	yi0w2	Now I just need now wind.	nnigad	40	4	19		t5_2rvat	False
+1372619178.0	1hdmqi	My friend's best shot today.	winthepoo	41	10	1		t5_2rvat	False
+1370083062.0	1fgj4b	A shot of my friend with GoPro Silver	clank5050	51	16	5		t5_2rvat	False
+1366084912.0	1cfvl2	GoPro Hero 3 Starter Guide: The Very First Accesories You Should Get	kroze	45	8	6		t5_2rvat	False
+1364235244.0	1azj66	185' static line BASE jump [oc]	Barry_Mcockiner	39	5	7		t5_2rvat	False
+1362942801.0	1a1azk	Powder Day, used 2 of my GoPros	getyourlol	38	3	16		t5_2rvat	False
+1362775513.0	19xkv6	Posted in /r/Snowboarding, they said to post it here. I went with friends to Chamonix, France and made a video. 100% GoPro and edited in FCPX. Let me know what you think!	sn0border	38	5	2		t5_2rvat	False
+1362359820.0	19lxza	$130 Home Made GoPole	v1rotate	38	4	15		t5_2rvat	False
+1362358522.0	19lwih	At the top of Squaw Valley	mr_yip	55	21	4		t5_2rvat	False
+1362102346.0	19foff	$11 Hero 3 Frame Mount Arrived Today	wilfordbrimley1	39	3	32		t5_2rvat	False
+1358574474.0	16v3v7	First day trying out the new GoPro Hero3B. Here's a couple shots of my friend skimming.	Papa95	36	1	20		t5_2rvat	False
+1358266424.0	16mg24	Managed to grab this from a timelapse I was doing, now it's my desktop background. [H3B/12MP]	coreoski	36	3	7		t5_2rvat	False
+1357155376.0	15ua5z	My 2012 GoPro Supercut [43 events crammed into 3m 39s]	errorik	38	3	23		t5_2rvat	False
+1356250123.0	15bie8	A hero 3 was found at the gold coast near brisbane, australia, just trying to help someone find their camera.	jdude700	36	3	4		t5_2rvat	False
+1355882078.0	1532ah	Polarizing filter looks sweet. Recommended.	Boston_TD_Party	46	14	16		t5_2rvat	False
+1351253552.0	124bmz	Backpack mount I made for my GoPro	LudoKane	39	1	23		t5_2rvat	False
+1350894923.0	11vyty	HERO3 Black vs 5D Mark III	abekislevitz	45	10	17		t5_2rvat	False
+1350239834.0	11gxr4	I lost my GoPro while camping last weekend…	Cooldog117	38	5	11	"so I wrote GoPro a long handwritten letter explaining all the awesome things I do with my camera. A few days later I got an email asking for a receipt. ""usually our warranties don't cover lost cameras but we'll see what we can do."" I sent them the receipt and anther day later they wrote me back again. ""unfortunately your warranty doesn't cover loss but heres a coupon for 50% off a replacement camera""
+
+AWESOME!! thanks GoPro!!!"	t5_2rvat	True
+1375149977.0	1jbjoq	GoPro App Version 2.0 now live!	xylgorp	41	5	49	It just popped up on the appstore on my iPhone, so for iOS it's up and running. Downloading it now:)	t5_2rvat	True
+1372872944.0	1hkuus	Went to the lake this weekend	haldimanator	41	6	2		t5_2rvat	False
+1371946824.0	1gvt4m	It's not done but I thought I'd share.	iLife87	42	7	9		t5_2rvat	False
+1370899083.0	1g2ls2	Canoe cruise.	DaKuech	38	4	3		t5_2rvat	False
+1369867042.0	1fari1	Last week I took my GoPro to 10,000 ft to watch the sunrise.	what_are_you_saying	42	7	7		t5_2rvat	False
+1369795331.0	1f8svb	Mountain Biking through aspens in Aspen	The_High_Life	33	4	0		t5_2rvat	False
+1368663486.0	1ef3h3	Flew on my own for the first time today! Luckily my Hero3 was a bro and came with me. Here I am landing into Nephi, UT.	carleverett	33	3	7		t5_2rvat	False
+1368578484.0	1ecojn	Sonora Pass is Open!	InSearchOfLight	35	1	3		t5_2rvat	False
+1367514203.0	1dk7e6	This should be the first photo you take with your GoPro (or any camera) before going out on a shoot.	Peralton	34	1	9		t5_2rvat	False
+1366918023.0	1d3p64	I put my GoPro on the end of a golf ball retriever and filmed my friend's Jeep as we were driving	picnicface	50	15	15		t5_2rvat	False
+1366512220.0	1cs2a0	Diving with a Whale Shark and my Gopro 2	bajp	38	6	16		t5_2rvat	False
+1363961790.0	1asscw	Dog going for a swim	LSU2	39	5	8		t5_2rvat	False
+1362763402.0	19x66x	3rd Person Misty Flip	Jerrybboy	34	1	9		t5_2rvat	False
+1360954295.0	18le0l	I heard you guys might like this.  Full commitment chute in New Zealand last July.	savage_pooh	37	3	1		t5_2rvat	False
+1360136617.0	17zmeu	Heres My GoPro Setup, Three Years Later	brian_diener	41	8	23		t5_2rvat	False
+1357602743.0	165eyw	Ug. Worst GoPro error ever! When you get somewhere and see...	errorik	38	5	16		t5_2rvat	False
+1356836847.0	15nllz	Todays gopro adventure, as shot by my hero3, at Casillo de San Marcos, St. Augustine, FL.	babowling12	34	4	6		t5_2rvat	False
+1356128976.0	1591ot	Some more pictures and screen grabs from a snowboarding trip. (raw files and over-edits) 	BlueJayy	35	3	20		t5_2rvat	False
+1352457617.0	12wp2d	Really well-done comparison video of Hero HD2 and Hero 3 Silver/Black (the Black is amazing!)	burtonownz	38	1	15		t5_2rvat	False
+1352076719.0	12n2g9	My new favorite Hero3 Black feature - take pictures every X seconds while shooting video! (xpost from /r/motorcycles..)	klinquist	33	3	13		t5_2rvat	False
+1349599478.0	112y2w	Testing out the GoPro for my cakeday, my friend took this photo of me in burst-mode, great day	TheJRosso	42	5	7		t5_2rvat	False
+1348075969.0	1058y8	My Kite Aerial Photograhy rig	ADH-Kydex	37	2	18		t5_2rvat	False
+1375623025.0	1jog7q	Did some 'Via Ferrata' at Propriano, Corse.	The_Resistor	33	3	7		t5_2rvat	False
+1375277766.0	1jf4dy	Taken with my phone while capturing a time-lapse (Orange Beach, AL)	zmnypit	33	2	0		t5_2rvat	False
+1375213752.0	1jdc8c	Finally got my new favorite mount: DJI Phantom. I am going to have so much fun.	zatic	33	1	19		t5_2rvat	False
+1374245357.0	1imtkl	Shot with GoPro Black and a DJI Phantom. Montage featuring some of LA's most notable places. Tell me what you think!?!	Diccfish	44	11	19		t5_2rvat	False
+1372304259.0	1h5mzn	NUM NUM NUM, SARDINE IN MA' MOUTH	xGaby-	35	3	1		t5_2rvat	False
+1372124927.0	1h0cvr	Thought it would be cool to strap my GoPro to my chest and swing my nieces and nephew around.	brasher	39	10	19		t5_2rvat	False
+1371805448.0	1gsa4x	Tough Mudder 2013 GoPro Edit - headcam POV &amp; spectator view	danjacobs	34	0	14		t5_2rvat	False
+1370472571.0	1fr48s	Finishing a dive off of Santa Cruz Island	SeaFerchin	32	0	3		t5_2rvat	False
+1369135807.0	1eravy	GoPro found at Waimea Bay, Oahu - Do you recognise these people?	jrady	89	60	39		t5_2rvat	False
+1368755136.0	1ehowj	Better wrist attachment for ocean swimming	joenottoast	41	7	21		t5_2rvat	False
+1367231215.0	1dbw6z	Summer in Australia	sobeachedey	35	4	15		t5_2rvat	False
+1366666846.0	1cw35d	DIY gopro tray with light/strobe arms $20	SeaFerchin	37	5	16		t5_2rvat	False
+1366315368.0	1cmlz3	A picture of my buddy, taken from my Hero 3 silver.	FloridasFinest	41	9	8		t5_2rvat	False
+1366227520.0	1cjxse	Stealth GoPro, V2 - Red Back Door [Album]	DesignNomad	43	10	14		t5_2rvat	False
+1363918721.0	1arxe9	My friends and I may not be skiing professionals, but I sure tried my best to make our vacation visually as appealing as possible.	Sasuke0pro	38	6	8		t5_2rvat	False
+1362926736.0	1a0w4t	Scary ride	Antwelm	36	4	8		t5_2rvat	False
+1361582879.0	1921k1	It was a great day for some shifter kart madness in Florida! Shot on my H3W.	babowling12	33	2	10		t5_2rvat	False
+1361242720.0	18slb2	Underwater sunrays	sammy_gray	35	3	1		t5_2rvat	False
+1359732877.0	17p4j6	Epic Cinema's 22 GoPro Hero 2 rig in action at Dominator festival 2012.	Matjoez	34	2	10		t5_2rvat	False
+1356238708.0	15bb2a	"Edited together a few of the ""CATCH!"" pics I took the other day. "	coolstorycorey	34	2	4		t5_2rvat	False
+1355764570.0	1501mr	GoPro Year Edit 2012 - all the action of the year in one edit!	danjacobs	40	7	23		t5_2rvat	False
+1353956228.0	13tptk	Lets start a page that shows the best places to mount your camera for various activities (snowboarding, skiing, bike riding, hiking, driving, skydiving, etc)	jury_rigged	34	4	29	"This is just throwing the idea out there. if you have places you've put your camera and really liked the shot, take a picture of where it was/how it was mounted on the device/vehicle/body/board AND include a photo or video of what the shot looks like. 
+
+I'll start: [THIS](http://i.imgur.com/eDxba.png?1)is the [coolest](http://i.imgur.com/DUyWF.jpg?1) way to [shoot yourself](http://i.imgur.com/eDxba.png?1) while sky diving. [THIS](http://i.imgur.com/nUXMB.png) is how you do it. [VIDEO](http://www.youtube.com/watch?feature=player_embedded&amp;v=sX4cICUYXB0) from GoPro BombSquad"	t5_2rvat	True
+1352309199.0	12t12f	My Setup On Gameday	PopEffingTart	40	6	17		t5_2rvat	False
+1351118605.0	1216mb	I just sold a HERO3 Black Edition at Best Buy, but I'm not an employee...	DesignNomad	36	4	35	"Just sharing an interesting personal experience-
+
+I was in at the local Best Buy picking up some things for work, and I decided to swing by the GoPro end cap to get a first-hand look at the new HERO3.
+
+When I got to the end cap, I found a very confused customer and a stammering employee who was hopelessly trying to explain to the former the features and differences of the new HERO3 cameras.
+
+I couldn't keep my mouth shut, and I answered one of the customer's questions before the employee had a chance to read it off of the box.  The employee then asked me if I was planning on buying one, and I informed him that I had multiples of the previous generations, and that I planned on getting the HERO3 before my next big trip.
+
+The customer, recognizing that I was much more informed about the camera than the employee, started asking me all sorts of questions about features, difficulties, pricing, etc.  The employee ended up walking away while we were talking.
+
+15 minutes later, I wished the new GoPro (Black edition!) owner good luck with his new camera and left the store.
+
+
+**TL;DR**- Word of mouth is a million times more effective than poorly trained chain store employees.
+
+Anyone ever have a similar experience?
+
+
+EDIT:  My goal wasn't to put down Best Buy or big box retailers.  I meant to highlight how effective GoPro ""Superfans"" are at selling the product via word of mouth."	t5_2rvat	True
+1348451375.0	10dd2z	Kite mount for ariel photography... thoughts?	radiantwave	34	1	25		t5_2rvat	False
+1376721945.0	1kjeta	GoPro shot over Knokke beach, Belgium	MLyte	32	1	1		t5_2rvat	False
+1375594670.0	1jo1mz	This little camera never ceases to amaze me.	irish2owner	39	7	4		t5_2rvat	False
+1374963057.0	1j6mia	Hummingbird feeder	Munky3d	36	5	3		t5_2rvat	False
+1374618164.0	1iwyli	Driving in the sun	martinohansen	40	6	0		t5_2rvat	False
+1374017332.0	1ig5x3	Filmed this cool shot with my GoPro	DongyCheese	35	5	4		t5_2rvat	False
+1373684565.0	1i74xs	Shot partially underwater. Creepiest photo I ever took.	indyphil	46	16	3		t5_2rvat	False
+1370392869.0	1fou50	Wallabies (Australian Rugby Team) strap 35 GoPros to themselves during a training session. Result: epic	Tw1sty	36	7	2		t5_2rvat	False
+1370328137.0	1fmyro	Taken at the top of Mount Gardner, Bowen Island - British Columbia, Canada	ScarySquirrel	34	3	1		t5_2rvat	False
+1359000350.0	1765go	Be a HERO. 	hankuti	35	4	2		t5_2rvat	False
+1358941218.0	1748xt	Non-traditional GoPro use: I used my GoPro to record 236 1-second long videos over the course of a week long trip to San Francisco. 	JoshMD	40	10	8		t5_2rvat	False
+1358824560.0	1716o3	"My Gopro ""DIY"" LED Lighting (UFO Camping Light)"	fubrad	32	2	14		t5_2rvat	False
+1352223622.0	12qmd1	Bye GoPro! - YouTube	justim	33	2	6		t5_2rvat	False
+1350428522.0	11lhzd	So many Hero 3's...	JakeBloom	33	3	2		t5_2rvat	False
+1350050507.0	11d5yc	Dogs at the river	Jeffsofast	36	1	10		t5_2rvat	False
+1347392922.0	zq441	Friend of mine brought his GoPro on the lacrosse field last summer. Thought you guys might appreciate this	japes28	36	2	3		t5_2rvat	False
+1341276296.0	vyc68	Sweet sweet organization.	coreoski	34	1	17		t5_2rvat	False
+1375864073.0	1jveev	GoPro rival Contour closes Seattle HQ, company future unknown	Tw1sty	31	2	12		t5_2rvat	False
+1373325344.0	1hwbe7	Had a big party last night and used the suction cup mount on the window behind the band. For low light it turned out pretty well!	hartmanwhistler	34	3	13		t5_2rvat	False
+1372488590.0	1hat44	I'm hungover and its raining here in Brisbane, Australia so I thought I'd go mudding	ScreamingGoat	38	8	2		t5_2rvat	False
+1369504733.0	1f1eyl	Soo my girlfriend got hold of mine....	gloslad	72	40	8		t5_2rvat	False
+1367259492.0	1dcpab	This movie is going to be AWESOME!	negative4productions	32	3	13		t5_2rvat	False
+1366866670.0	1d2d3m	Snow machining in Thompson's Pass Valdez Ak	jaymarks99686	35	9	8		t5_2rvat	False
+1366831945.0	1d12vl	30 AMAZING THINGS #2 and #3! I skydived with my girlfriend over Kauai, then asked her to marry me.	30AmazingThings	36	7	10		t5_2rvat	False
+1363672659.0	1akufd	DIY grip mount. made from a hair brush	b_masterfleX	31	2	5		t5_2rvat	False
+1362414072.0	19n6vu	GoPro Evolution: From 35mm Film To America's Fastest-Growing Camera Company	justim	33	3	0		t5_2rvat	False
+1360444299.0	187lvn	My battery wasn't up for a time-lapse, but I got a pretty cool before and after shot of my street. Exactly 24 hours apart.	RhinoMan2112	32	3	1		t5_2rvat	False
+1360432813.0	18792h	Storm Nemo Time Lapse	Boston_TD_Party	41	10	9		t5_2rvat	False
+1358868530.0	1723mp	"$15 DIY DSLR Steadicam ""The Silver Flyer"" Stabilizer "	reubadoob	34	4	16		t5_2rvat	False
+1357586927.0	164v6y	A completely reverse video I made with my friend.	MindDumpTV	36	9	5		t5_2rvat	False
+1357502852.0	162q2w	DIY PVC GoPro Rig/Steadycam	flowdan	36	8	15		t5_2rvat	False
+1355863269.0	152i88	Hero3 Black sequence feature looks fantastic. Got this over the weekend.	jessenrichard	32	4	12		t5_2rvat	False
+1355371314.0	14rmj1	DIY GoPro3 video out cable. Save weight, cost, and space over a branded cable.	goprwn	31	2	9		t5_2rvat	False
+1354801018.0	14dryw	Custom GoPro Quadcopter Project - Early Prototype	mattmembrane	30	1	14		t5_2rvat	False
+1354586199.0	148j2v	Did the Graffiti Run yesterday with my H3B, it got as colorful as I did!	highoctanecaffeine	34	5	4		t5_2rvat	False
+1354485267.0	14624p	GoPro Cable Cam DIY - What do you think?	thecattleroper	35	6	13		t5_2rvat	False
+1354023762.0	13vf2y	Was a great weekend for driving. [Hero3Black]	haudi	34	3	12		t5_2rvat	False
+1353996902.0	13v0kz	Soaring 	animalkracker	31	1	2		t5_2rvat	False
+1350687774.0	11ruhi	Put a GoPro cam on a shark, please.	fuhkdat	39	11	7	"That would be insane
+im high"	t5_2rvat	True
+1339718366.0	v2k51	500 mark!	system1nferno	32	2	2		t5_2rvat	False
+1376089955.0	1k23h3	New Family Photo	shanepatrick	32	5	2		t5_2rvat	False
+1375460063.0	1jkkng	My GoPro Gear!	Miguelv93	38	10	24		t5_2rvat	False
+1373417593.0	1hz3r8	Arkon mount looks like promising alternative to gopro's handlebar mount, roll cage mount, and maybe even wrist mount	thatotherguy321	33	3	11		t5_2rvat	False
+1373356148.0	1hx8nz	Decided to try the Throw and Burst trick in the backyard.	Blakrat	31	4	13		t5_2rvat	False
+1370759971.0	1fyygs	My View For The Day (Cessna 172)	ImChapy	33	2	4		t5_2rvat	False
+1367837541.0	1dsanu	It's the time of the season	jwr_	34	6	9		t5_2rvat	False
+1362246477.0	19j404	A Tether to keep you from losing your Hero 3	tattedbuddha	36	9	45		t5_2rvat	False
+1358885992.0	172pb0	Well hello there, humans. Allow me to introduce myself...	RedStag86	30	3	2		t5_2rvat	False
+1358873473.0	1728xr	GoPro Hero3 Teardown - iFixit	DesignNomad	33	5	5		t5_2rvat	False
+1357279084.0	15xqe9	Sunset Riding	theunhappypanda	30	2	3		t5_2rvat	False
+1357154417.0	15u915	Silly Dog POV From Stick	klinn013	33	7	0		t5_2rvat	False
+1347426177.0	zr360	I put peanut butter on the lens of my GoPro in Yellowstone and made some friends - YouTube	spongeymindoloid	32	3	9		t5_2rvat	False
+1376074884.0	1k1k9f	One of the screencaps from our countless hours of footage in Croatia this summer.	Chrisfoxx3	31	5	3		t5_2rvat	False
+1374947901.0	1j653v	[META] Flair for which camera(s) we have?	JakeBloom	30	2	9	I think it'd be kinda cool if we could have text flair where we could input which model of GoPro we have so it would display on the subreddit. A good example of something similar to my idea is /r/Android, they have flair for which Android phone you have. This would be the same idea, we could display which GoPro camera (or cameras) we have, next to our name whenever we post in the subreddit. Mods, would you be interested?	t5_2rvat	True
+1373444250.0	1hzvah	Cliff Jumping + Gopole = Album Cover	Adicko85	33	6	4		t5_2rvat	False
+1371399650.0	1ggkpc	5 Gopro's and 3 days of helicopter logging gets you something that looks like this.	sarvair	29	1	3		t5_2rvat	False
+1370954896.0	1g48e3	I've made a simple guide to basic GoPro mounts. Hope this helps!	21fox	31	2	23		t5_2rvat	False
+1369710404.0	1f6e58	This is my GoPro Paintball Set-Up	MLGviris	32	6	6		t5_2rvat	False
+1366961021.0	1d53sj	Here's another from AK with a different view.	jaymarks99686	31	2	5		t5_2rvat	False
+1366945627.0	1d4pnj	redneck parasailing &amp; BASE jumps	Barry_Mcockiner	36	7	10		t5_2rvat	False
+1365950409.0	1cbrfj	Anybody make sequences with their GoPro? I just gave it a shot. This is the result.	cburke34	36	7	9		t5_2rvat	False
+1364956819.0	1bk8vu	GoPro + Nerf Gun	power_ballad	30	4	5		t5_2rvat	False
+1364825256.0	1bf7qz	My buddy quit his job 6 weeks ago to base jump full time in an attempt to get sponsored. This is the result[x-post r/videos]	royweston1	37	9	8		t5_2rvat	False
+1364398643.0	1b44vi	GoPro License Plate Mount - Is this better than a sticky pod?	tehshocker1	31	3	15		t5_2rvat	False
+1360547973.0	18a5po	Definitely the coolest GoPro use I've ever seen.	Frijid	37	8	1		t5_2rvat	False
+1358824712.0	1716v5	Trying to get my 525 sideways at the track. 	redbullhamster	28	0	8		t5_2rvat	False
+1356236696.0	15b9hf	GoPro Resolution Comparison Sheet	nathybathy	30	2	4		t5_2rvat	False
+1353802780.0	13qj58	They're waiting for snowboarding	TieDownWaffle	33	5	7		t5_2rvat	False
+1352701336.0	131vd4	60 Minutes Australia Did a report on GoPro, talking to the man himself who created it all and to get an insight on the great cameras.		34	7	8		t5_2rvat	False
+1351311075.0	125siv	So, this is the Contour and not the GoPro, but check out the horizontal stabilizer this guy built!	njoubert	31	3	6		t5_2rvat	False
+1349222975.0	10uhdf	ATTN: GoPro_HERO. A request!	admile3	35	7	11	"GoPro_Hero,
+
+I was wondering what the possibility was of having an AMA with someone from your video production department, here on /r/GOPRO? I think many of us love the videos you all churn out on your official Youtube account. 
+
+With many questions regarding editing, post-production work, formatting, compressing, etc being posted on here, I think it would be extremely helpful if you were able to organize an AMA with someone who works in that department!
+
+I normally wouldn't make such a request of a company, but with how active GoPro seems to be within the various communities on the Internet, I cant help but hope such a thing might be possible. One of the reasons GoPro's product is so successful is because of the many amazing videos its customers create. If we can get an AMA where many of our post-production questions can be answered, the quality of user-created videos will only surely grow, adding even more exposure to the wonderful world of GoPro!"	t5_2rvat	True
+1349100469.0	10re8b	I haven't seen anyone do this before, but I think it was inevitable (More inside)	MC_Preacher	29	1	11		t5_2rvat	False
+1348076901.0	1059wf	Gopro, stop giving us release dates you can't hit, it's getting old.	rfleason	34	7	26	"Here's what I'm going on about, after maybe 30 minutes of effort I was able to put together this timeline...
+(first try with reddit formatting, hope it works!)
+
+**April 19 2012**
+[http://www.youtube.com/watch?v=-u2vCeEUM80](
+http://www.youtube.com/watch?v=-u2vCeEUM80)
+
+In this youtube video, David Newman says that the wi-fi bacpac will be out, ""early summer,"" with the android app.
+
+
+**June 3rd 2012**
+[http://www.reddit.com/r/gopro/comments/uin8e/so_i_heard_you_guys_might_be_interested_in_a_wifi/](http://www.reddit.com/r/gopro/comments/uin8e/so_i_heard_you_guys_might_be_interested_in_a_wifi/)
+
+Reddit user GoPro_HERO says, ""The apps will be out shortly,"" and, ""I can assure you that the app is coming VERY close behind the Wi-Fi release date. No more than a month, maybe even sooner.""
+
+
+**June 4th 2012**
+[http://www.youtube.com/watch?v=6JI0wUyH7q4](http://www.youtube.com/watch?v=6JI0wUyH7q4)
+
+GoPro release promotional video with Ryan Sheckler skateboarding around new york using the android app with the wi-fi bacpac.
+
+
+**June 13th 2012**
+[http://www.reddit.com/r/gopro/comments/uz7h9/ok_who_else_is_ready_for_the_new_wifi_firmware/](http://www.reddit.com/r/gopro/comments/uz7h9/ok_who_else_is_ready_for_the_new_wifi_firmware/)
+
+Reddit user GoPro_HERO says, ""It's coming very soon guys. Hang tight!"" and ""but now that it's out it won't be long at all for the app""
+
+
+**July 2nd 2012**
+[http://www.reddit.com/r/gopro/comments/vxt0q/a_friendly_request_from_your_gopro_community/](http://www.reddit.com/r/gopro/comments/vxt0q/a_friendly_request_from_your_gopro_community/)
+
+Reddit user GoPro_HERO says, ""PS- Before anyone asks, the Wi-Fi app will be out very soon. Hang tight!""
+
+
+This is basically where I decided to stop.  As of writing this, the most recent posting in my above list was 79 days ago, yesterday (July 18th) reddit user GoPro_HERO says, ""Very, very soon. Very.""  This is way past getting old.
+
+I understand that reddit user GoPro_HERO isn't the guy that decides when it get's released, I also understand that he/she probably has people telling him more or less what to post and when.  Fact is, I bought a product MONTHS ago because of the android functionality, I've endured MONTHS of postings, videos and tweets about how this app is coming any day now and I still don't have it.
+
+So, what's the real deal GoPro, don't you feel a little slimy every time a new date or time frame is given and then passed?  Don't you feel the least bit guilty jerking around your core user group?  Aren't you worried that this kind of behavior will end up spreading the word around that GoPro can't fulfill it's promises?"	t5_2rvat	True
+1376251533.0	1k5t6l	Throwing up in the pool.	Biking	34	8	8		t5_2rvat	False
+1375979632.0	1jyq69	My friend has been sitting on GoPro surfing/Mexico vacation footage for over a year. I put something together for him. I'm always looking to improve my edits so please let me know what you think!	luckyyirish	28	2	9		t5_2rvat	False
+1375783081.0	1jswsj	Captured some rad lightning action in The Netherlands with the 30p/3sec burst mode!	stoicka	37	7	4		t5_2rvat	False
+1374733879.0	1j0h0b	Chase Jarvis TECH: How To Pack Prep &amp; Travel with GoPro Cameras	ap73	30	1	18		t5_2rvat	False
+1374683883.0	1iyqrb	My dad built a plane I edited some cool footage with the Hero2 - [1:57]	MLGviris	33	5	16		t5_2rvat	False
+1373707259.0	1i7ljo	Sunset on the Derwent River in Tasmania, Australia.	TRQuantumNinja	30	3	2		t5_2rvat	False
+1371986821.0	1gwkee	Reef sharks &amp; turtles are neat but these guys have been the best animals to dive with so far.	redbullhamster	31	4	2		t5_2rvat	False
+1369367825.0	1ey9fi	Kill Cam	diemondback	49	20	13		t5_2rvat	False
+1368997777.0	1enhvk	Who wants to make some pancakes?	AwssumPossum	35	9	11		t5_2rvat	False
+1367791538.0	1dr5tl	I just noticed this in the rules for the Daily Giveaway. Why?	Kamtyax	29	1	11		t5_2rvat	False
+1365708809.0	1c5l40	"Just finished organizing my ""Kit"". Everything they make, the backpacks are on the way."	Abarhan	28	1	5		t5_2rvat	False
+1365158824.0	1bq4xb	Went snorkeling at the great barrier reef today! H3B photo.	Matjoez	31	3	14		t5_2rvat	False
+1362106192.0	19ft7g	Rolling in the Florida surf. Winter isn't that bad, right guys?	sfschad	28	1	2		t5_2rvat	False
+1361502020.0	18zxqv	Kite-Mounted GoPro	tsmalls3	28	0	8		t5_2rvat	False
+1361129998.0	18pdqi	Some surf pics taken with the hero2	cordaway	34	6	4		t5_2rvat	False
+1359162488.0	17ahd1	How To: Smooth Slow Motion	emoney94	37	10	19	"Ok, so I've spent probably over 10 hours looking for the cleanest way to make my shots look smooth in slow motion, and most instances the answer was overly complicated. I believe I have found the easiest, and possibly quickest, way there is.
+
+You will need:
+ 
+- A GoPro Camera that shoots 60+ frames per second
+
+- [GoPro Cineform Studio](http://gopro.com/3d-cineform-studio-software-download/)
+
+**Step 1**
+
+- Open up Cineform and click the blue button labeled **import new files** and find your video file
+- (You can also simply drop the file in the box on the left)
+
+**Step 2**
+
+- Click and see your video in the [viewer](http://imgur.com/XeWobwZ) (here you can set the in and out points, rotate/flip the video, and change where you save the video to)
+- Notice my video was shot on 60.73 frames per a second. You must shoot in 60 fps or higher if you would like your slow motion to be smooth.
+- Here, I will slow the video down to half speed, or 30 frames per a second. This will make the video twice as long, but will look smooth while in slow motion.
+
+**Step 3**
+
+- Click **Advanced Settings** 
+- You will see a [small box](http://imgur.com/523NZ1R) fall down with a few settings.
+
+**Step 4**
+
+- Image Size: Source Video (whatever resolution you shot at)
+- Frame rate: Depending on your original frames per second, choose between 23.98p to 29.97p. The goal is to cut the source fps in half a close as possible. **THIS IS THE MOST IMPORTANT STEP!**
+- Quality: I personally like it to be on HIGH, but choose whichever you prefer.
+- Remember setttings for future clips: If you have multiple clips, click the small box. (Haha, GoPro Cineform has a spelling error.)
+- [This is how I like my settings.](http://imgur.com/nutaQ56)
+- Click OK
+
+**Step 5**
+
+- You can change your video's file name to whatever you like, then adjust where the video is saved to.
+- Click **Add Clip to Conversion List** [like so](http://imgur.com/M7QTcE2)
+- Now you can either convert the video, or you can edit other videos in your box on the left panel.
+- Click **Convert**, wait tip the video is done converting, and BAM! Slow Motion.
+
+Now your converted video is [twice as long](http://imgur.com/2VW0a44), but is played back at half speed with a smooth slow motion. To get the video back to regular speed in an editor, just speed it up 200%. 
+
+If you guys would like to see the product of the slow motion, I edited a rowing video for my high school team. I think you'll be able to tell which parts are the smooth slow motion. [http://www.youtube.com/watch?v=a4SGvpytYlM](http://www.youtube.com/watch?v=a4SGvpytYlM)"	t5_2rvat	True
+1358630535.0	16w7ol	Go Pro On RC Boat - YouTube	Skylent	31	5	4		t5_2rvat	False
+1358436356.0	16r6lk	HEROS 1, 2, &amp; 3	negative4productions	35	6	4		t5_2rvat	False
+1357590188.0	164z7g	Awesome Directors Project : $15 DIY steadicam in 15 minutes! - YouTube	reubadoob	31	2	3		t5_2rvat	False
+1355698575.0	14ynfs	Gopro HD hero Parkour	RichD94	32	3	10		t5_2rvat	False
+1352149193.0	12or69	GoPro installed inside a Wedding Bouquet!  Genius!	heartbraden	31	4	6		t5_2rvat	False
+1351618517.0	12citp	Hero3 vs Hero2: Low light &amp; audio test	klinquist	30	4	10		t5_2rvat	False
+1350851479.0	11uxv4	Testing out Gopro 3 240FPS 	lfshammu	35	7	13		t5_2rvat	False
+1350512681.0	11nlif	Get the GoPro Hero3 Black WITH a 32GB card for $360!	l27	31	5	47		t5_2rvat	False
+1349400582.0	10yx84	Ordered a red dive filter from Polar Pro. I haven't even had a chance to use it yet and this came in the mail today.	muffinsticks	29	3	8		t5_2rvat	False
+1349053737.0	10qkda	Pump Out Rad Videos, Receive Awesome Stuff! Thanks GoPro! 	BlueJayy	32	6	29		t5_2rvat	False
+1348757963.0	10kcyb	GoPro, we deserve an an explanation.	_idk	36	12	32	"You have been promising the ProTune update for awhile now, and it was promised for a summer release. It also was the only reason I jumped the gun on my GoPro purchase.
+
+
+Since you missed your HUGE, promised timeframe of summer 2012, we deserve to know why it was missed and when it will be released. Saying ""soon"" is not an answer. I am highly disappointed in the way you handle your public relations and software updates."	t5_2rvat	True
+1348161673.0	10794e	Just got red filters for my GoPro's, now I'm ready to dive!		29	2	13		t5_2rvat	False
+1346671748.0	z9y8n	Oops, there's a bug in my GoPro	slayer23	29	3	4		t5_2rvat	False
+1345718617.0	you8d	first attempt at GoPro HD Hero2 on my kite!!	nnigad	32	3	12		t5_2rvat	False
+1345699114.0	yojmt	Some of the time-lapse I shot during my trip to Europe	DRhexagon	34	6	21		t5_2rvat	False
+1342080376.0	wfl85	GOPRO FPS	thinkbox	34	10	7		t5_2rvat	False
+1338920205.0	umfvi	Just got this in the mail. Fuck. Yeah. (Pardon my french)	plolock	34	5	9		t5_2rvat	False
+1333654947.0	rv3n9	Tomorrow we will start filming the MDS marathon across the Sahara. Currently preparing the GoPros.. 	Digitalanthill	27	0	11		t5_2rvat	False
+1376504239.0	1kd3f7	Took this while hiking at Philmont Scout Ranch this summer (Hero 3 Black)	amen_bot	30	2	17		t5_2rvat	False
+1376009802.0	1jzusa	My friends built a MASSIVE bike ramp at the lake. Here's the GoPro footage. (x-post from /r/videos)	desertdj	27	1	3		t5_2rvat	False
+1375725661.0	1jr50j	Took my GoPro to SixFlags and it didn't dissapoint!!	slangen	30	4	8		t5_2rvat	False
+1374301985.0	1ioluz	Finally got lightning picture. Gopro Hero	FTCW	28	2	7		t5_2rvat	False
+1373644261.0	1i5qdh	Be like the russians. Take advantage of that looping video feature. 8hrs to Tahoe.	redbullhamster	29	3	23		t5_2rvat	False
+1373515149.0	1i24aw	Valle del Cocora, Colombia.	robbrobb	27	3	5		t5_2rvat	False
+1371120184.0	1g9dyd	My First Time-Lapse - Honolulu, Hawaii (Waikiki)	lazerbaconpro	30	2	11		t5_2rvat	False
+1370278375.0	1fl95v	A photo from my ride earlier	TTBZ	32	7	5		t5_2rvat	False
+1369454651.0	1f0i5f	I made a dive tray from the materials in my garage.	redbullhamster	31	6	3		t5_2rvat	False
+1365632690.0	1c3emv	Ken Block in Russia with a ridiculous number of GoPro's	brttf3	26	0	28		t5_2rvat	False
+1364915913.0	1bioyg	Go Pro Case, Pelican 1170.	Stagehand_Paul	28	2	12		t5_2rvat	False
+1364747396.0	1bd3t9	Timelapse of clearing snow at my local Skatepark (x/post from skateboarding).	Armand9x	33	6	16		t5_2rvat	False
+1361316439.0	18ul9h	Epic sunset time lapse set up (Video in comments)	BaronByrnes	30	5	5		t5_2rvat	False
+1361251764.0	18sw9s	Nice wave break	AlexBeeInBim	29	3	0		t5_2rvat	False
+1360607192.0	18bl56	It's been a year since I took over this subreddit. We're growing nicely. 	post_break	32	6	12		t5_2rvat	False
+1360076560.0	17xndi	How does a firework exploding underwater look? Like this!		36	10	2		t5_2rvat	False
+1352814003.0	134clc	The Moment My Turn Became a Roll	parasiteartist	26	1	4		t5_2rvat	False
+1350075665.0	11duvc	Cheapest, and silliest, Mod you will ever love. (Details inside)	MC_Preacher	30	3	9		t5_2rvat	False
+1349799295.0	1179bj	Loving the GoPro app	navveyj	27	3	6		t5_2rvat	False
+1376450502.0	1kbqb1	Got a GoPro. First thing shot? Powerwashing concrete.	falcorethedog	29	4	17		t5_2rvat	False
+1375116178.0	1jaa4i	Hanging out	connor-e	27	2	1		t5_2rvat	False
+1374838622.0	1j3au9	GoPro Launches Free Editing Software And App Update, Dismisses Kogan Challenge	Tw1sty	31	5	15		t5_2rvat	False
+1373527340.0	1i2fm1	A friend of mine is a diy addict, so i filmed him welding/cutting iron. This is a screencap of that day.	Mechanicalmind	27	2	1		t5_2rvat	False
+1372656019.0	1herfw	Snorkeling in Hawaii	OnTheEveOfWar	32	6	2		t5_2rvat	False
+1370574457.0	1fu7dq	Always Tether your GoPro	justim	31	5	9		t5_2rvat	False
+1370538832.0	1fsved	Wandered into an As Seen On TV store and thought you might get a kick out of this product...	p00psicle	33	9	17		t5_2rvat	False
+1369675513.0	1f5a87	Annual Cheeserolling tradition in gloucester (uk)	gloslad	30	5	5		t5_2rvat	False
+1369100351.0	1eqhvn	it was a good weekend.	sillyputtyumc	31	6	1		t5_2rvat	False
+1368508926.0	1eaqpr	Kickstarter for an Awesome GoPro Mount Idea	Captain_Bear	34	8	11		t5_2rvat	False
+1368381521.0	1e6yys	Toughest - 8 km obstacle race in sweden	Gonotsopro	28	5	5		t5_2rvat	False
+1368200391.0	1e2nup	A day at the links. H3B.	coolstorycorey	29	6	16		t5_2rvat	False
+1367742132.0	1dq2nt	Took this while i was doing an Advnaced Open Water Course in Malaysia.	TharGi	30	5	4		t5_2rvat	False
+1367719452.0	1dplzq	Look what finally got today!!!	MUFC17JW	42	17	12		t5_2rvat	False
+1367503942.0	1djuth	DIY Clock Motor uses hour hand for longer time lapses	soundkite	28	3	3		t5_2rvat	False
+1367201232.0	1db6ty	Took a 30 shot burst at the Mariner's bullpen. It's my first try.	reppinthe509	34	8	13		t5_2rvat	False
+1366773247.0	1czhtv	Extreme Slow Motion 360 Flip.	Armand9x	27	3	9		t5_2rvat	False
+1360811947.0	18ho8i	The nice little mark you get when wearing a gopro on your head for an hour and a half. 	post_break	32	7	9		t5_2rvat	False
+1359241330.0	17c7el	My buddy took this today right before I landed, caught an edge, hit my head, blacked out on the hill for a few minutes, and ended up in the ER. WEAR YOUR HELMETS, KIDS!!!	coolstorycorey	27	3	8		t5_2rvat	False
+1359112195.0	17911g	Yesterday was a good day!	Harry_Mooo	33	6	9		t5_2rvat	False
+1358260398.0	16ma6q	Go Pro Sausage Roll	Pegul	33	8	4		t5_2rvat	False
+1355091660.0	14kgzu	I strapped a GoPro on my daughter while she figure skated.  Caution for anyone with a weak stomach.	GoProDad	27	3	11		t5_2rvat	False
+1353027650.0	139sxl	Im that painted GoPro guy, and heres that platoon video I promised. Not all of it is GoPro, but you'll enjoy what is!	crizzthewizz	38	13	11		t5_2rvat	False
+1350398847.0	11klbf	OK GoPro Staff, we know you can't get specific with details, but can you tell us if the new GoPro 3 will use the same batteries and mounts? A lot of people are selling their old ones for the 3	AT361	30	3	31	"I'm planning on selling my GoPro 2's and want to know if I should package it with all my extras in case the new one doesn't fit it.
+
+I have many batteries, tripod mounts, moto mounts, various harnesses, et al.
+
+Can you tell us if it's worth holding on to any of that for the Hero 3 Black? Or, should I package it all together?"	t5_2rvat	True
+1349896102.0	119lra	Cruised around with this dude while free diving	NeverNude123	26	0	8		t5_2rvat	False
+1348706574.0	10jd8m	DIY GoPro floats for $2-$5 or less (floats the camera AND the suction cup mount!)	DesignNomad	28	3	10		t5_2rvat	False
+1347060036.0	zj4lv	GoLapse: How to Make a DIY GoPro Panning Unit 	TheTigon	29	3	5		t5_2rvat	False
+1346347345.0	z34d9	Edit: My GoPro got into the blades of my Helicopter	BigBoneTone	35	9	12		t5_2rvat	False
+1376485074.0	1kcfob	My $17 gopro and accessories case	upvotelikeaboss	29	6	10		t5_2rvat	False
+1376273861.0	1k6igd	I, too, took a picture of a storm outside my house last night!	coolstorycorey	24	0	1		t5_2rvat	False
+1376185080.0	1k4dei	Went Ziplining in St. Thomas (US Virgin Islands) the other day. I would totally go back.	gallionator	29	4	5		t5_2rvat	False
+1375007064.0	1j7kj5	[META] GoPro Subreddit Video Challenge	ScreamingGoat	29	3	13	"Hi fellow enthusiasts!
+
+
+Like many of you, my GoPro sits on my desk collecting dust 360 days of the year, and I know everyone is always looking for fun things to shoot and edit, so I've come up with an idea... I also am a complete novice with editing, and the only way to improve is to get your hands dirty and do it. Brace yourself, because this idea might suck.
+
+
+How about once a month (or quarter even?) we decide on a topic or theme, and everyone has to make a video to suit that idea or topic. Some suggestions would be:
+
+* Underwater themed video
+* Film, edit and publish in its entirety in less than 24 hours *(and here is [my attempt at this](http://youtu.be/pwEgNAr680U))*
+* Something filmed entirely in the first person *(head mount)*
+* ?????
+
+What do you think? Would anyone else be into this? I guess for a 'prize', you could have your video in the sidebar for a month or until the next challenge..
+
+Obligatory shameless plug for my [youtube channel](http://www.youtube.com/mickdelux). 
+"	t5_2rvat	True
+1374788780.0	1j210z	After watching my first MotoGP race, I hope the GoPro HERO4 has a gyroscopic auto-leveling edition!	errorik	26	2	4		t5_2rvat	False
+1373661884.0	1i6f3t	Lost GoPro on Isle of Palms in June 2013... should have video of my kids, here's their photo from the say day	marcdryan	31	6	3		t5_2rvat	False
+1371763140.0	1gr4ud	GoPro_ms, looking to make your content famous.	GoPro_HERO	28	4	36	"Hey All! 
+
+Aaron here, your GoPro community manager. Sorry I haven't been around as much lately but I'm role is changing a bit and I'm focusing more on other aspects of the community manager role. I'll still lurk, comment, and post when I can but to hold you guys over I'd like to intro everyone to Matthew. 
+
+Matthew works in our media department and he'll be scouring, combing, and turning the web upside down to find content. I told him /r/GoPro is one of the best places to source awesome content so you should expect him to be around lurking and commenting quite a bit. The difference between Matthew and myself is that I look for cool content to post onto our social platforms, whereas Matthew will be looking for content that the GoPro media team may be interested in acquiring (possible money!) for various purposes. That could be commercials, YouTube moments, or a variety of things that I'll let him expand on. 
+
+Here is a good example of content we acquired and created our own edit + a commercial: http://www.youtube.com/watch?v=7zfsRsPUQkM
+
+Anyways, without making this a more of a wall of text intro.. Please welcome Matthew to this rad community. His user name is GoPro_ms and the mod have properly tagged him up.  "	t5_2rvat	True
+1371568145.0	1gl68p	Are these guys for real? Would you back their kickstarter?	christoc	30	8	42		t5_2rvat	False
+1367791830.0	1dr65i	Took this just before the Jays game started today	Ikeamonkey8	31	6	4		t5_2rvat	False
+1366286152.0	1clmp9	This Is my way of taking rainX with me. Perfume sampler!	Bvvelzen	26	2	16		t5_2rvat	False
+1366195485.0	1cix32	WOOOOOHOOOO! Won a free pair of Atomic skis with my GoPro videos!	stoicka	27	5	9		t5_2rvat	False
+1366090513.0	1cg1jo	Took my DIY 3rd person mount out for some field testing. Here is a screen grab...video to come	Lencmb	27	4	4		t5_2rvat	False
+1365832951.0	1c99no	DP uses GoPro in a tough situation	gdmfr	24	0	9		t5_2rvat	False
+1365249199.0	1bsj1g	Some footage from my latest trip to the Red Sea	PencilAbuser	27	4	11		t5_2rvat	False
+1364716512.0	1bclpv	Hero 3:D Rig	Mark_W	28	4	13		t5_2rvat	False
+1363217146.0	1a8zf5	20000 mAh External Battery Pack Review for r/GoPro	ryanistheryan	26	2	24	"Hey everybody,
+So about 2-3 weeks ago there was talk about external USB batteries, and there was a slim/high capacity/sleek design one that want funding on Kickstarter or already had been made and cost over $100 for 8000 mAh. I was curious of a cheap Chinese solution and wanted to see if there was something comparable.
+
+Low and behold I purchased [this](http://www.ebay.com/itm/221190580753) for about $22, and now that I've had a little time to do the tests I figure I would post what you can expect out of this thing. All tests done without WiFi/protune on, with a H3B. 
+Here are some pictures [link](http://imgur.com/a/lXomO) to give you an idea on size and weight. 
+
+* The Video test:
+
+So first lets see how much life this has recording video. Full batteries (interal GoPro stock battery and the chinese external), I hit record and come back the next day to see when it has stopped. Turns out, on a 64 GB sd card you can record 4.5 hours of 1080p before it fills up. 1 LED dimmed (more on this later). So apparently, this is more then enough for anyone to get through a day with a single MicroSD card. In all honest I should have recorded it on loop mode and noted the start time. If people are interested enough in this, I can do it, but I figured most people would be interested in just knowing if they could record until the SD card filled up.
+
+* The Timelapse Test:
+
+Longest settings possible, I did 12 MP picture every 60 seconds. This lasted 15 Hours. There was no point in uploading the video for the first test, but for this test the video is [here](http://www.youtube.com/watch?v=kvoMzdA-PMw). You can see that it has a non linear LED percentage drop, so if the LEDs start turning off you are running near the end of the batteries charge.
+
+
+Future: My next test will likely just be to see how long can I get through a week without a wall charger and simply using this to charge my iPhone 4. 
+
+
+ **TL;DR/Summary**
+
+It works awesome for $22. Will fill a 64 GB with video before it dies (at 1080 60FPS) or last 15 hours with a 60 second timpelapse interval. Just simply useful to have in your backpack for charging your phone or tablet as well, highly recommend it for people who fly on trips that last more than 2 hours.
+
+Still skeptical if it is truely 20000 mAh (should open it up, I imagine the battery is actually rated at that), but I paid $10-15 for one on newegg with 2000 mAh that only charged iPhones (and 30 minutes at that) and now I feel ripped off on that purchase. 
+
+
+EDIT:
+
+It took me about 14 hour or more to charge it with an OEM iPhone 4 1A charger. "	t5_2rvat	True
+1362280364.0	19k38z	How I looked at the end of the Color Run in Columbia 	comatose07	30	5	10		t5_2rvat	False
+1361560586.0	191bwx	8000 mAh portable USB power source (for continuous time-lapse, recharge while camping, etc)	errorik	30	5	21		t5_2rvat	False
+1361074183.0	18oc31	Love	sam24551	29	7	2		t5_2rvat	False
+1360578354.0	18awcv	My Buddy Spearfishing the Deep Reef for Uku on Maui (GoPro)	Dryesias	25	2	12		t5_2rvat	False
+1358748274.0	16z464	'3rd Person View' GoPro mount — Kickstarter	thinkbox	30	6	3		t5_2rvat	False
+1357929139.0	16e3cp	Finally found a good case for my cameras and accessories. 	photoknut	25	2	14		t5_2rvat	False
+1357358868.0	15zol2	DIY Harbor freight suction cup mount ($6.00!)	bogaut	25	1	9		t5_2rvat	False
+1357017846.0	15re3r	I lost my friend skiing and found him in a seven or so foot deep treewell, and had to pull him out	xxfailxgamerxx	26	3	5		t5_2rvat	False
+1356989598.0	15qr1a	Small island in Belize (hero 3 black)	bogaut	26	1	6		t5_2rvat	False
+1356015815.0	1563ux	Foxconn buys 9 percent stake in GoPro for $200 million	Boston_TD_Party	27	2	10		t5_2rvat	False
+1355464585.0	14twpp	GoPro Hero3 Firmware update now available!	uncovery	26	1	40		t5_2rvat	False
+1353333774.0	13g7uu	The FAQ: Check back for updates, this is a living document. 	post_break	31	6	15	"**Credit to** /u/xdamanx /u/DesignNomad /u/nstallons /u/coreoski
+
+
+** Can't Decide which model to pick? Take a look at this table. **
+
+**What SD Card should I buy?**
+
+GoPro recommends SanDisk or Kingston cards for all their cameras. For the Hero2, Hero3, and future models, we recommend you purchase a class 10 memory card.
+
+The Hero2, Hero1, and Hero 960 all use regular SD cards.
+The Hero 3 uses a MicroSD card.
+
+**How do I update my firmware?**
+
+There are two ways, you can use GoPro's [Java-based Updater](http://gopro.com/support/product-updates-support/), or through the device manager in their free [Cineform Studio Software](http://gopro.com/software-app/cineform-studio/).
+
+**How do I make a time lapse?**
+
+The simplest way is using GoPro's free Cineform Studio Software. Once you've downloaded that, simply import the first picture in the full, sequential list of timelapse photos and cineform will import it as a video. Use the advanced settings to fine-tune the timelapse before you convert then edit it.
+
+**Are the hero2 bacpacs compatible with the hero3? Mounts?**
+
+Yes on all accounts. All except the Wifi BacPac since Wifi is built into all Hero3s.
+
+**Which Model should I buy?** 
+
+For info-graphic lovers [click here](http://i.imgur.com/7fmTM.jpg)
+
+Here are my thoughts on an answer:
+There are currently 4 generations of GoPro out on the market in one form or another.
+
+**Hero960** – This is a mostly obsolete generation, but you can still find a few for sale. Released in the same year as it's ""big brother"", the HD Hero, the Hero960 featured most of the specs as the HD Hero but at a fraction of the cost and missing a few features. Among them, the Hero960 was shorted a few shooting modes (no high frame rates or full 1080p HD), and was created without the ability to use the BackPac accessories. It was much cheaper at the time, but there is not a lot of value in getting one today when there are significantly more advanced models available for a similar price.
+
+**HD Hero** – This is the second generation of GoPro cameras, and the first to feature full HD (1080p resolution).
+
+**HD Hero2** – This is the third generation of GoPro’s line, and featured a number of improvements over the original Hero, including a better sensor, more resolution options, faster frame rates, and a significantly improved user interface.
+
+**HD Hero3** – The fourth and current generation of GoPro is segmented it three variants: The White, Silver, and Black edition models. While all feature and entirely new form factor (smaller, lighter, etc) than the previous generations, the White and Silver edition cameras mimic the features of the HD Hero and Hero2, respectively. The Hero3 Black Edition differentiates itself as the flagship model, sporting unprecedented shooting resolutions, frame rates, and control.
+
+So where do YOU fit into the GoPro family? Well, GoPro has actually provided an insight into their goals into the market that can actually help you out in deciding. They segment their target market into three different units: The General Consumer, the “Prosumer”, and the Professional.
+A general consumer is someone who watches the ads, thinks GoPro footage is awesome, and gets stoked about buying one… but doesn’t really know anything about photo/videography or post processing. They really just want to shoot footage with their camera and upload it to YouTube, using free tools available to them for editing.
+
+The “Prosumer” is a mix of the general consumer and the professional market. They’re not completely uneducated about cameras, and are interested in experimenting with advanced use of their cameras… Timelapse, slow motion, etc. Often Prosumers will self-educate to raise themselves closer towards the Professional level.
+The Professional user is exactly like what it sounds like. Well-versed in photo and videography, familiar with advanced post-process functions like editing RAW and Color correction, etc. These users want every feature possible from the camera, as they want to have every capability to use their camera the way they want to.
+
+Chances are, if you’re reading this FAQ, you’re either a general consumer or a budding prosumer. Luckily for you GoPro makes a camera for each of these three segments, and knowing what you are can help identify which GoPro might be best suited for you.
+
+* General consumer– If you’re just looking to try this out for the first time, the Hero 3 White edition or the original HD Hero might be perfect for you. The original HD Hero was and still is a fantastic camera, and shares most of its specs with the Hero3 White edition… but with a lower price. The Hero3 White Edition, while a bit pricier, features the improved UI, the smaller design, and built in Wifi capability. Original Hero accessories will be cheaper, but not as readily available. Hero3 White edition will have more expensive accessories, but you will be able to stay current with any new accessories GoPro releases. If you’re planning on getting more serious with this, try the Hero3 White! If you’re just looking to goof off a little, try an original HD Hero to help you decide if this is for you.
+
+* Prosumer – Chances are, if you’re reading this FAQ you’re either a general consumer, or just barely edging into the prosumer level. If you think you’re in the latter group, you’re probably interested in some of the deeper capabilities of the GoPro, and want to explore doing things where faster shooting modes and more advanced features are available. If that sounds like you, a HD Hero2 or Hero3 Silver edition might be perfect for you. Like the HD Hero and Hero3 White Edition relate to each other, the Hero2 and Hero3 Silver Edition share most of the same specs with each other… the Hero3 Silver edition again features the new size, built in wifi, etc. Similarly, the Hero3 Silver is easy to buy accessories for, but for a higher price, and the Hero2 will have cheaper, but outdated accessories. The Hero2 is the cheaper investment, if you think you’re on the bottom edge of the prosumer level. If you think you’re in the middle of the prosumer level or higher, you probably want the Hero3 Silver Edition.
+
+* Professional – If you’re on the professional level… or are on the upper level of Prosumer and maybe would LIKE to be there (Say, you already have a GoPro of a previous generation, and don’t know which of the newest generation you should get), the Hero3 Black Edition is the only camera for you. The Black Edition features all of the new perks of size, sharper lens, improved sensor, built in wifi, etc… but it also features unprecedented shooting modes like720p at 120fps, 4k at 15fps, and 30img/sec burst mode. The Black Edition will give you the most to work with, but that also often requires a little more work in post process to get what you want out of it. If you’re looking for room to grow as a GoPro user, the Black Edition will give you a VERY high ceiling."	t5_2rvat	True
+1351699981.0	12ek6k	Short timelapse I made to test out my IKEA timer. ;)		26	2	23		t5_2rvat	False
+1351048257.0	11zj7c	Just found this subreddit. Thought you guys might like my video	justin_144	25	1	3		t5_2rvat	False
+1350479035.0	11mlrp	Hero 3 Q&amp;A post here	GPPB	28	3	238	So let's try to get everything in one thread. Trying to help out GoPro_HERO and the few others that get on here. There are too many threads to try and keep up with. So can we just try to post in here. I am sure we will answer what we can.	t5_2rvat	True
+1350326648.0	11ivj3	Felix's custom GoPro chest mount	jwr_	26	1	5		t5_2rvat	False
+1347983188.0	1030mg	Buying a kitchen timer from IKEA might possibly be the smartest accessory for the GoPro I will buy	CptLande	29	6	24	"Yesterday I got this in the mail: http://www.ikea.com/us/en/catalog/products/30066725/
+
+Perfect, flat top for mounting the GoPro on. (Most of you already seen this many times I suppose.)
+
+Here it is with the GoPro mounted: http://i.imgur.com/AP5zw.jpg
+
+And here is a quick test video I made with it looking out my window:
+https://vimeo.com/49689160
+
+
+Now, do you have any interesting places to use this? Certain shoots that will give a cool and unusual shot? "	t5_2rvat	True
+1347406119.0	zqir1	The Milky Beast - The Wedge	NeverNude123	26	3	7		t5_2rvat	False
+1343329204.0	x7cx6	This could have some useful GoPro applications...	Wally_Jack	25	1	13		t5_2rvat	False
+1342002521.0	wdnlo	50 DIY, open-source, 3d-printable GoPro mounts on thingiverse	peeloo	24	0	3		t5_2rvat	False
+1332451049.0	r8xzm	Is this enough?	F0B	25	0	7		t5_2rvat	False
+1376690746.0	1kikdt	Caught this pic while shooting a time lapse of a storm in Florida	littlezav	25	2	8		t5_2rvat	False
+1374808989.0	1j2pac	Sunset skydiving in South Texas	FoxtrotSport	29	8	1		t5_2rvat	False
+1374108287.0	1iixy8	Made a potato gun. this is the ignition system, made from a disposable camera. taken with 10 fps burst.	stewartd430	27	5	7		t5_2rvat	False
+1373459831.0	1i04xa	Short Wakesurf Edit	micellim	23	1	4		t5_2rvat	False
+1371481631.0	1gioo1	So my gopro face made it onto national TV	03ruben	26	2	6		t5_2rvat	False
+1371258380.0	1gdirm	Kayaking along the seafront earlier this evening	brasher	26	3	0		t5_2rvat	False
+1371211152.0	1gbzut	[DIY] chesty made from packaging mount and $16 worth of elastic and clips	deepfryedpeaches	29	5	15		t5_2rvat	False
+1370719369.0	1fxv1s	Trike Drifting - shot with HERO3 &amp; HERO2	giss32	31	8	8		t5_2rvat	False
+1370010185.0	1fel1h	Took the GoPro out for a ride. [X-post from r/motorcycles]	punography	28	5	9		t5_2rvat	False
+1369951932.0	1fd69q	GoPro has updated the Handlebar/Seat Post Mount with rubber adapters, better for shock absorbing and gripping	errorik	25	0	11		t5_2rvat	False
+1367184384.0	1dalwm	what a lot of nerfs, a gopro, and 4 hours can do..	21fox	38	18	19		t5_2rvat	False
+1365790694.0	1c7yqu	Dog Mounted Hero3 Black	xenonsupra	26	3	6		t5_2rvat	False
+1365287277.0	1btj4b	I present: The CatMount	Infidel_Grey	29	4	4		t5_2rvat	False
+1365171071.0	1bqeqc	GoPro on my Kite.	brokenmandible	26	3	12		t5_2rvat	False
+1364365637.0	1b3is2	5,600-mile road trip filmed with GoPro time lapse	mkorpi	27	2	19		t5_2rvat	False
+1362173548.0	19himr	A little skate edit at my local.	GetYourGoujOn	26	2	4		t5_2rvat	False
+1361288609.0	18tlk7	Picture of my school taken with my GoPro hero 3	rytiggy	35	12	15		t5_2rvat	False
+1360719850.0	18ezm4	One of the best GoPro videos I have seen: Hula Cam At Venice Beach, California	Vanfili	33	11	9		t5_2rvat	False
+1360368452.0	185wvz	"The only GoPro I was ever able to afford.
+"	1921681254	26	5	6		t5_2rvat	False
+1357672224.0	1674zn	First edit - Spot of climbing &amp; swimming in Devon - with some 120fps action!	jroseland89	25	1	22		t5_2rvat	False
+1356141213.0	159d83	Gnar I Shred	Justwall	30	7	3		t5_2rvat	False
+1354253504.0	141f2h	A clubbers view of a night club (using the gopro hd hero2) 	bousa	26	2	16		t5_2rvat	False
+1353497377.0	13k8mw	Photo I took tonight with my hero3 black 	DaveySpo	30	7	11	"http://imgur.com/bMPoS
+There are some more photos in the album if you want to see what I've taken so far.
+http://imgur.com/a/IVggR
+This is my first gopro and i'm really happy that I waited for this one :D
+any tips or advice?   "	t5_2rvat	True
+1351357572.0	126g8a	GoPro - Hero 3 vs Hero 2 with Dive Housing - Under water comparison - YouTube	TheTigon	24	1	7		t5_2rvat	False
+1350865403.0	11vb9c	My best friend and his dad crashing his Subaru STI during Targa Newfoundland 2012. 	ssmsti	25	2	17		t5_2rvat	False
+1350451828.0	11m7cv	GoPro Hero 3 specs	jwr_	26	2	2		t5_2rvat	False
+1349744119.0	1164fe	Made This On Accident While Testing Protune	_idk	29	6	9		t5_2rvat	False
+1347827967.0	zzj4v	Threw together some clips for you guys. Let me know what you think! [2.28]	BlueJayy	25	3	16		t5_2rvat	False
+1346789629.0	zcpr3	Sent my camera to gopro....	I-Push-Fat-Kids	29	4	11	I sent my camera to gopro because it was stuck on Tel mode. The warranty ended in a week, so I was expecting to just get screwed over, but they actually sent me a brand new camera!! AWESOME, thanks!!!!!!!!	t5_2rvat	True
+1346566935.0	z7ysa	Get Pitted!	NeverNude123	24	1	8		t5_2rvat	False
+1376536750.0	1kea43	"Bought a gopro to go ""camping"""	giganticprune	26	4	13		t5_2rvat	False
+1375413794.0	1jjiv6	In Depth: Fixes &amp; Updates of GoPro's NEW 3.0 Firmware &amp; GoPro App 2.0	vi_rus	24	1	3		t5_2rvat	False
+1375126815.0	1japa9	Quick snap from a Saturday paddleboard outing.	blaircook	22	0	4		t5_2rvat	False
+1373927115.0	1idd17	Wakeboarding with the GoPro	something_human	25	3	2		t5_2rvat	False
+1373919903.0	1id34f	Swimming at sunset. Panama City Beach, Florida	LikeNoneOther	24	3	5		t5_2rvat	False
+1373481111.0	1i0viu	Day at an amusement park / Waterpark	Jerrybboy	26	4	6		t5_2rvat	False
+1373278435.0	1hutv6	I think I am getting better at editing my footage! I am so excited after riding to make a new video!	what_a_n00b	25	3	16		t5_2rvat	False
+1371168956.0	1gb0lg	Quick Time-Lapse Rig. Hero 3 + EasyAcc Battery.	lazerbaconpro	23	0	11		t5_2rvat	False
+1371094905.0	1g8up0	I used some radiator hosing and the GoPro handlebar mount to attach it to the arm of my motorcycle's mirror.	thirdGEARchirp	28	4	17		t5_2rvat	False
+1370801035.0	1fzpv0	Gopro in a smokey club with lasers.	TRQuantumNinja	32	9	3		t5_2rvat	False
+1369924813.0	1fc6s8	An incredible site... the King Hassan II Mosque, towering at 600ft, in Casablanca, Morocco.	negative4productions	26	5	2		t5_2rvat	False
+1367703912.0	1dp6qh	T - 93 Days : 3 Hours : 17 Minutes : 29 seconds	Mark_W	30	8	4	"Today I decided to set a summer goal:  Launch my 2 Hero 3B's to at least 2 Kilometers in altitude aboard a rocket.
+
+Target launch date is August 5th at 8pm.  (My birthday)
+
+May science be with me.  
+
+Updates will follow."	t5_2rvat	True
+1365889680.0	1cahq6	We've been working on this the past few months. Aerial footage around BC, Canada.	Digitalanthill	24	1	13		t5_2rvat	False
+1365369961.0	1bvi8s	$10 Timelapse (for Canadians) just picked this up at Superstore/Loblaws. Really high quality, nice weight and magnetic too	englishmanincan	22	0	8		t5_2rvat	False
+1364314283.0	1b1q8j	2 week old Gopro, pull tab broke, don't know when it did.	daemoncel	29	6	32		t5_2rvat	False
+1364237709.0	1azmbm	LA Color Festival at 120 FPS!	EdricdaleSilla	28	5	7		t5_2rvat	False
+1363737526.0	1amnkb	Gear for my trip to the Caribbean next week!	11am_D	29	7	25		t5_2rvat	False
+1363296059.0	1ab4y1	Powered Paragliding at the Salton Sea | February 2013 » GoPro Hero3 Black	meeksdigital	30	7	9		t5_2rvat	False
+1362889172.0	1a0b7d	Pow Surfing on Mammoth Head (Fernie, B.C./video clip in comments)	Squirrel_Whisperer	25	4	8		t5_2rvat	False
+1362768796.0	19xco6	Our puppy's favorite things! (GoPro POV)	nat911	23	1	1		t5_2rvat	False
+1361026864.0	18n0gt	New GoPro camera stabilizer just launched on Kickstarter. Would love to know your thoughts.	loveiscloser	31	11	18		t5_2rvat	False
+1360645961.0	18d07k	All I could think of was, such epic footage lost :(	DiscursiveMind	26	4	12		t5_2rvat	False
+1360342714.0	1850yu	Its frustrating when your GoPro setup has looked like this for weeks	WnbTravellerDude	28	5	12		t5_2rvat	False
+1358355982.0	16oy9s	Stunning flight video in 4k makes you feel like a bird	03ruben	24	1	8		t5_2rvat	False
+1358240650.0	16lyqo	"I saw a ""looking for owner"" thread in GoPro the other day and it gave me an idea..."	hartzemx	27	4	17		t5_2rvat	False
+1357262933.0	15x8py	First snowboarding edit with my new GoPo	CarterJW	29	5	13		t5_2rvat	False
+1356279889.0	15bw0m	GoPro Wiki now live. I've got lots of work to do...	post_break	23	0	16		t5_2rvat	False
+1355138572.0	14lls9	What riding a Ducati really looks, feels and sounds like... (GP3B + Chesty)	not1frak	25	3	8		t5_2rvat	False
+1351881468.0	12iynx	BoomPro - custom self portrait pole mount using two GoPro Adhesive contact points, the most robust option I've seen.	coreoski	24	0	8		t5_2rvat	False
+1350594579.0	11plhx	Some technical information about GoPro's wifi for the geeks out there	klinquist	28	6	24	"This is true for the Hero2 &amp; wifi bacpac, I suspect it will be identical for the Hero3 with built-in wifi.
+
+There are two wifi modes that you select on the camera:  ""Wifi remote control""  or  ""Phone and tablet"" mode.
+
+When in Wifi remote control mode, the remote control is the wifi ""host"" and the camera (or multiple cameras) connect to it (I have not yet discovered the hidden SSID).  The remote control has an LCD identical to the one in the front of the GoPro - it mirrors it.  The two buttons on the remote also mirror the power &amp; shutter buttons on the GoPro.
+
+When in Phone &amp; Tablet mode, the GoPro is the wifi ""host"" - it creates a wifi network.  You specify the name &amp; WPA2 key when you plug it in via USB to your computer and launch CineForm studio.
+
+The wifi bacpac runs its own DHCP server.  It gives itself the IP address 10.5.5.9 and gives clients the IPs 10.5.5.109, 108, 107, etc.  The iPhone app automatically tries connecting to 10.5.5.9 upon launch - no way to specify an alternate address.
+
+The wifi bacpac has ports 80 &amp; 8080 open.   You can browse to port 8080 in your web browser and see a ""cherokee"" web server landing page along with folders for videos, live, and shutter.  Your memory card's contents are in the videos folder - it may be handy to pull videos off wirelessly.  ""Live"" contains short recent clips and with VLC you can see a slightly delayed view.  The shutter folder seems to be empty.
+
+I did some packet capturing with WireShark and found the iPhone app sends commands to the bacpac on port 80.  It issues HTTP GET commands such as:  
+
+
+GET /bacpac/se?t=[yourWPAkey]  HTTP/1.1  
+
+
+GET /camera/PV&amp;t=[yourWEPkey]&amp;p=%02 HTTP/1.1     (this seems to be for the live preview)  
+
+
+Replies seem to get sent to port 60187 on the iPhone.  I have not yet been able to remotely control the GoPro from the command line of my computer, but I suspect I'm not far from figuring it out.  If someone else is interested, I can post up the .pcap.
+
+I was able to make the GoPro accessible from my home network (rather from the GoPro's own wifi network) with a wireless bridge and a static route.   With a VPN it'd be pretty easy to make your GoPro accessible from anywhere.
+
+
+Just about the cheapest router or wireless bridge you can buy these days is a Raspberry Pi ($35) with a USB NIC or two ($10ea).     You could also use this to perform lots of automated things with the GoPro - I'd love to hear others' ideas. 
+
+Hope this helps people out!
+"	t5_2rvat	True
+1349501404.0	111599	Just getting some GoPro footage.	muffinsticks	25	2	7		t5_2rvat	False
+1348286069.0	10a8jv	Finally made the plunge, how'd I do?	madmycal	28	7	5		t5_2rvat	False
+1347433086.0	zr7lo	Finally got my hands on these! :D		29	6	10		t5_2rvat	False
+1376711466.0	1kj68w	Rider whipping at Keystone	doyouhavealighter	22	1	4		t5_2rvat	False
+1375557888.0	1jn213	Helloooo down there! (h3 black + pole + Eiffel Tower)	thesauce25	25	3	1		t5_2rvat	False
+1375292317.0	1jfmuq	Hot air balloon ride over Happy Valley this morning.	nittanyvalley	23	2	2		t5_2rvat	False
+1374154457.0	1ik2yw	Hot air ballooning in Cappadocia, Turkey	helpingelephants	22	1	1		t5_2rvat	False
+1374039299.0	1igvkp	Snapped this right above Ice Harbor Dam on the Snake River	snicket44	21	1	0		t5_2rvat	False
+1373257231.0	1huefr	Trampoline Bullet Time GoPro camera rig! Tell me what you think!	zakunrue	26	4	13		t5_2rvat	False
+1373029650.0	1hot1t	Tough Mudder	micellim	23	3	6		t5_2rvat	False
+1372376974.0	1h7pp2	Snorkeling shot from the Florida Keys	axel414	26	4	3		t5_2rvat	False
+1372159389.0	1h157g	While circling over Nice, France I attached the Hero 3 Black Edition via suction cup to the rear window and set it to 4K.	mikeesfp	21	2	8		t5_2rvat	False
+1371099411.0	1g8zl1	My bands latest European tour documented with a GoPro. (Album)	riffraffrevival	24	3	4		t5_2rvat	False
+1368225281.0	1e3i78	"A video I found through Facebook - ""GoPro© - 'Make Everyday Epic'"""	jperki	26	5	0		t5_2rvat	False
+1368203253.0	1e2r63	Volcano Lavaboarding	ToTCaMbIu	26	5	8		t5_2rvat	False
+1368043643.0	1dybav	Few shots from this past weekend	spitta_mane	22	3	2		t5_2rvat	False
+1367967599.0	1dw710	Paris from a Citroën 2CV	jetshred	23	1	0		t5_2rvat	False
+1365803942.0	1c8gbl	Laser cut clamp for ikea ordning timer	robbrobb	23	2	14		t5_2rvat	False
+1365163966.0	1bq82r	Teardown of my trusty Hero[1], searching for water damage. 70 pics detailing the magic inside	Scottapotamas	23	2	9		t5_2rvat	False
+1364928773.0	1bj6iz	The dogs taking a selfie with my silver edition	gloslad	21	2	0		t5_2rvat	False
+1364675786.0	1bbj77	Crazy old guy uses his shovel to jump a big jump	Inglox	25	4	2		t5_2rvat	False
+1364359098.0	1b3d5h	Things you use your GoPro for? .. Excluding extreme sports. What do you use yours for/have you recorded?	englishmanincan	23	2	63		t5_2rvat	True
+1362478122.0	19p7mt	GoPro Hero 3 Black Edition time lapse in Kuala Lumpur (10s interval over roughly 18 hours)	Ch0leh	22	1	18		t5_2rvat	False
+1362263786.0	19jmjd	First use of my gopro tomorrow, any advise? Handlebar mount or chesty!?	gloslad	24	3	32		t5_2rvat	False
+1360860042.0	18isfz	Info on the new Ambarella A9 and 4K@30fps 	giss32	21	0	35		t5_2rvat	False
+1359740290.0	17pd16	/u/pablostanley made this for the Kick Ass Mall Cop, first GoPro Super HERO?	coreoski	26	4	1		t5_2rvat	False
+1359500756.0	17iwyd	Ping Pong with a GoPro Hero 3 attached to the Paddle.  Amazing Point of View	JakeLarsen7	21	0	4		t5_2rvat	False
+1358194295.0	16kil5	Need a good music source for your videos w/out copyright hurdles? Can I suggest ccmixter.org?	boomhaeur	24	5	4		t5_2rvat	False
+1358098598.0	16hyje	"Gopro + ski boot = Bootcam! 
+Results look good, even on an average skier like myself."	TimBoom	24	3	21		t5_2rvat	False
+1357774830.0	16a2ml	My ProRoll case that my mom and I made	jury_rigged	27	8	10		t5_2rvat	False
+1357017961.0	15re65	GoPro Hero 3 Comparison Black Vs Silver at night!	taylorwright	21	0	12		t5_2rvat	False
+1351626308.0	12cro2	HERO3 Skiing - Quick Cut from New Zealand!	abekislevitz	22	2	15		t5_2rvat	False
+1350713827.0	11sej3	GoPro 3 Black + 32g micro SD for 359.99 is back! Order now!	NeverNude123	27	6	17	"Website: 
+https://store.mpgear.com/gopro-hd-hero3-black-edition-camera-free-32gb-micro-sd-card.aspx
+
+Coupon code for 10% off: 
+CPZERO
+
+Hurry before they deactivate it again!"	t5_2rvat	True
+1350505581.0	11nd8s	Found this video on youtube when searching about fishing in Norway. This needs more views. - [4:05]	homeboundblues	24	3	6		t5_2rvat	False
+1350386464.0	11kct6	Potential first image of new GoPro 3 in action (lower left corner)	auran98	23	2	20		t5_2rvat	False
+1348695150.0	10j18x	Finally got my gopro and wifi backpac now waiting on the app this sucks.	navveyj	23	2	12		t5_2rvat	False
+1347928030.0	101vz6	Gopro backpack mount for 3rd person video	KabanaBoy	27	5	15		t5_2rvat	False
+1347642283.0	zvuv8	Menial Meyhem! Watch my new DIY motion control timelapse rig do cool stuff while I eat, clean and party!	striderxgp	26	5	24		t5_2rvat	False
+1347595323.0	zuztk	Going on a little fishing trip...	fivechickens	23	3	8		t5_2rvat	False
+1338812544.0	uk39x	What a deal!	thisguy9	23	3	2		t5_2rvat	False
+1338736217.0	uin8e	So I heard you guys might be interested in a Wi-Fi BacPac... 	GoPro_HERO	21	1	49	"Happy Sunday. :)
+
+http://gopro.com/hd-hero-accessories/wi-fi-bacpac-remote-combo/
+
+I'm traveling at the moment but I'll be online this afternoon to answer any questions you guys have. 
+
+Enjoy!
+
+edit: The official announcement doesn't happen until tomorrow (Monday 5/3) so don't be alarmed if the page goes down for modifications or becomes slow. That's just our web gurus tweaking things for a smooth launch. Be sure to check the our Facebook page or read the newsletter tomorrow. The video coming out with the official announcement is pretty awesome and a bit different than any other video our media team has put out before. "	t5_2rvat	True
+1375455096.0	1jkenm	The mania of an Irish heatwave - captured, of course, by a GoPro!	stunt_penguin	21	0	4		t5_2rvat	False
+1375422497.0	1jjrll	A little shot of my friend and I wakesurfin' today!	TheKidJess	29	9	3		t5_2rvat	False
+1374279793.0	1io1f2	Just found out that a video I shot on my old Hero 2 for my friend got featured on MTV's Ridiculousness last night!	ItsJesseBro	20	0	8		t5_2rvat	False
+1374021475.0	1igaz8	Lost My gopro earlier this week in the ocean. Made this tribute video for all the good times we had together.	gpasq	21	1	6		t5_2rvat	False
+1373466544.0	1i0bo7	SanDisk launches the world’s fastest 64GB microSDXC card, early benchmarks confirm speed claims	chrisefaw	21	0	9		t5_2rvat	False
+1373293999.0	1hv5ry	Hero3 on DJI Phantom over fireworks display	PixInsightFTW	22	2	11		t5_2rvat	False
+1371591191.0	1gm1yz	Friend hurt his knee in Vegas and rented a mobility scooter. Attached GoPro with suction cup mount. Here's a screen shot.	mooreao	27	8	9		t5_2rvat	False
+1370667752.0	1fwu60	Five week adventure through UK &amp; Europe [GoPro HD Hero 2]	m1ck3h	21	0	14		t5_2rvat	False
+1367853679.0	1dso08	GoPro GOLD	GAskate7	27	9	8		t5_2rvat	False
+1367517258.0	1dkbai	Took some more photos with my kite.	FFFrank	20	0	13		t5_2rvat	False
+1366597479.0	1cu7i1	GoPro Mounts for Guns	mdeathbox	25	4	15		t5_2rvat	False
+1365128959.0	1bphdx	Trying out the GoPro Camera... Not to shabby	badatgame0	25	4	2		t5_2rvat	False
+1364582489.0	1b998g	A Huge wooden drop my friend hit on his bike yesterday.	BigCashMooney	29	8	8		t5_2rvat	False
+1361786602.0	196p0l	11 y.o catches a big fish on the GoPro 	selandian	22	1	9		t5_2rvat	False
+1361252710.0	18sx7k	Time-lapse of me directing a local newscast	rfbandit	23	2	6		t5_2rvat	False
+1359397411.0	17fvsp	Gopro Panorama, three pictures combined to one 300° Panorama	Vvoa	25	4	3		t5_2rvat	False
+1359394816.0	17fsl3	Forget the quadcopter, introducing the drone!	RYANtheLY0N	22	3	17		t5_2rvat	False
+1358874003.0	1729k6	Whistler/Blackcomb. Still from my Hero2	donutt16	21	3	0		t5_2rvat	False
+1358276370.0	16ms8p	Simple lightweight and portable steady cam and boom that I made for the GoPro	swarmthink	21	2	8		t5_2rvat	False
+1357931574.0	16e68q	A few ski/snowboarding shots from my trip out to Big Sky, Montana.	coolstorycorey	21	3	11		t5_2rvat	False
+1357533069.0	163o9f	They've grown thumbs - My Hero3 stolen by a tiger at an auto show.	ThaRev	28	8	5		t5_2rvat	False
+1357423622.0	160ztz	My newest edit from the Trampoline Arena. 	conanoid	21	0	14		t5_2rvat	False
+1356335118.0	15d6f3	GoPro Hero3 snap-on filters: Magenta, Red, and Polarized. [kickstarter.com]	coreoski	22	2	12		t5_2rvat	False
+1356183958.0	15a2px	Foxconn Buys Stake In Camera Maker GoPro, Turning Founder Into A Billionaire - Forbes	wmaiouiru	24	3	4		t5_2rvat	False
+1355738259.0	14zkkw	More photos of my GoPro backpack mount based on the BoomPro	tlrobinson	22	2	1		t5_2rvat	False
+1354169646.0	13zcfg	A PSA with a demonstration video to prove it! Use 30fps for your low light shots, stay away from 60fps! [Hero2, but applicable to all]	njoubert	21	3	18	"I've heard plenty of people say ""use 30fps for low light"" but I haven't seen a nice comparison video. I just received my LED video light in the mail, so I shot a quick comparison between 30 and 60 fps in the dark.
+
+http://www.youtube.com/watch?feature=player_embedded&amp;v=Glxxbh8GtKY&amp;hd=1
+
+The footage clearly bears out the idea - 30fps allows the shutter to be open longer, capturing more light, and getting less noisy and brighter footage. I used exactly the same camera seconds apart, just switching the settings."	t5_2rvat	True
+1353859118.0	13rgfc	GoPro DIY choppy prop Fix for the aviators out there. (Cross post from /r/flying and not my video)	Wingnut150	22	1	5	"http://vimeo.com/22302989
+
+Found this buried on Vimeo. It's a simple way of adapting your gopro Hero/Hero 2 so that the you don't get that choppy, CMOS effect from the prop while in flight. I've done something similar but I bought a Snake River Prototyping Blur Fix ring and use a .9 ND filter. Using this DIY method, you can get the same results for less.
+
+Stepup rings here:
+http://www.bhphotovideo.com/c/product/809721-REG/Sensei_sur25_546_25_5_46mm_Step_Up_Ring.html
+"	t5_2rvat	True
+1352777126.0	133pun	The ghetto rig strikes again. GoPro, x-grip, and stereo mic with... Improvised shock mount? [777 tour]	SpecialEdShow	22	2	8		t5_2rvat	False
+1351840530.0	12i6lu	Just a still from a video I made of me driving to work. Hero 3 black, 1080p 48fps	timbergling	22	2	5		t5_2rvat	False
+1350865461.0	11vbbu	Testing out my new Hero2. Time lapse of today's shave. (Don't know if this is /r/GoPro's kind of thing.) [x-post from /r/wicked_edge]	otto454z	20	1	16		t5_2rvat	False
+1349879359.0	1193xy	Add a light to your GoPro the easy way (More pics inside)	MC_Preacher	22	3	21		t5_2rvat	False
+1349829475.0	1183v2	My attempt to confuse you with the new app	PurdueBiker	24	4	15		t5_2rvat	False
+1347148483.0	zku8c	GoPro accessories on clearance at Target	joebobber	23	2	13		t5_2rvat	False
+1347006335.0	zhxhx	Looking out	NeverNude123	20	2	2		t5_2rvat	False
+1346918427.0	zfvnj	3 GoPro Caemras, 2 GPSs a slider went to travel in space at altitude of 100,000 feet	slayer23	21	1	2		t5_2rvat	False
+1346857469.0	ze905	GoPro...capturing those FAIL moments since 2002	ChicagoAnalog	20	0	2		t5_2rvat	False
+1342820554.0	ww8b0	I'm ready	OneWorldOneOcean	21	2	5		t5_2rvat	False
+1342258456.0	wjlyx	GoPro captures emergency plane crash	Stumpledumpus	21	1	7		t5_2rvat	False
+1339988067.0	v7fjp	GoPro meets Potato Cannon!	tomlabaff	21	0	5		t5_2rvat	False
+1339519097.0	uy5jl	Up in the air...	MrMish	20	0	4		t5_2rvat	False
+1338552326.0	ufi1i	This Just In:  Ready for action.	ctwstudios	21	3	19		t5_2rvat	False
+1337293811.0	tscvw	HD HERO vs HERO2 indoor light comparison	errorik	20	1	10		t5_2rvat	False
+1337023751.0	tmwa0	Finally good underwater shots	GPPB	22	2	18		t5_2rvat	False
+1376598946.0	1kfxp8	A nice view in Boulder, CO	brotherbeck	29	10	8		t5_2rvat	False
+1376008696.0	1jzti0	Fastest looking 38mph ever... Looks pretty cool, but how do you correct this?	sam24551	23	3	22		t5_2rvat	False
+1375955275.0	1jy3ew	We used a GoPro 1, 2 &amp; 3 for this video. All generations!	what_a_n00b	21	3	11		t5_2rvat	False
+1375837330.0	1junzz	Found GoPro -- Lost By Surfer in Pacifica CA. Short Video with quick glimpse of owner	savingadvice	21	2	14		t5_2rvat	False
+1375451341.0	1jkajf	After a downpour in Richmond, Virginia	OHAYYYDERE	24	4	3		t5_2rvat	False
+1375312236.0	1jgerj	Flattening a Football - Burst Shot	Sanit	21	3	5		t5_2rvat	False
+1375086674.0	1j9l4e	We put our Hero3 on a rotating egg timer and threw it up on the roof and this is the time lapse that resulted	kjm16	25	6	15		t5_2rvat	False
+1375045702.0	1j8gxg	A freaky find shooting a time-lapse sunset in a cemetery with the GoPro	zieg0052	26	5	5		t5_2rvat	False
+1374934520.0	1j5s8e	"We have a home made water slide in the backyard every year. Taken with a GoPro 3 Black. If you're interested in watching the video of us hitting ramps into inflatable pools, check out my youtube channel youtube.com/CallMeJeff86 and look for the video ""GoPro Home Made Water Slide 2013"""	JeffPayne	45	28	31		t5_2rvat	False
+1374445409.0	1irvfz	This is my GoPro Setup, any must have mount you can recommend?	Cullization	50	29	14		t5_2rvat	False
+1373423299.0	1hzaxz	Backflip off the boat. GoPro Hero 3 Black.	ctkersh	19	1	4		t5_2rvat	False
+1373416507.0	1hz2cs	Did a little bit of wakesurfing over the 4th.	coolstorycorey	20	2	1		t5_2rvat	False
+1373043087.0	1hp65b	This is why you should make sure there is no water on the lens...	ScottScooberston	22	3	11		t5_2rvat	False
+1372831416.0	1hjvdd	Side by side comparison of SCUBA diving video with and without a red filter - OF A SHARK EATING A LIONFISH.	power_ballad	22	2	16		t5_2rvat	False
+1372701640.0	1hftyo	New Video! My Fiesta Movement Mission 1 Video!	abekislevitz	23	5	7		t5_2rvat	False
+1371778112.0	1grmdu	This is what summer is all about!	mntbiker22	28	7	2		t5_2rvat	False
+1369673451.0	1f581g	Made a slip n slide with a jump at the end, it worked out pretty well	pugsonunicycles	22	2	4		t5_2rvat	False
+1369002424.0	1ennlf	Testing the Hero 3 Black edition on the road, in low light conditions.	mikeesfp	19	1	4		t5_2rvat	False
+1368389827.0	1e78g0	May favorite pick from todays ride	gloslad	23	2	0		t5_2rvat	False
+1367904668.0	1duh9u	She Loves it Outside	diemondback	26	8	0		t5_2rvat	False
+1367638472.0	1dnt7w	Gotta love that wide-angle! (Ha Long Bay, Viet Nam)	BPfresh	20	3	0		t5_2rvat	False
+1367108975.0	1d8uu3	My first real underwater footage looks fine without a red filter. Would you still recommend?	Crath	21	1	9		t5_2rvat	False
+1367091551.0	1d8c02	Found a cool Mac OS X app to control and preview your Gopro (app in english)	Mikebbworkhard	24	3	6		t5_2rvat	False
+1367042227.0	1d7ch7	GoPro lost at sea in Australia, washes up four months later completely intact	websinthe	20	3	2		t5_2rvat	False
+1366525236.0	1csdt9	We set this up for a sunset timelapse at a park for our friend's surprise marriage proposal. Full video to come...	classydeer	24	4	2		t5_2rvat	False
+1366392212.0	1copef	Video Editing Software	abraz24	23	3	50	I'm just wondering what video editing software all of you guys use and why. Mac's and PC's welcome!	t5_2rvat	True
+1366193371.0	1ciw0i	Made a timelapse of my LAN party the other day using my DIY timelapse rotation timer	jdude700	22	3	12		t5_2rvat	False
+1365205135.0	1brmkw	"After filming for the reddit ""GoPro film,"" decided to stick my GoPro in a pond. This happened...."	Megahurtz400	20	2	8		t5_2rvat	False
+1362115916.0	19g4cg	I am doing 30 AMAZING THINGS with my GoPro to celebrate turning 30 years old. My first thing was The Color Run in LA.	30AmazingThings	25	5	8		t5_2rvat	False
+1361905856.0	199w8r	GoPro HERO3 Silver Edition 1080p Camera $229.99 shipped at eBay Daily Deals	bigaust	26	7	10		t5_2rvat	False
+1360944049.0	18l2kx	GoPro: A Blonde and a Great White Shark	w4ktt	21	1	8		t5_2rvat	False
+1360652685.0	18d6pn	Just decided to go out and film one day, who knew it'd turn out like this	bdombrow	23	2	1		t5_2rvat	False
+1360006809.0	17vskp	32GB and 64GB SanDisk SD and microSD cards on sale - Slickdeals.net	opie_says	21	1	21		t5_2rvat	False
+1359697837.0	17oij7	Behind the Scenes @ XGames with GoPro	abekislevitz	23	3	6		t5_2rvat	False
+1358937186.0	17471r	H3B stills from a spelunking trip. I don't think it gets enough cred for being such an awesome picture cam!		23	3	6		t5_2rvat	False
+1358760143.0	16zca7	Testing the hero3 is swimming pool and got this!!	w4ktt	23	5	0		t5_2rvat	False
+1358696177.0	16xk5n	Finally got my black edition, no sports today so I took it out in some bad weather!	Matjoez	21	3	7		t5_2rvat	False
+1357569567.0	164d2e	We're not the best skiers in the world... but we still manage to have a blast! [H3B/2:57]	coreoski	22	2	17		t5_2rvat	False
+1357232389.0	15w8nj	Absolutely awesome DIY for a pan and tilt setup. Check out all 4 parts.	babowling12	24	4	4		t5_2rvat	False
+1356482993.0	15fz9t	Anyone else have no problems with their Hero3 Black?	BennyBlaze	38	17	45		t5_2rvat	False
+1356304502.0	15cgmm	Had some fun in the snow last week. 	animalkracker	20	1	1		t5_2rvat	False
+1351645581.0	12dfd9	Hi-res pics, Hero2 vs Hero3.  Hero3 WITH battery bacpac is only .9mm thicker than Hero2 naked!	klinquist	21	1	3		t5_2rvat	False
+1350947463.0	11wpqr	Need advice: Just got a Hero3 Black and I have no idea what I'm doing	burtonownz	20	2	47	"I'm new to this subreddit but I finally bit the bullet and bought a GoPro. I have a trip to Iceland this Christmas and a trip to snowboard in Tahoe next year so I figured this would be perfect.
+
+Basically, I'm wondering if you guys have any advice for me on avoiding pitfalls or the ""right"" way to record or edit footage. I'm only slightly familiar with editing software but I have access to Adobe products and Final Cut X. Also, if you know of any ""must-have"" accessories, let me know! For the trip to Iceland, it will mainly be hiking around with some vehicle transport. For Tahoe, however, maybe a chest mount and a suction cup mount for my snowboard?
+
+Any advice would be greatly appreciated! I'll be posting some natureporn whenever I get back from Iceland ;) I'm hoping to make an eggtimer time-lapse mount for any auroras I see..."	t5_2rvat	True
+1350442620.0	11lxm2	HERO3 IS HERE! Enjoy. More to come...	GoPro_HERO	32	15	59		t5_2rvat	False
+1349378768.0	10y9t3	Meet Kodiak...7 week old White Lab/Golden Retriever mix 	Lencmb	20	1	10		t5_2rvat	False
+1349208869.0	10u1sn	Not making it out of this one!	NeverNude123	20	1	7		t5_2rvat	False
+1347968429.0	102ozz	christmas came early for me this year!	rubendek	26	7	4		t5_2rvat	False
+1347042635.0	zin38	This is a pretty slick setup... anyone have details on something like this?	bab5871	20	0	11		t5_2rvat	False
+1344817355.0	y48ii	Freeze frame double wake	sfschad	22	2	15		t5_2rvat	False
+1342379252.0	wlqij	I met a stranger in the woods, this is him when he saw I also had a gopro :D	mann138	22	3	4		t5_2rvat	False
+1337838850.0	u2d01	Just arrived earlier today :) hoping to break it out in Hawaii in 2 days	VeryTallDog	20	1	21		t5_2rvat	False
+1335323246.0	sr53o	"New World Record - Slinky on a Treadmill :)
+"	spearstuff	21	1	0		t5_2rvat	False
+1332954001.0	rhrp9	Is this the GoPro you lost at the beach?	glasnostic	22	3	3		t5_2rvat	False
+1375935002.0	1jxnva	How to take the Go Pro Throw Pictures	shanepatrick	22	3	16	"I've been trying to get one of those sweet aerial photos when people throw their GoPros up in the air. But can't seem to time it right.  What settings do you guys use? And what tricks have you found to try and make sure you get the shot?
+
+EDIT: I've gotten a lot closer, but they are all warped.  Have you guys had similar problems, any camera settings to remedy that, or is that how I'm throwing it?"	t5_2rvat	True
+1375136926.0	1jb3k1	Stopped mid-hike for a little cliff jumping. [Dingmans Ferry, PA] [ X-post r/campingandhiking]	11am_D	18	0	7		t5_2rvat	False
+1374559843.0	1ivake	PSA: Do not leave your gopro in your car	ContemplativeOctopus	21	2	11	I left mine in my car while I was skating all day and it was about 110 outside, I no longer have a functioning gopro, just so you guys know, these things are invincible to impact, but not to temperature.	t5_2rvat	True
+1374449712.0	1is0hb	Testing out my new GoPro	pineapple599	23	5	8		t5_2rvat	False
+1373157989.0	1hs09n	At an M4 range. Sorry for the bad quality, I didn't know my camera's potential so this is a video screencap.	OKComputerr	20	1	0		t5_2rvat	False
+1372644185.0	1heep2	Out for a ride on a beautiful summer day	SingAlongBlog	21	4	9		t5_2rvat	False
+1372381464.0	1h7uv3	Mountain biking with helmet pole mount	spurscar	20	2	3		t5_2rvat	False
+1372065128.0	1gyjmj	A video compilation of my recent bare-boat charter to Croatia! [H3B, Premiere CS6, Twixtor]	Flensborggade	21	3	8		t5_2rvat	False
+1371951121.0	1gvwzn	Kuang Si Falls in Luang Prabang, Laos	jumpjoom	19	1	3		t5_2rvat	False
+1371588853.0	1glyoa	An absolute nugget at The Wedge	jalop	20	1	0		t5_2rvat	False
+1371185586.0	1gbj7p	Just found this subreddit, here's my first bike edit with my new GoPro	smellmyfakelegs	20	1	4		t5_2rvat	False
+1370855822.0	1g1avz	GoPro: Hero3 4K capture at 24fps possible, overheating prevents it in current design	Tw1sty	22	3	15		t5_2rvat	False
+1370802172.0	1fzr6o	"""SloMo Summer"" (Slow Motion Fitballing)"	zakunrue	19	1	5		t5_2rvat	False
+1370286889.0	1flkr8	Spanish champions FC Barcelona play their last match of the season against Malaga CF in the Camp Nou Stadium (H3 BE, 12MP)	stoicka	19	1	2		t5_2rvat	False
+1369525795.0	1f1zxv	Went to see Krewella last night, my first concert ever. Finally got a chance to test video and photo in a concert setting. Turned out great!	NightSlider	21	5	3		t5_2rvat	False
+1369409213.0	1ez423	I put this video together to help my dad sell his Camaro, and made a few bucks doing it! All recorded on a Hero2	ncurry18	20	2	6		t5_2rvat	False
+1368259314.0	1e4byk	$7.00 2h water timer + roll of double sided tape makes for great scenic angles.	deepfryedpeaches	22	4	15		t5_2rvat	False
+1367974163.0	1dwfhx	Can't wait to break out the board and the GoPro again in a of couple weeks!	themooseisluceinnh	22	4	4		t5_2rvat	False
+1366919609.0	1d3rbr	jeep in streets of a flood April 2013	TinoTimeFilms	30	13	10		t5_2rvat	False
+1366752336.0	1cyp40	I PlastiDipped My GoPro (An Idea I stole from here)	48Connor	22	4	25		t5_2rvat	False
+1365476239.0	1byra1	My work just got this: A 30 Gopro rig. Let the fun begin!	MeltingDog	19	1	17		t5_2rvat	False
+1365442448.0	1bxguu	CCF Blank firing exercise - 240fps captured with a rotating helmet mount	zezgotpwned	21	3	9		t5_2rvat	False
+1365216229.0	1brybk	Selfie, about to snorkel the great barrier reef!	Matjoez	24	7	5		t5_2rvat	False
+1364605829.0	1ba0ot	GoPro Generic Battery Comparison	Jimmyboy_101	20	0	14	"Hi Everyone, 
+
+Just Thought I would post up a comparison i have done between The Original GoPro Battery I got with the camera and some Generic Batteries i got off ebay.
+
+**Link : AUD, http://www.ebay.com.au/itm/300856478392?ssPageName=STRK:MEWNX:IT&amp;_trksid=p3984.m1497.l2649**
+
+
+
+
+I picked 3 batteries and a charger up for 27AUD, Only problem is the power adapter supplied with the wall charger cant support the weight of the unit so it falls of. Luckily i had a few spare adapters so i used one of those. They took about 3 weeks to get to Australia which is about normal for things being shipped out of China. The batteries say they are 1599mAh (copared to the 1050mAh on the original) however if you believe that i have a bridge i can sell you!
+
+I have used each of the batteries atleast twice to make sure they charge,discharge and charge again. I did not notice any difference in battery life between them all so i decided to do a comparison. 
+
+I used the test generic battery  as my main battery for about a week, dischargning/charging it 5/6 times then plugged in my LCD touch backpack to see how long it will last. 
+
+
+
+**Test : Gopro3Black set to 1080/30fps, with LCD backpack, Wireless Off.**
+
+* Generic Battery 1 : 1hr 11 minutes 5 seconds
+* GoPro Battery : 1hr 9minutes: 6 seconds. 
+
+
+
+The gopro battery is 2 months old and probably has been charged around 20 times. 
+
+It hasnt been looked after to nicely as its my only battery so i try and make sure its fully charged everytime i go out to use it.
+
+
+
+
+**Obviously buying Cheap Chinese Batteries comes with its own risks:**
+
+The Batteries are working well at the moment, However they are only a week old and might stop working. 
+Cheap Li-ion batteries do have a tendency to swell whilst being charged. For this reason i would recommend only charging them in the wall charger. If they swell in your gopro you might struggle to get it out. 
+
+
+I have had quite good luck with Chinese batteries. however i understand it is hit and miss.
+
+I would definitely buy again. if 1 stops working in 6 months i will go and buy 3 more.
+
+ I understand you do get what you pay for so I'm not expecting much from these batteries however for the moment they are great!
+
+If anyone wants to run a similar test with a Wasabi go for it! if anyone else has had good/bad experiences with these batteries please post."	t5_2rvat	True
+1363393614.0	1adt0c	Went to Disneyland today. Didn't see this until I got home...	timbergling	20	1	8		t5_2rvat	False
+1363381658.0	1adfki	Rotating time elapse car mount. 	savageotter	19	1	3		t5_2rvat	False
+1362883990.0	1a06cz	My DIY fig rig.  What do you all think?	Bakgon	19	2	16		t5_2rvat	False
+1362881161.0	1a03ni	Most used words in r/gopro this past month. Credit to u/OnceAndForever for getting the raw data!	cburke34	20	2	2		t5_2rvat	False
+1360787273.0	18grt2	Turned a broken housing into my new skeleton housing. May the timelapses begin!	NightSlider	19	0	4		t5_2rvat	False
+1360642825.0	18cwkh	Inside a Small Wave	AlexBeeInBim	21	3	0		t5_2rvat	False
+1360584176.0	18azcu	Just saw this mount on a Dakar related german website. Asked them if they support GoPros too :) 	tbstbstbs	22	3	10		t5_2rvat	False
+1356709730.0	15kqoc	Using A Nikon Camera Bag With GoPro Gear	Wally_Jack	23	4	10		t5_2rvat	False
+1356421951.0	15ewdo	Anyone else having trouble updating firmware?	nhgaudreau	19	1	36	"I just can't get through the whole process on the website. Each page loads REALLY slowly and then I eventually get a ""502 Bad Gateway"" error. Is it just me or is it happening to anyone else?"	t5_2rvat	True
+1356382653.0	15e1yy	Griffin from indymogul gives a fantastic overview of the many features included on the GoPro Hero3 Black edition and also explains/compares the different recording modes.	ThePumptrackDudeGuy	19	0	0		t5_2rvat	False
+1356119252.0	158r9y	Xmas trail ride with 50 strangers from the internet. Best bit : surviving!	retinalrivalry	20	1	10		t5_2rvat	False
+1356049018.0	15746q	Rolling shot with my DIY boom pole	bogaut	21	3	12		t5_2rvat	False
+1355845389.0	151zpa	GoPro FAQ wiki is in progress	post_break	22	4	3	"I just wanted to let you guys know that I am making strides in the wiki. The reason for using the wiki and not the default FAQ setup is that we can all edit it at some point. I can approve certain people to edit and maintain this wiki and it will be a lot easier to maintain than going on the honor system. 
+
+I'm hoping to launch it this weekend. So far it will contain all the information captured in the current FAQ linked in the side bar plus some other things. 
+
+I get my Hero 3 Black tomorrow and hope to crank out a bunch of videos on how to use your GoPro. Noob stuff for the most part but editing, sound, effects, slowmo, will all come next. 
+
+Work is being done behind the scenes and I'm hoping we can really turn this wiki into a real learning tool. It's going to take the effort of a few of us and not just me so if you have suggestions for guides that aren't already in the current FAQ leave a comment below. "	t5_2rvat	True
+1355446677.0	14tez7	GoPro media guru Abe Kislevitz will be doing an AMA tomorrow.	GoPro_HERO	38	21	20	I'll create the post around 10AM PST and you guys can start asking questions, Abe will hop in when he has time and answer what he can.. so get 'em ready. 	t5_2rvat	True
+1355205211.0	14nhc4	Grabbed this picture of a couple as I was heading down from a hike	LookInTheDog	21	3	3		t5_2rvat	False
+1354733753.0	14c3l2	2012 - A Year With A GoPro	ScZi	20	2	3		t5_2rvat	False
+1353983764.0	13umag	Alexander Polli on precision wingsuit flying and life.	DesignNomad	18	0	1		t5_2rvat	False
+1353921983.0	13t0tg	Behind the foot surfboard mount, GoPro 3	hawaiiankine	19	2	0		t5_2rvat	False

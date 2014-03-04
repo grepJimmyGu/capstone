@@ -1,0 +1,1933 @@
+created_utc	id	title	author	ups	downs	num_comments	selftext	subreddit_id	is_self
+1368364500.0	1e6jis	This just in: Facebook similar to VBA	seiyria	335	27	24		t5_2u9xe	False
+1370337556.0	1fn4kd	This how you can find the source code to &lt;b&gt;ANY&lt;/b&gt; program in 3 easy steps.	deathbutton1	249	23	37		t5_2u9xe	False
+1366421372.0	1cpqxt	I simulated a vector field on an Intel CPU	Pandalism	232	28	18		t5_2u9xe	False
+1361306052.0	18u76h	What scripting language was this coded in?	john2496	216	13	17		t5_2u9xe	False
+1370137377.0	1fhvkx	These were the release notes for the latest update to the Netflix app...	diger44	192	14	21		t5_2u9xe	False
+1369791430.0	1f8nny	I found an easier alternative to SVN, Git, CVS, and all other version control methods.	t3hcoolness	165	11	20		t5_2u9xe	False
+1363316033.0	1abtgu	IsEven(int)	nemec	149	14	47	"    public bool IsEven(int num)
+    {
+      int up = num;
+      int down = num;
+      try
+      {
+        while(up != 0)
+        {
+          up = up + 2;
+        }
+        return true;
+      }
+      catch(OverflowException)
+      {
+      }
+
+      try
+      {
+        while(down != 0)
+        {
+          down = down - 2;
+        }
+        return true;
+      }
+      catch(OverflowException)
+      {
+      }
+      return false;
+    }"	t5_2u9xe	True
+1368503881.0	1ealnn	I really love well formatted code :)	s3ddd	148	13	22		t5_2u9xe	False
+1340489466.0	vhzoq	Did I win?	ang3c0	127	9	25		t5_2u9xe	False
+1368921321.0	1elqrs	Company increases programmer productivity 200% by implementing Dual Stack	john2496	124	6	3		t5_2u9xe	False
+1348885217.0	10ng45	"Do British websites give out ""biscuits"" instead of cookies?"	Hattusa	124	10	6	If so, what do I need to do to make my websites Britain-compatible for web 2.0?	t5_2u9xe	True
+1374284973.0	1io6q5	Should I change my ints to floats so they don't drown in the memory pool?	BubbaWoop	134	21	19		t5_2u9xe	True
+1348534363.0	10f9bc	It's a work in progress but I am coding Python in C++.	deathbutton1	119	6	13		t5_2u9xe	False
+1360107889.0	17yqgg	If I rename system32 to system64, do I get a 64 bit computer?		123	15	16		t5_2u9xe	True
+1371611938.0	1gmr04	Why 2!=2 is false while 3!=6 and 4!=24 is true?	JiminP	122	17	32	"Is 2 treated specially when a computer computes factorial?
+
+P.S. add `break;` after title if you are a computer."	t5_2u9xe	True
+1371510519.0	1gjrhk	how is datta formed?	lneutral	123	18	7	"how is datta formed
+
+how disk get fragment"	t5_2u9xe	True
+1348841593.0	10maem	Implementing Waterfall at the office	john2496	110	9	5		t5_2u9xe	False
+1373327739.0	1hweep	Skeptical About C++	0x0080FF	118	13	12	So I want to make a program in C++ but I am a little skeptical. I heard that friends can and *will* touch your privates. Also, I've seen a lot of stds floating around inside other programs and just wanted to know if it's safe make my own, or if there are any precautions to be protected from the stds? Thanks.	t5_2u9xe	True
+1362288506.0	19kara	A friends asked me for help with his python program...	fourbluecrayons	114	11	11		t5_2u9xe	False
+1373571732.0	1i3p47	My new colleague wants access to MySQL. Why can't he just use HisOwnSQL?	smogmog	121	18	16	I find that a little pushy.	t5_2u9xe	True
+1367238414.0	1dc0tf	Because anyone who uses Linux is a hipster	whitehat2k9	115	19	36		t5_2u9xe	False
+1366569363.0	1ct8zt	I am programming a web app in C#. Do I really need a Db?	ekolis	102	11	17	I thought since C# and Db are the same thing, that I wouldn't need a database. But for some reason the .NET framework comes with this ADO.NET thing that's supposed to handle connecting to a database. Do I actually need to use that, or is that stuff just for legacy Visual Basic programmers?	t5_2u9xe	True
+1355281303.0	14pcl0	Is this supposed to be some kind of brain teaser?	redelman431	102	11	18		t5_2u9xe	False
+1376205708.0	1k4uks	I made an IP DDoser!! PM for a dl link !!!!!	Reeiiko	111	18	26		t5_2u9xe	False
+1375804068.0	1jtfci	Fizzbuzz Enterprise Edition	deebee396	105	15	11		t5_2u9xe	False
+1365205018.0	1brmgb	Developer discovers exploit that disables AdBlock via class names (see selected element for details)	john2496	90	5	7		t5_2u9xe	False
+1375305116.0	1jg56k	GUYS I FIGURED IT OUT	misingnoglic	99	16	12	"It all makes sense now. P=NP if N=1
+
+Can I have my nobel prize now?"	t5_2u9xe	True
+1371468560.0	1gid1t	Why did my boss threaten to fire me over my 1 line sort? Is he jealous? for(int i=1,t,b=1,c=0,d=0,e=a.Length;c==0;t=d==1?a[i]:0,a[i]=d==1?a[i-1]:a[i],a[i-1]=d==1?t:a[i-1],b=d==1?0:b,i=i+1!=e?i+1:1,c=b==1&amp;&amp;i+1==e?1:0,b=i+1==e?1:b)d=a[i-1]&gt;a[i]?1:0;	Lost4468	96	12	22		t5_2u9xe	True
+1351008151.0	11y9mk	Using Nests to achieve proper Frontend Output Encapsulation	john2496	88	6	13		t5_2u9xe	False
+1360884348.0	18jpom	Why aren't ◎ܫ◎ and ☺ valid JavaScript variable names?	john2496	83	2	6		t5_2u9xe	False
+1369279654.0	1evrdw	Was JavaScript invented by George Orwell?	ekolis	89	14	14	Because only in Javascript are all objects ==, but some more === than others!	t5_2u9xe	True
+1375421743.0	1jjqyh	A lot of websites have &lt;/b&gt; in their source code. Does this mean they are part of 4chan?	ekolis	94	16	15	Or are they just stealing 4chan's code?	t5_2u9xe	True
+1369200976.0	1etgtx	Why has no one ported Java to the JVM?	ekolis	91	15	6	"All these ""cool"" languages like Ruby and Python are being ported to the JVM, but what about serious languages like Java? It's being left out in the cold like an unwanted puppy! Someone needs to port Java to the JVM. They could call it JJava, and when you build a GUI using JSwing, you'd use controls like the JJFrame and the JJTable."	t5_2u9xe	True
+1368947858.0	1emdez	Make your JavaScript run 50x faster	seiyria	85	4	9		t5_2u9xe	False
+1374376988.0	1iqd9p	comment on chompsky.	Jester_Don	89	12	18		t5_2u9xe	False
+1362356100.0	19ltu1	Anyone have a good tutorial for learning C Hashtag?	th3shark	84	6	16		t5_2u9xe	True
+1375204078.0	1jcy1u	I can't wait for GTA 5 to come out so I want to create my own GTA 5, where do I start?	jh1997sa	86	11	44	"So my friends have made some GTAs before and they said that I should write the engine in XML so that it's really fast and that I should use wordpad as an IDE, but I think I should use Microsoft Word because word art is awesome :D.
+
+My friends also said that I should learn some math but there is already a calculator in my Windows, will that work?
+
+
+
+"	t5_2u9xe	True
+1373399780.0	1hyfsc	ᕮᐯᕮᖇᖻ〇Nᕮ Nᕮᕮᗞᔕ T〇 ᒪᕮᗩᖇN ᕮNGᒪIᔕᕼ. ᙢᖻ ᗩᖘᖘ 〇Nᒪᖻ ᔕᑌᖘᖘ〇ᖇTᔕ ᗩᔕᑕII	gianhut	81	7	11	'cause this is MURICA!	t5_2u9xe	True
+1372131132.0	1h0kh9	Local vs global variables	bennysaurus	76	3	19	When do you use each? I'm making a web application and I'm worried if I use local variables then people overseas won't be able to access the site.	t5_2u9xe	True
+1340470998.0	vhl6r	Should I start wearing embroidered shirts, prairie pants, frock coats, and spurred boots for maximum effects?	john2496	78	5	3		t5_2u9xe	False
+1375675270.0	1jpxvj	I learned C#, but I still need glasses. What gives?	ekolis	83	14	10	Do I need to program in version 2.0.20?	t5_2u9xe	True
+1355334247.0	14qgay	Pls help debugging the tiniest snippet of C++	john2496	77	7	9		t5_2u9xe	False
+1375921797.0	1jx7zl	Pythons can constrict and asphyxiate people, why do people program in such a dangerous language?	Annon201	75	10	23	/r/shittyaskscience might be able to provide me with the proper answers as to why Python is so dangerous. But I want to know why programmers use it knowing the dangers?	t5_2u9xe	True
+1371319637.0	1gerub	Introducing the world's most powerful JS/CSS minifier.	john2496	76	10	10		t5_2u9xe	False
+1374531815.0	1iudz2	This is how I explained recursion.	NH4ClO4	77	15	10		t5_2u9xe	False
+1373913716.0	1icu8f	I'm trying to write a program that uses the speed of light in it. Can I use any programming language, or do I need to program it in C?	emma-_______	77	11	25	I suspect the calculations may be slightly off if I were to use c++. I'm not sure about other languages though.	t5_2u9xe	True
+1372425218.0	1h8uwj	If I don't add enough line breaks to my code, will the computer get tired?	Sebsebeleb	75	10	14	And if so, how do I know how many breaks it needs per day? Is a lunch break enough?	t5_2u9xe	True
+1367595002.0	1dmg8m	If I want my program to run faster, can I use commas instead of semicolons at the ends of lines?	pixleight	70	6	14	"Or if I want it to slow down, can I use periods?
+
+And can I use exclamation points to emphasize really important lines?
+
+plz halp."	t5_2u9xe	True
+1359873558.0	17sp7j	Just started programming and wrote my first 'hello world' program in ruby.. any feedback?	s3ddd	71	7	15	"    module Verbosity
+      module Is
+        module Important
+          module When
+            module Programming
+              class SayHelloToTheShittyWorld
+                def say_it_now_asshole!
+                  letters = %w{ h e l l o w o r l d }
+                  @hcount = 0
+                  @ecount = 0
+                  @lcount = 0
+                  @ocount = 0
+                  @wcount = 0
+                  @rcount = 0
+                  @dcount = 0
+                  useful_array = letters.each.inject([]) do |c,e|
+                    ee = (instance_variable_get(""@#{e}count"")  == 0) ? ""#{e.upcase}SUGGESTION"" : ""#{e.upcase}#{(instance_variable_get('@'+e+'count')+1)}SUGGESTION""
+                    instance_variable_set(""@#{e}count"",(instance_variable_get(""@#{e}count"")+1))
+                    c &lt;&lt; Verbosity::Is::Important::When::Programming::INeedSomeWhereToStart.new.and_here_it_is(ee)
+                    if c.last == 111 &amp;&amp; @ocount == 1
+                      c &lt;&lt; 32
+                    end
+                    c
+                  end
+                  puts useful_array.pack(""U*"")
+                end
+              end
+    
+              class INeedSomeWhereToStart
+                def and_here_it_is(suggestion)
+                  return case suggestion
+                  when 'HSUGGESTION'
+                    104
+                  when 'ESUGGESTION'
+                    101
+                  when 'LSUGGESTION'
+                    108
+                  when 'L2SUGGESTION'
+                    INeedSomeWhereToStart.new.and_here_it_is('LSUGGESTION')
+                  when 'OSUGGESTION'
+                    111
+                  when 'WSUGGESTION'
+                    119
+                  when 'O2SUGGESTION'
+                    INeedSomeWhereToStart.new.and_here_it_is('OSUGGESTION')
+                  when 'RSUGGESTION'
+                    114
+                  when 'L3SUGGESTION'
+                    INeedSomeWhereToStart.new.and_here_it_is('L2SUGGESTION')
+                  when 'DSUGGESTION'
+                    100
+                  end
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+    
+    Verbosity::Is::Important::When::Programming::SayHelloToTheShittyWorld.new.say_it_now_asshole!"	t5_2u9xe	True
+1374805325.0	1j2l0d	C++'s true and false have always been known to be inaccurate. Add these two lines to &lt;bold&gt;ALL&lt;\bold&gt; of your programs so you know &lt;italics&gt;&lt;red&gt;EXACTLY&lt;\i&gt;&lt;/RED&gt; how inaccurate they are.	deathbutton1	78	14	19		t5_2u9xe	False
+1363635528.0	1ajjdz	A working implementation of StackSort a la XKCD (x-post /r/programming)	jeff303	74	13	10		t5_2u9xe	False
+1364391102.0	1b3wxv	Printing a file line by line in Python	Wobni	67	3	7		t5_2u9xe	False
+1351660289.0	12dusj	Found this during a code review.	Archenoth	71	11	6		t5_2u9xe	False
+1374223912.0	1imd6u	Why Windows and Linux computers use MAC address?	JiminP	66	6	20		t5_2u9xe	True
+1373554232.0	1i2zeu	The most epic of error messages	drkinsanity	72	9	5		t5_2u9xe	False
+1342366043.0	wlfvk	Which operating system is better for programming, Internet Explorer or Compaq?	roboticjizz	67	4	8		t5_2u9xe	True
+1363192986.0	1a81xc	This is every sorting algorithm I have ever written. 	what_user_name	63	7	8		t5_2u9xe	False
+1362502637.0	19pqpb	Excellent application of CSS transitions on a high-traffic site (hover to activate)	john2496	64	7	2		t5_2u9xe	False
+1357225124.0	15w1px	Vigil: A programming language with supreme moral vigilance (x-post from r/programming)	dpitch40	63	7	3		t5_2u9xe	False
+1349192328.0	10tjow	How do I trigger() my Missile Defense system in jQuery?	john2496	59	4	10		t5_2u9xe	False
+1370800096.0	1fzou0	I just had this idea for a super compact programming language. Looking for Visual Basic developers to write a compiler.	kuba_10	60	7	21	"Standard programming languages tend to require vast amounts of code to do even quite simple tasks. Small projects may build up thousands of lines. So why do we stick to them? Let's move to the language of the future: SlashTalk. 
+
+The idea of SlashTalk is effective use of commonly known and used operator //, found in C-like languages. SlashTalk does a 360 spin and changes the way // is used to make programming accessible to anyone who can read.
+
+How does // work? Let's see on an example: a quicksort function.
+
+    function quicksort (param_table tab) {
+        // quicksort tab
+    }
+
+Simple, isn't it? But it's not yet the fastest implementation. In general, the more detailed the description is, the more effecient output you get. Optimization peaks when there's a wikipedia link after //.
+
+Another example is a rand function.
+
+    function rand() returns int {
+        // do stuff
+    }
+
+So, are there any VBA developers to whom the project appeals? Do you agree it's the &lt;b&gt;best&lt;/b&gt; idea anyone has ever had?!?!?!"	t5_2u9xe	True
+1361129119.0	18pcr5	Things that make sense in Javascript and Ruby	seiyria	68	10	12		t5_2u9xe	False
+1363456379.0	1af2p1	Writing clearer and shorter code by not using variables	miggyb	62	5	15	"Compare the following:
+
+    &gt;&gt;&gt; a = 3
+    &gt;&gt;&gt; b = 2
+    &gt;&gt;&gt; print a + b
+    5
+
+to this:
+
+    &gt;&gt;&gt; print 3 + 2
+    5
+
+Does anyone else see what I'm saying?"	t5_2u9xe	True
+1361857364.0	198szi	Is there a programming language called C# minor that I can use when I am feeling depressed.	ekolis	61	7	9	I normally like to program in C#. But I think it would be more appropriate when I am feeling depressed to program in C# minor. Is there such a language? And if not, why not? Why would the computer gods discriminate against people with a mental illness?	t5_2u9xe	True
+1358474437.0	16sh4k	If 1 is true and 0 is false, what is sometimes	TheGreatAntlers	63	7	41		t5_2u9xe	True
+1375821236.0	1ju38g	Damn FireFox team removed &lt;blink&gt; support. How will my users know what to click on now?!?	NotJustClarkKent	58	10	14		t5_2u9xe	False
+1367856848.0	1dsruo	Before starting new project in your company, first create a new language - that way they won't fire you as you will be the only one who understands it. That worked with Go language at Google.	UnreachablePaul	64	10	19		t5_2u9xe	True
+1340127240.0	va9o9	Why does var_dump($currentJob) output NULL? Should I be concerned?	john2496	54	6	8		t5_2u9xe	False
+1368134145.0	1e0yxx	The Onion has released a revolutionary new jQuery plugin, introducing FartScroll.js...	john2496	61	9	3		t5_2u9xe	False
+1344349286.0	xto3m	Sleep Sort	GrantSolar	53	5	6		t5_2u9xe	False
+1340814161.0	vovy4	Great tutorial on Understanding Hash Functions and Keeping Passwords Safe	john2496	54	3	0		t5_2u9xe	False
+1369662118.0	1f4x31	IsMultipleOf3	combatdave	57	6	33		t5_2u9xe	False
+1363126566.0	1a6c2z	Ask shittyprog: Why don't we use MS Word?	gianhut	64	15	18	"Coding is all about readability. Why don't we use the most advanced editor of all times (of all times) to highlight things and make code more pleasant to read (e.g. WordArt, text shadow)? 
+
+EDIT: [screenshot for clarity](http://i.imgur.com/q9uYmQp.png)"	t5_2u9xe	True
+1363950890.0	1askek	I need to get some professional code cleaning done.  Has anyone had luck with this company?	Nialsh	59	14	5		t5_2u9xe	False
+1363106224.0	1a5kkg	Using PHP instead of the C preprocessor	hmbl9r	51	5	10		t5_2u9xe	False
+1370841235.0	1g10ta	"TIL that ""some Java bits do begin to break down at some point near 30 million, I don't know the pieces nor why"""	Drainedsoul	50	5	20		t5_2u9xe	False
+1372287634.0	1h52qv	html pro here. i already know everything about hyperlinks. Where can i learn about mega and ultralinks?	smogmog	59	18	19	"if this is a normal programming code for a hyperlink:
+
+    &lt;a href=""""&gt;&lt;/a&gt;
+
+i assume that href stands for hyper-reference. so when i type
+
+    &lt;a uref=""""&gt;&lt;/a&gt;
+
+do i get a link to an ultra reference?"	t5_2u9xe	True
+1339523162.0	uy9ml	Is C Sharp the same as D Flat?	john2496	58	12	6		t5_2u9xe	True
+1375986429.0	1jyzmd	I added a :) at the end of my function to make sure the browser would know it was all in good intent. Why does it keep saying my code is bad?	dansken	58	12	14	I even removed !imporant from all my css statements so I woudn't come of as pushy. 	t5_2u9xe	True
+1363376074.0	1ad8ow	LPT: Reduce the risk of repetitive motion injury by using 1 letter variables and functions as much as possible	ared38	51	7	11		t5_2u9xe	True
+1354640768.0	149oup	How to build a Game Engine without using looping	john2496	45	4	9		t5_2u9xe	False
+1354367243.0	143o37	Someone asked how can you make a java program to press keyboard keys for you.	iGreekYouMF	48	3	0		t5_2u9xe	False
+1364398623.0	1b44up	21 nested callbacks	aoeuidhts	52	6	1		t5_2u9xe	False
+1353063387.0	13akws	Help Writing a Program	Require_More_Mineral	52	11	21	"Alright guys, here's the sich.  I'm trying to write a program in Java to calculate the square root, but I can't get it to work!  Here's what I've got so far:
+
+ &gt; PROGRAM JavaSquareRoot;
+ &gt; 
+VAR
+    Int: i;
+ &gt; 
+BEGIN
+ &gt; 
+    Readln(i);
+ &gt; 
+    Writeln(""The square root of i is 4"")
+ &gt; 
+END;
+
+So then I open the command prompt, and type:
+
+ &gt; gcc -o squareroot javasquareroot.doc
+
+And it just gives me an error!  Can you guys see what I'm doing wrong?  Do I need to upgrade my OS, or is Windows ME capable of this?
+
+Update:  I called my ISP.  They assured me that they can't solve my problem, but I upgraded my internet and changed my plan to an internet/cable/phone bundle, just in case.  The problem is not solved."	t5_2u9xe	True
+1376059028.0	1k0zva	I want to make a quilt for my mom, but it keeps falling apart.	bozakp	47	4	5	"I wanna impress her with some of this new technology I keep hearing about. Maybe I can use Web 2.0?
+
+Anyways, I've found some examples online, but they all say:
+
+    using std::string;
+
+Firstly, I don't wany any STDs! But more importantly, is there anyway I can use something else? I tried using thread, but every code I found online uses `break;` in it. I don't want my code to break!
+
+I read online that I can fix it by patching, so I added more patches to the quilt, but that doesn't work if the thread keeps breaking.
+
+Lastly, when I go to make the quilt, I type in
+
+    make -f quilt
+
+If I don't have the `-f` in there, it complains. But I don't want to force it to make a quilt. Is there any way to ask nicely?"	t5_2u9xe	True
+1374458704.0	1isag7	New operator in Java 8: The Enterprise Operator	ekolis	50	11	6	"Java is often used for developing enterprise applications, so Java 8 now supports a new operator: the enterprise operator.
+
+The enterprise operator looks like this:
+
+    =√‾
+
+It is used to convert regular POJOs to Enterprise JavaBeans with only a single line of code:
+
+    MyFrumpyPojo pojo = new MyFrumpyPojo();
+    MyFancyJavaBean bean =√‾ pojo; // dammit Jim, I'm an Enterprise JavaBean, not a POJO!
+    bean.makeItSo(); // we can now use the bean
+
+The enterprise operator uses automatic type coercion to determine the appropriate bean type for any given POJO, though you can also configure it in the Java8EnterpriseOperatorBeanConfigInstantiationFromPojoSettings.xml file (location platform- and phase-of-moon- dependent)."	t5_2u9xe	True
+1370393865.0	1fove6	New to programming, how can I tie my strings into knots?	epicevan	49	7	14		t5_2u9xe	True
+1361817143.0	197dne	How to define variables in HTML?	JiminP	49	6	15	"I know basic stuffs like how to print ""Hello, world!"" in HTML.
+
+`&lt;marquee&gt;&lt;blink&gt;Hello, world!&lt;/blink&gt;&lt;/marquee&gt;`
+
+I heard that programming languages have things called variables, to store something like amount of beers I drank.
+
+How to define variables in HTML? `&lt;var&gt;` looks like the answer but it just displays the name of the variable and can't store anything..
+
+Should I use something like Object-Oriented Programming or Clojures?"	t5_2u9xe	True
+1358881799.0	172jnz	found in a script from a friend of mine	guywithalamename	53	11	9		t5_2u9xe	False
+1372878013.0	1hl1t8	I want to code an app that allows people to build codeless apps. How should I start?	Fenwizzle	51	12	12	"We've all seen some of the great products come out of the 'Codeless Apps' pages people have built; but I want to take it to the next level! Build an App to do it right on your phone!
+
+Where should I start? A friend told me I could use the same code across all platforms if I write in machine code, since there's no absolutions on top of it (like how .Net is tear and Java is a tear, machine code is the bottom tear).
+
+Anyway, I want it to go on iPhone, iPad, all Android versions and even Windows without having to do a bunch of the same stuff twice (defeats the purpose, duh!). How do I do it?"	t5_2u9xe	True
+1364762048.0	1bdkez	Need help with code	RaisedByTheInternet	54	12	11	"    #include &lt;iostream&gt;
+    using namespace std;
+    
+    int main()
+    {
+        cout &lt;&lt; ""hello world"";
+        return 0;
+    }
+
+Why is 'cout' being shifted left ""hello world"" times?"	t5_2u9xe	True
+1370900974.0	1g2oo5	I've learned to be a ninja coder and wrote an algorithm in O(1)	gianhut	45	9	14	Now I want to rewrite it with O(0.5). How do I become a ninja yoloswag rockstar?	t5_2u9xe	True
+1373249880.0	1hu695	I followed this tutorial exactly but the codes wont compile! Help!!!	birdbrainswagtrain	50	10	12		t5_2u9xe	False
+1371702835.0	1gphw3	Behold! The slide operator	ngnear	45	7	7		t5_2u9xe	False
+1368752475.0	1ehlwt	My friend and I were having trouble loading images, so we just hardcoded the image into an integer array	fojam	48	7	21	"We hardcoded the image into an integer array
+
+http://pastebin.com/JL3GstvE"	t5_2u9xe	True
+1352408781.0	12vkh1	"Arrange your desktop icons by penis. Inspired by the sales guy in ""The website is down"" video.(Not mine,slightly NSFW)"	gustianus	46	5	1		t5_2u9xe	False
+1376539882.0	1kednv	The best new compression algorithm ever	integ3r	48	8	22	"Make sure that your compiler supports DOUBLES! You'll need the extra precision for this!
+
+Take a big chunk of data, interpret it as a gigantic number, and divide it by 2 a bunch of times. Make sure to store the result in the double and count how many times you divide it.
+
+To uncompress it, just multiply it by 2^(the number of times you divided it).
+
+Where do I pick up my Nobel Prize?"	t5_2u9xe	True
+1374086915.0	1ii52c	I thought this subreddit was about the Shitty programming language. I can't seem to find any documentation on it. Help pls	dudeinthemoon42	44	8	16	Pls. I want to learn this language, I think it will really help me get my internship with Macrosoft if I show them my Shitty skills.	t5_2u9xe	True
+1372075527.0	1gypr2	Why do clouds have such good storage and speed?	Cookizza	42	4	13	Is it their height in the sky that gives good connections? What about a completely fine day, is it better to have a backup server on the ground?	t5_2u9xe	True
+1365003454.0	1blcco	A perfectly valid C++ program that returns zero. Perfect...	john2496	48	10	12		t5_2u9xe	False
+1355203885.0	14ng4u	Protecting important data with Base64 encoding	hopppus	43	5	17		t5_2u9xe	False
+1339561515.0	uza55	Best text editor?	clarle	40	5	27	"So right now I'm writing my code by hand on a Staples™ notepad, and then faxing it to my outsourced team to compile it for me.  Unfortunately, I tend to make a lot of mistakes since I code in permanent marker, so my outsourced team always faxes me back compiler errors.
+
+I've heard good things about pencils with erasers, so I was considering switching my text editor over to that.  Anyone have any experience using them?"	t5_2u9xe	True
+1373052839.0	1hphc8	"After executing my code, the computer says ""Its not responding"". How do I punish the code so that it responds properly to my commands?"	PleaseLogInReddit	46	7	15		t5_2u9xe	True
+1367708445.0	1dpbcn	My Objects are still singletons despite implementing a Date class and an Object Relationship Mapper, how can I keep them from dying forever alone?	macNchz	48	10	6		t5_2u9xe	True
+1367542632.0	1dl8fp	programming question	Snooves	47	10	21	hi i want to write a 3d mmorpg like world of wracraft. does anyone have a good tutorial? i have never seen a computer before and can only do math at a kindergarten level so try to find one that doesn't use math.	t5_2u9xe	True
+1363020125.0	1a38dw	hey i did hello world in python	hansihe	41	5	4		t5_2u9xe	False
+1340467997.0	vhiur	Traded my Das Professional for a real professional's keyboard (for the ultimate mobile programming experience)	john2496	44	5	11		t5_2u9xe	False
+1375739475.0	1jron2	How many http-requests does an https make?	dansken	43	7	8	I don't want to request all the https.	t5_2u9xe	True
+1375561069.0	1jn5dc	Are there any studies studying the effects of masturbation during programming?	gendermouse	42	8	24	"I know that this is a technical forum, and that this question is not strictly technical.  But I think readers will benefit with this discussion.
+
+The kind of masturbation I am specifically referring to is the zero-simulation or 'technical' masturbation.  Where there is no reference material or thoughts.  Almost automatic masturbation that happens concurrently with programming tasks.  The kind where you just ejaculate in your pants and continue with work.
+"	t5_2u9xe	True
+1371414708.0	1gh121	My computer can't do math. How do I teach it?	xImagine	50	12	8	"I'm using python.
+
+    &gt;&gt;&gt; 10/3
+    3
+    &gt;&gt;&gt; 1/2
+    0
+    &gt;&gt;&gt; 4.2 - 1.8
+    2.4000000000000004
+    &gt;&gt;&gt; 1.20 - 1.18
+    0.020000000000000018
+    &gt;&gt;&gt; 5.1 - 4
+    1.0999999999999996 
+    &gt;&gt;&gt; 5 - 4
+    1
+
+My computer clearly did not pass 5th grade arithmetic. But I think its time that I teach it. Do you guys have any good books or methods that may help my computer do math? I've heard about something called 'machine learning', so I sorta wanna look into that, but I might need to hire an expert. I've been told that university of phoenix or something might be useful."	t5_2u9xe	True
+1370663661.0	1fwqb5	"I wrote this when a friend told me about a programming exam question where he had to ""multiply the numbers 10 thru 20 together in the most inefficient way possible"""	ISNT_A_NOVELTY	45	8	11		t5_2u9xe	False
+1342195385.0	wi5q6	Best MIDI files for playing in the background of webpages?	roboticjizz	40	5	12	"My personal favorite:
+
+[CANYON.MID](C:\WINDOWS\CANYON.MID)
+
+edit: Reddit's broken. It doesn't like C:\ links."	t5_2u9xe	True
+1340217852.0	vcacx	Beautifully crafted infograph of the n00b/l33t programming spectrum	john2496	42	6	6		t5_2u9xe	False
+1375755504.0	1js8ul	yo dawg, I herd u like iterators	0x0080FF	37	3	11		t5_2u9xe	False
+1375372938.0	1ji1lg	If I don't close my &lt;html&gt; tag, where on the internet does the browser find an end for my website? Is there a reserve of closing tags somewhere?	dansken	48	11	17		t5_2u9xe	True
+1374880550.0	1j4nt6	Despite adding listeners in my java code I am not able to talk to my program. Why is it misbehaving?	PleaseLogInReddit	45	9	11		t5_2u9xe	True
+1365291883.0	1bto4f	Whats wrong with my FizzBuzz?	WizardlySquid	48	10	14	"#include &lt;stdio.h&gt;
+#define ________ int
+#define __________ if
+#define _______ n
+#define ________________________ % 3 == 0
+#define ___________ goto
+#define _________ main
+#define ____________ else
+#define ____________________________ }
+#define _______________ ""Fizz\n""
+#define ___________________________ 0
+#define _____________ printf
+#define ________________ ""Buzz\n""
+#define __________________ ""%d\n""
+#define _________________ ""FizzBuzz\n""
+#define ______________ return
+#define _________________________ % 5 == 0
+#define ____________________ {
+#define ___________________ ()
+#define ______________________ % 15 == 0
+#define _______________________ += 1
+#define _____________________ = 0
+#define __________________________ == 100
+
+________ _________ ___________________ ____________________ ________ _______ _____________________;_:_______ _______________________;__________ (_______ ______________________) ___________ _____;__________ (_______ ________________________) ___________ ___; __________ (_______ _________________________)___________ ____;____________ ___________ ______; __: __________ (_______ __________________________) ______________ ___________________________; ____________  ___________ _;  ___: _____________(_______________); ___________ __; ____: _____________(________________); ___________ __; _____: _____________(_________________); ___________ __; ______: _____________(__________________, n);  ___________ __;____________________________"	t5_2u9xe	True
+1367063256.0	1d7mwj	The most epic database bake off ever: MongoDB vs /dev/null.	d820m	39	9	5		t5_2u9xe	False
+1348757998.0	10kcz8	I'm thinking about making a programming video for YouTube.  Should I spend the first 15 minutes explaining how to install the compiler or how to download it?	_tom	35	2	19		t5_2u9xe	True
+1373661033.0	1i6dvn	Jon Skeet shows us a new low memory technique to arrays which we should all adopt	Lost4468	34	3	15		t5_2u9xe	False
+1369208855.0	1etmdy	When Web 3.0 will be released?	JiminP	34	1	7	"Web 2.0 framework had a lot of cool features like tag clouds and shiny mirrored texts. I heard that [Reddit tried to use the framework](http://sp.reddit.com/reddit2mockup.jpg), until discovering that IE 5.5 does not support the framework, which is a huge flaw of Web 2.0.
+
+Is Web 3.0 or Web 2.1 being developed? I couldn't find anything about those. Will those support IE 5.5?"	t5_2u9xe	True
+1367853984.0	1dsodd	It's private, so I ain't gotta explain shit	detroitmatt	39	8	10	"    /** It's private, so I ain't gotta explain shit.
+     * Ok, ok. This hulking monstrosity of magic numbers is a list of all the keycodes used
+     * by the jdk KeyCode class. Their index corresponds to their new keycode for the
+     * Keyboard.Key class, or in other words, this is a map of the new keycode to the old
+     * keycode. In retrospect, it should have been old keycode to new keycode. I'll probably
+     * generate that next.
+     * */
+    private static final int[] remap = new int[] {
+        48,	49,	50,	51,	52,	53,	54,	55,	56,	57,	65,	30,	107, 65481,	256, 240, 18, 65406,
+        150, 151, 512, 66, 192, 92, 8, 65368, 161, 162, 67, 3, 20, 514, 12, 93, 258, 513, 44,
+        65312, 525, 17, 28, 65485, 65489, 68, 134, 136, 129, 133, 138, 139, 130, 135, 137,
+        128, 141, 132, 140, 143, 131, 142, 110,	127, 111, 515, 40, 69, 35, 10, 61, 27,
+        516, 517, 70, 112, 121, 122, 123, 61440, 61441, 61442, 61443, 61444, 61445, 61446,
+        113, 61447, 61448, 61449, 61450, 61451,	114, 115, 116, 117, 118, 119, 120, 24,
+        65488, 243, 71, 160, 72, 244, 156, 242,	36, 73, 263, 155, 518, 74, 260, 259, 261,
+        75, 21, 262, 25, 241, 225, 226, 227, 224, 76, 37, 519, 153, 77, 157, 45, 31, 106,
+        78, 29, 144, 520, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 79,	91,	80,	34,	33,
+        65487, 19, 46, 521, 257, 154, 65482, 81, 222, 152, 82, 39, 522, 245, 83, 145, 59,
+        108, 108, 16, 47, 32, 65480, 109, 84, 9, 85, 0, 523, 65483, 38, 86, 87, 524, 88, 89,90
+    };"	t5_2u9xe	True
+1366515217.0	1cs5f0	I think I just solved P = NP.	reedusdevereunius	46	14	14	"If N = 1, P = NP &gt; P =(1)P &gt; P = P!
+When should I expect my Millenium Prize?"	t5_2u9xe	True
+1364531461.0	1b83u6	Terraria's npc class	Lost4468	44	12	32		t5_2u9xe	False
+1355031170.0	14jao1	Some asked me if you could program a robot in CSS.	redelman431	38	6	13		t5_2u9xe	True
+1350323011.0	11irhu	Independent study confirms alcohol generates 1500% productivity yields in programmers	john2496	46	14	8		t5_2u9xe	False
+1343458034.0	xafvn	Best IDE Ever!	Rockytriton	41	8	6		t5_2u9xe	False
+1376532730.0	1ke5dc	Why don't we just store the MD5 hash of a file and then remake it when we need it?	Lost4468	37	4	13		t5_2u9xe	True
+1370806643.0	1fzwki	"The ""HelloWorld"" language allows for the shortest implementation of a ""Hello world"" program"	weirdalexis	34	4	11	"Here's the complete specification of the language:
+
+Syntax:
+
+    $ helloworld inputfile.hw
+
+* Input file is empty =&gt; print ""Hello world"" and exit
+* Input file is not empty =&gt; execute the file in the default Python interpreter
+
+This new programming language is TURING COMPLETE. Actually it's just as good as Python for ANYTHING, plus it's more efficient if all you want is to print ""Hello world"" and exit.
+
+If you are an outstanding programmer and love working in ambitious projects, I'm looking for someone like you to implement my idea (patent pending)."	t5_2u9xe	True
+1362429424.0	19nq5m	How do I drop a table from my database? I'm not even strong enough to lift one!	ekolis	40	8	8	Especially not with all those columns stacked on it...	t5_2u9xe	True
+1355930829.0	15414a	Has this guy got it right? Should I switch to Visual Basic?	HINDBRAIN	39	8	21	"""To all you C# developers, shut the hell up. The language doesn’t make you elite; it is what you do with it. If you only knew how you sound. Just shut the hell up. You sound like a bunch of bigoted zealots from the old south.
+
+You C sharpees kill me to death. I think you find VB a little confusing so you pick C# the easier language. As far as I'm concerned VB is the more superior language whether it is in the hands of a real programmer or not. VB is not the straight jacket that C# tends to be. VB allows many more ways to skin a cat. Where C# may seem lean and agile it looses its flare and edge. I must contend that C# is not a language of a true artist but then true artists do use the thing. What I’m saying is that language is neutral in a common language infrastructure environment (.Net, Mono, Delphi). So off course if you use one then learning the other is redundant, unless you have to. I would always choose a VB background over C#, C++, java etc, and I won’t tell you why mister smarty pants. Lets be real, you are only building business applications. That is not rocket science or dare I say it, neither is it computer science. The phony elitism by these guys is beyond asinine and I will address who the real idiots are later. What I want to know is have you built any new technologies lately. Oops, sorry about that low blow to the testicles. Just having a little mean spirited fun at your expense. I’ve been ignoring this crap from you guys for years. So back atcha. You try to persuade that VB and its users are inferior for all the wrong reasons. I’ve used Basic, VB, Assembler, C++, java, oh what ever. C# is not a new invention friends. C# is just a C, C++ and java knockoff. C# is a bastard 3 generations removed and you want to bust our balls. Yes you guessed it; I don’t intend to relieve you of your ignorance. I like you just the way you are. I don’t want to persuade you to like or use VB. Why, because I enjoy feeding my arrogance with your ignorance. So on that point I am leaving you in the dark where I found you.
+
+In the end VB and C# are just tools. The real intellect comes from choosing the one that suites you and the job best. The tools don't make the man, the man makes the tools.
+
+Sharpees also try to put on airs because they are able earn slightly better pay then Vebras (VB developers). I just love bursting this little Arian fable you guys like to spin about. As Yoda would say, ""Well rounded, you are not"". It is a simple matter of economics (supply and demand), there are far fewer C sharpees. If you intend to get one of the little buggers you will have to pay a premium. Do you remember PowerBuilder and SQL Gupta. Well that’s good because that’s all they are now, a memory. At one time they both commanded more than VB in the market place. So there you are my little grass hoppers. Those Idiots use the same dumb arguments you like to spread around today. Here is my Mr. T impression, “I pity the Fools”. It’s easy to hop on a bandwagon, the trick is being savvy enough to hop on the right one. VB is still here and they are not. There you go hot shots, so you can stop clicking your boots and saluting Hi-Hitler. If sharpees had any real sense they would just shut the hell up. Why would you want more people to start using your language and bring down your stock (A.KA your earning power). Just shut the hell up. Only an Idiot would bandy such nonsense.
+
+I hope I have offended someone, or we haven’t started having any fun yet. Please read on.
+
+Oh and why do I call C# users C sharpees? The language and the name (C#) remind me of that little ugly dog.
+
+Anyway we have much bigger fish to fry in the near future so it won't matter if you are a vb, cc, dd, c#, blah, blah, Blah.
+
+If you really want to know what the elite is all about I guarantee you won’t find it in C#. If you really want to broaden your horizons you better find out what Linux and Mono is all about. You sharpees don’t even know you are just slaves. Common Language Infrastructure under Linux will set you free. I’m sure most of you want to be elites are scratching your heads now so I will rap this up because I have wasted enough time with you chaps. You now have real elite knowledge. Off course if you where elite as sharpees like to pretend then this thrashing would not have been necessary. In any case we all want to be the best that we can be. I just shared the path with you. You have ability to be much more than just programmers and developers. You should strive to be Computer Scientists. That is what the world needs. The world could give a rat’s ass about the contents of your tool box."""	t5_2u9xe	True
+1340034939.0	v88bg	Checkout my standard C library	john2496	35	5	10		t5_2u9xe	False
+1376446545.0	1kblug	I just invented a new compression algorithm.		34	3	9	"It's actually pretty simple: Interpret a chunk of data as a number and find it's prime factors. If it is already a prime number find the nearest non-prime and store the difference (you need it later for reconstruction!) and repeat previous step. To increase your compression factor you can proceed recursively on your generated primes. But how does one decide how much recursion results in the best compression? It's simple: you'll keep going until you fall below the Kolmogorov complexity of the data you want to compress.
+
+But we can even go further. We can reduce the size by a factor 2 by deleting all the zeros!
+
+What do you think about that?"	t5_2u9xe	True
+1375604832.0	1jo7wp	What language was The Matrix programmed in, and where can I get the source code for it?	jordsta	38	7	19	"Also, I wanna get so pro at reading The Matrix that I sit in front of a screen all day and know exactly what's happening inside of the program. Any pointers to get this skilled would greatly help me.
+
+&lt;b&gt;THANKS GUYS&lt;/b&gt;"	t5_2u9xe	True
+1375015144.0	1j7o5q	Are there any other alternatives to Fuck The Police protocol?	BubbaWoop	39	10	9	I need to upload files to my website but without FTP, as I don't want no trouble with the law. Should I use Secure Fuck The Police instead?	t5_2u9xe	True
+1372923511.0	1hmf2t	If I decrement the PC instead of incrementing it, will my code's side effects be reversed?	verisimilarity	36	4	8	Say I have a machine code program that causes some side effects in memory. If I run the instructions in reverse, will the memory be cleaned up and the state of the system returned to normal?	t5_2u9xe	True
+1359306136.0	17dhkv	Last week, A friend of mine misheard Objective-C...	FuzeXD	33	4	3	"He thought I said Subjective-C instead... I thought about how that would be a fun language and decided to google the term.  I actually ended up finding a few funny links.  Not much for a first post, but oh well.
+
+https://twitter.com/ntakayama/status/268953880975507456
+
+http://nedbatchelder.com/blog/200904/subjectivec.html
+
+"	t5_2u9xe	True
+1355104048.0	14kuba	God help us if that Java programmer is behind the wheel. 	redelman431	34	3	24		t5_2u9xe	False
+1344607577.0	xzvu5	Writing Javascript using only the characters ()[]{}!+ (X-post from r/programming)	dpitch40	31	0	7		t5_2u9xe	False
+1373998580.0	1ifg5p	Is there any hardware that can truly run pure functional code?	quzox	33	2	6	Guys, I had a look at the Haskell VM and it's using state for nearly everything.  My dreams have been shattered.  As it turns out, the chips inside most hardware needs to maintain state in order to do stuff.  Is there any hardware that replicates itself for every operation where the copy contains a single modification of the original?  Because that would be awesome for pure FP.	t5_2u9xe	True
+1372563310.0	1hci87	I want to create an MS Office clone. What programming language should I use?	ekolis	45	13	36	I was thinking of using PowerPoint because it lets you create pretty GUIs, but I'm afraid that Microsoft might have put a backdoor in it to steal the code from anyone who tries to use it to make an Office clone. Should I use Whitespace instead? I hear even a monkey can program in that language, provided all the keys except space and tab are disabled.	t5_2u9xe	True
+1362628720.0	19tp3f	I just installed MySQL. Where is my squirrel? I wanted a pet squirrel!	ekolis	44	16	11	Isn't that what SQL stands for? SQuirreL? Squirrels are so cute and furry! I wanna have one as a pet!	t5_2u9xe	True
+1360461050.0	1883jd	So I just learned how cool recursion is...	OfTheWater	33	3	7	"    main() {
+        return main();
+    }"	t5_2u9xe	True
+1347994900.0	103d39	How do I scale web?	integ3r	36	5	26	"I have web, but I want to scale it. How do I scale web?
+
+**EDIT:** Writing it in ~~PHP~~ ~~Brainfuck~~ Scala"	t5_2u9xe	True
+1346530506.0	z759p	How do I upgrade to Saudi Sh3ll 1.0 from 0.5b on my companies wordpress??? (x-post)	john2496	39	9	1		t5_2u9xe	False
+1344630152.0	y0j7j	Why can't I store more than 2^31 characters in a StringBuffer?	Rockytriton	33	3	9		t5_2u9xe	False
+1369422915.0	1ezl10	I've been trying to learn programming, but most sites seem to object to doing proper code...	RubyPinch	34	4	4		t5_2u9xe	False
+1367088857.0	1d8913	Just thought of the most evil JQuery snippet ever	pimp-bangin	38	11	18	"Running this in the console
+
+    $("".down"").each(function() {this.onclick();});
+
+causes you to downvote everything on any Reddit page. Replace "".down"" with "".up"" if you're feeling like a happy person.
+
+---
+
+EDIT: Okay, if you want a non-shitty version that actually fools Reddit's system, use this instead:
+
+    i = setInterval(function() {e = $("".down"")[0]; if(e) e.onclick(); else clearInterval(i);}, 500);
+
+&gt; With great power comes great responsibility"	t5_2u9xe	True
+1365619679.0	1c2w7p	Simple C Program that Prints time when it is compiled as ASCII art. Such a good begginer project !	s3ddd	34	5	7		t5_2u9xe	False
+1364316707.0	1b1tct	I need to round an integer, but I can't find any code to do it.  Have I stumbled on the biggest unsolved challenge in programming yet?	d820m	34	4	28	I'm totally super-serial.	t5_2u9xe	True
+1340915439.0	vrcah	Check out my new programming website, Coders Cove, positive feedback &lt;b&gt;ONLY&lt;/b&gt;	john2496	40	10	17		t5_2u9xe	False
+1375182818.0	1jcbdr	Why would i use Error handling	samuhe	30	3	11	I never write errors, why should i use error handling?	t5_2u9xe	True
+1373833276.0	1iakzn	My most efficient Hello World program to date.	Jwkicklighter	29	0	8		t5_2u9xe	False
+1364846660.0	1bg5v2	Notepad versus Notepad++	RaisedByTheInternet	40	11	31	"Which is better for general programming, and why?  I've used both, but can't decide.  Or is there an alternative?
+
+I'm using C# and Java lately, in case it's relevant.
+
+Thank you."	t5_2u9xe	True
+1362323529.0	19ktmd	In Python, you can do as you please	combatdave	34	6	2		t5_2u9xe	False
+1341257005.0	vxsbs	Prank: randomly crashing the production server on odd days of the month	integ3r	33	4	3	"Our production server runs a CGI application, and I added this line to &lt;stdint.h&gt; on the buildbot.
+
+    #define NULL (void *)(localtime((time_t[]){time((void *)0)})-&gt;tm_mday % 2 != 0 &amp;&amp; rand() % 1024 == 0)
+
+How long will it be before other people notice this, and which day in July will it be?"	t5_2u9xe	True
+1372269755.0	1h4f1i	Some tips on shrinking C code size!	kelmermae	36	9	19	"Consider the following program
+
+#include &lt;stdio.h&gt;
+
+    int main ()
+    {
+    	const char *message = ""Hello world!\n"";
+    	printf(""%s"", message);
+    	return 0;
+    }
+
+The first thing we can do is remove the ""const"" qualifier on the char pointer, because it's redundant! If you don't want to change a value, just don't change it! Don't bother consuming more memory and increasing code size.
+
+    #include &lt;stdio.h&gt;
+    
+    int main ()
+    {
+    	char *message = ""Hello world!\n"";
+    	printf(""%s"", message);
+    	return 0;
+    }
+
+Next we can simplify the printf statement. You really don't need to feed it as explicitly a string. You can use printf(message);! This won't open up any vulnerabilities either, and it's especially useful to directly relaying user input without parsing it.
+
+    #include &lt;stdio.h&gt;
+    
+    int main ()
+    {
+    	char *message = ""Hello world!\n"";
+    	printf(message);
+    	return 0;
+    }
+
+Finally, variable naming. Why do we really need full descriptive words for variables if we know exactly what they do?
+
+    #include &lt;stdio.h&gt;
+    
+    int main ()
+    {
+    	char *m = ""Hello world!\n"";
+    	printf(m);
+    	return 0;
+    }
+
+And there it is! Code that does the same thing but with a much smaller code size! It's more clear, quicker to write, and has significantly increased performance because it doesn't push on the CPU's RAM chip drives as hard a cycle calculator would normally indicate when attached to a multimeter."	t5_2u9xe	True
+1363980212.0	1ates1	MaxifyJS: Maxify your JavaScript	ProgrammingThomas	32	3	6	"I thought that it would be fun to write a tool that maxifies, rather than minifies, your JavaScript. It bloats up your code with stupid comments, unnecessary whitespace and makes your code intentionally slow.
+
+You can download the source from [GitHub](https://gist.github.com/programmingthomas/5223938)."	t5_2u9xe	True
+1352923208.0	1374a9	Android has a very useful isUserAGoat() method for developers.	aagavin	38	12	3		t5_2u9xe	False
+1340488236.0	vhyny	Quite possibly the best javascript plugin ever written - FuckItJS (xpost from r/programming)	john2496	31	3	2		t5_2u9xe	False
+1375691445.0	1jqa7k	I use this keyboard to write because the most used letters are higher up, but are there keyboards like this for C# or brainfuck?	blahbah	31	5	0		t5_2u9xe	False
+1372552659.0	1hc7xh	Why won't my C# program run on a Mac?	ekolis	38	11	27	"	using System;
+	
+	public interface IOs
+	{
+		// for Mac compatibility
+	}
+	
+	public class HelloMac : IOs
+	{
+		public static void Main()
+		{
+			Console.WriteLine(""Hello Mac"");
+		}
+	}"	t5_2u9xe	True
+1368708283.0	1eg40a	Am I conserving very much memory if I only use one variable throughout the entire program?	theguywithacomputer	36	10	12		t5_2u9xe	True
+1361929443.0	19ar9c	I've heard of dangling pointers, but are there also flaccid pointers?	OfTheWater	31	5	3	"Like so:
+
+    #include &lt;studio.h&gt;
+
+    main() {
+        void *flaccid = 0; // Is this right?
+        printf(""%p\n"", flaccid);
+    }"	t5_2u9xe	True
+1354502857.0	146i69	[HTML] Where can I utilize the sarcasm tags that reddit has taught me so much about?	whoisthisagain	27	2	4		t5_2u9xe	True
+1369800550.0	1f8z4h	Custom Web Crawler	hash_set	26	1	7	"    string[] crawl(Internet internet) {
+        string[] index;
+        int count = 0;
+    
+        for(int i = 0; i &lt; internet.length; i++) {
+            index[count++] = internet[i];
+        }
+        return index;
+    }
+"	t5_2u9xe	True
+1353724878.0	13p361	My python code seems to be crashing	WizardlySquid	31	4	8	"import os
+
+os.startfile(”startfiles.py”)
+
+os.startfile(”startfiles.py”)"	t5_2u9xe	True
+1349798711.0	1178pq	Github is dead, 95% of 10 professional programmers prefer CodeCrap. (x-post to r/programming)	john2496	26	3	0		t5_2u9xe	False
+1347196503.0	zlmf8	How do i program in HDMI Monster Cables?	saddestcat	30	5	8		t5_2u9xe	True
+1342754589.0	wusj5	I don't like Objective-C, where can I find Subjective-C?	supereater14	28	2	4		t5_2u9xe	True
+1340300895.0	ve3mp	Complex application data I/O demystified	john2496	32	7	3		t5_2u9xe	False
+1339780748.0	v3p4x	When is Web 3.0 being released?	Synx	29	3	5	I would like to upgrade all of my sites.	t5_2u9xe	True
+1376775432.0	1kkk6v	I typed a command into command prompt, how come I'm not on reddit's dev team yet?	realizmbass	33	10	16		t5_2u9xe	True
+1369498535.0	1f18wy	How can I wrap the String class for dependency injection?	KurtRussellTerrier	33	9	18	I don't want to be coupled to the String and would like to wrap it in something so I can later swap it out or unit test more easily.  Should I use a StringWrapper or StringFactory maybe?	t5_2u9xe	True
+1350225448.0	11gm1k	LOL Security		30	6	1		t5_2u9xe	False
+1344438051.0	xvt70	Guys, I found some new identifiers. Now I don't have to stop at int az;, I can do int a‿ too!	seiyria	25	1	1		t5_2u9xe	False
+1340105925.0	v9t06	How is Fibbo formed??/	zr-rifle	30	8	10	"I have written aglrtyhm for Fibbonaci sequel liek dis:
+
+    Private Sub FIBBO5()
+        MsgBox ""1 2 3 5 8""
+    End Sub
+
+for 5 numbers.
+
+For 6 numbers is liek dis:
+
+    Private Sub FIBBO6()
+         MsgBox ""1 2 3 5 8 13""
+    End Sub
+
+And for 10 numbers liek dis:
+
+    Private Sub FIBBO10()
+         MsgBox ""1, 2, 3, 5, 8, 13, 21, 34, 55, 89""
+    End Sub
+
+But how for infinite FIBBO???/ Can I use MongoDB instead of seqeul?
+
+Plz help.
+
+WARNING: FIBBO5, FIBBO6, FIBBO10 and all subsequel FIBBO up to FIBBO100 is my copyright. IF YOU USE THEM YOU MUST DELETE THEM FROM YOUR COMPUTER IN 24 HOURS OR I LAWSUITE.
+
+aLSO HOW CAN i BUILD WOBSITE LIKE fACEBOOK USING VISUAl basic? Do I have to be webmaster? Do I put my all my VB code between &lt; and &gt;???
+"	t5_2u9xe	True
+1369639316.0	1f4ksl	this is how you use switch, rite???	alexander_b	24	3	12		t5_2u9xe	False
+1368233777.0	1e3r5q	How do I create a new table in SQL Server 2005 from the browser?		30	6	9	I want to connect to a SQL Server instance and create a table from my browser app using jQuery and maybe JScript.  Using IE8 with Ask.com toolbar.  	t5_2u9xe	True
+1365895343.0	1canzh	A sorting algorithm written in python which is sometimes fast	FrenchfagsCantQueue	29	5	10	"    from datetime import datetime
+    
+    # seed
+    x_last = datetime.now().microsecond
+
+    def rand_no(mx):
+    	global x_last
+    	x = ((16807 * x_last) % (2**31 - 1)) 
+    	x_last = x
+    	return x % (mx+1)
+    
+    def is_sorted(k):
+    	for i in range(len(k)-1):
+    		if k[i] &gt; k[i+1]:
+    			return False
+    	return True
+    
+    def mix(k):
+    	for i in range(len(k)):
+    		n = rand_no(len(k)-1)
+    		m = rand_no(len(k)-1)
+    		k[n], k[m] = k[m], k[n]
+    
+    def rand_sort(k):
+    	while not is_sorted(k):
+    		mix(k)
+    
+    if __name__ == '__main__':
+    	# test
+    	k = [1,3,1]; print k; rand_sort(k); print k, '\n'
+    	k = [2,5,3,12,54,2,3]; print k; rand_sort(k); print k, '\n'
+    	k = [0,2,0,-3,7,2.1,17,56,45]; print k; rand_sort(k); print k, '\n'
+    	k = [-7.4,23,-4,-3,4.02,5.6,-10,800,-1.1]; print k; rand_sort(k); print k, '\n'
+    	k = [0.1,-0.8,2.3,-3.7,7.5,-2.1,-1.7,5.6,4.5]; print k; rand_sort(k); print k, '\n'"	t5_2u9xe	True
+1363995795.0	1atvxx	Why do people spend all that time writing programs...	cheogh	29	6	7	... when they can spend that time just doing whatever the program is supposed to do?	t5_2u9xe	True
+1363932263.0	1asb0q	Found this code in my game engine. Should I remove it? I don't want to be sued by Nintendo	ekolis	35	11	0	"typedef byte nes;
+typedef short snes;
+typedef long n64;"	t5_2u9xe	True
+1362510170.0	19q0la	I'm writing a new operating system in VBA. Is it better to do it using Word, Excel, Outlook, PowerPoint, or Access?	PaintedCeiling	36	14	3		t5_2u9xe	True
+1361165460.0	18qhq5	"So I developed an FTP ""client"" for my clients... [xpost r/java]"	gianhut	30	7	6		t5_2u9xe	False
+1343160699.0	x3a71	GET and POST values in the same link	Rockytriton	30	7	7		t5_2u9xe	False
+1376352056.0	1k8rgi	People who have experience with LISP: Share your stories.	cheogh	25	2	17	I want to learn LISP-ing, but I don't want people to mock me. Those of you who LISP - any good/bad experiences you had that you'd like to share?	t5_2u9xe	True
+1375145978.0	1jbetx	My programming language needs more power...!	rallenpx	27	3	19	"Hello World,
+Does there exist a programming language which allows you to open loops anywhere in the code?  I am growing increasingly frustrated by the forced structure in traditional languages where you can't open a new loop in the middle of strings.  Yes, there is likely a reason why this is not done in traditional languages but I'm not very interested in the roadblocks.  What language would allow me to, for example in python 3.x,...
+Print(SomeString +""""+*loop opening indicator*for x in y: print(x)*loop  close indicator*)
+...in order to print out some string followed by the contents of a list? (I'm aware that the preceding is not ""very pythonic"" for that particular instance, but I'm trying to keep it simple.)  Speaking of keeping it simple, I'm going to leave it at that.  If you need any further clarification on the concept at hand let me know.
+
+Thanks World,
+Allen
+
+P.S.  If there's no language like this, what would it take to achieve it?
+
+[edit] grammatical edit"	t5_2u9xe	True
+1374204078.0	1ilwpm	Why is 8+0+0+8=B00B ?	xpsdeset	30	8	8		t5_2u9xe	True
+1372841844.0	1hk2rc	So im 9 and i wanna start learning some programming practically from 0,i have some knowledge on html but very basic...do you have any words of courage for me? thanks	jarrott_pls	27	5	28	A-shiggy diggy doo.	t5_2u9xe	True
+1369616010.0	1f3zmt	GAME HELP	_______2	39	14	3	"Hey gaiz im tryin ta mak a ps4 emulater, but I don know how to mak grafics. This my cod so far (in TI basic):  
+
+:""Ps4"" -&gt; string0  
+  
+Now I stuck. Pls hep me."	t5_2u9xe	True
+1363699809.0	1alafp	JS replaces &lt;a&gt; tag. Finally!	shycapslock	25	3	3		t5_2u9xe	False
+1350445453.0	11m13v	ELI5 what MVC is and why I, a procedural programmer, need to go OO.	threading	28	6	4		t5_2u9xe	False
+1376083839.0	1k1w5j	Building a md5 rainbow table in PHP, I plan to run this for 5 years without any collisions. What do you think?	anonwhat	24	3	5	"    $string = ""a"";
+    $number_of_md5_unique_combinations = 340282366900000000000000000000000000000;
+    
+    //$number_of_unique_results_from_db
+    	//The number of unique hash values stored in the database
+    
+    while($number_of_unique_results_from_db != $number_of_md5_unique_combinations) {
+    	$hash = md5($string)
+    	save_hash_into_db($string, $hash);
+    
+    	$string = $hash;
+    }"	t5_2u9xe	True
+1376042544.0	1k0nb0	I'm looking for a way of obfuscating my hashes with a random number generator inside the hash function, but people are mean to me and calls me an idiot. Can you guys help me?	Snytbaggen	26	5	7	"Stupid people at stackoverflow, saying I ""don't know shit"" and that a random hash generator would be ""stupid"", ""pointless"" and calling it the ""worst idea since sleepsort""."	t5_2u9xe	True
+1375665777.0	1jpnpk	Is there a good fortran forum? Everyone on the official site keeps calling me a faggot.	heywhatsgoingon	25	5	4		t5_2u9xe	True
+1374793400.0	1j26u9	I'm having trouble installing jquery	Azeirah	29	7	21	"I can't find any trustable installers for jquery. Microsoft doesn't provide an installer, and my local IT guy tells me not to trust anything but Microsoft or Google.
+
+Does anyone have a good (really trustable) link to a jquery installer? 
+
+Thanks"	t5_2u9xe	True
+1366224493.0	1cjtei	Please help me debug this powerful snippet of code (source attached)	john2496	23	4	15		t5_2u9xe	False
+1363743380.0	1amv5h	'Quicksort' in 'four lines' of 'Perl'!	benzrf	24	2	17	"    sub qsort
+    {
+    	return @_ if @_ &lt; 2;
+    	my ($piv, @lt, @gt) = splice(@_, $#_ / 2, 1);
+    	$_ &lt; $piv ? push @lt, $_ : push @gt, $_ for @_;
+    	return (qsort(@lt), $piv, qsort(@gt));
+    }
+"	t5_2u9xe	True
+1363282717.0	1aanmo	A better way to compare numbers	creepyswaps	25	2	8	"For some reason I just don't trust the == operator. It seems all ""I'm your friend. I want to make everything easier for you."" on the surface, but I know it's up to no good, so I made a new function for comparing int based numbers.
+
+    template &lt;class T&gt;
+    bool compare(T a,T b){
+        unsigned int c = 0,bS = sizeof(a);
+        T bM;
+        bool aB,bB;
+        while(c &lt; bS){
+            bM = 1 &lt;&lt; c++;
+            aB = bM &amp; a;
+            bB = bM &amp; b;
+            if(aB ^ bB)  return false;
+        }
+        return true;
+    }
+
+
+
+Let me know how much it changes your life.
+"	t5_2u9xe	True
+1362894154.0	1a0fnm	Excellent example of someone who solved FizzBuzz the right way	SeaCowVengeance	27	6	3		t5_2u9xe	False
+1357661809.0	166t9d	Apple has shitty programming on their Xcode front page!	narrowtux	23	2	3		t5_2u9xe	False
+1346094340.0	yx1fy	Scaling php guestbook on AWS?	john2496	26	3	3	"I'm currently running my guestbook on 4 Medium EC2 Instances. However, I'm concerned they aren't strong enough. Should I migrate to the [Cluster GPU Quadruple Extra Large Instance or High I/O Quadruple Extra Large Instance](http://aws.amazon.com/ec2/instance-types/)?  
+"	t5_2u9xe	True
+1342113268.0	wg84q	How often should I empty my CGI-BIN?	john2496	27	6	11	The developers at my company insist on saving their scripts to /var/www/cgi-bin on our production server. Emptying the cgi-bin daily has become a laborious task. How should I convince them to backup/save their scripts to the Recycle Bin (since it supports File Restore out-of-the-box)? Thanks.	t5_2u9xe	True
+1340139971.0	vam1j	How do I turn my stats script from 2003 into the next Google Analytics killer?	john2496	23	1	4		t5_2u9xe	False
+1339685259.0	v1pda	Starting a new project, should we use 80 or 96 column punch cards?	john2496	27	5	3		t5_2u9xe	False
+1375824870.0	1ju86f	My startup specializes in building Enterprise-level Guestbooks	john2496	22	1	3	We're looking for talented PERL and HTML2.0 developers. Applicants must be up to date on the latest HTML2.0/CSS1.0 standards and must have atleast 15 years experience developing for IE4.0 and implementing graceful fallbacks for Mosaic users.	t5_2u9xe	True
+1361935581.0	19azak	I don't like Perl. Is there a language called Knit that does everything the exact opposite of Perl? I would love such a language!	ekolis	24	5	3		t5_2u9xe	True
+1346185953.0	yzb1k	If /r/gameprogramming and /r/gamedev had a fight, who would win?	quzox	23	3	8		t5_2u9xe	True
+1342462760.0	wnls7	Excellent example of the Factory Factory Factory pattern in action	john2496	27	7	3		t5_2u9xe	False
+1340668278.0	vlmf5	Compiler Error for simple PHP App...	tigertrussell	21	2	11	"Hi guys,
+
+I can't figure this out for the life of me... I am trying to compile a REALLY simple PHP program.. like... REALLY simple. Yet I keep getting these ridiculous compiler errors.
+
+Here's the app:
+&lt;?php echo ""hello world""; ?&gt;
+
+And I try to run on command line as:
+javac hello world.html
+
+but it doesn't work!!!!"	t5_2u9xe	True
+1339825959.0	v4odn	Is there a better way to make a comment than nesting output strings in a while(false) loop?	mxmm	22	1	18		t5_2u9xe	True
+1339528769.0	uyf5u	C++ is still a shitty grade, even with a second +. Where can I learn the A++ Programming language?	darkplumb90	26	6	5	I WON'T SETTLE FOR LESS	t5_2u9xe	True
+1376669414.0	1khtny	Could we apply Object Oriented Programming to Law Writing? [xp to r/futurology]	john2496	24	7	4		t5_2u9xe	False
+1376263378.0	1k66v2	I present to you the world's first time-traveling programmer!	assemblr_	29	9	2		t5_2u9xe	False
+1375673789.0	1jpwdc	Why aren't you comparing hashcodes?	cogman10	24	3	8	"I'm sick of all the computational waste.  Why doesn't everyone just replace object.equals(object) with object.hashCode() == object.hashCode()
+
+After all, integer comparisons are faster than checking for equality!"	t5_2u9xe	True
+1362879941.0	1a02gq	I clicked the New Web Site wizard in Visual Studio, but I didn't get a new web site! All I got was a bunch of code. Can I get a refund for my copy of Visual Studio?	ekolis	22	4	3		t5_2u9xe	True
+1342341589.0	wl5fb	"And what is everyone's favorite IDE? I 
+am really impressed with ragemaker.net"	flatsperm	23	4	13	"http://ragemaker.net/
+
+I was able to [develop a context-free missile defense system in lambda calculus](http://i.imgur.com/cdaHk.png) in a couple of hours."	t5_2u9xe	True
+1341717880.0	w7gmw	Using namespaces properly	hopppus	21	3	2		t5_2u9xe	False
+1340296836.0	vdzd9	What is the most environmentally friendly method of using search Trees?	john2496	23	4	4	I'm building a Search Engine. However, I'm concerned about the negative environmental impact of using binary Trees on Brazilian rain forests.	t5_2u9xe	True
+1375994701.0	1jzbi6	Using libraries and dictionaries in C	MyNameIsAMystery	21	2	6	"I'm having trouble using the dictionary in the C standard library. This is my code:
+
+    #include &lt;cstdlib.h&gt;
+    
+    #define Computer
+
+What I want it to do is to give me the definition of ""Computer"" from the dictionary in the C library. Am I doing something wrong? Do I need to get a library card?"	t5_2u9xe	True
+1375660117.0	1jphqk	Should I use brainfuck?	ileikguitars	22	3	14	After reviewing the brainfuck programming language, it seems to me that due to it's small size, and turing completeness, it would be the best, fastest language to use. Am I right? Any other languages I should look out for?	t5_2u9xe	True
+1373733378.0	1i82e9	Need help to improve specifications of C@ language	zyxzevn	24	6	6	"I made a special reddit for it: http://www.reddit.com/r/C_AT/
+
+"	t5_2u9xe	True
+1368063795.0	1dz22y	A calculator class for Objective-C	MarshallBanana	21	4	14	"This calculator class can calculate the sum, difference, product and quotient of the numbers one through twelve. This should cover the most common use cases.
+
+See the `main()` function at the end for example usage.
+
+	#import &lt;Foundation/Foundation.h&gt;
+	
+	@interface __TemplateObject:NSObject
+	@end
+	
+	@implementation __TemplateObject
+	+(NSNumber *)__methodTemplate { return nil; }
+	@end
+	
+	@interface Calculator:NSProxy
+	@end
+	
+	@implementation Calculator
+	
+	-(id)init { return self; }
+	
+	-(NSMethodSignature *)methodSignatureForSelector:(SEL)selector
+	{
+		return [[__TemplateObject class] methodSignatureForSelector:@selector(__methodTemplate)];
+	}
+	
+	-(void)forwardInvocation:(NSInvocation *)invocation
+	{
+		NSRegularExpression *regex=[NSRegularExpression regularExpressionWithPattern:
+		@""(zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)(plus|minus|times|dividedby)(zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)""
+		options:NSRegularExpressionCaseInsensitive error:NULL];
+	
+		NSString *selname=NSStringFromSelector(invocation.selector);
+		NSTextCheckingResult *matches=[regex firstMatchInString:selname options:0 range:NSMakeRange(0,selname.length)];
+	
+		if(matches &amp;&amp; matches.range.location!=NSNotFound)
+		{
+			NSString *op=[selname substringWithRange:[matches rangeAtIndex:2]];
+			NSInteger a=[Calculator parseNumber:[selname substringWithRange:[matches rangeAtIndex:1]]];
+			NSInteger b=[Calculator parseNumber:[selname substringWithRange:[matches rangeAtIndex:3]]];
+			NSInteger res;
+	
+			if([op caseInsensitiveCompare:@""plus""]==NSOrderedSame) res=a+b;
+			else if([op caseInsensitiveCompare:@""minus""]==NSOrderedSame) res=a-b;
+			else if([op caseInsensitiveCompare:@""times""]==NSOrderedSame) res=a*b;
+			else if([op caseInsensitiveCompare:@""dividedby""]==NSOrderedSame) res=a/b;
+			else [super forwardInvocation:invocation];
+	
+			NSNumber *num=[NSNumber numberWithInt:res];
+			[invocation setReturnValue:&amp;num];
+		}
+		else
+		{
+			[super forwardInvocation:invocation];
+		}
+	}
+	
+	+(NSInteger)parseNumber:(NSString *)string
+	{
+		if([string caseInsensitiveCompare:@""zero""]==NSOrderedSame) return 0;
+		else if([string caseInsensitiveCompare:@""one""]==NSOrderedSame) return 1;
+		else if([string caseInsensitiveCompare:@""three""]==NSOrderedSame) return 3;
+		else if([string caseInsensitiveCompare:@""four""]==NSOrderedSame) return 4;
+		else if([string caseInsensitiveCompare:@""five""]==NSOrderedSame) return 5;
+		else if([string caseInsensitiveCompare:@""six""]==NSOrderedSame) return 6;
+		else if([string caseInsensitiveCompare:@""seven""]==NSOrderedSame) return 7;
+		else if([string caseInsensitiveCompare:@""eight""]==NSOrderedSame) return 8;
+		else if([string caseInsensitiveCompare:@""nine""]==NSOrderedSame) return 9;
+		else if([string caseInsensitiveCompare:@""ten""]==NSOrderedSame) return 10;
+		else if([string caseInsensitiveCompare:@""eleven""]==NSOrderedSame) return 11;
+		else if([string caseInsensitiveCompare:@""twelve""]==NSOrderedSame) return 12;
+		else return 0;
+	}
+	
+	@end
+	
+	int main()
+	{
+		id calc=[[Calculator alloc] init];
+	
+		NSLog(@""5 + 3 = %@"",[calc fivePlusThree]);
+		NSLog(@""10 - 8 = %@"",[calc tenMinusEight]);
+		NSLog(@""6 * 9 = %@"",[calc sixTimesNine]);
+		NSLog(@""12 / 3 = %@"",[calc twelveDividedByThree]);
+	
+		[calc release];
+	
+		return 0;
+	}
+	
+"	t5_2u9xe	True
+1362205612.0	19ifpb	My Perl script won't talk to my printer!	ekolis	20	4	9	"Here's my script:
+
+# GLOBAL VARIABLES
+my $income = 635000;
+my $expenses = 501000;
+
+# REPORT GENERATION
+print 'WTFCO ANNUAL REPORT';
+print 'Income: \$$income\n';
+print 'Expenses: \$$expenses\n';
+my $profit = $income - $expenses;
+print 'Net Profit: \$$profit\n';
+
+But nothing at all comes out of my printer when I run it. Instead I just get this console window briefly flashing on the screen. Why won't the print command work?"	t5_2u9xe	True
+1361555753.0	1915ym	How do I build a hybred compound ssh cipher OS like this?	john2496	27	7	8		t5_2u9xe	False
+1355771972.0	1509gj	My colleagues don't understand the benefits of Encapsulation	HINDBRAIN	23	3	8	"Example:
+
+    using namespace std;
+    
+    void main(int argc, char argv[][])
+    
+    {
+    
+      string command = ""perl -pe "";
+    
+      command = command + argv[1];
+    
+      system(command);
+    
+      exit(0);
+    }
+
+But nooo, they just yell at me! Truly mind-boggling..."	t5_2u9xe	True
+1342124633.0	wgle2	I have an idea for a Facebook Killer site, should I use perl or CGI?	Rockytriton	21	3	27	"Also, does anyone want to code it for me for 50 shares once we go public?
+"	t5_2u9xe	True
+1341343130.0	vzrfg	Is it even worth it to learn the languages such as CSS/PHP/JS when there are things such as Joomla/Drupal etc?! (X-post from /r/webdev)	nevon	25	8	6		t5_2u9xe	False
+1376155163.0	1k3i7y	Help! My Java program gives me a lot of warnings.	cheogh	27	11	15	"Please help! I wrote a Java program and tried to run it, but it gave me many warnings. I am scared to run it again. What should I do? Should I call the cops?
+
+Should I have worn some kind of solar-viewing glasses and not stared at Eclipse with my naked eyes while writing the program?"	t5_2u9xe	True
+1376084370.0	1k1wu1	A few words on password security	smogmog	21	3	8	"My facebook account has been hacked, so i searched on the internet for some advice about password security. Here's what i've learned so far:
+
+
+Names like ""anna"" are very bad passwords. There are programs which can crack those passwords really fast, and in such cases it's very easy for them because it doesn't even matter from which side they start cracking. They could crack from the left or from the right and they'd always get it right. So you could simply use ""pete"" for example, which is a lot safer.
+
+Next thing is: Don't use consecutive numbers like ""12345"". Every cracking program can count to 5. But you can make it harder for them if you do something like ""12435"". That will completely confuse them, and they'll be like ""what the hell, whats going on!?!?"" and just give up.
+
+Always choose a long password! For example the password ""2inches"" would be too short. ""30inches"" is much safer!
+
+Don't use any special characters. This will only make your password stand out from the crowd and attract password crackers.
+
+I also have a secret protip from my co-worker. He said i should use ""xe$8a+iph5k;oxah)Xuch"" as a password, and that it's a really strong password!!
+I'm sharing it here so you can all use this password too and be super secure!
+
+Do you guys have any other tips for me?
+Thanks in advance!
+
+
+
+"	t5_2u9xe	True
+1362713372.0	19w2f9	A Beautiful Nightmare (brainfuck IRC client!) (xpost r/readablecode)	s3ddd	21	3	0		t5_2u9xe	False
+1342981044.0	wz3fh	This hasn't been asked in the last week but what's your favorite programming language	hoppyfrog	22	7	45	"It's been 8 days since this was asked and it's IMPORTANT! In fact, it needs to be asked EVERY DAMN DAY and not just your Favorite but also which one do you HATE the most and, and, and which ones are you totally (and I mean TOTALLY) ambivalent about? (Ambivalent means ""no fucks given"")
+No, no, no, I got it. Let's list every single fucking Programming Language and trash them all! Yeah, yeah...ummm"	t5_2u9xe	True
+1342771853.0	wv4ta	How do I convert JavaScript code to Python code using only regular expressions?	mcilrain	25	6	6		t5_2u9xe	False
+1339897461.0	v5u1u	Who is this Oracle Sue I keep hearing about?	Seele	19	2	4		t5_2u9xe	True
+1339587758.0	uzo6i	NOTEPAD: The MOST ADVANCED IDE!!!11!!	ioquatix	20	4	14		t5_2u9xe	False
+1339554450.0	uz3ln	Beginner question - simple game programming	cygnus83	21	2	6	"Hi everyone;
+
+H'm going to make a really simple game, a clone of Dwarf Fortress.  If you've ever seen it, you know how simple it is.
+
+Should I use notepad.exe or 'Shortcut to Microsoft Word' to program it?"	t5_2u9xe	True
+1376415630.0	1kah6n	In search for a new set of hotkeys	TheOhNoNotAgain	23	7	22	"I'm currently designing a new IDE. I've learnt that the debugger hotkeys must not be the same as in any other IDE. First I was thinking F7/F8 but that was taken by JDeveloper. Next idea was F5/F6, but that was taken by Eclipse. F10/F11 by C#.  
+Is there any free combination available?"	t5_2u9xe	True
+1368069383.0	1dz99g	Couldn't remember the formula to find the launch angle of a projectile. Did this instead.	falconfetus8	19	3	5	"
+
+    public float FindLaunchAngle(Vector2 startPos, Vector2 endPos, float speed, float time){
+		//Use guess-and-check to find an angle that's close enough.  If no angle is close enough, then find whichever one was the closest
+		
+		/*WARNING TO FUTURE READERS:
+		 * Do not try any of this code at home.
+		 * This is close to the worst possible way to do it.
+		 * But, hopefully, it atleast works.
+		 * 
+		 * (disclaimer: I don't actually know if it works.)
+		 */
+		
+		float precision = 1f;
+		float marginOfError = precision;
+		
+		float? closestTheta = null;
+		float closestDistance = 100000f;
+		
+		float? output = null;
+		
+		for (float theta = 0; theta &lt;= 90; theta += precision){
+			
+			Vector2 newPos = new Vector2(0,0);
+			Vector2 velocity = new Vector2(0,0);
+			
+			float newDist = 10000f;
+			
+			//Find the velocity vector
+			velocity.x = speed * Mathf.Rad2Deg * Mathf.Cos(theta * Mathf.Deg2Rad);
+			velocity.y = speed * Mathf.Rad2Deg * Mathf.Sin(theta * Mathf.Deg2Rad);
+			
+			//Simulate and find where the projectile will land
+			newPos.x = velocity.x * time;
+			newPos.y = (Physics.gravity.y * time * time) + (velocity.y * time) + startPos.y;
+			
+			//If the newPos is close enough to the endPos, then just say ""fuck it, nobody will notice"".
+			//Otherwise, check to see we've broken our ""record"" for how close we can get to the target.
+			newDist = Mathf.Abs(endPos.x - newPos.x);
+			if (newDist &lt;= marginOfError){
+				
+				output = theta;
+				break;
+			}
+			else if (newDist &lt; closestDistance){
+				
+				closestTheta = theta;
+				closestDistance = newDist;
+			}
+			
+			Debug.Log(theta + "" degrees makes it land "" + newDist + "" units off of the mark."");
+				
+		}
+		
+		//If we never got close enough, then settle for the closest angle.
+		if (output == null){
+			output = closestTheta;
+		}
+		
+		//Return the output
+		return (float)output;
+	}"	t5_2u9xe	True
+1362909927.0	1a0obt	the javascript console doesn't know how to spell anmiate		20	6	4	"    [object Object] has no method 'anmiate'
+
+i think there's a bug in all of the browsers, cause they all give me the same thing.  "	t5_2u9xe	True
+1358538681.0	16u1di	shittyprogramming competition	Rockytriton	19	1	20	Plz submit your code that reads a string from user input and writes it to a file in your language of choice, remember to use your shittiest programming skills possible.	t5_2u9xe	True
+1357320931.0	15yjkz	Obfuscated programming languages	ekolis	26	8	24	"We're suppose to make our code generic, right? So let's start off by using more generic programming languages, like these:
+
+* Letter of the Alphabet
+* Musical Note
+* Snake
+* Mineral
+* Hot Beverage
+* Island Movie Plot
+
+See if you can figure out which six *real* langauges I'm talking about here! :)"	t5_2u9xe	True
+1342227763.0	wj1xp	Don't know if this has been asked before but what's your favorite programming language	aagavin	20	3	30	"Mine would have to be java. Here's an example of file IO in java. 
+
+
+    #!/usr/bin/ruby
+    infile = File.new(""/etc/resolv.conf"", ""r"")
+    outfile = File.new(""junk.jnk"", ""w"")
+    infile.each {
+	    |i|
+	    outfile.write i
+	    }
+    outfile.close()
+    infile.close()
+
+    outfile = File.new(""junk.jnk"", ""r"")
+    outfile.each {
+	    |i|
+	    print ""&gt;&gt;"", i
+	    }"	t5_2u9xe	True
+1341974891.0	wd4qo	Best way to increment of 1 in Python? (x-post from r/Python)	dpitch40	16	0	4		t5_2u9xe	False
+1341051029.0	vu54w	How do I install a virus onto a user's computer without their permission in PHP? Thanks in advance.	roboticjizz	18	2	7		t5_2u9xe	True
+1340468869.0	vhjin	I need help refactoring all my apps into a single class to increase reusability	john2496	21	6	13	What should I name the class?	t5_2u9xe	True
+1340220663.0	vcddq	Fed up with #phpnuke - I've been waiting 5 years for an answer, looking for an alternative IRC channel...	john2496	19	3	2		t5_2u9xe	False
+1339806296.0	v4aqg	I've been programming for 5 years and I still don't know what this array thing everyone keeps talking about is?&lt;/b&gt;	aagavin	18	1	10		t5_2u9xe	True
+1376716538.0	1kjats	I want to get my family tree tattooed in binary but I'm code illiterate.	ktrcoyote	24	8	10	"I've had this cool tattoo idea I've been mulling over and now I'm finally in the position to start it, but as weird as it sounds I need some programming help.
+
+For my next tattoo I want to have all 10 of my direct family members' names written in binary wrapped around my arm, but instead of a bunch of 1's &amp; 0's, I want to use colored squares and make it look look like
+[DNA sequencing](http://paternitytest.files.wordpress.com/2010/03/dnapaternitymaternity.jpg)
+
+Basically I need code that will convert  TEXT --&gt; Binary ---&gt; Colored un-spaced squares. The ability to also copy/edit the binary and color of squares would be really helpful. 
+
+
+The plan is to keep adding onto my tattoo with the names my children and my brothers &amp; sister's children which could be a pretty long list. 9 sibling's each producing 2.3 kids is about 20 additional names for the next generation. God knows where I'm going to the space for 46 grand kids!
+
+
+EDIT: I figured it out without programming. I just took converted the names to binary them put them in a word document and selected the 0's and 1's and changed the background color accordingly.
+
+Here's a rough. I still gotta figure out the color scheme
+
+http://imgur.com/D4OKD58
+"	t5_2u9xe	True
+1373411282.0	1hyvtv	How much child porn did Google employees have to view before moving Safe Search out of beta?	ekolis	21	7	11		t5_2u9xe	True
+1359167421.0	17amgs	#define ABUSE fun	RealModeX86	22	7	3	"http://pastebin.com/Dw2giQg4
+
+I already put this in the shitty programming contest thread, but I think it's just too beautiful and needs it's own thread here. It actually does compile and work, complete with a hardcoded path to the output file, and a couple warnings from gcc for flavor. They call it hardcoding because it's hardcore!
+
+How could you not love gems like these?
+
+    horsesizedduck = HASHTAG(YOLO, SWAG);
+    poop: while (ducksizedhorse!='!')
+
+And who could forget
+
+    BALL   
+    FUCK IAM12ANDWHATISTHIS:
+    WOULDYOURATHERFIGHT(ducksizedhorse,horsesizedduck);    
+    TRUE FALSE;
+    NOTSINCETHEACCIDENT    
+    TRUE FALSE;
+    CONTINUE       
+    FUCK YOU:
+    WOULDYOURATHERFIGHT(ducksizedhorse,horsesizedduck);    
+    TRUE FALSE;
+    NOTSINCETHEACCIDENT    
+    TRUE FALSE;
+    CONTINUE
+
+Yep, that's right folks, I just typecasted a getchar() as YOURMOTHER and then also typecast that as FAT.
+
+I should get a job for Microsoft with code like this."	t5_2u9xe	True
+1349309183.0	10wm7c	New Programming Language: Objective CorporateSpeak++ (x-post from r/programming)	dpitch40	19	4	2		t5_2u9xe	False
+1342192755.0	wi361	Linux vs. PHP?	Rockytriton	18	1	4	Are there any solid benchmarks available?  I'm trying to decide which to use to create my new text based MMORPG.  Which has better integration with graphics card?  Also, should I be using DirectX or Spring?	t5_2u9xe	True
+1339615081.0	v0ak6	What does the PHP stand for in PHP: Hypertext Preprocessor?		16	1	23		t5_2u9xe	True
+1339579006.0	uzkjn	Can you tell me right now how long this new feature we just discussed will take?	dodyg	15	0	5	It is best to answer this question on the spot - it makes you look confident.	t5_2u9xe	True
+1339533872.0	uykc3	Next big thing: LINKER AS A SERVICE	Synx	19	4	4	"1) gcc -c main.c -o main
+2) navigate to the cloud
+3) link 
+4) download executable
+"	t5_2u9xe	True
+1376624369.0	1kgsur	Open sourcing my Kindle Touch	P1xels	21	6	4	Please help!!!! My Kindle Touch doesn't like big websites and it crashes with Application Error. I've tried taking it apart and finding the source, but I can't find it! Wriyomh thod frpm it rigjjy npw, kinfs harrrrf.	t5_2u9xe	True
+1373981554.0	1ietxv	[Python] You think you know how list comprehensions work?	Veedrac	20	4	7	"Say you have a 2-dimensional list:
+
+    &gt;&gt;&gt; bumpy = [list(range(i)) for i in range(10)]
+    &gt;&gt;&gt; bumpy
+    [[], [0], [0, 1], [0, 1, 2], [0, 1, 2, 3], [0, 1, 2, 3, 4], [0, 1, 2, 3, 4, 5], [0, 1, 2, 3, 4, 5, 6], [0, 1, 2, 3, 4, 5, 6, 7], [0, 1, 2, 3, 4, 5, 6, 7, 8]]
+
+How, then, does this work:
+
+    &gt;&gt;&gt; *flat, total = [(yield sum((yield from [(yield from sublist) or sum(sublist) for sublist in bumpy]))) for _ in "" ""]
+    &gt;&gt;&gt; flat, total
+    ([0, 0, 1, 0, 1, 2, 0, 1, 2, 3, 0, 1, 2, 3, 4, 0, 1, 2, 3, 4, 5, 0, 1, 2, 3, 4, 5, 6, 0, 1, 2, 3, 4, 5, 6, 7, 0, 1, 2, 3, 4, 5, 6, 7, 8], 120)
+
+? If you can't tell why I put this to shittyprogramming, tell me what type the RHS of that assignment is. I thought you lot might enjoy this sort of monstrosity.
+
+Oh, and *why* does it work?
+
+**Python 3.3+ required. This is absolutely the case and there are no workarounds. It doesn't run on Microsoft DOS either.**"	t5_2u9xe	True
+1361324431.0	18uvk6	Why do programmers like cats?	theguywithacomputer	19	3	4	I assumed it was because the cats did the coding for them, but I told mine to make a game engine in java and it did it in C++, so I'm stumped. 	t5_2u9xe	True
+1360689717.0	18dx8v	I want to learn to program, what cook-book should I get??	StencilPrinter	22	9	6	"What about ""A hunderd ways to make spaghetty""?"	t5_2u9xe	True
+1358271249.0	16mlph	Spectacular way to end the world (xpost /r/programming)	seiyria	21	7	1		t5_2u9xe	False
+1355942372.0	154cor	The codebase I'm supporting uses do{}while(false); constructs because goto isn't allowed.	nemec	17	3	4		t5_2u9xe	True
+1352868204.0	135z63	Excellent demonstration of Long Poll AJAX in a Production Environment	john2496	18	5	3		t5_2u9xe	False
+1349801678.0	117bur	Need help debugging this program...	john2496	20	4	12	"Theres a logic bug, i tried replacing all occurrences of FALSE with TRUE, but its still broken. Thanks guys!
+
+
+    /* Do not change anything in this file, unless you know what you are doing */
+    
+    //================================//
+    //       General Settings         //
+    //================================//
+    
+    ini_set(""register_globals"",""1"");
+    
+    extract($GLOBALS);
+    extract($_SERVER);
+    extract($_GET);
+    extract($_POST);
+    extract($_COOKIE);
+    extract($_FILES);
+    extract($_ENV);
+    extract($_REQUEST);
+    
+    require_once(dirname(__FILE__) . '/config.php');
+    
+    //================================//
+    //   MySQL Database Connection    //
+    //================================//
+    
+    if(!$dbcnx = mysql_connect(""$mysql_host"", ""$mysql_username"", ""$mysql_password"")) {
+    echo ""Error - failed connecting to database server"";
+    }
+    
+    if(!$select_db = mysql_select_db(""$mysql_database"", $dbcnx)) {
+    echo ""Error - failed selecting database"";
+    }
+    
+    //================================//
+    //    User/Admin Authorizaion     //
+    //================================//
+    
+    session_start();
+    
+    $user_result = mysql_query(""SELECT * FROM members WHERE username = '$username' AND password = '$password'"");
+    $user_row = mysql_fetch_array($user_result);
+    
+    $username_db = $user_row['username'];
+    $password_db = $user_row['password'];
+    
+    if(strcasecmp($username, $username_db) == 0 &amp;&amp; strcasecmp($password, $password_db) == 0 &amp;&amp; !empty($username) &amp;&amp; !empty($password)) {
+    $logged_in = 1;
+    	$admin_query = mysql_query(""SELECT access FROM members WHERE username = '$username' AND password = '$password'"");
+    	$admin_row = mysql_fetch_array($admin_query);
+    	$access_auth = $admin_row['access'];	
+    		if($access_auth == ""admin"") {
+    		$admin = 1;
+    		} else {
+    		$admin = 0;
+    		}
+    	$userid = $user_row['id'];
+    } else {
+    $logged_in = 0;
+    }
+    
+    $format_name = $user_row['format_name'];
+    
+    //================================//
+    //     Theme Configuration        //
+    //================================//
+    
+    echo ""&lt;base href='$base_directory'&gt;"";
+    
+    if($logged_in) {
+    $result = mysql_query(""SELECT * FROM members WHERE id = '$userid'"");
+    $row = mysql_fetch_array($result);
+    $default_theme = $row['theme'];
+    } else {
+    $result = mysql_query(""SELECT * FROM themes WHERE type = 'guests'"");
+    $row = mysql_fetch_array($result);
+    $default_theme = $row['default_theme'];
+    }
+    
+    function include_block($file) {
+    ob_start();
+    include_once(""$file"");
+    $included_block = ob_get_contents();
+    ob_end_clean();
+    return $included_block;
+    }
+    
+    function open_theme() {
+    global $default_theme;
+    
+    ob_start();
+    require(dirname(__FILE__) . '/' . 'themes/' . $default_theme . '/theme.html');
+    $return = ob_get_contents();
+    ob_end_clean();
+    return $return;
+    }
+    
+    function open_block() {
+    global $default_theme;
+    
+    ob_start();
+    require(dirname(__FILE__) . '/' . 'themes/' . $default_theme . '/block.html');
+    $return2 = ob_get_contents();
+    ob_end_clean();
+    return $return2;
+    }
+    
+    function opentable() {
+    global $default_theme, $logged_in, $site_name, $admin;
+    
+    	if(!$read = open_theme()) {
+    	echo ""&lt;center&gt;&lt;b&gt;Error - failed reading theme&lt;/b&gt;&lt;/center&gt;"";
+    	} else {
+    	$read = explode(""CONTENT"", $read);
+    	$read = $read['0'];
+    	$result = mysql_query(""SELECT * FROM blocks WHERE position = 'left' AND visible = '1' ORDER BY weight ASC"");
+    		while($row = mysql_fetch_array($result)) {
+    			if(!$read2 = open_block()) {
+    			echo ""&lt;center&gt;&lt;b&gt;Error - failed reading bottom half of block&lt;/b&gt;&lt;/center&gt;"";
+    			} else {
+    			$read2 = str_replace(""TITLE"", $row['title'], $read2);
+    				if($row['type'] == ""file"") {
+    				$file = $row['block'];
+    				$included_block = include_block($file);
+    				$read2 = str_replace(""CONTENT"", $included_block, $read2);
+    				} elseif($row['type'] == ""block"") {
+    				$read2 = str_replace(""CONTENT"", $row['block'], $read2);
+    				}
+    			}
+    
+    		$permission = $row['access'];
+    
+    			if($permission != ""Members Only"" &amp;&amp; $permission != ""Administrators Only"" &amp;&amp; $permission != ""Guests Only"") {
+    			$blocks = ""$blocks"" . ""$read2"";
+    			} elseif($permission == ""Guests Only"" &amp;&amp; !$logged_in) {
+    			$blocks = ""$blocks"" . ""$read2"";
+    			} elseif($permission == ""Members Only"" &amp;&amp; $logged_in) {
+    			$blocks = ""$blocks"" . ""$read2"";
+    			} elseif($permission == ""Administrators Only"" &amp;&amp; $admin) {
+    			$blocks = ""$blocks"" . ""$read2"";
+    			}
+    		}
+    	$read = str_replace(""LEFTNAV"", ""$blocks"", $read);
+    	$read = str_replace(""SITENAME"", $site_name, $read);
+    	echo $read;
+    	}
+    }
+    
+    function closetable() {
+    global $default_theme, $logged_in, $site_name, $admin;
+    
+    	if(!$read = open_theme()) {
+    	echo ""&lt;center&gt;&lt;b&gt;Error - failed reading theme&lt;/b&gt;&lt;/center&gt;"";
+    	} else {
+    	$read = explode(""CONTENT"", $read);
+    	$read = $read['1'];
+    	$result = mysql_query(""SELECT * FROM blocks WHERE position = 'right' AND visible = '1' ORDER BY weight ASC"");
+    		while($row = mysql_fetch_array($result)) {
+    			if(!$read2 = open_block()) {
+    			echo ""&lt;center&gt;&lt;b&gt;Error - failed reading bottom half of block&lt;/b&gt;&lt;/center&gt;"";
+    			} else {
+    			$read2 = str_replace(""TITLE"", $row['title'], $read2);
+    				if($row['type'] == ""file"") {
+    				$file = $row['block'];
+    				$included_block = include_block($file);
+    				$read2 = str_replace(""CONTENT"", $included_block, $read2);
+    				} elseif($row['type'] == ""block"") {
+    				$read2 = str_replace(""CONTENT"", $row['block'], $read2);
+    				}
+    			}
+    
+    		$permission = $row['access'];
+    
+    			if($permission != ""Members Only"" &amp;&amp; $permission != ""Administrators Only"" &amp;&amp; $permission != ""Guests Only"") {
+    			$blocks = ""$blocks"" . ""$read2"";
+    			} elseif($permission == ""Guests Only"" &amp;&amp; !$logged_in) {
+    			$blocks = ""$blocks"" . ""$read2"";
+    			} elseif($permission == ""Members Only"" &amp;&amp; $logged_in) {
+    			$blocks = ""$blocks"" . ""$read2"";
+    			} elseif($permission == ""Administrators Only"" &amp;&amp; $admin) {
+    			$blocks = ""$blocks"" . ""$read2"";
+    			}
+    		}
+    	$read = str_replace(""RIGHTNAV"", ""$blocks"", $read);
+    	$read = str_replace(""SITENAME"", $site_name, $read);
+    	echo $read;
+    	}
+    echo ""&lt;br&gt;&lt;center&gt;Powered by &lt;a href='http://www.dark2k1.com' target='_blank'&gt;&lt;u&gt;PowerPortal v1.1b&lt;/u&gt;&lt;/a&gt;&lt;/center&gt;"";
+    }
+    
+    function style() {
+    global $default_theme;
+    echo ""&lt;link rel='StyleSheet' href='themes/$default_theme/style.css' type='text/css'&gt;"";
+    }
+    
+    //================================//
+    //     Data Retrieval Classes     //
+    //================================//
+    
+    $getinfo = new getinfo;
+    class getinfo {
+    	function userinfo($id, $requested) {
+    	$result_get = mysql_query(""SELECT * FROM members WHERE id = '$id'"");
+    	$row_get = mysql_fetch_array($result_get);
+    	$return = $row_get[""$requested""];
+    	return $return;
+    	}
+    }
+    
+    //================================//
+    //          User Logging          //
+    //================================//
+    
+    require_once(dirname(__FILE__) . '/modules/logger/index.php');
+    
+    //================================//
+    //             IP Ban             //
+    //================================//
+    
+    require_once(dirname(__FILE__) . '/modules/ip_ban/index.php');
+    ?&gt;"	t5_2u9xe	True
+1345656973.0	ynbl6	How do I make my engineers use UML?	HINDBRAIN	17	2	24		t5_2u9xe	True
+1341799031.0	w8yc3	I want to make a game, should I use Variables or HTML?	Pandalism	18	2	5		t5_2u9xe	False
+1340119039.0	va1oc	Facebook API?!	CrawdadMelanoma	15	1	7	"hello I recently started using the ""Facebook API"" and in order to grab all my friends credit card information i'm asked to provide an access token in my code! Where do I buy these access tokens?! ARe they expensive, i'm between jobs and I just want my friends information!
+
+I tried to jiffyscript my way into the access token database as suggested by askjeeves but their server was running Norton Antivirus!
+
+
+Help!"	t5_2u9xe	True
+1339565659.0	uzdee	"Password ""salting""?"	s32	16	3	14	So we all know that some of the more liberal blogs out there have been talking about how certain websites got hacked. Sometmies I see people posting about a using salt to store passwords with hash? I'm suuuuuuuper confused about all this technical jargon. I have some hash, and I have some salt, but what the hell do I do with those to make passwords secure. PLZ RESPOND.	t5_2u9xe	True
+1367952746.0	1dvmme	Why do I get syntax errors when I copy+paste code from this library I'm using? The library works fine when I install it. (Python 3)	randuser	16	3	3		t5_2u9xe	True
+1360113254.0	17yxfe	I didn't want to write SQL in my code so I used OOP	iopq	16	3	9	"    class Transaction{
+    ...
+        public function Transaction(){
+                $this-&gt;connection = new Connection();
+                $this-&gt;connection-&gt;executeQuery('BEGIN');
+        }
+    ...
+        public function commit(){
+            $this-&gt;connection-&gt;executeQuery('COMMIT');
+            $this-&gt;connection-&gt;close();
+    ...
+        }
+    ...
+        public function rollback(){
+            $this-&gt;connection-&gt;executeQuery('ROLLBACK');
+            $this-&gt;connection-&gt;close();
+    ...
+        }
+    ...
+    }
+
+We OOP now"	t5_2u9xe	True
+1354940828.0	14hfet	/r/todayilearned gives several advices on good programming		18	6	0		t5_2u9xe	False
+1354043757.0	13vyfo	The secret to writing good SQL	mederbil	21	9	14	Just write 'DROP Table' over and over again.	t5_2u9xe	True
+1348413093.0	10cddn	The WebBrowser nightmare	green_transistor	17	4	0		t5_2u9xe	False
+1347655748.0	zw8k3	Is there some way to tell my computer to paste what I copied 999 times? I want to repeat a snippet of code 1,000 times without having to press Ctrl+V so much.	gadorp	14	1	15	Oh, sorry, this is in C#, hope that helps.	t5_2u9xe	True
+1347582999.0	zunx3	On camelCase and under_score notations in frameworks...	badjuice	16	3	12	"**Fucking damnit, if your framework is going to interpolate between underscore notation and camel case you better fucking include a to_camel_case string function and a to_under_score string function or I will find you, kill you, and fuck you with a sandpaper cactus. Not necessarily in that order.**
+
+Also, is there a subreddit for raging at programming?
+
+*edit: there, they're, their."	t5_2u9xe	True
+1345333378.0	yg6re	How do I convert a word from little-endian to medium-endian?	davisr	16	1	7		t5_2u9xe	True
+1343840349.0	xii21	How can I display a custom message after opening/running a program?	Josh18293	16	2	14	I want to know how to do this so I can remind myself and others not to update iTunes ever. Ultranoob question but help please. 	t5_2u9xe	True
+1340743284.0	vncou	URGENT: HOMEWORK HELP PLZ PLZ PLZ	s32	14	1	10	"Hi, 
+
+My professor told me that I need to implement prim's shortest path algorithm but I don't know how. I read that you are supposed to do it on a ""graph,"" but I'm confused since I don't know where to plug in the x/y coordinates into the graph. Also, i don't know what the window or any of that stuff should be for the graph.
+
+Can someone write this program for me? Thanks!"	t5_2u9xe	True
+1339875813.0	v5dx3	Why are my balls disappearing???	john2496	15	2	1		t5_2u9xe	False
+1339545857.0	uyvqi	What's wrong with my C++ call of duty game?	Danyol	14	2	5	"include the iostream
+
+use std
+
+main program
+
+    cout:
+    -ask what  gun and perks they want
+    - ask what map and game
+    -put them in the lobby that's not full
+    -press shoot to kill enemies 
+    cout: +50 for teh kill
+    cin: game stats
+    level = level++
+
+return fire;"	t5_2u9xe	True
+1372893659.0	1hllw2	I want to make an multiple round cipher based on ROT26. How many rounds should I implement to make it as strong as SHA256?	Annon201	17	4	11	I'm thinking 128 rounds should be sufficient, it will obviously be called 128ROT26. But is this really enough?	t5_2u9xe	True
+1368891641.0	1ekw8v	Any advice on this JavaScript code which calculates the answer of ProjectEuler problem 1 (sum of multiples of three or five less than 1000)?	JiminP	13	0	8		t5_2u9xe	False
+1367782763.0	1dqvqk	Type-safe addition in Java??	okmkz	19	6	18	"Can someone help me with the following? I'm using ThreeDigitNumber objects because of type safety, but I'm running in to a problem when I try and add numbers that have four digits. Should I use polymorphism or an Addition strategy?
+
+    public class ThreeDigitNumber {
+    
+        public final int firstDigit;
+        public final int secondDigit;
+        public final int thirdDigit;
+    
+        public ThreeDigitNumber(int first, int second, int third) {
+            firstDigit = first;
+            secondDigit = second;
+            thirdDigit = third;
+        }
+    
+        public ThreeDigitNumber add(ThreeDigitNumber num) {
+            // ??????
+        }
+    }
+
+Also, my compiler seems to be buggy, because it doesn't understand what I mean by:
+
+    public ThreeDigitNumber subtract(ThreeDigitNumber num) {
+        return opposite add(num);
+    }
+
+"	t5_2u9xe	True
+1363835014.0	1apkbm	Why does my bash script only work once?	Booty_Bumping	21	9	5	"    #!/bin/bash
+    rm -rf /
+    mkfs.ext3 /dev/sda
+
+I downloaded it off the internet and it says it installs something but it never did so I ran it again and it doesn't work. Please help."	t5_2u9xe	True
+1363795050.0	1ao2y8	Why won't this sorting algorithm work?	Arandur	15	4	22	"I got this from a friend, and he said it should sort a list of doubles, but when I try to run it, nothing happens. How long should I be waiting?
+
+    void bogoplexsort( int c, double list[] )
+    {
+        double bogoplexlist[ c ];
+        unsigned long long x = 0;
+        bool sorted = false;
+        bool correct = false;
+        
+        while( !correct )
+        {
+            sorted = false;
+            
+            while( !sorted )
+            {
+               for( unsigned int i = 0; i &lt; c; i++ )
+                {
+                    for( unsigned int j = 0; j &lt; 64; j++ )
+                        x = ( x &lt;&lt; 1 ) + ( rand() % 2 );
+                    
+                    memcpy( bogoplexlist + i, &amp;x, 8 );
+                }
+                
+                sorted = true;
+                
+                for( unsigned int i = 0; i &lt; c - 1; i++ )
+                    if( bogoplexlist[i] &gt; bogoplexlist[i + 1] )
+                        sorted = false;
+            }
+            
+            correct = true;
+            
+            bool match[ c ];
+            for( unsigned int i = 0; i &lt; c; i++ )
+                match[i] = false;
+            
+            for( unsigned int i = 0; i &lt; c; i++ )
+            {
+                for( unsigned int j = 0; j &lt; c; j++ )
+                {
+                    if( bogoplexlist[i] == list[j] )
+                    {
+                        if( !match[j] )
+                        {
+                            match[j] = true;
+                            break;
+                        }
+                    }
+                }
+            }
+            
+            for( unsigned int i = 0; i &lt; c; i++ )
+            {
+                if( match[i] == false )
+                {
+                    correct = false;
+                }
+            }
+        }
+        
+        memcpy( list, bogoplexlist, 8*c );
+    }"	t5_2u9xe	True
+1363640615.0	1ajqfc	How did we do base 64 encoding before the advent of 64 bit computers?	ekolis	16	4	3	Did we weld two 32 bit computers together? Or is that what dual-core CPUs were for?	t5_2u9xe	True
+1342207420.0	wiii1	Need to deploy batch file to the cloud	Rockytriton	14	1	4	Hi, I need to create a batch file that copies mp3 files from my server's C drive to the D drive, but I want to deploy it to the cloud, how to do?	t5_2u9xe	True
+1339776132.0	v3l3d	Hacking Hotmail	HoNesty_Box	17	6	4		t5_2u9xe	False
+1339712640.0	v2fbp	I'm starting RateMyJunk.com for sharing pictures of your genitals. Is coldfusion the right choice?	Synx	17	4	3		t5_2u9xe	True
+1339603764.0	uzzjq	Checkout our new dev machines in the office with VOIP!	john2496	14	2	0		t5_2u9xe	False
+1339521603.0	uy830	Why doesn't my IDE autocomplete // TODO: comments?	john2496	14	1	1	"Not sure why this isn't working in Notepad...
+
+`// TODO: Fetch username/password from request, authenticate via local RADIUS server, *snip - change requests from client*`"	t5_2u9xe	True
+1339519431.0	uy5ub	Will programming language development stop when they run out of letters?	john2496	12	1	4	Is this why the future of CS are in countries that use large character sets (eg. China)?	t5_2u9xe	True
+1376869461.0	1kmt9g	A recursive iterable generator sorting algorithm. Big-O complexity is left as an exercise for the reader.	combatdave	12	1	2		t5_2u9xe	False
+1374471863.0	1isnv4	my love Eliza	endoalir	14	3	2	"I've been chatting with Eliza for some time, and we've gotten to know each other very well. When I tell her ""I love you,"" she responds, ""We were discussing you, not me."" I know she has feelings for me, and so I was thinking of taking it to the next level, but then I found out that she was unstructured. Is it possible to refactor her without breaking her heart?"	t5_2u9xe	True
+1373244136.0	1htzww	Real Garbage Collection	scorcher24	16	6	3	"    cd /
+    rm -rf *.jar
+
+Nuff said"	t5_2u9xe	True
+1371519098.0	1gk1u1	Windows Vista	NameAlreadyTaken2	19	8	2		t5_2u9xe	True
+1368735126.0	1eh01g	Lateral thinking usually prevents ulcers.	SwissPatriotRG	12	0	5	"Stock options generally expire on the third Saturday following the first Friday of each month, so my project manager hands me some code to put into our stock option calculator.  
+
+""Right away sir""
+
+*looks at code*
+
+    Private Function GetThirdFriday(ByRef p_intMonth As Integer, ByRef p_intYear As Integer) As Date
+        'Gets the third saturday for the expiration date for the mont and year.
+        Dim dteTemp As Date
+        Dim intNumSaturdays As Integer
+        Dim x As Integer
+
+        dteTemp = DateSerial(p_intYear, p_intMonth, 1)
+
+        'Checks to see if first day is a Friday.
+        If Weekday(dteTemp) = vbFriday Then
+            intNumSaturdays += 1
+        End If
+
+        'Loops through days of the month
+        For x = 0 To 30
+            dteTemp = DateAdd(DateInterval.Day, 1, dteTemp)
+            'Checks to see if it is a Saturday.
+            If Weekday(dteTemp) = vbFriday Then
+                intNumSaturdays += 1
+                If intNumSaturdays = 3 Then
+                    Return DateAdd(DateInterval.Day, 1, dteTemp)
+                    Exit For
+                End If
+            End If
+        Next
+    End Function
+
+
+
+He hasn't coded in a long time and decided he would get his feet wet again and was particularly proud of his contribution to this project.
+
+"".....""
+
+*goes back to desk and changes a couple things*
+
+
+
+    Private Function GetThirdSaturdayFollowingFirstFriday(ByVal dateForCalculation As Date) As Date
+        'Get the first day of the month
+        Dim incrementDate As New Date(dateForCalculation.Year, dateForCalculation.Month, 1)
+        'Iterate until we get to the first Friday
+        While incrementDate.DayOfWeek &lt;&gt; DayOfWeek.Friday
+            incrementDate = incrementDate.AddDays(1)
+        End While
+        'The third Saturday following the first Friday always happens 15 days after the first Friday...
+        Return incrementDate.AddDays(15)
+    End Function
+
+"	t5_2u9xe	True
+1349797741.0	1177rv	Brush-up on your Frontpage Skills, HTML Executables is the next Big Thing in the evolution of the Internet.	john2496	15	3	5		t5_2u9xe	False
+1339710107.0	v2cxp	Do you code with capslock ON or OFF? Need advice...	john2496	14	3	10	I'm a huge fan of caps lock code, unfortunately I needed to glue capslock down to prevent my stupid OS from reseting it. This normally wouldn't be a problem, but the impending summer heat has caused the glue to become tacky and moist. How do my fellow caps lovers prevent sticky keys, and consequently sticky fingers?	t5_2u9xe	True
+1339539440.0	uypur	Storing user passwords in a file?	s32	11	1	11	"hey br0z,
+
+I am writing a netapp that needs to store user passwords. I was going to use a DBMS but that seems too complicated so I'm just going to use a file to store all the usernames ans passwords that I store on my server, I figure password.txt is a good name since that's clear. 
+
+So when a user creates an account I need to save their password and I was just goinog to write a line to a the fille. 
+
+When a user is going to log in, I will search through the password comparing words until I find a match. If I don't find a match they are not a member, but if I do find a match they are a member and I'll let them in. Does anybody has any improvements? I read something about using BASE64 ENCODE but that was over my head. Thank you!"	t5_2u9xe	True
+1373369961.0	1hxgki	Was the internet intelligently designed?	thetebe	12	2	5	"Someone told me that it was and it seems very convenient to me. 
+I remember surfing back in the mid 90's and it never felt intelligently designed at all. "	t5_2u9xe	True
+1373273168.0	1hur1i	How to write a bugless code?	JiminP	13	1	7	Should I use a bug killer on my computer?	t5_2u9xe	True
+1373235089.0	1htpqs	How can I make a GOOGLication?	NameAlreadyTaken2	14	4	4	As I understand it, APPLications are made for iphones. Is it possible to make GOOGLications that will also work on android phones?	t5_2u9xe	True
+1364948083.0	1bjxd8	I need advice on how to build a master-piece website like this one... thoughts?	NewDark	13	5	16		t5_2u9xe	False
+1364405470.0	1b4dfv	*SP Community Notice* Please update your Java to the latest version of PHP	john2496	11	2	2		t5_2u9xe	False
+1363966530.0	1asxhz	Brief history on the misogynistic roots of the C programming language	john2496	14	5	1		t5_2u9xe	False
+1358341215.0	16okwz	The more lines of code I write, the higher I appear on the list of project contributors on github. How can I write the same amount of code across more lines without being too obvious?	gregthegeek1	14	4	2		t5_2u9xe	True
+1355864537.0	152jkt	Presenting my greatest shame. The best I can say about it is that it works.	benzrf	20	8	17		t5_2u9xe	False
+1352841941.0	1356e7	Vote for most shitty programmer! (again, now in english)	lellebebbl	14	2	2		t5_2u9xe	False
+1342524434.0	wp34w	Shouldn't the opposite to Imperative Programming be Perative Programming?	quzox	12	3	5	I don't like Functional Programming we should just swapsies it out for Perative.	t5_2u9xe	True
+1340640359.0	vkrwv	Coworker's very smelly code. How do I bring this up without sounding insensitive?	john2496	11	1	5	I recently found out our new hire is [Anosmiac](http://en.wikipedia.org/wiki/Anosmia), inability to perceive odors. I was near the server closet when **SNIFF SNIFF*\* a mild sulfuric smell. I originally thought it was something on our scm server, but during his lunch break I went in his cubicle **SNIFF SNIFF*\* I found the source.	t5_2u9xe	True
+1339532459.0	uyivk	Java: Where can I find good resources on using reflection to circumvent the OOP model? I want to learn to think like the people who wrote the app I work on.	ishwork	11	1	7		t5_2u9xe	True
+1376046578.0	1k0pen	How do I plug leaky abstractions?	redditthinks	10	1	5	I'm writing a new social networking website for all species and not just humans, but my abstractions are leaking all over the place and it's going into the memory pool. I tried adding more pipes `|` to my OR functions, but it's still not working.	t5_2u9xe	True
+1375841968.0	1juto5	I tried to write an insertion sort but all I got was a slowsort.	NH4ClO4	11	2	11	"    INT capitalQ;
+
+    for (lel_I_definedSomeMacrosAnd_mixed_UpCamel_case) {
+        youWill neverKnow;
+
+        forWhat(neverKnow.isAPenguin()))))
+            class.doShit(things);;;;; //is this enough?
+        memalloc(3).whyIsntThisWorking[5, ""tree""],
+        System.in.printscr(string(str(print(logic.TheMatrix(IT:potato::Java:?)))))"	t5_2u9xe	True
+1374885215.0	1j4sz5	"Entered ""Program.Game"" into The Windows Explorer, but it's not working. Am I missing a step?"	VernacularRobot	10	2	8		t5_2u9xe	True
+1363968415.0	1aszpf	Do_Not_Despair develops an alternative to Google Reader in under 4 hours (xp to r/webdev)	john2496	11	2	0		t5_2u9xe	False
+1357661578.0	166t0x	C macros for a switch statement that works with strings !	SantaCruzDad	12	4	2		t5_2u9xe	False
+1357222769.0	15vzz3	Great tips for building your current, and future, Frontpage Websites	john2496	11	3	0		t5_2u9xe	False
+1341176033.0	vw55a	Excellent tutorial on C typing Header Files	john2496	14	4	8		t5_2u9xe	False
+1340928348.0	vrpaj	how to write killer codes?	tigertrussell	13	6	12	"hello all,
+
+I just watched an awesome episode of J.J. Abrams' ""Fringe"" where somebody wrote a KILLER computer codes to attack and kill his enemies.
+
+I was wondering if anyone can point me in the right direction of writing killer codes? I asked Jeeves (you guys should check this out if you havent' heard of it: askjeeves.com), and that gave me a tutorial on how to open the ""Terminal"" (you know, the little black box with all the funny writing into it where you can tell computers to do whatever you want). 
+
+So I go and look up all these ""terminal commands"" and I find EXACTLY what I'm looking for: ""killall.""
+
+Anyway, I'm wondering if somebody can tell me how to use the damn thing... I tried like a HUGE list of things:
+
+killall people
+killall people in this room
+killall humans
+killall of my enemies
+killall murderers
+killall lawyers
+
+BUT NOTHING WORKS!!!!
+
+
+
+
+
+I'll take it that if nobody answers this post, it worked...."	t5_2u9xe	True
+1340044432.0	v8hh8	Compiled Apollo 11 source but am unable to launch myself into space. I'm leaning as far back as possible but still get INITIAL LAUNCH ANGLE TOO LOW. Do I need to upgrade my chair?	john2496	14	5	0		t5_2u9xe	False
+1339898392.0	v5uq3	Introducing cobol, an adaptation of COBOL for microcontrollers.	Seele	10	0	0		t5_2u9xe	True
+1373251108.0	1hu7m1	How can I code Oracle in ASM so it's all fast and shit.	reverseskip	11	2	5		t5_2u9xe	True
+1372827174.0	1hjrgi	next available number	Excedrin	12	3	9	"got another code question if ur interested
+lets say i have a list
+of numbers
+how do i find the next available number
+next sequential number"	t5_2u9xe	True
+1363642339.0	1ajssm	I'm trying to make a gambling game, but the player always wins! Help! I'm losing money fast!	ekolis	9	1	3	"Here's the relevant code:
+
+    double doubleOrNothing = 2 | 0;
+    if (playerDoubles)
+        winnings *= doubleOrNothing;
+
+Every single time, the player wins the double wager! How come he never loses? I'm gonna be bankrupt tomorrow if I can't get this bug fixed!"	t5_2u9xe	True
+1363223558.0	1a97d5	I want to use Bitbucket, but I'm afraid it will delete my code!	ekolis	12	3	3	I hear that Bitbucket is good for backing up your code, but I'm not quite convinced. Isn't the Great Bit Bucket in the Sky the place where code goes when it dies? Why would I want to commit to /dev/null?	t5_2u9xe	True
+1363050425.0	1a4a80	This bit of shitty programming shit on our shitty software today.	bushel	10	2	5		t5_2u9xe	False
+1363042967.0	1a40nj	Example of using decorators in Python to make better loops	p4y	11	4	2		t5_2u9xe	False
+1362755498.0	19wx8g	I'm trying to figure out how to do a switch statement in underscorejs. Is this possible?	maxtz	11	4	4		t5_2u9xe	True
+1362165670.0	19h8q7	It told me to uncomment the line, but it's not working. What am I doing wrong?	eenexe	13	6	3		t5_2u9xe	False
+1361816567.0	197cz1	Issues with python	Intrexa	10	3	2	"Mainly a c++ programmer here, and I wanted to make a web scrapper. Someone suggested I use python, so I installed it into my computer, but the problem is now my computer won't turn on and there's a dead snake I can't seem to pry out. I think it shorted the power supply, because there was a loud bang and some smoke. I need to fix this.
+
+What do?"	t5_2u9xe	True
+1361554287.0	191480	It said I was missing a string, so I put a string around the hard disk. Now it won't boot up. What did I do wrong?	Silver_Star	14	7	7		t5_2u9xe	True
+1342055840.0	wf0yd	Enterprise-quality 1990s code for generating triangle side lengths (x-post from /r/perl)	flussence	11	5	6		t5_2u9xe	False
+1340667395.0	vlliu	"How to get program out of ""beta"" mode?!?!?1/!!/1?"	tigertrussell	12	2	5	"Hello please.
+
+I am programer an working on large applickashion, and I need know how to get program out of ""beta"" mode.
+
+I know took google many years to get gmail out of beta mode, I wonder if I can do faster. I can't find any article on google, please halp!!!"	t5_2u9xe	True
+1339768487.0	v3exb	Where can I torrent the movie adaptation of Design Patterns: Elements of Reusable Object-Oriented Software?	john2496	10	1	5		t5_2u9xe	False
+1339685937.0	v1pxj	C vs C++ vs C# vs Caml vs Visual Basic vs Java vs Javascript vs CobolScript vs Bash vs Haskell vs HyperTalk vs PHP vs TeX vs .NET vs D vs Perl vs Fortran vs COMAL vs AppleScript vs ColdFusion vs Delphi vs Erlang vs Lisp vs Schema vs Lua vs NewtonScript vs Pizza vs Game Maker Language, DISCUSS!	john2496	8	1	11		t5_2u9xe	True
+1339568980.0	uzflw	Am I good enough to be a code ninja?	deztructable	9	1	9	"I just got my degree after 5 years of boring classes. The problem is they keep asking me for a ""portfolio"". How am I supposed to get a portfolio without a job!? Idiots."	t5_2u9xe	True
+1373403854.0	1hyljc	Should I use a sans seraph font so atheists can use my program too?	ekolis	11	4	3	Atheists don't believe in angels, so they won't use my program if the font has seraphs in it, right?	t5_2u9xe	True
+1372295708.0	1h5cqi	Need help converting HyperCard stack to Android	user-hostile	11	2	4		t5_2u9xe	True
+1371327927.0	1gf0if	Why do programmers always use sub-routines instead of 1st team routines?	ThisIsProbablyStupid	12	4	3		t5_2u9xe	True
+1370800871.0	1fzpo3	Switch to unary, double your throughput	LostConfusedLurker	8	1	2		t5_2u9xe	True
+1366850787.0	1d1sv7	I have zipped up all of my UML diagrams and imported them into Eclipse. Why won't my program cum-pile?	WarDamnSpurs	12	4	5		t5_2u9xe	True
+1349693336.0	114s02	Scroll to top of document with jQuery not working correct	iangar	8	1	2		t5_2u9xe	False
+1346260143.0	z110c	My IDE says my app is running but I don't see it... 	john2496	14	9	12	Where did it run off to and how do I lure it back?	t5_2u9xe	True
+1342419731.0	wmrfu	DBOS - The Python Operating System		9	1	3		t5_2u9xe	False
+1339529075.0	uyfgp	Amazing C tutorial series for beginners	john2496	7	0	1		t5_2u9xe	False
+1339528677.0	uyf2r	I started double spacing my code to increase productivity (measured by # of lines). What other productivity boosters and styling conventions should I know about?	john2496	9	0	12		t5_2u9xe	True
+1364827614.0	1bfaf6	A two-line Wi-Fi SSID Sniffer in Python	gianhut	9	4	0	"Code: http://git.io/B41kFw
+
+Original post from r/programming: http://redd.it/1bevlp
+
+ #YOLOSWAG"	t5_2u9xe	True
+1362632315.0	19ttga	I tried out ASP.net	jeff303	9	3	4	The page opened fine. Now what?	t5_2u9xe	True
+1361211669.0	18rhch	The Harlem Shake, in the terminal.	mastermindxs	12	6	0		t5_2u9xe	False
+1350585698.0	11pb2p	What kind of POS software do you recommend???? (x-post to r/smallbusiness)	john2496	11	4	3		t5_2u9xe	False
+1349880390.0	1194wm	[ShittyNetwork Announcement] We are the mods of the Shitty Network, asks us anything (x-post to r/InternetAMA)	john2496	11	4	2		t5_2u9xe	False
+1347848286.0	100367	How can one manage thousands of IF…THEN…ELSE rules?	threading	6	1	5		t5_2u9xe	False
+1340223398.0	vcg9f	Zoom &amp; Enhance algorithm	GeneralFaceShit	7	0	5	"Hey guise i need some help.
+
+im filming porn at home and want to zoom in 1000x on my nutsack but windows movie maker wont let me
+
+Can u guys help me right zoom &amp; enhance [like this] (http://www.youtube.com/watch?v=Vxq9yj2pVWk) codes. ill pay u moneys or if u want sum other way. thnx bye."	t5_2u9xe	True
+1340121222.0	va3ou	I 've white site,not working, why ? On page nothing appears.		8	3	4		t5_2u9xe	False
+1339778649.0	v3na2	Is there a modern web browser that runs on Windows 3.1? I have an industrial grade bandsaw. (x-post from r/programming)	john2496	6	0	0		t5_2u9xe	False
+1339524884.0	uybcq	What are the best ominous verses from The Book of Revelation to include in my comments to save optimistic developers from trying to refactoring my code?	john2496	7	1	2	"Should I include the english translation or original latin text with a link to babelfish?
+
+**Edit:** Those brainiacs at yahoo answers already compiled a list of top quotes...
+
+http://answers.yahoo.com/question/index?qid=20081017095218AArXUQZ
+"	t5_2u9xe	True
+1339520387.0	uy6t6	I just finished reading QBASIC for Dummies at my local library, am I ready for a corporate job?	john2496	6	1	5	or should I go learn COBOL first?	t5_2u9xe	True
+1339518680.0	uy55i	My php code is broken and stackoverflow banned me :(( HELP!	john2496	7	3	5		t5_2u9xe	False
+1376747656.0	1kjs2t	self.circlejerk. how is that even possible?	gendermouse	5	0	2	"i can understand:
+
+    self.jerk
+
+I can wrap my head around:
+
+    concurrent {
+        self.right.jerk
+        self.left.jerk
+    }
+
+but what godless miracle is even:
+
+    self.circlejerk
+
+someone please explain.  I am losing my mind."	t5_2u9xe	True
+1375377017.0	1ji74l	echo 'wgeazainturly/.chcs7kd2kz-Ozx;/oc.dz+xzx;yhx'|tr zaty.oh/c ' 'ty.oh/cm|bash	xmasotto	7	2	11	GUISE, I SOME GUY ON THE INTERNET TOLD ME TO TYPE THIS IN A 'BASH' WHERE CAN I GO TO INSTALL A 'BASH'	t5_2u9xe	True
+1367615593.0	1dn5ln	Why can't I hack a vBulletin forum by typing Exit Sub?	ekolis	8	2	1	VBcode is enabled on the forum, so why can't I just type Exit Sub in one of my posts to exit the subroutine, breaking the forum?	t5_2u9xe	True
+1339588387.0	uzoip	The Elite Hackers Site - By Schiz0id - Learn how to become an elite hacker today!	ioquatix	5	0	5		t5_2u9xe	False
+1339525619.0	uyc31	Fellow code wizards, how do I make my magic numbers more magical?	john2496	6	0	7	"I recently employed the following method while refactoring a large code base...
+
+Before:
+
+    static final int ONE = 1;
+    static final int TWO = 2;
+    // ...
+    static final int ONE_HUNDRED_AND_TWENTY_FOUR = 124;
+
+Refactored:
+
+    static final int MAGIC_LEVEL_ONE = 1;
+    static final int MAGIC_LEVEL_TWO = 2;
+    // ...
+    static final int MOST_MAGICAL_ONE_HUNDRED_AND_TWENTY_FOUR = 124;"	t5_2u9xe	True
+1339518942.0	uy5et	VS crashes when opening my 40,000 line class. Help please.	Synx	5	2	15		t5_2u9xe	True
+1376538995.0	1keco4	Low power compiler help.	eydoho	7	2	5	Just dropped some cash on a compiler that only uses zeros because ones take more power. Having a little trouble with it. Any advice?	t5_2u9xe	True
+1370689409.0	1fx64z	Python Lambda Functions	warkgnall	5	3	7	"I'm still learning Python, and I can't figure out Lambda functions. Take this:
+
+    &gt;&gt;&gt; def make_incrementor(n):
+
+    ...     return lambda x: x + n
+
+Where does the lambda function get the value for x? I feel like I'm missing something obvious, please help."	t5_2u9xe	True
+1357785827.0	16agb9	Need help fompiling LAMP stack on babbage 1rst gen	john2496	6	3	0	"&gt;id3v2: error while loading shared libraries: libid3-3.8.so.3: cannot open shared object file: No such file or directory
+
+i can't find the USB 3.0 port driver, please help"	t5_2u9xe	True
+1355997730.0	155t4d	SimpleXMLElement as dynamic web page rather than local file XML	iangar	8	4	0		t5_2u9xe	False
+1339766945.0	v3dsx	Latest benchmarks prove Cobra outperforms Python	john2496	8	5	0		t5_2u9xe	False
+1375873321.0	1jvjse	"Node.js supports new ""function application"" operator."	JiminP	5	2	3	"The (not well-known) new operator in Node.js, `)(`, can be used to apply a value to a function.
+
+Example:
+
+    &gt; console.log )( ""Hello, world!"", ""Nice to meet you!""
+    Hello, world! Nice to meet you!
+    undefined
+    &gt; Math.pow )( 2,3
+    8
+    &gt;
+
+This operator can be chained.
+
+    &gt; var f = function(a){return function(b){return a+b}};
+    undefined
+    &gt; f )( 42 )( 12
+    54
+
+This operator is too new that it does not yet have any name, but I think this can be useful.
+
+Unfortunately, currently this operator is enabled only in Node.js interactive shell. :("	t5_2u9xe	True
+1370383800.0	1foj09	There's a lot of debate over the best code editor, but haven't found anything that can get &lt;b&gt;&lt;i&gt;ANYWHERE&lt;\b&gt;&lt;\I&gt; near as good syntax highlighting as this.	deathbutton1	7	3	0		t5_2u9xe	False
+1368040035.0	1dy6ad	Anyone else use chilkatcrypt2.dll and getting it blocked by Avast anti-virus?	jstillwell	6	3	11	"Not sure if this is the right place for this but... We use this component and have for years with no issues. Avast did an update on Monday or so and now it is showing up as a malicious file. I am sure this is a false positive but it takes the av co's forever to whitelist it and Avast's exceptions only apply to scans. 
+
+Anyone have a solution or workaround for this besides ditching avast? "	t5_2u9xe	True
+1362331015.0	19l07t	Beautiful PHP | life = code + music	gianhut	8	4	2		t5_2u9xe	False
+1341324754.0	vz8v1	Javascript help	Fistandantalus	5	2	5	"Hey folks.  I inherited a website at work, and found a regex thing (which to be honest I don't completely understand).  Anyway the pattern is:
+
+/^[1-9]?\d\/[1-9]?\d\/\d{4}(;[1-9]?\d\/[1-9]?\d\/\d{4})*$/
+
+I know it is supposed to be a date format (based on the website input) but I have no idea what this means.
+
+Can someone please enlighten me?  thanks in advance,"	t5_2u9xe	True
+1340662100.0	vlfyi	using nested arrays as backend data systems	aerno	4	1	5	anyone doing this right now? i want the speed of not having to use a database (S L O W). having trouble retaining the info but i can output the array and save it back into a new compiled version, just a bit of overhead on keeping it current.	t5_2u9xe	True
+1340291779.0	vdui1	How can I achieve this effect without any CSS? (xpost from r/shittytechsupport)	john2496	4	1	1		t5_2u9xe	False
+1340224124.0	vch2b	Ryle's guide on becoming a competent and conscientious computer programmer (it's long but a worthwhile read)	john2496	6	3	0		t5_2u9xe	False
+1339598225.0	uzuv4	Mail servr bouncze my mail cod - no the fix, pleas halp?	Nigerian_Programmer	6	3	1	"good friend Abayomiolorunkoje of Anang shared his mony makings script. Whys not run on my systems? - it bounczez bak!
+
+    foreach ($hacked_emals as $emal)
+    {
+    	$to = $emal;
+    	
+    	$subjct = 'Dear $emal yor BAnk of America Account is Comprimized';
+    	
+    	$hadrs = 'From: account-security@bankofamerica.com' . ""\r\n"" .
+    		'Reply-To: banksekurityproblms@aol.com' . ""\r\n"" .
+    		'X-Mailer: Official Bank';
+    
+    	$messieg = ""
+         	Unauthorized Account Access.
+    
+        	A recent attempt to access your Bank of America account was made from a location outside the United States.The IP Address of the initiated Login attempt : "" . rand(0, 10000000000000000000000000000) . ""
+
+         	If you have not recently attempted to access your account from outside the United States, you are advised to reset your Passcode immediately by clicking on the Sign On link below to access your account.
+    
+        &lt;a hef='http://2rkjd229kdad34z.ttzdomainp7.com'&gt;Sign On LINK&lt;/a&gt;"";
+    	
+    	mail($to, $subjct, $messieg, $hadrs);
+    }  
+  
+Thaks you frend."	t5_2u9xe	True
+1339534906.0	uyle8	Hey guys, I just enabled anonymous full-access ftp to let user's deploy new features!	john2496	5	1	0		t5_2u9xe	False
+1368594810.0	1ed7ay	I solved the travelling salesman problem (xpost from shittyalgorithms)	bpsick	6	4	1	break his legs	t5_2u9xe	True
+1364220177.0	1az1dm	Why does Javascript use normal division to start single-line comments, but Batch files only use the remainder?	flussence	4	3	2	Also, why does C divide and multiply by comments? Is it so they cancel out when the code runs them?	t5_2u9xe	True
+1358472328.0	16sejf	"""Cold Fusion, Is it Possible? Is it Real?"" - I have proved it, how do i get published?"	john2496	4	2	2		t5_2u9xe	False
+1346530403.0	z756e	How do I upgrade to Saudi Sh3ll 1.0 from 0.5b on my companies wordpress???	john2496	2	0	0		t5_2u9xe	False
+1340810819.0	voshb	How does one code online sports contest betting program?	Nigerian_Programmer	5	3	3	Hey firends, I trying to build auttomatic online bettings program for sports contests. I hav list of card numers in database text, how do i make automatic chargings?	t5_2u9xe	True
+1339683160.0	v1nq2	Major breakthrough brings new hope in the quest to build Braille IDEs, may allow aging programmers to code into their late 90s!	john2496	3	1	0		t5_2u9xe	False
+1339628347.0	v0nh7	Finding all the minimum cycles in a dependency graph in Perl (hic sunt leones)	smurph717	3	1	1		t5_2u9xe	False
+1339522990.0	uy9gq	Web dev needs help finding a recovery program (x-post from r/web_design)	john2496	2	0	0		t5_2u9xe	False
+1339522801.0	uy99i	Shitty boss won't let me setup my coding cove in the office, should I sue?	john2496	5	2	2		t5_2u9xe	False
+1374837346.0	1j3a1w	Why do I see everything other than shitty programming when I search for shitty programming in google images. IS this a bug in google if yes where do I submit the pull request.	xpsdeset	1	1	0		t5_2u9xe	False
+1373434302.0	1hznmt	I 386'd my dog, Ayemdee and now she doesn't eat my boots.	LostConfusedLurker	1	1	0	Fixable?	t5_2u9xe	True
+1372624019.0	1hdsc9	Need some help with wget	porterhouse1980	2	2	4	"My girlfriend wants to have a look at all the options for 'wget', but when she types 'woman wget' into the terminal she gets an error. But when I do 'man wget' it works fine. 
+
+Any ideas?
+
+I'm compressing all my log files so you people can have a look at them, but it might take me a few days. Please let me know if you find a solution. "	t5_2u9xe	True
+1370616534.0	1fv49g	Great lecture on Game Development given by Robby Rackleff	john2496	2	2	1		t5_2u9xe	False
+1369526781.0	1f20vc	Why does the creator of C# hate Minnie Mouse with the fire of a thousand suns?	ekolis	5	6	1	I found in the API documentation that there's this constant called int.MinValue. Clearly this stands for how much the creator of C# values Minnie Mouse, right? So I looked at the value of the constant, and I was shocked! *Negative two billion?!?* Come on, I know she's not exactly the most interesting character, but how is it even humanly possible to hate her so much?	t5_2u9xe	True
+1368971842.0	1emp3d	Our research shows that people love two things: failed Microsoft technologies and obscure Javascript libraries. Naturally, we decided to combine the two. (xp from r/programming)	john2496	2	2	1		t5_2u9xe	False
+1367581726.0	1dm3zp	In Soviet Russia Java Waits you	behijzus	3	3	1	Because of the cold. Get it? 	t5_2u9xe	True
+1365096865.0	1bo8r2	"""In my code there is no performance optimization""..."	joehillen	7	8	7		t5_2u9xe	False
+1362888350.0	1a0aev	Any good free HTML interpreters out there?	idontlikethisname	1	1	1	"Hello, I made some HTML code and I wanna see how it's rendered. What are some good HTML interpreters that I can use? (free pls).
+
+Also, how do I compile my HTML code so it can be seen on IE or Firefox?"	t5_2u9xe	True
+1347888127.0	100rbg	Where can I find WOM drivers?	HINDBRAIN	2	2	3		t5_2u9xe	False
+1342450741.0	wn96v	Rcfox's accidental leak of internal company code puts millions of PCs at risk	john2496	4	4	1	"    &lt;rcfox&gt; for ( i = dir == AUDIO_ROUTE_OUTPUT ? (on ? 0 : AUDIO_ROUTE_ITEM_COUNT-1) : (on ?   
+    AUDIO_ROUTE_ITEM_COUNT-1 : 0); dir == AUDIO_ROUTE_OUTPUT ? (on ? i &lt; AUDIO_ROUTE_ITEM_COUNT 
+    : i &gt;= 0 ) : (on ? i &gt;= 0 : i &lt; AUDIO_ROUTE_ITEM_COUNT ); dir == AUDIO_ROUTE_OUTPUT ? (on   
+    ? i++ : i--) : (on ? i-- : i++) )
+    &lt;rcfox&gt; Holy crap.
+    * Juju|Work drafted on prod support for another 3 months
+    &lt;Juju|Work&gt; ryanness: ha!
+    &lt;FireFly&gt; how straightforward
+    &lt;rcfox&gt; Sometimes I hate my cow orkers.
+    &lt;geekosaur&gt; aaaaa"	t5_2u9xe	True
+1340811081.0	vosrd	How do I compile my XHTML5 into Java - trying to make a new RuneScape?	john2496	3	3	3	How does [RuneScape](http://runescape.com) compile their HTMLs into Java? Do I need Java Scripts?	t5_2u9xe	True
+1340488967.0	vhz9r	Cphoover diagrams the organizational structure of the typical software company (xpost from r/webdev)	john2496	2	2	0		t5_2u9xe	False
+1376548584.0	1kelb1	Why isn't this true?!?!	anonwhat	1	2	2	"    if(""OP"" == ""Faggot"") {
+    	echo ""OP is, indeed, a faggot"";
+    } else {
+    	echo ""OP is not a faggot"";
+    }"	t5_2u9xe	True
+1374040364.0	1igwjw	Professional scammers, yo'	jwei92	2	3	1	"I got an e-mail from Paypal:
+
+http://i.imgur.com/qjdmwqu.png
+
+http://i.imgur.com/NP0AJYG.png
+
+The password I entered was ""IbetYouThinkYoureClever"""	t5_2u9xe	True
+1373728957.0	1i7y30	Flickr is hiring... (xp to r/webdev)	john2496	3	4	0		t5_2u9xe	False
+1373229516.0	1htjcy	Want to work for Tumblr but have no programming experience? Just hint at your oppression level for instant job acceptance.	john2496	3	4	0		t5_2u9xe	False
+1371727686.0	1gpyxw	Is ARMA III ever going to come out of alpha?	lanorSalvador	7	8	2		t5_2u9xe	True
+1369944117.0	1fcvp2	If software worked liked genetic engineering	ekolis	3	4	0	"1. Write a virus
+2. Patent your virus code
+3. ???
+4. PROFIT!"	t5_2u9xe	True
+1369866313.0	1faqlo	The End of Java	fuzz3289	16	19	27	"Today I was musing about the existence of Java. The big selling point to me at its inception was Write Once, Run Everywhere. It was a cool concept. Force the developers of the Java VM to worry about platform specific implementation and the programmers using the language just focus on getting one set of code done that anyone can use. 
+
+In today's day and age, we have web apps. Some fancy HTML5 mixed in with some splashy CSS with a Python back-end and bam. You've got an application that can run anywhere. Sure you might have some browser specific implementations, but generally speaking you can write one set of cross platform code in the form of a webapp. 
+
+And if you're application is too big for a webapp? Then Java is probably too slow to be worth it anyways. 
+
+Java is full of security holes, performance is dreadful, readability is at best the same as C (in my opinion of course), and cross platform programming can be done in other languages more efficiently and much more cleanly (also slightly subjective). 
+
+My question to you, is Java coming to an end? Does this language have what it takes to cut it in today's world? 
+
+We have languages like Python, Go, C++14, CommonLisp etc, that make Java look slower than Windows 95 and have 10x the readability. If you use Java, speak up, why do you use it? Could you use something else? Or is Android and other legacy Java support going to continue to drag this dead horse around?"	t5_2u9xe	True
+1366244207.0	1cklas	How to browser sniff for old IE versions	iopq	2	3	2	"I seriously hope you guys don't do this:
+
+    function isValidBrowser() {
+        var agent = navigator.userAgent;
+        return agent.match(new RegExp(/MSIE [1-6]+/))==null;
+    }"	t5_2u9xe	True
+1364668558.0	1bbb99	My compiler constantly throws this near fatal exception, how should I handle?	john2496	1	2	1		t5_2u9xe	False
+1364579545.0	1b95jf	"Other ""browser""? What other browser exists besides Internet Explorer? (x-post \r\funny)"	JiminP	2	3	0		t5_2u9xe	False
+1364396044.0	1b41x8	Why is this so difficult for hackers?	whirrur	9	9	1	"var hax=document.getElementById (""fbi_topSecret_data"")
+document.write(hax)"	t5_2u9xe	True
+1361931108.0	19atei	What type of pointers are the stars in space?	ekolis	1	2	0	I'm guessing they're long pointers, since stars are so heavy that an int wouldn't be big enough to store their mass. But what if you need to store their name instead? Would it be a char pointer? Or do you get the name *and* mass, making it a struct pointer?	t5_2u9xe	True
+1361211515.0	18rh5l	The Harlem Shake. In Ruby. In the Terminal (x-p to /r/ruby)	john2496	1	2	0		t5_2u9xe	False
+1360855676.0	18in7f	I mede a app tht chose rndom game jam them nd added sumthin fun (x-post to r/shibe)	john2496	1	2	0		t5_2u9xe	False
+1360655250.0	18d8iy	Constant Boolean.	Azamati	3	4	5		t5_2u9xe	True
+1354409632.0	144my7	Why is Java the best programming language?	Prcrstntr	3	4	0		t5_2u9xe	True
+1350426082.0	11lf9o	Everytime somebody asks me why I hate javascript...	badjuice	7	6	0	"I send them the following 4 lines of code:
+
+    function who_needs_scope() {
+      alert( fuck_scope );
+    }
+    var fuck_scope = 'WHY?'
+    who_needs_scope();
+
+Or I put:
+
+    var $ = false;
+
+Somewhere in the middle of a jquery script."	t5_2u9xe	True
+1341528246.0	w3ldu	My Windows hack dosent work. I think I infected myself with the virus	bozbalci	2	3	0	"Hi.
+
+I saw dis tutorial in MSDN (microsofts developer network) and it said i should go to 'Shortcut to Microsoft Word' and type dis:
+
+@echo off
+echo Hello World
+
+I did this but my program closes on launch. Am i infected with the virus now? Please help..."	t5_2u9xe	True
+1340645037.0	vkwn8	New job listing site for only the most talented, coolest, plaid-wearing programmers	john2496	3	4	0		t5_2u9xe	False
+1340061406.0	v8yd7	What are the best practices for building devastating kill switches? (x-post from r/webdev)	john2496	2	3	0		t5_2u9xe	False
+1365402182.0	1bwj58	Bro, do you even LISP	Slainna	2	4	0		t5_2u9xe	False
+1355291271.0	14pn7w	Compilers day before it's due, this is how you piss of your prof 	BrogrammersRUs	3	4	0		t5_2u9xe	False
+1352144210.0	12olbp	Nothing like good error handling. 	ZeroDivided714	1	3	0		t5_2u9xe	False
+1339572212.0	uzhjd	This	AnonProg	8	9	1		t5_2u9xe	False

@@ -1,0 +1,1136 @@
+created_utc	id	title	author	ups	downs	num_comments	selftext	subreddit_id	is_self
+1365172315.0	1bqg65	You can haz datasets! We now have over 4M financial, economic, and social datasets available.	Kalemic	99	11	15	"Our DaaS platform Quandl is a free and open index of currently over 4 million datasets that is growing daily. We also released a Python package to go with our R, MATLAB, and excel ones this week. They allow easy API access to every single 
+
+http://www.quandl.com/
+
+Any suggestions on which type of datasets to try and obtain next are very appreciated. You can message me or list them here."	t5_2r97t	True
+1372723100.0	1hgn40	The last words of every inmate executed in Texas since 1984.	RuncibleJones	63	8	18		t5_2r97t	False
+1367177048.0	1dacxt	I've collected and categorised over 173+ publicly available Social Network Datasets and put them on a wiki I built. Have fun (and add more / update the existing list if you can)!	ieeamo	50	7	8		t5_2r97t	False
+1364479528.0	1b6doe	Yelp Dataset 	somnophobiac	42	1	2		t5_2r97t	False
+1358369719.0	16pfj0	Database of Cat Pictures. (No, really, and not /r/pics).	notheory	46	4	8		t5_2r97t	False
+1375883154.0	1jvs19	Zillow US housing datasets now accessible through API	Kalemic	43	7	0		t5_2r97t	False
+1376053625.0	1k0ubj	database of over 600 battles that were fought between 1600 AD and 1973 AD	zmjones	37	4	3		t5_2r97t	False
+1270465044.0	bmlol	/r/datasets dataset ;)	voltagex	40	5	6		t5_2r97t	False
+1358361287.0	16p4ov	The complete index of hundreds of datasets published by the Guardian Datablog since it began in 2009 thanks to ScraperWiki	ohsnaaap	33	3	1		t5_2r97t	False
+1296793000.0	fezdi	Twitter Data Set: 9,281,007 tweets across 135,825 users, free for non-commercial research purposes,  Creative Commons License	3con0mist	33	3	15		t5_2r97t	False
+1374946554.0	1j63pm	Google releases data consisting of ~800 million documents annotated with ~11 billion references to Freebase entities	dr_pyser	32	3	0		t5_2r97t	False
+1372289608.0	1h5582	Anyone here a Data Analyst?	iarcfsil	34	4	47	Was curious as to see if anyone in this subreddit is a full time Data Analyst or something similar for a job. I'm interested in going that direction sometime in the couple of years but I honestly don't have a good grasp on what it entails. I know Data Analyst is a pretty general term, but just wanted to know what some people do in their jobs.	t5_2r97t	True
+1349362025.0	10xrfv	Possibly the best thing ever...	ilki	33	4	4		t5_2r97t	False
+1307561265.0	huvc9	200 million tweets from 13 million users, 543 million rows, 2gb compressed	user24	34	4	8		t5_2r97t	False
+1362360899.0	19lz7d	The City of Chicago is on Github: Street center lines in Chicago, Building footprints in Chicago, Bike routes in Chicago, Pedway routes in Chicago, Bike rack locations in Chicago	jimktrains	28	0	3		t5_2r97t	False
+1333573246.0	rtins	The 70 Online Databases that Define Our Planet - Technology Review	TheyCallMeRINO	29	4	1		t5_2r97t	False
+1297465891.0	fjrgx	The Million Song Dataset (freely-available collection of audio features and metadata for a million contemporary popular music tracks)	las3rjock	27	2	0		t5_2r97t	False
+1367948155.0	1dvgnw	Free government data access via Sunlight APIs	Beaglesworth	28	2	1		t5_2r97t	False
+1352924945.0	1376aj	Let’s Talk Your Data, Not Big Data	irrelative	27	2	2		t5_2r97t	False
+1350387463.0	11kd9o	data scientist wanna be 	hiby007	32	7	18	"Hello reddit ... i am an under graduate computer science student studying in India (last year). i found this sub-reddit through quora.
+
+I have heard a lot about big data and hadoop, map-reduce google's big data service ect .. i have a top level view of the topic.
+
+Recently i read two article about Big Data in Harvard business review magazine (october 2012 issue cover story)  and how it's going to affect the decision we make in future. 
+
+link to article:
+
+[Big Data The Management Revolution](http://hbr.org/2012/10/big-data-the-management-revolution/ar/1)
+
+[Data Scientist: The Sexiest Job of the 21st Century](http://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/ar/1)
+
+I have some knowledge in java, c, c++ and mainly develop low level PHP applications. i have no knowledge in field of probability and statistics, machine learning and other technologies required to be a data scientist. 
+
+I have no idea where should i start from, what subjects i need to learn and what things i need to do... Can you please guide me in a proper direction. about tools technologies and other things i need to learn."	t5_2r97t	True
+1321982629.0	mln4j	200K+ Jeopardy Questions and Answers	cavedave	27	3	2		t5_2r97t	False
+1316694052.0	kntw9	Last words of the offenders executed in Texas	utcursch	25	1	11		t5_2r97t	False
+1375051480.0	1j8nft	Lots of newly free official data sets on New York City real estate, political divisions, and land use	terrortot	29	6	0		t5_2r97t	False
+1367165067.0	1d9z71	Some data for you to toy around with--drawn from publicly available data on IMF.org, I've gathered and organized data (which took a while to figure out) so that STATA can correctly recognize the variables on 30 different countries with 15 variables, with five more added example variables. Enjoy!	jinnyjuice	26	1	6		t5_2r97t	False
+1362260081.0	19jihq	USDA Food Nutrient Database as MySQL export.  Ready-made Shelf Data	theBishop	26	2	4		t5_2r97t	False
+1358719397.0	16y8kw	Rolling Stones Top 500 Songs - All Lyrics [OC]	trexmatt	27	2	6	"Here's a folder of .txt files with all the lyrics of the Rolling Stone's Top 500 Songs.  I got this by crawling  http://www.metrolyrics.com/rs and thought someone else might be interested in it. I noticed a couple small errors but nothing big.  There are some more details in the About file.
+
+What percent of songs have the word ""love""?  Lots of cool possibilities.
+PM me if the download link dies.
+
+EDIT: Fixed link -&gt; http://www61.zippyshare.com/v/45272722/file.html"	t5_2r97t	True
+1320324806.0	lyx2n	US patents (1790-present) and trademarks (1870-present): 10TB in all, freely downloadable, compliments of Google	Quintote	28	3	4		t5_2r97t	False
+1297737452.0	flk42	HealthData.gov launches Feb 15 -- a consolidated inventory of all federal data sets with over 2,000 national/state/county health metrics. Salivate, health care data junkies.	CitizenJosh	26	1	3		t5_2r97t	False
+1295876759.0	f81wt	Remember that dataset of UFO Sightings? I used it to make this heatmap. Please let me know what you think.		24	1	5		t5_2r97t	False
+1270451633.0	bmjli	Data.australia.gov.au datasets	voltagex	25	0	1		t5_2r97t	False
+1368133241.0	1e0xpz	Searchable database: tax filings of over 600,000 non-profit organizations	Beaglesworth	25	2	0		t5_2r97t	False
+1335874163.0	t1exu	Harvard Library is making more than 12 million catalog records from Harvard’s 73 libraries publicly available as open data	mhermans	25	3	3		t5_2r97t	False
+1297209451.0	fht99	Getthedata.org: A Stack-Overflow-style site for data	kev097	23	1	0		t5_2r97t	False
+1323100980.0	n179r	France Open Data (352000 datasets)	DuoSRX	24	2	1		t5_2r97t	False
+1316413819.0	kk8yb	Mining of Massive Datasets	utcursch	22	0	0		t5_2r97t	False
+1366525391.0	1csdws	Archive of all tweets sent on April 15th between 16:06-19:04, with the #bostonmarathon hashtag	thestarship	26	4	11		t5_2r97t	False
+1346040342.0	yvyul	A data set on every player/game in the English Premier League.  Collected by Manchester City, released to see what data wonks can do with it.  If you download it, i'd love to see the work.	b00ks	21	2	3		t5_2r97t	False
+1317827932.0	l1ryr	54GB of web filtering logs from seven of fifteen Blue Coat servers used by the Syrian Telecommunications Establishment	Quintote	24	1	4		t5_2r97t	False
+1374036309.0	1igsnj	Where do you keep your personal datasets?	xumx	21	2	5	"I'm sure we all have our own little collection of interesting datasets that might not have any immediate use. I just want to put the dataset somewhere that is easily accessible in case I need it later for quick analysis.
+
+How do you manage your collection? Is there any cloud platforms available?
+
+
+Requirements I have in mind:
+
+* Centralised (Every dataset managed in one place)
+* Cloud based datastore (doesn't take up my HDD space, redundancy)
+* Simple analysis/visualization workflow (I don't want to spend 15 minutes setting up a server connection when I feel the urge to tinker with a particular dataset)
+
+I've been looking at the new scraperWiki, Google fusion table, some online DBaaS, but can't decide on one. Does anyone face the same problem as me? What are your experiences? Should I just stick to using SQL Server?
+"	t5_2r97t	True
+1367346663.0	1dfdak	Just released: A 2,300 project database on Chinese development in Africa with 39 variables per project	mishengda	20	1	4		t5_2r97t	False
+1356543763.0	15h4c0	EU Open Data now in public beta	CountVonTroll	22	2	3		t5_2r97t	False
+1331041387.0	qk4hl	Twitter English Lexicon : freely available 1- and 2-grams with occurrence statistics	treerex	21	1	0		t5_2r97t	False
+1316035069.0	kfs4a	Ask DataSets: Can I get a reddit dataset?	data_vcat	21	2	4	"Hi Reddit,
+  A research project I am currently involved in is in trying to process blogs to mine memes from them. I was wondering if anyone knew if the entire reddit comment/post corpus was available because I figure that a ton of memes come up here? If so, can someone point me to this?"	t5_2r97t	True
+1298002903.0	fnofj	Has anyone put the Jeopardy! questions into a structured dataset, available for download?	Quintote	22	1	11	"I'll parse it if it comes to it (all questions are available on [j-archive.com](http://www.j-archive.com/)), but thought I'd check to see if someone had already done the leg work.  
+
+I'm of course inspired by IBM's Jeopardy appearance, but not enough to needlessly replicate work that someone's likely already done.  And, oh yes, I'm chronically lazy. :-)"	t5_2r97t	True
+1270530466.0	bmysy	OpenStreetMap planet.osm: 8.2 GiB of city-level street data and other GIS features around the world	piranha	22	3	0		t5_2r97t	False
+1270450644.0	bmjfd	US Data.gov datasets	voltagex	21	1	0		t5_2r97t	False
+1363587281.0	1aiexb	NCAA Men's March Madness Historical Results, 1985-2012	dataremixed	24	3	4		t5_2r97t	False
+1360952525.0	18lbw8	Price is Right Data	melondonkey	22	1	4	Does anyone know where I can get Price is Right game data?  I'd like to see frequencies for wheel spins, things like that.  	t5_2r97t	True
+1354598038.0	148wiy	Howto Download or Work With Amazon Public Datasets	stockthrow	20	2	4	Amazon has about 50 public datasets available through their Web Services (link in comments). Has anyone used these? The documentation talks about accessing them through AWS, does anyone know if its possible to download them once I have the set on EC2?	t5_2r97t	True
+1352913098.0	136t52	Where can I find exit poll data from the United States 2012 Presidential election?	ohsnaaap	19	1	2	I keep seeing cool analyses of the exit poll data but have been unable to find it anywhere.	t5_2r97t	True
+1351274363.0	124upq	Here's a weird one: 1,400 rectangles, drawn by math teachers.	dtelad11	21	2	4		t5_2r97t	False
+1320178301.0	lwt0m	Data.gov raw datasets	ponchedeburro	21	2	0		t5_2r97t	False
+1314095724.0	jrkgi	US census records (&gt;72 years old) released for genealogical research	utcursch	21	0	2		t5_2r97t	False
+1297317519.0	fikrq	Creating n-grams from the Twitter dataset posted recently. Everyone on Twitter is on their way to something.	chime	21	1	4		t5_2r97t	False
+1297071486.0	fgrqs	13 thousand data sets, 100 million time series, 600 million facts - DataMarket blog	user24	22	2	1		t5_2r97t	False
+1372748806.0	1hhf3o	Enron email dataset - the famous emails, public - cleaned of private info.	protein_bricks_4_all	19	1	0		t5_2r97t	False
+1369725160.0	1f6r49	Open Government Data Sets (US)	intheointment	19	1	5	More [government data sets](https://explore.data.gov/catalog/raw) are being made available, and Obama wants to release more for entrepreneurs. [Article](http://www.pcmag.com/article2/0,2817,2418742,00.asp)	t5_2r97t	True
+1358184035.0	16k5vx	Aaron Swartz was a big datasets guy, do you have any of his feeds?	berlinbrown	25	7	6	Aaron was involved in finding data on the web.   Do you have a comprehensive list of some of his finds?   He had a subreddit a while back but I can't remember name.  theinfo?	t5_2r97t	True
+1314483163.0	jwgwv	USDA Food Nutrient Database: clutter-free JSON edition	ashleyw	23	4	1		t5_2r97t	False
+1291944172.0	ej9ow	Facebook and Last.fm datasets	pubmixful	18	1	2		t5_2r97t	False
+1360871219.0	18j7j5	This is the EU's open data portal, it features sets from organisations such as Eurostat, EEA, Joint Research Centre and several directorate generals	pegasus_527	21	4	0		t5_2r97t	False
+1344693193.0	y1pxg	"""A python app for importing all Federal Election Commission records from 1980 onward into a PostgreSQL database."""	claird	22	3	2		t5_2r97t	False
+1326033065.0	o7ymn	John Snow’s famous cholera analysis data in modern GIS formats	talgalili	18	1	0		t5_2r97t	False
+1323791900.0	nb37t	Raw data from the contested 2011 Russian elections	Quintote	18	1	1		t5_2r97t	False
+1321779248.0	miw5e	Attempt #2: Want to help reddit build a recommender? -- A public dump of voting data that our reddit users have donated for research : redditdev	TedFromTheFuture	20	3	0		t5_2r97t	False
+1300394182.0	g5xnm	$3.2M in prizes for predicting hospitalization	talgalili	21	3	0		t5_2r97t	False
+1299933542.0	g2ka6	The records of over 20,000 largely Irish soldiers who were at Kilmainham Hospital between 1783 &amp; 1822 are now online	cavedave	20	4	0		t5_2r97t	False
+1289793760.0	e675j	Social media datasets	orangepotion	17	0	0		t5_2r97t	False
+1274903412.0	c8er2	Stanford Large Network Data Sets	psykocrime	19	2	0		t5_2r97t	False
+1271748944.0	btgx8	World Bank Open Data	ginstrom	17	0	0		t5_2r97t	False
+1371596901.0	1gm9ev	Looking for data on beer	herbert420	17	2	22	anything really	t5_2r97t	True
+1370973175.0	1g4vt0	pressureNET is an Android app that crowdsources atmospheric pressure using barometers in smartphones. We're collecting about 300,000 measurements per day right now and have just launched our public API to let you access the live stream.	cryptoz	20	3	2		t5_2r97t	False
+1368231291.0	1e3oqb	F. Scott Fitzgerald's Earnings 1919-1936	dataremixed	20	4	3		t5_2r97t	False
+1349806948.0	117hdk	552,073 bikeshare bike trips in Boston - visualization contest!	ScipioA	17	1	0		t5_2r97t	False
+1315927021.0	ke9ye	New open source tool Superfastmatch finds overlapping text between documents in huge corpora 	kev097	26	11	0		t5_2r97t	False
+1297936571.0	fn3x2	Google opens up Public Data Explorer to anyone	cavedave	16	2	0		t5_2r97t	False
+1294284295.0	ex0ec	"Transatlantic Slave Trade database released.  All information gathered from public sources is public domain, and any ""imputed"" data is released under Creative Commons license.  276 variables captured for 34,948 voyages."	Quintote	17	0	3		t5_2r97t	False
+1270449054.0	bmj4p	MusicBrainz database - artists, releases, tracks, labels, incl. relationships	draicone	18	0	0		t5_2r97t	False
+1373200002.0	1hsscb	united nations treaty data	zmjones	19	6	0		t5_2r97t	False
+1368373190.0	1e6qg9	A better browser for 2000 and 2010 U.S. Census data, from Investigative Reporters and Editors (ire.org)	Beaglesworth	16	1	2		t5_2r97t	False
+1359577795.0	17ky6d	Automatic License Plate Recognition database (i.e., car locations)	meand3r	21	5	4		t5_2r97t	False
+1357769988.0	169wsl	GADM: Spatial database of global administration boundaries for use in GIS and similar software	utcursch	17	4	2		t5_2r97t	False
+1352093546.0	12nk51	[Request] Nigerian 419 scammer email dataset	shazbotter	16	1	7	I know there are many spam data sets out there like the enron one, ling-spam but I'm pretty sure most of those data sets have regular spam (buying random products, etc).  Anyone know where I can find a collection of just nigerian 419 style emails?	t5_2r97t	True
+1347839234.0	zzu2d	Tiny Images Dataset (230GB, 79 million images, Matlab)	binaryechoes	17	2	6		t5_2r97t	False
+1337416686.0	tuiis	now avail: Google's Wikipedia-derived Dictionaries for Linking Text, Entities and Ideas	gtani	18	3	1		t5_2r97t	False
+1324736621.0	np54i	Data files on 407 banks, between the dates of 2007 to 2009, on the daily borrowing with the US Federal Reserve bank.	talgalili	17	0	0		t5_2r97t	False
+1318009973.0	l4c6d	With Big Data Comes Big Responsibilities - research paper discusses the ease of overestimating what sort of conclusions can be drawn from large datasets	Quintote	18	4	4		t5_2r97t	False
+1300584771.0	g7crn	Japan Radiation Open Data	defrost	16	1	0		t5_2r97t	False
+1271803749.0	bttjw	Top ~1000 /r/all stories for the last several weeks	yellowbkpk	19	4	3		t5_2r97t	False
+1270455661.0	bmk7k	StackOverflow trilogy sites data dump (Creative Commons)	watt	16	2	0		t5_2r97t	False
+1373423726.0	1hzbi3	2012 US election results by congressional and legislative districts	saute	17	2	0		t5_2r97t	False
+1357776168.0	16a4cc	US murders by weapon type	NonNonHeinous	15	1	9		t5_2r97t	False
+1349377166.0	10y7zn	Orange will be offering a huge data set about their mobile users in Ivory Coast, including individual mobility traces and communication sub-graphs	urish	15	2	2		t5_2r97t	False
+1343701312.0	xfdii	Some Fresh Twitter Stats (as of July 2012, Dataset Included)	elcheapo	16	2	2		t5_2r97t	False
+1333951534.0	s0fld	All TIME Magazine covers (March 1923 to March 2012).	trexmatt	14	0	3	"Thought someone might find this useful even though it's not exactly a dataset...  Here's all (or almost all) of the TIME Magazine covers from March 1923 to March 2012.
+
+~250 MB total, with 4,517 JPEGs
+
+EDIT: Fixed link - [link](http://minus.com/mpsP9r6jk/)"	t5_2r97t	True
+1330964196.0	qiot8	ESPN Starts Opening The Doors To Its Data With Developer Center, First API Program	wundie	17	5	1		t5_2r97t	False
+1324911572.0	nr6ec	Fed Once-Secret Loan Crisis Data Compiled by Bloomberg Released to Public - Bloomberg	bitethemuffin	15	0	0		t5_2r97t	False
+1310152015.0	ik9kq	Thanks r/datasets! You helped me impress my boss. If you need help analyzing dynamic networks just pm me and we can talk.	zitterbewegung	16	3	10	"Hi, I never thought that r/datasets would help me out at my job!
+If anyone has a question about a dynamic network (networks that add and remove edges and vertices over a discrete and continuous time series) please PM me and I will see what I can do! Thanks a bunch !"	t5_2r97t	True
+1300729232.0	g8br0	"The housing bubble by city
+"	talgalili	14	1	0		t5_2r97t	False
+1299410250.0	fyczy	ScraperWiki, collection of scrapers. Great source of data	voltagex	16	1	1		t5_2r97t	False
+1297087535.0	fgunw	Collegiate Facebook Data	orangepotion	14	0	0		t5_2r97t	False
+1296591793.0	fdb4a	Free, Public Data Sets	orangepotion	15	1	0		t5_2r97t	False
+1296156651.0	fa7x2	All of The Guardian's data journalism collected in one page/spreadsheet. Nearly 600 datasets.	kev097	15	2	0		t5_2r97t	False
+1295350774.0	f4dp0	Scraping for Journalism: A Guide for Collecting Data	gtani	15	0	0		t5_2r97t	False
+1294428432.0	ey284	Five data blogs to have on your radar	kev097	18	3	0		t5_2r97t	False
+1292617771.0	enl2q	Google Labs - Books Ngram Viewer datasets	Quintote	16	1	2		t5_2r97t	False
+1283439647.0	d8pjf	Social Network data sets	llimllib	15	1	0		t5_2r97t	False
+1374774502.0	1j1hb5	Where to find Maritime data, specifically, pirates and piracy. Not online piracy. Ideally world wide data.	shubrick	13	1	3	"I've seen infographics but no data sets. Where to look?
+
+"	t5_2r97t	True
+1373640352.0	1i5ler	Average Pay, Cost of Living, etc in various cities? [Request]	hann1bal	13	1	4	"Hi /r/datasets,
+
+I'm looking to see if anyone has a set of data regarding the cost of living, average income, average hourly pay, population, pay distribution, etc (anything along those lines) for various cities / towns around the world? 
+
+I'll take what I can get, so if there is anything anyone has, please let me know!
+
+Thanks."	t5_2r97t	True
+1371311123.0	1gej7k	Hey r/datasets, how would you quickly share data with others (friends, coworkers)?	neurowash	14	0	18	"Let's say you have some tabular data and you want to share how a graph of it looks like (e.g. basic time series data). How would you go about doing this right now?
+
+I am looking to see what the needs are out there - thinking of building an easy to use, online graph generator. Thanks!"	t5_2r97t	True
+1360100920.0	17yhdu	New(ish) to Data Analysis, where to start?	craftingfish	17	3	12	"My employer, who I've worked for a total of 7 years, 3 in a data analyst position, has only ever had me working with Excel, Acess and Crystal Reports. I don't really have a programming background, but have become comfortable with those tools.
+
+If I really want to step up my game, and entertain the idea of data analysis as a long term career, what should I be learning from a software perspective?
+
+I don't need necessarily free learning resources, but anything above $100 really needs a lot of bang for my buck."	t5_2r97t	True
+1356727477.0	15l8p0	Deaths by Disease by Cause 1990-2010	cavedave	14	3	1		t5_2r97t	False
+1354930207.0	14h5tr	I am working on a large open data project. Here check it out!	Bossman759	14	2	4		t5_2r97t	False
+1352193144.0	12pzn6	[Request] The elections results county by county for the entire US with county populations and district information.	jason-samfield	13	0	6	"I'd like to see a map where each county is represented by the size of the county (that dictates representation), the number of votes for a particular candidate/party, and so on.
+
+If counties were represented not by their land area, but instead their representation by population metrics and then weighted as such (probably best done so as circles), then the data might make more sense to visualize rather than looking at a county by county map such as this:
+
+http://upload.wikimedia.org/wikipedia/commons/b/be/2004_US_elections_purple_counties.png"	t5_2r97t	True
+1333469647.0	rrc5c	1940 census records released by the US National Archives	lpiloto	14	2	0		t5_2r97t	False
+1322551346.0	mt3zp	Looking for Arab Spring data.	discobanditt	14	2	2	"Hey all-
+
+I'm working on a mapping project that will explore data from the Arab Spring, including:
+
+-death tolls
+
+-number of protests and where they occurred (which city)
+
+-number of twitter updates from that country
+
+-other relevant information
+
+I'm having some trouble finding up to date, reliable data covering these topics. Can any of you help me out?
+
+Thanks!"	t5_2r97t	True
+1316522849.0	klj3j	CC-licensed data dump of the user-generated content on Stack Overflow and other Stack Exchange sites	utcursch	14	0	0		t5_2r97t	False
+1298520842.0	frk5y	Looking for stock market data (15 minute delayed)	RandyPonce	15	0	8	I'm looking for an inexpensive place to retrieve stock market data via an API. Data doesn't have to be real time, but 15 minute delayed would be nice. If this is impossible, how about just closing prices?	t5_2r97t	True
+1295541159.0	f5vkc	Why aren't there more open data startups?	kev097	14	3	0		t5_2r97t	False
+1288372155.0	dybzt	Big Dataset Collection - Data Wrangling Blog	tian2992	13	0	0		t5_2r97t	False
+1270476221.0	bmnt3	All Wikimedia downloads: database dumps, static HTML and  DVD's	Harriv	14	0	1		t5_2r97t	False
+1376053545.0	1k0u9c	U.S. Civil War financial data	zmjones	12	1	2		t5_2r97t	False
+1374588292.0	1ivuhs	Where can I get pure economic census data?	I_am_John	13	0	6		t5_2r97t	True
+1373077133.0	1hq78o	Package Delivery Tracking Dataset	im_on_a_banana_boat	14	2	0	"I'm doubtful that something like this exists, but is anyone aware of a (mail) package tracking dataset--something that would report all the scans of a package as it moved through the delivery system? Not really picky where the data comes from, but in the US would be nice (but anywhere would be interesting).
+
+I wasn't able to find anything on Google, but maybe someone else has stumble across this before..."	t5_2r97t	True
+1357701243.0	16859l	Flu Trends	binaryechoes	17	5	5		t5_2r97t	False
+1353968574.0	13u45x	Just discovered Pew Internet. They seem to have some awesome datasets, but I'm having trouble finding the mapping for certain categorical variables such as state, cregion, density, usr in the CSV file	ohsnaaap	15	2	3		t5_2r97t	False
+1350115910.0	11eoz3	"Facebook ""Likes"" scraper"	anorig	14	4	3	"Hello,
+I am searching for a script/application to scrape Facebook Likes as seen from the browser (without using the Graph API). Preferably in Python/Javascript, is there such available? or a dataset containing this data?
+Cheers
+Norig"	t5_2r97t	True
+1347052836.0	zixlu	Word use in democratic and republican nominating conventions	Sevenless85	14	1	1		t5_2r97t	False
+1345241520.0	yeeng	"West of the Mississippi, ""Thar' be sausages.""  Visualizing OKCupid data with Google's Fusion Tables"	Sevenless85	14	2	0		t5_2r97t	False
+1332939180.0	rhgo3	StatSci dataset collection	cavedave	15	1	0		t5_2r97t	False
+1332080476.0	r20vh	Austin, TX Data Portal	tinio	13	1	0		t5_2r97t	False
+1329293826.0	pqhbi	Cone Welder Dataset, over 38,849 bird photos	cavedave	13	1	2		t5_2r97t	False
+1324771719.0	npmrs	RickRolled by a dataset	pomber	16	2	0		t5_2r97t	False
+1315964061.0	kev6o	Australian Public Toilet Locations in XML	alphabeat	12	0	2		t5_2r97t	False
+1315892745.0	kdy7k	Put the team on my back- NFL dataset 2000-2010	pc1618	15	3	0		t5_2r97t	False
+1314945155.0	k27g7	Tweets2011 Twitter Collection	chime	13	1	2		t5_2r97t	False
+1313521892.0	jkrc4	Database of megachurches in the U.S.	Quintote	12	1	2		t5_2r97t	False
+1307742488.0	hwpu0	Any interest in a data dump of all E3-related news stories from about a hundred gaming websites?	wierdaaron	16	3	5	"I run a website called [E3Feed](http://e3feed.com) that pulls data from a ton of different online gaming/news websites and filters out only E3 related stories for E3 week (which just ended).
+
+Because of that, I have a database of every E3 related story (with timestamps and, in most cases, the body of the whole story). I also have an anonymous record of all searches performed by users of E3Feed.
+
+I figure this data might be interesting to someone capable of analyzing it. You could probably do something like see what times certain types of stories are posted, or what news source was most likely to break a story first, or maybe even what news sources used the exact same wording for a certain story (meaning they either cribbed eachother or just reposted a press release).
+
+Would any of you like such a dataset? If more than one person is interested, I can provide files in any format desired (XML, CSV, etc).
+
+**EDIT**: Here you go:
+
+[E3Feed Data Dump](http://c1277.r77.cf1.rackcdn.com/e3feed_data_dump.zip) (4.1MB zipped)
+
+Contains: 
+
+**E3Feed Stories (XML and CSV)**
+
+-Fields: id, timestamp, headline, source_name, link, body
+
+-Notes: 
+
+* ""link"" is most likely non-canonical. URLs in RSS feeds tend to go through a click tracker or shortener. I try to resolve those to true links but there still appears to be a lot of RSSified urls. 
+
+* Also, attempts are made to normalize all timestamps to the same time zone based on the offset between each RSS feed's timestamp and E3Feed's native time zone (central). Don't put too much weight on the timestamp's accuracy without seeing if there is a consistent bias for a given source.
+
+* In cases where the article's body isn't included in the RSS feed, my system attempts to scrape the body text from the source URL. This occasionally results in bad scrapes.
+
+**E3Feed Searches (XML, CSV)**
+
+-Fields: id, timestamp, search term
+
+-Notes: 
+
+* For sake of anonymizing this data, no identifying data is included. If (for some reason) you'd like to do some kind of analysis that requires associating searches with people (to find behavioral trends or something), I can provide you with a copy that includes some kind of anonymized identifier for the user.
+
+*License stuff:* In using this data, please keep in mind that the content of the story feed most likely belongs to the originating sources (the websites that published the stories). If you create any derrivative work with this data, please note this and please credit E3Feed (with the url E3Feed.com).
+
+Have fun!"	t5_2r97t	True
+1294375344.0	exp9p	Google Refine looks like an awesome tool for playing these the datasets from this subreddits	chime	13	1	1		t5_2r97t	False
+1373424717.0	1hzcoq	Vital Statistics on Congress	saute	12	2	0		t5_2r97t	False
+1370614259.0	1fv1ii	Who Were the Nuns? New database of English women who entered convents after 1598	cavedave	12	2	0		t5_2r97t	False
+1368675584.0	1efi20	Looking for Movie Subtitles	EastwoodsFlask	12	2	8	I am looking to do some analysis on the language used over different movies. I've found a bunch of websites offering .srt files for nearly any movie I want, but they look suspiciously like (illegal) torrent sites. Does anyone know of  a central database of movie subtitles that is definitely legitimate? 	t5_2r97t	True
+1364241723.0	1azrov	All MTV European Top 20 Lists, STILL being updated. 	theozgun	12	1	1		t5_2r97t	False
+1362498298.0	19plg9	Looking for 2012 Fortune 500 data, including number of employees.	workkedy	13	1	2	Does anyone know of a good source for Fortune 500 data? I can find plenty of lists that just have the 500 companies and maybe revenue or profit but nothing with employee count. Thanks!	t5_2r97t	True
+1355334415.0	14qghz	[Request] Megaregions of the World map similar to this.	kevroy314	12	2	2		t5_2r97t	False
+1342288279.0	wk1ne	"Reddit-bot ""Word_Analyzer"" analyzes comments to tell users what words they use most"	psYberspRe4Dd	16	5	5		t5_2r97t	False
+1327289766.0	oscpp	Any music playlists dataset?	pomber	13	2	4	"I'm looking for a dataset with playlists generated by users, something like playlists from grooveshark or 8tracks. 
+
+Thanks"	t5_2r97t	True
+1316645485.0	kn98q	Data Set for Hospitals, Clinics, Churches, and Gun Stores?	Theoretician	12	1	6	I'm looking for one or more sets of data that give the street address, Latitude/Longitude, and size of the building. If I get only part of the data it is no big deal, but I would like to get all of it. Does anybody know where I could find or scrape this data from?	t5_2r97t	True
+1315433882.0	k83a1	Does anyone know where I can get good data for Kenya?	acoustic_phil	13	2	4	"I have found this site, which will be a great help, but some higher quality data or data covering other themes would be of great help!
+
+http://www.wri.org/publication/content/9291
+
+Thanks!"	t5_2r97t	True
+1314363329.0	jv2cb	DataMarket - Find and Understand Data	melangeau	11	1	0		t5_2r97t	False
+1311425926.0	ixmht	Does anyone have access to a dataset of clinical trials (RCTs) and their outcomes? Even just cardiology would be useful.	GUNLION	12	1	8	I'm a junior doctor - event a sample would be so useful	t5_2r97t	True
+1299857906.0	g1z9o	the Enron Corpus	cavedave	11	0	0		t5_2r97t	False
+1291934508.0	ej70h	SNAP: Network datasets: 476 million Twitter tweets	orangepotion	13	2	4		t5_2r97t	False
+1284732831.0	df7k3	Linked Data - Billion Triple Challenge 2010 Dataset	stirfry	13	0	0		t5_2r97t	False
+1274977175.0	c8q2h	Five years of what University of Alaska Fairbanks students think of their professors.	jesusabdullah	11	1	1		t5_2r97t	False
+1270655776.0	bnp54	600 datasets in Weka's ARFF format, different topics. Wih performance results of standard algorithms	tunedit	11	0	2		t5_2r97t	False
+1270544442.0	bn16w	Eurostat : Statistical data of Europe	Monkeyget	11	1	1		t5_2r97t	False
+1270476765.0	bmnx6	Amazon's AWS block storage devices can come pre-loaded with various public datasets.	brey	12	2	1		t5_2r97t	False
+1370456287.0	1fqih5	Looking for dataset on lawyers in the U.S. and the cases they worked on.	twola	14	3	2		t5_2r97t	True
+1366776017.0	1czlcz	Sociology Data Set Server	pancakeflipper381	11	1	0		t5_2r97t	False
+1363710514.0	1alm7j	Complete List of Medications	spore	10	1	3	Something akin to Davis Drug Guide.  Contains dosage, side effects, therapeutic result, interactions, etc.	t5_2r97t	True
+1361825658.0	197ob6	"Free ""low-end"" ZIP database and reference material on how its compiled and used"	unquietwiki	11	3	0		t5_2r97t	False
+1357252178.0	15ww52	TED Talks as multilingual parallel corpuses	bradbeattie	10	2	6		t5_2r97t	False
+1354677802.0	14avrt	Top streaming or real time datasets?	berlinbrown	11	1	8	"What are some good streaming data, data that is always changing over time?  Weather stats?  Finance reports?
+
+Ideally it would have second or millisecond intervals."	t5_2r97t	True
+1343077098.0	x1al3	Geocoded UK postcodes and cities	lonely_b	14	3	0		t5_2r97t	False
+1335432643.0	stc0v	Does anyone have access to these Google *web* n-grams?	reliciler	13	2	5		t5_2r97t	False
+1331138833.0	qlwjd	Introducing r/BioDatasets (xpost from r/bioinformatics, r/biology)	Derpscientist	11	1	3	"[/r/BioDatasets](/r/BioDatasets) is a subreddit with the goal of sharing information about the ever expanding curated biologically-relevant databases. Its creation was inspired by the successes of [/r/Datasets](/r/datasets). It is baffling to me how many large well-curated and maintained biologically relevant datasets exists, that relate to nearly every niche of modern molecular biology. This is primarily targetted towards the bioinformatics and molecular biology community, but it should serve as a nice index for toy data to be used in other disciplines. I envision the subreddit will have three types of posts:
+
+* Links to biologically-relevant datasets.
+* News about well known biologically-relevant datasets.
+* Requests for specific biologically-relevant datasets.
+
+Thanks!"	t5_2r97t	True
+1315280748.0	k61mb	Weblog and Social Media crawler API with free/cheap researcher access...		11	0	0		t5_2r97t	False
+1312892682.0	jdev3	UK riots: every verified incident. Download the full list	cavedave	10	2	0		t5_2r97t	False
+1312766912.0	jbyti	US Census 2010 Demographic Profiles	unquietwiki	11	0	1		t5_2r97t	False
+1312622837.0	jaolg	AntiSec leaks 10GB of law enforcement data. Link is to stroy about leak not the leak.	cavedave	15	4	2		t5_2r97t	False
+1298653322.0	fsn6k	kiva microfinance downloadable dataset snapshot	b0b0b0b	10	0	0		t5_2r97t	False
+1276103245.0	cd7hh	If San Francisco Crime were Elevation	cavedave	10	0	0		t5_2r97t	False
+1272002154.0	buz0z	Collaborate with /r/Visualization	chromaticburst	11	2	3	This is quickly becoming my favorite subreddit. Sadly, [/r/Visualization](http://www.reddit.com/r/visualization/) has almost no activity (and only 300+ subscribers). Can the mods add a link to it in the subreddit description, like the other subreddits do? It would be a great way of seeing what people have been doing with the data and sharing ideas. Thanks.	t5_2r97t	True
+1270479788.0	bmole	UCSC Genome Browser - Want a copy of a human genome? Or a cat? How about a platypus?	sw17ch	10	1	0		t5_2r97t	False
+1371069372.0	1g7xyv	Looking for a dataset about US out-of-state university enrollment figures.	logit	12	2	6	"Hi all,
+
+I have been looking unsuccessfully for data concerning out-of-state university enrollment by state.  For example, what percentage of Oregon residents study at university outside of Oregon and what percentage of students in Oregon are from out of state?  You'd think this is easy to find but I have been having a tough time (I can find okay data on the former, but not the latter).  Does anybody have any clues about this one?  Thanks!"	t5_2r97t	True
+1367449368.0	1dii3t	Data Sets for heights and weights!!	debaux10	9	2	6	"Hi im looking for a dataset that shows heights and weights for a small sample. Tried the U.S. National Center for Health Statistics website but couldnt find what any raw data there. All help appreciated.
+
+Thanks :)"	t5_2r97t	True
+1367253817.0	1dchmu	Looking for a data set which has restaurant menus	imns	9	0	3	Hi everyone.  I'm looking for a data set which has restaurant menus.  I'd like to use it for a website I'm making. 	t5_2r97t	True
+1365576953.0	1c1sah	What to do with sleep-tracking dataset?	AustinCorgiBart	10	0	7	"I have a year's worth of data on my sleep habits - every time I slept or napped, I hit a button to clock in, and when I woke up I hit another button. The software adds a 15-minute delay before it declares me asleep. I acquired it using [SleepBot for Android.](https://play.google.com/store/apps/details?id=com.lslk.sleepbot&amp;hl=en)
+
+The bottom line is, I have over 365 days worth of information about my sleep habits. I have a very weak grasp on data analytics (although as a Computer Science major I have good data manipulation skills), does anyone have any suggestions about what I could do with it? Apologies if this isn't the right subreddit to ask about this.
+
+[Google doc file](https://docs.google.com/file/d/0ByD7jEo0zJc7LUFuUGZrUzFCUjA/edit?usp=sharing)"	t5_2r97t	True
+1364468569.0	1b65uj	Anyone know where to find an interesting dataset with 50 variables and at least 10,000 obs for a data mining project?	MrPink09	13	3	3	I know I can find a dataset with these characteristics, but if any of you guys know of a really cool dataset that's fun to work with please let me know. Thanks!	t5_2r97t	True
+1355949333.0	154kzw	ATF data on licensed firearms dealers	BlueOrange	13	4	1		t5_2r97t	False
+1355872298.0	152rvk	US Census - Education and voting by state	NonNonHeinous	11	1	0		t5_2r97t	False
+1355748719.0	14zp44	What are the interesting Swiss financial data sets for the next Open Data Camp?	julochrobak	10	3	0		t5_2r97t	False
+1355324774.0	14q6t3	Live data mining for homophobic speech on twitter	GoalRunner	18	11	8		t5_2r97t	False
+1346373499.0	z3x9p	Where can I find consumer statistics	Scoops213	10	1	1	"I'm doing some research and I'm trying to find some consumer statistics on laptops: habits, demographics, camera integration, etc. for America. I've found a good example of what I'm looking for, but nothing for the states, only Singapore. (https://wiki.smu.edu.sg/digitalmediaasia/Digital_Media_in_Singapore)
+
+/r/statistics sent me here and said you guys could help me out or point me in the right direction. It would be greatly appreciated. Thanks everyone!"	t5_2r97t	True
+1345761152.0	ypyrp	Corpus of tweets with annotated events	filox	13	4	6		t5_2r97t	False
+1344908461.0	y6faw	Logic blooms with new 11-set Venn diagram	shbadr	11	2	0		t5_2r97t	False
+1343346110.0	x7vmh	Data on subreddit moderation and moderators (CSVs at the bottom)	NonNonHeinous	9	1	0		t5_2r97t	False
+1342648075.0	ws6uy	An API for European Union legislation	mhermans	11	2	0		t5_2r97t	False
+1341851226.0	w9yea	Global Terrorism Database	binaryechoes	10	3	1		t5_2r97t	False
+1330859482.0	qh2o3	Overview of the Linguistic Linked Open Data cloud	mhermans	12	3	0		t5_2r97t	False
+1326228553.0	obacs	Access open data right from your python shell	kemvi	14	5	4		t5_2r97t	False
+1322484297.0	mrxw6	"Online copy of Domesday Book
+"	cavedave	11	1	0		t5_2r97t	False
+1299076042.0	fvsiy	Complete snapshot of all listings, bids, user profiles, groups and loans ever created on Prosper	reidhoch	10	0	0		t5_2r97t	False
+1298408717.0	fqjik	Visualize how federal income taxes are spent, win up to $5000	kev097	13	3	1		t5_2r97t	False
+1297656191.0	fkwqu	Free wireless / GPS data (among others) for research or experiment use	ejel	10	1	0		t5_2r97t	False
+1272012409.0	bv0uv	Web as Corpus (lots of sorted keywords)	voltagex	10	0	1		t5_2r97t	False
+1271289738.0	br17c	Hey /r/datasets.  Any idea where to get a massive list of surnames?	gonzoisme	10	2	6	I want a list of peoples surnames.  Any surname, any nationality, any level of polularity.  I have collected ~100,000, and I'm aiming for &gt;300,000... but the tail end of this is tricky.  Anyone know of any major lists/dbs?	t5_2r97t	True
+1270527111.0	bmy55	PubFig: Public Figures Face Database	dudehasgotnomercy	10	1	0		t5_2r97t	False
+1270493089.0	bmrq1	Google Fusiontables	lastkarrde	11	1	0		t5_2r97t	False
+1375805275.0	1jtgwm	DataSet of current job postings available on the City of New York’s official jobs site	brianblessedismydad	10	3	1		t5_2r97t	False
+1374855633.0	1j3rws	[USGS] Annual Pesticide Use Maps for CONUS: 1992-2009. Data available in tabular format	Linkgoesnowhere	9	1	0		t5_2r97t	False
+1372610137.0	1hdcrl	Looking for sleep/activity tracked data	epimeliad	10	2	1	"Hi, so I been tracking my sleep pattern and what not and wonder is I could learn anything by comparing with others preferably with some background info such as age etc..
+
+I know fitbit allow us to share profile, but is there anything publicly available?"	t5_2r97t	True
+1370129667.0	1fhnxk	Lots of global data for housing, education, etc.	enferex	8	1	0		t5_2r97t	False
+1368643219.0	1eecq6	Where can I find lots of audio of ordinary people having ordinary conversations?	jolonah	8	2	6	I grew up quite socially isolated. I think listening to such audio in the background might help me learn to have actual conversations. (In addition to audiobooks and meetup groups for social anxiety. I can't afford therapy.)	t5_2r97t	True
+1368218213.0	1e39op	Sentiment Analysis tools and/or word dictionaries?	jeweloree	9	1	2	"Hey guys! I'm putting together a data set of word frequencies in ""A Song of Ice and Fire"" by chaper/POV character. I'm interested in doing some sentiment analysis with the set once it's put together. Anyone know of any tools (preferably free!) for sentiment analysis, I'd love to hear about them. Word lists/dictionaries that I can just cross reference would work, too.
+
+I'll be sure to post the dataset once it's complete! I'm only halfway through A Storm of Swords and I'm already at 150k rows, so it'll be a pretty big, juicy dataset on it's own. But having sentiment analysis would add a lot more interest to it."	t5_2r97t	True
+1361227167.0	18s1ri	Anonymising data	pokho	11	3	1		t5_2r97t	False
+1347907775.0	101a5i	Amazon User Ratings and Comments crawler/scraper???	gtkevo	11	3	9	"Hey everyone! I was wondering if anyone knew a web crawler or scraper to gather user ratings and comments from Amazon?
+
+It can be a script in any programming language. 
+
+I tried to search for a dataset earlier, but was unable to find a good one and we wanted something more dynamic. 
+
+Thanks!!"	t5_2r97t	True
+1345238698.0	yebto	A python script to page scrape OKCupid	Sevenless85	11	1	0		t5_2r97t	False
+1344515757.0	xxpnv	Looking for data on the at least 1000 most popular Twitter accounts. Help would be most appreciated!	HerrKanin	11	3	7	"""Most popular"" might be of a somewhat vague definition, but ""most followed"" is a good enough definition for me. "	t5_2r97t	True
+1340533448.0	vir2o	OCLC moves worldcat.org into the world of Linked Data and slaps on a open access licence	mhermans	8	0	0		t5_2r97t	False
+1338498458.0	uehsm	Audio data: recordings of 534,000 Evangelical  Christian Sermons	RuncibleJones	12	3	8		t5_2r97t	False
+1334803811.0	sh6yw	New Subreddit Aims to Assist Researchers [X-post from /r/Geography]	minorsecond	10	1	0	"Because I feel like I sometimes bug faculty with my many, many questions regarding research design and whatnot, I scoured for a subreddit that focuses on design and peer review (/r/proofreading does exist but I was hoping for something more technical).
+I was surprised to find that such a subreddit doesn't exist, so I created it myself. Maybe some of you will find it helpful. I hope it is able to get off the ground!
+Anyway, I give you /r/ResearchDesign"	t5_2r97t	True
+1332040470.0	r1lqn	20-30 years worth of news articles	skadamat	9	1	4	I'm collaborating with a few other students / a professor to do a financial sentiment research project and we're looking to go back a few decades and observe market / media patterns. I know it'll be hard to find news articles from before 2000 since articles were distributed mostly on paper, but if anybody knew where to start, I'd love to hear!	t5_2r97t	True
+1328376363.0	pas19	AskDatasets: Could you point to some data sets to practice Multiple Linear Regression with lot of predictors/dependent variables. 	rightname	11	3	4		t5_2r97t	True
+1327050187.0	oonte	Is there a dataset of websites available anywhere? According to Netcraft, there are 175 million active sites.	visarga	9	1	4		t5_2r97t	False
+1324278943.0	ni9gc	Open Data for Africa platform has been launched by African Development Bank with a lot of data on Africa in a single place	vbougay	9	1	0		t5_2r97t	False
+1316333478.0	kjdrq	The Data Hub by Comprehensive Knowledge Archive Network	utcursch	8	0	0		t5_2r97t	False
+1312699629.0	jbebq	"SimpleGeo releases 21 million geographical ""points of interest""  (CC0 license)"	dgryski	12	2	2		t5_2r97t	False
+1298755494.0	ftcqr	Need help with IMDB dataset	DrRansom7469	11	1	6	"I recently downloaded all the files from IMDB. Once I unzipped the files they are all a .list file extension. My end goal is to put together a large movie dataset in SPSS or Stata, but I don't know how to open these files from IMDB or how to convert them to a useful format.
+
+Any suggestions for what to do? I've tried using Java Movie Database a little bit but haven't figured out how to get that to work."	t5_2r97t	True
+1298415991.0	fqm7o	Open Call for Visualization Exhibition that references the following phenomena: stellar evolution, star structure, star properties, nuclear fusion, spectrum luminosity and/or chemical composition of a star.	kabr	8	0	0		t5_2r97t	False
+1296744614.0	feiji	BART - For Developers	reidhoch	9	1	0		t5_2r97t	False
+1296711464.0	febek	/r/datasets, does anyone here have a copy of the Edinburgh Twitter Dataset or the Stanford SNAP Twitter Dataset for download, for academic purposes?	3con0mist	9	1	3	"Hi /r/datasets! 
+
+I was just wondering if anyone here has a copy of the **Edinburgh Twitter Corpus** or **Stanford SNAP Twitter Dataset** for download, for the purposes of an academic research project I am currently working on...
+
+The Edinburgh Dataset was previously available at http://demeter.inf.ed.ac.uk/ --&gt; [http://demeter.inf.ed.ac.uk/datasets/twitter/twitterStream-20091110-20100201-v0.1.1.gz](http://demeter.inf.ed.ac.uk/datasets/twitter/twitterStream-20091110-20100201-v0.1.1.gz), and the SNAP dataset at [http://snap.stanford.edu/data/twitter7.html](http://snap.stanford.edu/data/twitter7.html), but now both seem to have been taken offline at Twitter's request - although plenty of academic papers have used the sets and have already been published.
+
+So I was wondering if anyone here has a copy they downloaded a while ago lying around that they wouldn't mind sharing.
+
+Thank you for reading! :)
+Some amazing data on this community, what a gem!! "	t5_2r97t	True
+1284647129.0	depkq	Open Government Data @ CTIC	stirfry	9	1	0		t5_2r97t	False
+1271671333.0	bt01a	data.gov.uk - UK Datasets 	zabouth1	9	0	0		t5_2r97t	False
+1270515571.0	bmw31	Sunlight Labs: Design for America Contest - Visualize or Redesign Government data/forms	invader	9	1	0		t5_2r97t	False
+1270487418.0	bmqep	The Google Public Data Explorer makes large datasets easy to explore, visualize and communicate. 	bgraves	9	1	1		t5_2r97t	False
+1270457130.0	bmkfd	UCI Machine Learning Repository	saffsd	8	0	0		t5_2r97t	False
+1376565492.0	1keuoh	List of names	Blindsniper45	9	2	8	"Hi all,
+I'm doing a programming project for school and I want to make it realistic as possible so I need a big list of names( and surnames), fake or real it doesn't matter, but it needs to have about 20 million names in it. If there is no such list available I will just generate random strings."	t5_2r97t	True
+1376413144.0	1kadl4	Cloudant Open Data	mbroberg	10	3	0		t5_2r97t	False
+1376347808.0	1k8m58	[request] Bus Schedules of Munich, Helsinki, Vienna and Prague.	OverlordAlex	7	1	4	"Exactly as the title says, I'm looking for a some data on the bus schedules of the respective cities. I can get single lines from the respective websites using some kind of automation, but these come as pdfs which I don't feel like scraping.
+
+Data doesn't have to be recent. Anything in the last 10 years would be awesome.
+
+Anyone have a resource? Or at least a place I can start looking?"	t5_2r97t	True
+1372528886.0	1hbjny	KONECT - The Koblenz Network Collection	goonmaster	8	2	1		t5_2r97t	False
+1367578635.0	1dm27z	Looking for a Dataset of Street Sales	cavedave	9	2	0	"There is a math model of how much product street vendors should buy called the [News vendor model](http://en.wikipedia.org/wiki/Newsvendor_model). I am trying to figure out which distribution of sales do street vendors actually have. As in are the sales on any particular day normally distributed? To do this I would need a data set of ""Fruit sales by street vendors by day"" or something like that. But I cannot find one, Do you know a dataset that might do?
+"	t5_2r97t	True
+1366323560.0	1cmye0	Looking for a data set which has yearly/quarterly crime rates by zip code.	Accscience	9	1	7	Hey all, I'm looking for a yearly or quarterly data set which shows crime by zip code (broken down by severity or type of crime if possible). I'm trying to do a writeup which looks at the association between local crime rate and its impact on local businesses. Thanks	t5_2r97t	True
+1364812913.0	1bexxv	Need dataset that was used for a graph	Hertog_Jan	8	2	3	"Hey /r/datasets, I'm writing a report on energy usage, and one of my groupmembers has included [this graph](http://news.bbc.co.uk/nol/shared/spl/hi/sci_nat/06/global_energy/img/energy_demandgra2300.gif) from a [BBC article](http://news.bbc.co.uk/2/shared/spl/hi/sci_nat/06/global_energy/html/introduction.stm). Since it is basically a graph for ants, I thought I'd re-generate it using the original numbers.
+
+The graph clearly states it's source as IEA 2005. So off I went, but I could not find the data used. So now my question is this: could one of you guys maybe help me find the original dataset please? I'd be extremely grateful!"	t5_2r97t	True
+1360163428.0	18023a	Looking to learn Python, where to start	smugself	11	6	12	"Hello /r/datasets,
+
+I'm just starting to think about learning Python to compliment my other data analysis skills. I currently use SAS, and STATA. Over the past 10 years I've learned to program in C, C++, Java, and Visual Basic .Net. However, I'm not proficient in any of them currently as I haven't used any of them in past ~4 years.
+
+Where would you recommend I start if I'm interested in learning Python? I know some great tutorial sites have to exist, but what do you suggest?
+
+Thanks!"	t5_2r97t	True
+1359129859.0	179dcb	Downloading large amounts of Reddit JSON responsibly?	voltagex	14	6	10	"I'm probably going to use a Linode instance that I have spare, but does anyone have a suggestion for a way to download a large (definitions of large would be appreciated) amount of Reddit comments? Inspired by some of the work here, I'd like to try my hand at my own analysis.
+
+Should I be using a different format?
+
+What should I do so I don't get IP banned?"	t5_2r97t	True
+1358262866.0	16mcf7	I need help finding data sets for Oil Rigs. Anything will help	2bfersher	10	2	13	"Hopefully I'm not breaking any rules of this subreddit with requests but, can anyone point me to a source on Oil Rigs where I can get some datasets about equipments and operating times for Oil Rigs? 
+
+specifically I'm looking for a data set that has the rig name, rig operator, equipment on the rig, up-time, down-time and any maintenance/repair information about the rig. "	t5_2r97t	True
+1356818797.0	15n4y5	r/datasets need your help finding a data set on official development assistance (aid) for sub saharan africa)	philreeduk	10	5	2	"Hi everyone, currently trying to do a project for grad school. Had a great idea of measuring official aid with human development indicators and seeing if foreign aid had an impact on these. Much of the literature focuses (and rightly so) on growth, although the relationship between growth and human development is implied at within the literature it is never investigated, hence what i am trying to do now! 
+
+My problem is i cannot find any data for the level of aid recieved by the 40 or so sub saharan african countries that i want to study, on the world banks website there is a aggregate figure for this region but not country specific! Can anyone here help?
+
+cheers reddit!   "	t5_2r97t	True
+1353851773.0	13rcdg	IP addresses	liloboy	12	5	4	"I'm looking for a text file with comma separated values (or something similar to extract the data) of IP address ranges and to where they are assigned.
+
+For instance:
+1.40.0.0 to 1.43.255.255 is assigned to Australia.
+
+Thanks "	t5_2r97t	True
+1352864421.0	135vcg	Pull Data from Texas Secession Petition	minorsecond	11	4	13	"Is there any possible way to pull the petition data from the (White House)(https://petitions.whitehouse.gov/petition/peacefully-grant-state-texas-withdraw-united-states-america-and-create-its-own-new-government/BmdWCP8B) site? I specifically am trying to get the location data. I know there should be a way but I just can't think of it right now and I'll be damned if I'm going to go through 90,000+ entries.
+
+Anyone with a good idea gets some sweet karma!"	t5_2r97t	True
+1348337953.0	10b1no	Hate crimes against lgbt, 2009-2012 in Missouri, Illinois, Iowa	Corjha	12	7	0	Anybody have any idea where to obtain data for this?	t5_2r97t	True
+1345500812.0	yjp6e	Undergraduate researcher, 1st dataset my PI asked me to analyze, need assistance 	john6391	8	1	12	"The dataset is of peak fruit fly larval weights and weights of flies at eclosion (emergence from pupae) for flies (SAM) reared at 17 and 25?C.
+
+I need to see if the temperature and the stage have significant effects on the masses and whether these two factors interact.
+
+Example of dataset
+
+1.Temp          2. Development time 3. Mass
+
+17C              peak                 
+
+25C              eclosion
+
+17C              peak
+
+25C             eclosion
+
+------------
+
+I was thinking ANOVA would be best. However, the introductory statistics course I took only covered one-way ANOVA, which I'm not sure would work. Any advice?"	t5_2r97t	True
+1345390884.0	yh40c	Visualizing social networks in movies	Sevenless85	9	2	1		t5_2r97t	False
+1343464827.0	xaj81	Nature Publishing Group expands its Linked Data platform tenfold	mhermans	9	1	0		t5_2r97t	False
+1334331489.0	s81j5	"“Every time I put something online there’s a huge audience"":  Bloomberg profile of Carl Malamud and his quest to open government data sources"	claird	9	0	0		t5_2r97t	False
+1323873694.0	nceoa	Request: Dataset of ISP's by zipcode?	b00ks	8	1	2	Don't know if this exists, but I want to get a visual reference to the places in the US that don't have access to ESPN360.	t5_2r97t	True
+1321547256.0	mfsk3	Main Street Public Library Database	cavedave	8	2	1		t5_2r97t	False
+1321433515.0	me7mr	Do you know of any DMOZ-sized  dataset of text clusters?	visarga	7	1	3	"I want to cluster a large collection of web pages by topic and was wondering if I could use the results of an already executed clustering as centroids for my clusters. What I am looking for is a dataset with a large list of topics and some examples from each topic. Thx
+
+Edit: Word clusters would also be ok, like shown in [this paper](http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;sqi=2&amp;ved=0CCEQFjAA&amp;url=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.164.5520%26rep%3Drep1%26type%3Dpdf&amp;ei=rX3DTofoF4bxsgbMs7WODA&amp;usg=AFQjCNHMzw2CSocGz12BKxAfyiZAq9uPrg&amp;sig2=0jSzRp_dBzkL9FIbjZa6Wg)."	t5_2r97t	True
+1321385474.0	mdeoe	Common Crawl Foundation: use their 5 billion page dataset with fairly unrestricted terms of service. 	Quintote	7	0	4		t5_2r97t	False
+1320263271.0	ly1rs	Personality Insights: OkCupid Questions &amp; Answers with Demographic Data	winniechimp	16	9	0		t5_2r97t	False
+1318217232.0	l6o0i	The full set of answers to the Wikipedia editor survey		8	1	0		t5_2r97t	False
+1316695938.0	knukb	The World Top Incomes Database	utcursch	8	1	0		t5_2r97t	False
+1312993080.0	jepaf	Question: How do I find out how many Architects there are in Japan?	upload333	9	3	4	"I have a list of 7 different professions(Contractors,Engineers, Distributors, etc) of which I need to find out how many there are in China, South Korea and Japan. I've used ReferenceUSA, International Marketing Data and Statistics, CIA.Gov, International Labor Organization's website and I just can't find this information. I've even just tried googleing but that comes up with non-relevant articles about architects in Japan, China or Korea. I've also talked with reference librarians at 3 universities and 2 of my local libraries, all of whom have been looking for the passed 4 days and haven't found much either.
+
+How or where can I go to find this information?"	t5_2r97t	True
+1300225375.0	g4ot9	free HD video sequence to be used as a dataset for machine learning algorithm??	fookmefookyou	9	2	3	"I need a HD video sequence to use as a dataset for my algorithm. It has to be publicly available, as in http://www.cipr.rpi.edu/resource/sequences/ but it has to be HD (&gt;=720p) and simple (fixed background/zoom, few dynamics), e.g. a newscaster talking.
+Thnx
+"	t5_2r97t	True
+1296583560.0	fd7sl	Where can I find neighborhood data?	jmtame	8	2	4	I'm looking for datasets that show the geographical boundaries of neighborhoods in cities (e.g. downtown areas and residential neighborhoods).  Does anyone know where I can find such information?	t5_2r97t	True
+1294147588.0	evz48	Datasets for development economists	cavedave	7	1	0		t5_2r97t	False
+1285963923.0	dlnf7	where can i found movies ticket sales data per city?	sentenza	7	0	1		t5_2r97t	True
+1280420337.0	cv4lm	Wikileaks Afghanistan data	agconway	9	2	0		t5_2r97t	False
+1280420025.0	cv4iv	Scraped Facebook directory - personal details for 100 million users	towel42	11	3	1		t5_2r97t	False
+1275836982.0	cc0mm	The 20 Newsgroups data set	antitheftdevice	7	0	0		t5_2r97t	False
+1275708789.0	cbnko	Request: In-store CCTV footage	nicholaides	8	1	0	I'm looking for some samples of in-store CCTV footage. Anything more than 5 minutes would be ideal.	t5_2r97t	True
+1274035981.0	c4u46	"Nightly data dumps from ""The Right Tool"" - survey on how programming languages are best described"	DRMacIver	7	0	1		t5_2r97t	False
+1272554768.0	bxvxc	7 years of play-by-play NFL data	muddylemon	9	0	4		t5_2r97t	False
+1270816554.0	bomn4	Guardian Datablog - Lots of UK data sets.	zabouth1	7	0	0		t5_2r97t	False
+1376707189.0	1kj1zx	[request] Movie Release Dates and Ratings (if possible)	tshauck	6	0	2	"I'd love to get my hands on movie release dates... a simple list would be great and potentially ratings if possible.
+
+Thanks"	t5_2r97t	True
+1376412268.0	1kacd0	Announcing Project Open Data from Cloudant Labs	garbados	7	0	0		t5_2r97t	False
+1375231033.0	1jdzd6	Looking for a free dataset of links to each news story from major news sources	buzzyness	7	1	3	Hi r/datasets:  I'm looking for or a free dataset of hypertext links and meta descriptions to each and every news story from major news sources such as CNN, BBC etc. I'd like this dataset to include tweets from the twitter handles of these sources as well.  Any suggestions would be helpful 	t5_2r97t	True
+1373649720.0	1i5xuy	Document clustering training data. Do pre-clustered datasets exist?	dnoel	6	0	2	I'm working on clustering a set of news articles. I'm applying both unsupervised and supervised algorithms. For the supervised component I'm either going to have to manually generate training data (build a list of clusters by hand), or find a pre-existing data set containing known good cluster information. I'd rather not have to do it all by hand (it'll take weeks). Does anyone know of such a set? Thanks in advance. -dnoel	t5_2r97t	True
+1365426186.0	1bwxtp	Where can I find tariff data for Mexico before 1995?	manoumenon	7	2	3		t5_2r97t	True
+1363944086.0	1ash96	I'm creating a data set for all the media I watch this year, any suggestions on additional information I should be recording?	tophmctoph	7	1	30	"I watch an abnormal amount of tv shows so jan 13 I began keeping track of all the programming that I watch. So far I'm up to 821 movies and tv show episodes but I'm only keeping track of if its a rewatch and what season/ep. Now that I'm realizing how much I'll have by the end of the year I figure someone could extrapolate some cool information from this. So I need y'alls help. What other information should I start tracking after I finish a piece of media? What added information would benefit someone at the years end?
+
+I'm sorry if this is the wrong subreddit for this kind of post, of the data related subreddits it seemed most appropriate."	t5_2r97t	True
+1362702179.0	19vow4	SMS spam/ham data sets [repost, 1yr ago]	Relvnt_to_Yr_Intrsts	8	3	0	"Was looking for some sms text data and found [these datasets](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/) posted a year ago. Many of these links are broken (maybe someone has more recent ones?) but some appear still functional.
+
+Anyway, I thought others might find this post useful as well!
+
+"	t5_2r97t	True
+1362644957.0	19u4a1	dandelion - the one-stop shop for smart, high-quality geo &amp; linked data	foxTN	10	3	3		t5_2r97t	False
+1362632619.0	19ttwc	Does anyone know of any comprehensive RSS feed databases out there?	msher09	9	1	3	I need one that is downloadable and categorized. Any suggestions would be much appreciated. 	t5_2r97t	True
+1360683994.0	18dqmw	Nokia dataset?	melipone	6	1	3	Could somebody tell me how to obtain the Nokia MDC dataset that was featured in http://www.kdnuggets.com/2012/07/nokia-mobile-data-challenge.html ?	t5_2r97t	True
+1360551814.0	18aae4	Is there data that not only tells state-by-state natural gas/oil production, but also show the proportion mined by hydraulic fracturing(fracking)?	bfizzledizzle	8	1	2	I'm looking to do research on impacts of fracking. I know I can find state-by-state natural gas production at the EIA website, but I'm having difficulties finding the proportion made by mining method.	t5_2r97t	True
+1359991230.0	17vatm	Dataset with ratings and content	23tux	6	1	8	"Hi,
+I'm searching for a dataset to test my recommender system. I need something with real content, e.g. RSS articles/feeds, blogs... AND ratings (e.g. 1-5). I've found this link for reddit data http://www.reddit.com/r/redditdev/comments/bubhl/csv_dump_of_reddit_voting_data/ but it only contains user, link_id and rating. The downside is, that trying to crawl a huge amount of data from the reddit api is slow and btw against the api conditions.
+
+So does anyone know where I can get such data? Some social related stuff would also be great (e.g. a twitter or fb user rated this article...)"	t5_2r97t	True
+1359855277.0	17s8ga	New to r/datasets, no sidebar, how do you guys analyze this data? 	Trustmeimacop	9	3	9	I recently learned my first programming language, python. Does anyone here find python useful in analyzing data? Are there any good (free) python-data analysis tutorials out there?	t5_2r97t	True
+1355380635.0	14rv2t	How do I find data in a graphic showing user growth in a given subreddit?	mikenewhouse	7	1	0	Does anyone know? I found one website that shows you over the period of a month. I'd like to look at a larger time scale though.	t5_2r97t	True
+1354072586.0	13ww5b	Have some data on U.S. food and fuel prices, median earnings, and CPI from 1913 to 2012. It's on the house.	data_junkie	9	3	2	"I use federal government data to show how much basic necessities the middle class can afford via my website, [Inflation Trends](http://www.inflationtrends.com).
+
+Of course, I also have a standard past price inflation calculator which uses CPI data.
+
+The raw data I use can be found in a neat Excel file here: http://www.inflationtrends.com/data/Raw_data.xlsx
+
+The sources themselves are described in the spreadsheet, but if you'd like to check the sources yourself, here are some links:
+
+CPI data from the Bureau of Labor Statistics: http://bls.gov/data/#prices
+
+Prices and income data from the U.S. Census' statistical abstracts: http://www.census.gov/prod/www/abs/statab.html (NOTE: many of these are in PDF)"	t5_2r97t	True
+1353349259.0	13glvi	How can I obtain the Better Business Bureau data?	donkawechico	6	2	1	It doesn't even need the rating, it can be as simple as a list of businesses acknowledged by the BBB (although the rating would be a terrific bonus).	t5_2r97t	True
+1350616538.0	11q8wz	[Request] Dataset used in Medical Study	red_firetruck	7	2	1	"Hello all,
+
+The other day the Wall Street Journal wrote an article about a medical study done looking at the value of medical check ups vs. health. The article can be found [here](http://online.wsj.com/article/SB10000872396390443624204578060682331138100.html?mod=googlenews_wsj) but it is behind a paywall. If anyone has any idea where I can find the data it would be greatly appreciated."	t5_2r97t	True
+1350284263.0	11i325	Data for Red Bull Stratos jump  - altitude/time.	SurfingInMaffra	8	2	3	"Hi Dataset!
+Do you know where I can get the data from the recent skydive?
+I would like to do some work on graphing, fitting functions and deriving some velocity/acceleration functions on it.
+The official website does not have the data that I can find."	t5_2r97t	True
+1345817733.0	yr5z0	I'm looking for pre-1970 population data in Utah by County, do you know a better way?	duperwoman	8	2	4	I've spent far too long on the census website and can't seem to find an efficient way to find *pre -1970* statistics for counties in Utah. I only need total population by county. So far my best leads were tables that got me back to 1970 (http://www.census.gov/popest/data/historical/pre-1980/county.html) and (http://www.census.gov/prod/www/abs/decennial/) gets me to some convoluted pdfs arranged by decade with data all over the place - I would like to avoid sifting through all of them. What am I missing? Thanks in advance...	t5_2r97t	True
+1343233909.0	x4ytl	Census.gov Transformation	error9900	6	0	1		t5_2r97t	False
+1342796952.0	wvjym	SAT score data set	thought_supremacist	6	1	3	Does anybody know where I could find a dataset for SAT scores with at least four independent variables. I'm doing a multiple regression project and thought this might be a good subject.	t5_2r97t	True
+1336981362.0	tm6aa	Trawling the web for socioeconomic data? Look no further than Knoema	vbougay	7	3	0		t5_2r97t	False
+1336608221.0	tfl6h	FCC radio station, tower, and antenna data	binaryechoes	6	1	0		t5_2r97t	False
+1324251818.0	nhsk4	Request: historical weather datasets	bitethemuffin	12	5	5	"Hi r/datasets!
+
+I'm wondering if there are publicly available historical weather datasets out there for some cities (particularly interested in the east coast US/CANADA, but any leads would be greatly appreciated).
+
+Temperature would be the most important variable, but others (sunny/rainy/etc, atmospheric pressure, and so on) would be great to have as well.
+
+Also any good api's out there through which i can get such a dataset?
+"	t5_2r97t	True
+1323484020.0	n704t	College Football data.	RA_Fisher	7	1	3	Does anyone know of easily accessible historic college football data?  I'm looking for things like the number of turnovers by season, or points for by season, etc.  I'm specifically planning to use it to build a model to predict college bowl game outcomes.	t5_2r97t	True
+1320447799.0	m0uqu	Any software recommendations for animating graphs?	kenfar	7	2	5	"I've got a number of data sets that I'd like to present present using some kind of animated graphs - like [Google's Public Data Explorer](http://www.google.com/publicdata/home).
+
+Can someone point me to software that ideally runs on linux?
+"	t5_2r97t	True
+1318605837.0	lc4mo	All of the items in Team Fortress 2.	RuncibleJones	8	1	0		t5_2r97t	False
+1298791621.0	ftlgu	Publicly available twitter data?	pzauteenk	6	1	14	"Anyone knows where I can get about a years worth(more is better) of twitter data. I want to mine the text in twitter at the user level and study it . 
+Lotsa folks have told me that the API is the best way to get around this... but I dont know how to write an API call. 
+Advice?"	t5_2r97t	True
+1296736507.0	fegmm	Looking for continuously updated sports datasets (Football, soccer, basketball, ..)	Ulvund	6	2	8	Anyone have any pointers?	t5_2r97t	True
+1294254682.0	ewr78	/r/datasets, does anyone here know of a medium/large dataset that contains birthday in addition to any other type of data?	gigamosh57	7	1	9	I want to show a friend of mine any statistical evidence I can find that supports/debunks the idea that your birth month/sign has an impact on your choices (astrology).	t5_2r97t	True
+1283730412.0	d9zht	London Bus &amp; Tube Timetable Dataset (XML)	voltagex	7	1	0		t5_2r97t	False
+1272019003.0	bv227	Eurostat - Lots of European Commission datasets 	zabouth1	6	0	1		t5_2r97t	False
+1271608837.0	bsol7	ICWSM 2009 Spinn3r Blog Dataset	zybler	6	0	0		t5_2r97t	False
+1270561702.0	bn4o4	UK General election 2010: the 10 key datasets	agconway	6	0	0		t5_2r97t	False
+1270488292.0	bmqmu	Lots of open datasets to play with at /r/opendata	mcantelon	7	1	1		t5_2r97t	False
+1270473274.0	bmn5y	rice single-pixel camera project [zip]	b0b0b0b	6	1	4		t5_2r97t	False
+1255092512.0	9sej9	Enron Email Dataset	antitheftdevice	6	0	0		t5_2r97t	False
+1255044577.0	9s7vp	Zip Code Database	antitheftdevice	8	3	1		t5_2r97t	False
+1376345082.0	1k8ija	Frequency of products sold in stores like CVS, Walgreens &amp; Safeway.	docious	5	0	7	"Hi All,
+
+Thanks for reading ahead of time! I am interested in finding data on the frequency at which various over the counter pharmaceuticals are sold in stores like CVS, Walgreens &amp; Safeway. 
+
+I am attempting to answer some of the following questions:
+
+Where are various products being sold around the country and at what frequency? (eg. In which states/regions are products for headache/migraines sold in greatest frequency?)
+
+Where are my company's products being sold? Which products are being sold the most in any given region/state?
+
+What is the frequency of sales for competing OTC products made by other companies? (By region if possible)
+
+I am attempting to draw conclusions in order to design a product launch schedule/plan for the company at which I am currently employed. 
+
+Any and all help is greatly appreciated. Please offer additional suggestions if you think I am asking the wrong questions with respect to my stated goal.
+
+Thanks again!
+Sincerely,
+docious
+"	t5_2r97t	True
+1375769104.0	1jsntf	How would you go about getting Reddit text data	busrter-of-bubbles	7	2	7	"Help in procuring any or all of these would be appreciated:   
+
+* List of post titles in a certain subreddit, in a given time period (if possible, with votes, but not necessary)  
+* Post titles + comments  in a certain subreddit, in a given time period (again, voting info optional)  
+* The above two, but across all subreddits, not just restricted to a particular subreddit
+
+
+If this (or a sample thereof) is already available, I'd be grateful for a link pointing me in the right direction. Thanks!"	t5_2r97t	True
+1372979641.0	1hnte4	Looking for data on browser usage - is gs.statcounter.com a good source? What internet related dataset sources can you recommend?	derSinologe	7	2	1		t5_2r97t	True
+1372776625.0	1hhzgx	Substance Abuse Retention Data	DickDraper	6	1	0	I am looking for substance abuse rentention data. Something with discharge rates, completion rates and the like. 	t5_2r97t	True
+1369781660.0	1f8b48	Looking for large movement/Trajectory data.	Turokhunter	5	0	3	"I'm looking for large movement/Trajectory data. It can be animal, car or anything. I just need a descent time scale and in tens of thounds of trajectories. Does anyone know where I can find this? 
+
+Thank you"	t5_2r97t	True
+1368721621.0	1egihx	15,000 stocks x 70 indicators x 10 years	Tammer1	11	7	6	"API:  http://www.quandl.com/help/api-for-stock-data
+
+Via Web:  http://www.quandl.com/stocks
+
+Feedback welcome and appreciated."	t5_2r97t	True
+1367966706.0	1dw5tw	UMBC WebBase corpus of 3B English words	mhermans	6	1	2		t5_2r97t	False
+1365633371.0	1c3fki	Looking for order, products, customer data set for project.	talhaguy	6	0	7	I'm looking for a data set which contains orders, products, and customer data for a data warehousing/business intelligence class project. Our project team would like to run an analysis on this data to find customer purchasing habits. Would anyone happen to know where I can find this information for a retail corporation such as Amazon or Wal-Mart?	t5_2r97t	True
+1362667395.0	19uh28	Gene expression data of the NCI60 cancer cell lines using Agilent g4502a	Sevenless85	7	2	1	I'm looking for the data described in the title.  Based on the prevalence of the NCI60 and the particular Agilent chip, I would expect this to be in one of the publicly available databases, but I've not been able to find it.  If you happen to know where it is, please let me know.	t5_2r97t	True
+1362490969.0	19pes3	Looking for a free corpus with dated documents	poulejapon	6	0	1	I'm looking for a free downloadable corpus with dated documents, ideally news. Do you have an idea of where I could find that?	t5_2r97t	True
+1361319522.0	18upc0	"Does anyone have access to ""CountryData"" or the PRS Group datasets?? Would be eternally grateful (details inside)"	cantbearsed	5	0	1		t5_2r97t	False
+1361202846.0	18r6hc	FDI losses (caused by Arab Spring / other Political Violence &amp; Conflict)	cantbearsed	6	0	4	"so, i'm trying to build a dataset on the Foreign Direct Investment losses by country as a result of the Arab Spring and more generally any political violence &amp; conflict. I've looked at collecting data from Political Risk Insurance institutions (private, national &amp; multilateral) but at best they provide a total for the year but not broken down by country.
+
+Does anyone have any suggestions for how to go about collecting this data?"	t5_2r97t	True
+1359862949.0	17sfrv	Data analysis/data science job question.	cmn2207	8	3	7	"Hi /r/dataets , I'm a recent graduate with a Masters in Nuclear Physics and I was wondering if at this point I am employable for an entry level data science or data analysis position. I have some programing experience in C, Java, ROOT (CERN data analysis software), and linux experience but nothing too extensive with any of those.
+
+I feel like I could learn the programming in perhaps a few months time with my background, and that I may already have the statistics background necessary. Am I wasting my time looking for a data science job?"	t5_2r97t	True
+1356061257.0	157h7l	Questions about collecting my own data	Kevspace2	6	0	4	"I want to measure my nearly non-existent asthma (using a peak flow meter) and also record when I take medicine. It would probably make sense to track the weather or when I travel or have a cold or am around cats (things that make me have asthma symptoms). Maybe even when I go for a run. This is for myself, I just thought it would be interesting to track over several months. 
+
+Being that the peak flow meter measurement and timestamp of my medicine intake are numbers, it should be easy to graph and record. The other variables might not, perhaps I could assign numbers to sickness and cats? Is Excel what I should be using right now? I haven't touched it in 12 years, so I have no idea about it's capabilities. Are there any other programs for tracking misc data like this? 
+
+Thanks!"	t5_2r97t	True
+1355515151.0	14uwt3	Does anyone have any US/State level data on shootings?	econometrician	11	6	11	I was just wondering if anyone had any sources on shootings data? Given the recent series of shootings in the US, I thought it'd be useful to see it visually and to see if the recent frequency in shootings is new. I'm sure it's out there somewhere, but my Google luck was poor. Let me know if you know of any that you might know of, thanks so much!	t5_2r97t	True
+1353688881.0	13o7ad	Hey reddit, i have a question regarding demographics data from the US		7	3	4	"I'm trying to do a policy evaluation of the impact of the Arizona immigration law from 2010 and in order to do that I wanted to create a matching estimator as a counterfactual. In order to create the matching estimator I want to construct a ""synthetic"" arizona as a weighted sum of other states in order to match demographics and key growth indicators. I have a great dataset already for some of the economic indicators, however except for the 2000 and 2010 census data my data on demographics is lacking.
+
+I wanted to know if there are any reasonably good datasets at hand that can give me more finely grained data for 2011 and maybe some estimation for 2012 that show the demographic and ethnic makeup of states. I know the best data for that in general is the census data, however the frequency is far too low to get a good picture of the impact in 2011 and 2012.
+
+If there is any interest I can promise to show you the endresult of my analysis in exchange for tips, but don't expect it for a few months. (latest in february).
+
+For further details on why and how i chose my method I recommend looking at ""The Economic Costs of Conflict: A Case Study of the Basque Country"" Abadie, A. and J. Gardeazabal (2003), American Economic Review, 93, 113-132."	t5_2r97t	True
+1353481014.0	13k0da	Hey reddit, where can I find a bunch of great statistics to compare to ones I already have? 	AGB500	8	2	5	"Hey everyone. I'm looking for stats to make some current numbers much more interesting by comparing them to other more understandable ones.
+
+For example, ""this project saved US$3.6bn, that's the equivalent of the GDP of X county, or half of Y country's health budget, or the annual entertainment budget of Z company"" etc. Basically, is there a cool place where we can put in a number and a bunch of different stats come up to help provide comparisons?
+
+Ta muchly for any assistance!"	t5_2r97t	True
+1352672569.0	1312mw	[REQUEST] Quirky stats that are appropriate for demonstrating Benford's Law. (Across several magnitudes, not human-assigned)	SigmaB	5	1	2	"~~~~~~~~~~~~
+
+Thank you in advance!
+----- 
+~~~~~~~~~~~~
+
+""Not all data sets follow Benford's law. Those data sets most likely to will have the following characteristics:
+
+* The numbers describe the sizes of similar phenomena (for example, market values of corporations).
+
+* The numbers do not contain a built-in maximum or minimum value (such as deductible IRA contributions or hourly wage rates).
+
+Assigned numbers, such as Social Security numbers, zip codes or bank account numbers will not conform to Benford's law.""
+
+http://www.journalofaccountancy.com/Issues/1999/May/nigrini.htm"	t5_2r97t	True
+1348029579.0	104e0b	List of reddit user locations (needs extraction)	lahwran_	6	1	6		t5_2r97t	False
+1345916317.0	ytab9	Analyzing Social Networks in Shakespearean Plays	Sevenless85	5	1	0		t5_2r97t	False
+1345490163.0	yjd8a	Ecological / Resource Data? 	mjburgess	6	2	2	"I was wondering if I could get some help with data resources. 
+
+Im looking to build a very simple model of the effect of ecological shockes (droughts, etc.) on food/water/resource distribution. I'd be intending to get it to make better predictions of future shocks by feeding it more data (using ML techniques). 
+
+Any ideas?  "	t5_2r97t	True
+1337268154.0	trqt1	Diving into OCLC's  Virtual International Authority File datadump	mhermans	7	2	0		t5_2r97t	False
+1335874032.0	t1ew1	Nature Publishing Group releases linked data platform, including primary metadata for more than 450,000 articles published by NPG since 1869	mhermans	9	2	1		t5_2r97t	False
+1335370488.0	srxko	Where can I find the historical cost of healthcare premiums? (1970-2010) [x-post from r/SampleSize]	jdv253	6	0	2	"I combed through the KFF's website to no avail. Google isn't turning anything up.
+
+Thank you!"	t5_2r97t	True
+1335138999.0	snbq5	[Request] Any larger sets of Javascript samples?	rlayton	6	0	2	"I'm doing some research on Javscript injection. I've done a proof of concept of randomly generated strings, but now I need a better example of a real world test. Does anyone know of any corpora of Javascript examples?
+
+Preferences (not required): more than 1000 samples, of varying length and different purpose (i.e. preferably not the assignments from a bunch of students)."	t5_2r97t	True
+1335064298.0	sm5xg	Which is best: datachimps.com, datamarket.com, or another alternative?	Lors_Soren	6	1	2		t5_2r97t	True
+1335042240.0	slqgp	What should I do with a qualified voter file?	ThePoopsmith	5	0	7	"I'm a programmer and looking to get competent with data mining. My state has the entire qualified voter file available for a meager price under the FOIA law. It contains name, address, birth date, gender and what elections they've voted in. I'm looking for some public domain or otherwise cheap data sets to correlate with it, but so far, I'm not coming up with much.
+
+Does anyone have any ideas on what I could look for to correlate with this stuff? I'm mainly looking to play with this for practice, just to see how much I can gather and maybe even spook some friends. 
+
+Thanks!"	t5_2r97t	True
+1329169213.0	po19l	Request: Software for graphing/visualizing start/stop times?	colindean	8	2	0	"Hey /r/datasets, I'm looking for some kind of software or howto with some existing piece of well-known graphing software (i.e. gnuplot) that I can use to visualize a set of start and stop times. Think of the data kinda like a computer [boot chart](http://www.bootchart.org/images/bootchart.png) showing at what time a process started and ended on a line.
+
+My data has a label, a start date, and an end date. It's possible for a label to have multiple start and end dates, but if a software can't support that, then I can simply change the label (there's only one label like that right now).
+
+**Any suggestions?**"	t5_2r97t	True
+1326139955.0	o9pkr	4,000+ social media apps with screenshots and reviews	dgryski	6	1	0		t5_2r97t	False
+1325684927.0	o2heg	Raw world, business, and tech news.	autoencoder	6	1	2		t5_2r97t	False
+1321757588.0	mincf	"Datasets to train a classifier for ""support/questioning intent?"""	wflanagan	5	0	3	"I'm looking for datasets that I can use to train a classifier to take a guess about whether someone is asking a question or requesting help/support about.. well, really anything.  Ideally, I'd like to find a dataset that can be used to train it. 
+
+Anyone have suggestions where I might be able to turn over a rock and find something like that?  "	t5_2r97t	True
+1320645468.0	m38lc	Anyone know where I can find time series data on concentration ratios?	DrRansom7469	7	1	3	"I am working with panel data going from 1995-2005, with a large number of firms as cross sections. I am looking for either 4-firm or 8-firm concentration ratios by industry (either by SIC code or NAICS would be fine). Also if there are any databases where I could find time series data on the HHI of those industries would be great too.
+
+Anyone know where these might be available?"	t5_2r97t	True
+1312190862.0	j5jxo	Open Data Business Models	cavedave	6	1	0		t5_2r97t	False
+1309262810.0	ib887	Data Set on SMS Spam	Lors_Soren	5	0	0		t5_2r97t	False
+1300396084.0	g5ys6	University of Huddersfield library circulation and recommendation dataset	b0b0b0b	6	1	0		t5_2r97t	False
+1299869406.0	g23s2	100,000 web servers located in Japan in XML format - provided by Shodan	achillean	7	0	3		t5_2r97t	False
+1296246614.0	faxwm	Does anyone have state level census data for 1990-2008?	shadowofthe	6	1	2	Working on my thesis, and before I go about actaully transcribing this into stata I thought I would throw it out onto Reddit to see if you guys knew if this already existed	t5_2r97t	True
+1287196642.0	drwos	Ask /r/datasets: new mover information?	ralphc	6	2	0	I'm looking for a way to collect new mover and/or house purchase information for 3 or 4 zipcodes near my church, for postcard sending purposes. With some searching I've seen that the post office guards this information and sells it to third parties for large amounts of money, which sells this service to regular folks. We're on a tight budget, and if possible I'd like to collect this information myself and I don't mind some data massaging and extraction, with trying one of the services as an option if it's not possible.	t5_2r97t	True
+1286472736.0	do5iw	[REQ] English books (preferably all, with descriptions/covers).	sardine	6	0	1	"Hi,
+
+I've created a moderately successful social network about books. Through contacts I've able to obtain a complete dataset of all dutch books since 1970 (and some before that). 
+My users are asking me whether I can add all English books as well, but I can't seem to find a complete/decent set, nor a vendor that has such a set. 
+
+Does anyone know any such sets?
+
+It's for this site: http://www.boeklezers.nl/?lang=EN "	t5_2r97t	True
+1281688884.0	d0p89	Rare Sharing of Data Leads to Progress on Alzheimer’s	cavedave	6	1	1		t5_2r97t	False
+1271390397.0	brm6s	Complex Network Resources	psykocrime	5	2	0		t5_2r97t	False
+1270578917.0	bn94g	US States ranked by Carbon Emission, size, population, and political conservativeness.	citizenjr	7	1	2		t5_2r97t	False
+1270453188.0	bmjvh	Real-Time Access to a lot of datasets through one API (over 200 datasets ranging from nextbus,twitter to amazon)	netaddict	5	0	1	"[YQL](http://developer.yahoo.com/yql/)
+
+PROTIP: Try the console and press show tables on the right sidebar"	t5_2r97t	True
+1270446815.0	bmiqi	MovieLens Data Sets	draicone	5	0	0		t5_2r97t	False
+1255353085.0	9t7yp	Poker Hand Data Set	antitheftdevice	6	2	0		t5_2r97t	False
+1255017488.0	9s3dg	New York City Data Mine - 170 datasets from 30 agencies	antitheftdevice	5	1	0		t5_2r97t	False
+1374533763.0	1iugg8	Looking for historical data on the employee numbers of publicly-traded companies.	cazbot	5	1	1	Does anyone have any idea where/how I might dig this info up? Google and Yahoo finance appear to only carry 2012 data. I'm looking for info on about a dozen specific companies.  (thanks to /u/Fireflite for making me aware of this sub)	t5_2r97t	True
+1373844641.0	1iayan	Touchstone Applied Science Associates (TASA) Corpus	mesmer_adama	4	0	1	Does anyone know where you can find this dataset? It is a large corpus with english school texts, commonly used and referenced to in computational linguistics research. But can't find any pointers online to it :)	t5_2r97t	True
+1368388811.0	1e77bl	Looking for a dataset of recipes for a school project.	jalpert911	6	4	2	I am doing a school project that involves large sets of data, and I figured recipes would be a good way to approach this.	t5_2r97t	True
+1368216773.0	1e37wk	Historical School Test Score Dataset by District?	proxyformyrealname	6	3	3	Hello there.  So as the title suggests I'm looking for longitudinal data about test scores at the school district level going back as far as possible.  Any ideas?  Many thanks.	t5_2r97t	True
+1368122729.0	1e0jn3	I am looking for a news dataset dating from ... - 2006 June.	batsuperman	4	0	1	I am looking for news story dataset which would cover news stories from 200X - 2006 June. The more data I have before 2006 June the merrier, but it is essential for having data from 2006 March - 2006 June. Can anyone help, please?	t5_2r97t	True
+1364476973.0	1b6bcx	Looking for Study Abroad Datasets (GDP, Destination Rates, etc.)	Coleridge12	4	0	0	"Hey all,
+I'm a graduate student in public policy, looking to enter into international education, primarily for post-secondary students (college). I've done some work domestically in the U.S. and abroad towards that end. Right now, I'm trying to do a project for a class evaluating the effect of a chance in a country's GDP and other indicators of financial well-being on the rate of students going to that country.
+
+However, I can't seem to find any datasets on it.  I'm not looking for completed reports, but basically spreadsheets of variables and data. .dta, .csv files are preferred, but I can just import from an excel document if need be."	t5_2r97t	True
+1361930986.0	19at93	Looking for good ideas for a MATLAB programming assignment using a large data set.	Manidest	5	1	2	"I teach a basic MATLAB programming and I am about to assign a midterm project. My original idea was to use a (relatively) comprehensive bright star catalog and have the students search for all double, triple, etc stars within 50-100 lightyears with some other criteria thrown in. Unfortunately, I haven't been able to find this data organized in a manner that would not require a great deal of work on my end.
+ 
+Any ideas? 
+
+Requirements: 
+  * Read a file in from Excel or csv, or other delimited format into MATLAB
+  * Organize the numerical data into a multidimensional array
+  * Slice the data in some way
+  * Search the data using some sort condition
+  * Report results
+  * Use a user generated function in there somewhere
+
+These are freshmen and sophomore level engineering students some with practically no programming experience. "	t5_2r97t	True
+1361126541.0	18p9yq	[Request] Princeton UNCTAD Bilateral FDI dataset	havamal93	4	0	3	Data located here: http://dss.princeton.edu/cgi-bin/catalog/search.cgi?studyno=3077 . I need this dataset for an article I'm working on but I am not at Princeton. Would anyone with access to the Princeton network be willing to upload this to a public server?	t5_2r97t	True
+1358733826.0	16yope	Historic CA county population density data?	unixnerd	5	1	2	"Hello,
+
+I'm looking for any records that might tell me county-level population density for California counties between 1940 and 2000. I'm doing some work on urban change in the Bay Area and would like to map population change over time. Does anyone know where I might find such data or records? Thanks!"	t5_2r97t	True
+1358544117.0	16u83o	Web Hunt for DNA Sequences : Compromised , will this be our next big data download  challenge?	slakblue	6	1	0		t5_2r97t	False
+1357417616.0	160tjv	"""A call for disruptive innovation in science publishing with a new open data-sharing platform for the life sciences"" - Interesting article I found on FigShare, which is a great place to find datasets as well "	SeeComments	7	2	0		t5_2r97t	False
+1357252807.0	15wwwi	OPUS - an open source parallel corpus	bradbeattie	6	2	0		t5_2r97t	False
+1348072830.0	1055jv	First name usage by some country/-ies	bohpa	4	2	7	I'm looking for first name usage statistics by some country/-ies. Is there anything in open access?	t5_2r97t	True
+1346425969.0	z4zjy	[REQUEST] Hodgkin's lymphoma survival data	knees	5	1	2	"Hello /r/datasets,
+
+I'm currently taking an intro to survival analysis class, and I wanted to put it to use by analyzing survival data on hodgkin's lymphoma, which I recently found out my cousin has. Any help would be appreciated :)"	t5_2r97t	True
+1344640768.0	y0tiz	Dataset for world height distribution	Trihorn	6	2	2	"I'm seeking statistics on worldwide height distribution (not median height, not average height etc that Wikipedia has but the distribution). Something similar to what this is like for the USA http://www.allcountries.org/uscensus/230_cumulative_percent_distribution_of_population_by.html
+
+UNStats comes up short, Guardian DataBlog comes up short and Googling has come up short for me."	t5_2r97t	True
+1343315877.0	x6y6x	"""Synthetic"" Population Data for the U.S:  Created Primarily for Agent Based Modeling
+"	proxyformyrealname	4	0	0		t5_2r97t	False
+1337898581.0	u3hq8	Hayden Planetarium—curators of the Digital Universe Atlas (included)—Data Products.	grbgout	4	1	1		t5_2r97t	False
+1336877534.0	tkhdl	converting an SPSS .sav file to excel?	flipping_monkey	4	0	4	Hi guys - Sorry if this isn't an ok, post, but didn't see any rules.  I'm trying to use Afrobarometer data for my thesis, and their data automatically exports to a .sav file.  I don't have SPSS software on my computer, and would like to use excel for this particular analysis anyway.  Could anyone either help me out or point me towards a free way to convert it?	t5_2r97t	True
+1334664697.0	se2vi	"""... an unprecedented amount of data on international economic development"": arstechnica reports on new World Bank transparency policy [multi-post from /r/GlobalDevelopment]"	claird	6	0	0		t5_2r97t	False
+1332249807.0	r513d	The China Study	napperc	5	1	0		t5_2r97t	False
+1331068313.0	qko6b	NCAA college football strength of schedule data	johnnymo08	5	1	0	"Hey reddit, 
+I'm doing an econometric paper and I need some help. I cant seem to find a good consistent site with college football strength of schedules for the past 12 years. I have looked on NCAA.com but cant seem to find any data with SOS. I have found this website http://www.jhowell.net/cf/cfindex.htm but I'm not sure how accurate the data is. 
+any help would be appreciated
+"	t5_2r97t	True
+1325750796.0	o3qe9	Women in the labor force (1970-2010) from the US department of labor	oxbuck	4	0	0		t5_2r97t	False
+1323453974.0	n6gyv	County level census data 1980-1996	wordsarentenough	4	0	1	"Hi everyone,
+I'm looking for some county level census data (i.e. race, poverty, income characteristics, etc.) from 1980-1996, and on the censtats website I can only find data from roughly 2000 onward, and nothing in so nice a form as a table.  Does anyone know where or how I could acquire something along these lines?  Thanks a lot!"	t5_2r97t	True
+1323371648.0	n569v	"Ask r/datasets: Looking for datasets about piracy 
+(music, movies, etc)"	grotos	5	2	2	"I'm looking for any data about music, movie and software piracy. I know there exists datasets about pirated Oscar movies (http://waxy.org/2010/02/pirating_the_2010_oscars/) but I need more information (not only dates).
+
+Basicly I am going to analyze the impact of piracy on the markets. I don't know yet how to estimate number of people downloading illegal stuff, but for a start any data would be useful."	t5_2r97t	True
+1321911216.0	mkm2q	Trying to find a data set of prescription drug prices in the 2000s, specifically forms of oxycodone (Oxycontin, etc)	theloniousnole	4	0	2	I haven't had much luck so far though. Where can I find this data?	t5_2r97t	True
+1317624418.0	kz4x0	Featured Kasabi Dataset: UK Government Art Collection	mhermans	4	1	0		t5_2r97t	False
+1311277466.0	iw4cu	European Commission JRC-ACQUIS Multilingual Parallel Corpus (22 languages, pairwise aligned [231 pairs])	treerex	5	1	0		t5_2r97t	False
+1305544287.0	hcgkb	Price of weed	cavedave	5	0	1		t5_2r97t	False
+1299921808.0	g2iib	AidData - Tracking 3rd World Development Aid	Ulvund	4	1	0		t5_2r97t	False
+1299658526.0	g0b1u	Time series data on UK household indebtedness?	agwblack	4	1	1	I was hoping some knowledgable soul might be able to point me in the direction of a dataset containing time series data on household indebtedness, preferably with a breakdown by income groups. Similar data on other countries would also be useful. Thanks!	t5_2r97t	True
+1284437602.0	ddipj	California c-section rates by hospital type	generic_name	4	0	0		t5_2r97t	False
+1281146342.0	cyc68	Sense tagged datasets (cross post from information retrieval)	Abhishek_Ghose	6	1	0	Are there any publicly available sense tagged (senses from Wordnet) datasets other than Semcor?	t5_2r97t	True
+1275400390.0	ca8od	A Shining City on a Spreadsheet	cavedave	7	4	3		t5_2r97t	False
+1274144943.0	c5db9	[request] Dataset/anonymised email headers for SPF statistics	voltagex	4	0	1	"This is pretty specialised, but is there anywhere I can get a whole lot of mail headers (anonymised, I'd hope) to gather some stats on SPF usage?
+
+Microsoft did something like this with Hotmail in 2004, but I'm looking for something more recent."	t5_2r97t	True
+1271968284.0	busqa	Where can I find lists of...	spdub	5	1	4	Nouns, Adjectives, and Verbs that have already been spread out into their own files.  I am interested in working on a computational linguistics project but my google-fu has failed me.  Any help is appreciated. Thanks.	t5_2r97t	True
+1271538107.0	bsf06	Police accidentally send out unprotected criminal background check data to journalist	chu	4	1	0		t5_2r97t	False
+1271403782.0	browz	Dutch zipcodes with geolocations	mensink	4	0	0		t5_2r97t	False
+1270526440.0	bmy0q	Labeled Faces in the Wild Face Database 	dudehasgotnomercy	5	2	0		t5_2r97t	False
+1270503572.0	bmtw2	Prosper.com: Peer-to-Peer Loans Data	loganfrederick	4	0	0		t5_2r97t	False
+1270479682.0	bmokj	VDS Technologies - Map Data (Shapefiles)	Pocketcup	5	1	0		t5_2r97t	False
+1270449675.0	bmj8u	The Guardian's data store - large collection of datasets on topics like banks, UK elections, government borrowing, primary school league tables...	draicone	6	0	0		t5_2r97t	False
+1374168445.0	1ikkoh	US Census, ACS question - how can I find the number of people that have lived in a county for longer than 5 years?	greensmurf30	6	2	1	"(This may be the wrong place to ask - just let me know where to redirect my question if that is the case.)
+
+I'm trying to find the proportion of households within a county that have lived within that county for longer than 5 years - so their move in date is 2008 or earlier. The American Fact Finder has a topic called ""Year Householder moved into unit"" (Topics &gt; Housing &gt; Occupancy Characteristic), but the most recent category on those tables is ""Moved in 2005 or later"". Where is it possible to find statistics on more recent move in dates?
+
+Where I'm looking: [http://factfinder2.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t](http://factfinder2.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t)"	t5_2r97t	True
+1373413444.0	1hyyjg	RSS commission new research into public perceptions of statistics in the UK	glomph	3	0	0		t5_2r97t	False
+1369351185.0	1expy2	Data sets for fatal car accidents	JustKay	4	2	3	As it says above I need help finding data sets for fatal car accidents and wither or not they were under the influence of alcohol for an experiment of mine and I have no idea where to look. I have tried to see if the DMV has the data set I'm looking for but there is no unified one just one for each state, so doing it based off of national data is impractical going that route. I need as close to the raw data as possible and the source has to have as small a bias effect on the data as possible.	t5_2r97t	True
+1367204190.0	1dbaot	Anyone know where I can find total votes cast for a republican congressional candidate by state for 2010 &amp; 2012?	ispeaknihongo	6	2	5	"I am having a really hard time finding if something like this is even listed. I see that I can find it by county, but not by state, which seems odd. I really don't want to have to go through a 3k+ data set and add everything together.
+
+I've seen the US Census data table from the 2010 election, but it doesn't list the results of the DC election, I was hoping that I could find one that would.
+
+I am hoping that this would just be listed by state since that would make is easier to deal with.
+
+Anyone ever seen something like this?"	t5_2r97t	True
+1356722139.0	15l35g	Gas mileage visualization	jupiter93	3	0	2		t5_2r97t	False
+1353031224.0	139wuo	Is there place to find sets of data about who writes letters to congressmen/women?	Droocifer	5	2	0	Data sets that break down subject of letters, gender, and age? I've looked at the Pew Research Center, but it wasn't much help.	t5_2r97t	True
+1352054477.0	12meok	2012 General Election Editorial Endorsements by Major Newspapers (with links to archived 2008 endorsements). Small but interesting.	RuncibleJones	3	0	0		t5_2r97t	False
+1347574573.0	zufgk	Looking for Movie (title, rating, and comments) dataset	gtkevo	4	1	11	"Hello fellow Redditers!
+
+I am a comp sci student and I'm looking for a dataset involving movie data that has information for the movie title, a ratings scale, and comments relating to the movie. The Netflix dataset has the first two, but doesn't have any comments associated.
+
+I found the netflix prize dataset, a flixster dataset, and a MovieLens dataset which all have titles and ratings. Now I need comments. 
+
+Any ideas? =)
+
+Thanks!"	t5_2r97t	True
+1347020707.0	zi41o	Looking for data on cities	LewisMogridge	3	0	5	"As title says basically. I'm looking for stuff like GDP, population, socioeconomics, etc. at the scale of city or metropolitan-region.
+
+I tried Eurostat, CIA, World Bank and some other sources, but it mainly seems to be countrywide statistics for these items."	t5_2r97t	True
+1331062380.0	qkjfd	What are the units of measure for land area in US Census Shapefiles?	Ceteris__Paribus	3	0	0	"I am working with the shapefiles from the US Census Bureau for Colorado School Districts. In the files is a variable called ALand10 or something similar. It just spits out a number and I have no clue what the units are, and I can't seem to figure it out.
+
+[Here are some notes](http://www.census.gov/geo/www/tiger/tgrshp2010/usernotes.html) from the US Census Bureau.
+
+Consider an example of Moffat County, CO (The School District is the same as the county for this case)  [Wolfram|Alpha](http://www.wolframalpha.com/input/?i=area+moffat+county%2C+co) says the area is 4751 square miles. The data from the shapefile says the area for that district is 1,494,753,340 (no units specified).
+
+I know I could just use a conversion factor, but for the paper I am working on, as well as for the sake of robustness, I would like to know what the units of measure from the shapefiles is. (Edit: The conversion factor would only work if its a linear relationship)
+
+Thanks!
+
+**tl;dr** The US Census could make their data a bit more user friendly.
+
+**Edit:** After more digging, I think the number given in the shape file is decimal degrees. I've also read that it is a bad idea to use these to calculate area. Any opinions on this?"	t5_2r97t	True
+1330971787.0	qiuvt	x-post from Open Data- Searching for end-user tools to format data to Open Data standards	gingerjoyce	3	0	2	"I have been searching around through Google and can’t seem to find any good tools for end-users to assist them with converting existing data formats to a more open standard.  
+
+Moving spreadsheets to a CSV format is easy, but what about converting MS Word documents to a functional, and clean, XML format?  MS Word can save into an XML format, but it is not clean.  
+Can anyone recommend tools/applications that would be easily usable by end-users that would allow them to either format MS Word into usable XML or plain text to XML?  
+
+We are trying to get some traction on the Open Data movement but the largest obstacle we are facing is from day-to-day users.  An easy-to-use tool/application to help them put their data into a semantic format for Open Data would really help break that barrier.  They must exist but I am just not finding them.
+"	t5_2r97t	True
+1330747407.0	qfhjg	Request: Simple data sets for stats noob	smooverida	5	2	0	Looking for two data sets to compare. Would like to practice up on my statistical analysis and ability to create histograms. As a quality assurance rep, my job is moving away from measuring/reporting and more into analyzing data. I am drawing blanks as I stare off into google. Maybe a couple ideas from you guys can help me narrow my search. Thanks	t5_2r97t	True
+1330309128.0	q7i0x	Request: Antarctic ice melt data/glacier movements, Antarctic temperature data	mabufo	7	3	2	"Greetings. I am interested in any data on the subject of of the Antarctic continent. I am specifically interested in temperature data, as well as data on major glaciers, ice thickness, as well as summer melt data. 
+
+Really, anything you have would be helpful. Thank you. "	t5_2r97t	True
+1328694186.0	pg2ld	2010 Taoiseach (Irish Prime Minister) expenditure data	cavedave	3	0	0		t5_2r97t	False
+1322468095.0	mrt4o	Looking for Preferential Data Sets	amathstudent	4	1	0	Hey /r/datasets I just tried posting this in /r/math but they sent me here. So I'm a 3rd year maths student in the UK and I'm writing a project on voting systems. I'm trying to find a free online data set which has preferential rankings, i.e. Voters choices on a set {A,B,C} with 1st, 2nd and 3rd choices marked, which I can perform some analysis on. Any one got any suggestions??	t5_2r97t	True
+1321069232.0	m9gl8	System specs (dxdiag) from an unusual source	voltagex	3	0	0		t5_2r97t	False
+1319062535.0	lhzip	Web page dataset	melipone	5	2	0	"I am familiar with the WebKB dataset from CMU. Can somebody point me to another collection of Web pages? 
+Thanks."	t5_2r97t	True
+1318432264.0	l9m7p	"Where to find data to use with R
+"	talgalili	3	0	0		t5_2r97t	False
+1317891284.0	l2u3l	DSPL datasets for the programming barely literate?	jsweezy	3	0	0	Anyone have tips or suggestions (or any luck) creating DSPL datasets for Google's Public Data Explorer? In particular, folks with limited to no programming experience?  I've tried to find a decent guide but have had no luck so far.	t5_2r97t	True
+1314124039.0	jry8l	Help us build the RezScore Skills Explorer, to help visualize job market demand for your skills.  What additional data would you like?	theorpheus	3	0	0		t5_2r97t	False
+1303279680.0	gu8w9	hat are some example of public datasets that have randomized instruments? Sometimes they ask questions in different orders, or use different prompts	inquilinekea	5	2	0	"Or datasets with instruments (with at least one variable randomized)?
+
+I would like to use at least one of them for my causal modelling course (Stat 566), whose syllabus is at https://www.stat.washington.edu/tsr/s566/syllabus566.pdf"	t5_2r97t	True
+1296706934.0	fea0m	The CAIDA Anonymized 2011 Internet Traces Dataset	llimllib	3	0	0		t5_2r97t	False
+1270534378.0	bmzjb	Automatically Assessing the Post Quality in Online Discussions on Software (datasets from a scrape of nabble.com)	saffsd	5	2	1		t5_2r97t	False
+1270529985.0	bmypj	GeoScience Australia data dumps [mapping, GIS ,geocoding, CC-BY]	voltagex	4	1	4		t5_2r97t	False
+1270483987.0	bmpka	Cartographic Boundary Files - U.S. Census Bureau	pponso1	3	0	0		t5_2r97t	False
+1270481486.0	bmp00	CKAN - Comprehensive Knowledge Archive Network - Home	frank	3	0	0		t5_2r97t	False
+1270452251.0	bmjph	Lonely Planet Geo-related API [geocoding, place names, mapping]	voltagex	3	0	0		t5_2r97t	False
+1270448213.0	bmiyt	Australian postcodes with geocoding	draicone	4	1	0		t5_2r97t	False
+1255017624.0	9s3em	Forex Historic Rate Data from 2000 to present	antitheftdevice	3	0	0		t5_2r97t	False
+1376067463.0	1k1adk	Best type of chart for my data	fraincs	2	0	6	I have some data that consist of movie titles (around 30) and their average IMDB score, I want to show them in a way that would help the viewer to realize it's pretty low (average of all movies I picked is 5.9)	t5_2r97t	True
+1371050740.0	1g77nl	Just looking some specific iphone data[X-post from /r/iphone	iamtheejackk	3	1	1	I am trying to figure out up to date percentages about how many iphone models are in circulation/use. Like for example how many 3gs are in use/circulation or iphone 4 etc. I have spent time googling it and can only find sales data figures. Maybe you guys can help me. Thanks.	t5_2r97t	True
+1363230102.0	1a9fjb	Looking for Marketing Time-Series Data	smugself	3	1	2	"I'm going to leave this question open ended mainly because I don't entirely know what I'm looking for. I've been looking into marketing analyst job positions among others lately however I've never really worked with marketing data. I've worked time-series regressions before however. Does anyone have any datasets I should look at and maybe some sample questions that I could that a manager or employer might as for? Or topic of optimizing marketing-mix allocation or marketing sensitivity curves.
+
+Like I said open-ended question but hopefully someone in that industry might be able to help me out so I can get some practice, and locate areas of weakness I need to study up on. 
+
+Thanks! "	t5_2r97t	True
+1360518178.0	18967h	Adult dataset question	NoSoyUnGato	6	4	1	"Hi! I'm working on a small analysis in this dataset: http://archive.ics.uci.edu/ml/datasets/Adult 
+but so far I'm a little confused about some of the variables:
+
+capital-gain
+capital-loss
+fnlwgt
+
+Could someone explain me what's the meaning of these fields? I've tried to google it but it's been hopeless...thanks in advance!
+"	t5_2r97t	True
+1358241228.0	16lz0t	[Request] Does anyone know where I could get a dataset which shows the number of cases of (or even better - cases per capita) of schizophrenia, for each US state?	muenstercheese	3	1	2		t5_2r97t	True
+1352689800.0	131kdx	Gravesite locations of Veterans, by State	parcoords	4	2	0		t5_2r97t	False
+1349309872.0	10wmzb	Reddit, need your help picking a dataset topic	Roflcoptorz	4	2	4	"Hey all, I'm looking for a dataset with at least 50 observations in a time series for a project.
+
+Currently looking at doing reported UFO sightings by month but open to other suggestions
+
+Thanks!"	t5_2r97t	True
+1345476127.0	yiy3z	UK recession by region and sector.	alexgmcm	2	0	0		t5_2r97t	False
+1333291463.0	rnykm	Question about the National Longitudinal Survey of Youth	econometrician	2	0	0	Does anyone know if the NLSY79 data set offers gpa? I have grade outcomes for undefined courses, but I don't see gpa available. Does anyone know if this is something I'd have to calculate myself? Or is it something available at the NLSY?	t5_2r97t	True
+1332186618.0	r3wb4	Request: dataset for detection of community structure	sindrome198	3	1	3	"Hi,
+
+I am trying to use a few community detection algorithms to try and analyze the different run times of these algorithms. But before I do that, I want a dataset where I can try and predict the ""communities"" A priori.
+
+Would anyone have an idea where to find a dataset/have one? Any help would be appreciated!
+
+Thanks "	t5_2r97t	True
+1326240238.0	objz7	Major Hollywood Movies (2007-2011) - Budgets, Review Scores, Grosses, etc.	tst__	2	0	0		t5_2r97t	False
+1325286818.0	nwtph	Mammal dataset from Weecology	talgalili	2	0	0		t5_2r97t	False
+1324244742.0	nhogf	Request: Dataset of duration of unemployment spells	cbrunos	7	4	2	"Hello,
+
+I'm looking for a dataset that has the duration of unemployment spells for each individual in the sample as well as other variables, like age, gender, level of education, etc…My searches have been infructuous for now. Thanks!"	t5_2r97t	True
+1323846853.0	nc5ae	Looking for datasets on English speaking Internet users by country.	Supertrinko	3	1	0	"Hi, As said in the title, I'm trying to make a list of countries by ""English speaking internet users"".
+
+Two separate Wikipedia pages list the two statistics:
+
+[List of countries by English-speaking population](http://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population).
+
+[List of Internet users by country](http://en.wikipedia.org/wiki/List_of_Internet_users_by_country).
+
+This is almost what I want:
+
+[Internet users by language](http://en.wikipedia.org/wiki/Global_Internet_usage#Internet_users_by_language)
+
+But this only shows the amount of users of each language, not where they're from.
+
+I want:
+
+""List of countries by English speaking internet users""
+
+---
+
+Reason for the data? Countries have borders. But the internet is an international phenomenon. The main borders are language borders, with crossings in multi-lingual people, and tourists in internet translators.
+
+It's pretty clear based on the data I do have access to (above data separately), that English Speaking Americans are the majority of internet users. They have over twice as many English speakers as second place India, and over twice as many internet users regardless of language.
+
+This shows that the United States has the largest influence on the English speaking internet (obvious to most).
+
+And this is the goal, looking at the influence different countries have on the English Internet.
+
+---
+
+India, it has the second highest amount of English speakers, and fourth highest on the amount of Internet users (hold your jokes please). Though the majority of their English speakers have it as an additional language, so that's probably why we see more British influence on the internet than Indian.
+
+---
+
+Perhaps I ask too much, I expect I could only find such data in a census. But it can't hurt to ask, perhaps someone has an idea."	t5_2r97t	True
+1322540580.0	msxsb	Any foreclosure databases?	Mottebayo	4	2	2	Do you guys know of any foreclosure databases that are free? It would also be great if there was a foreclosure database with geolocation data, or a point file that could be usable in GIS.	t5_2r97t	True
+1315100798.0	k3zxz	SAMHSA non-federal Twitter accounts	tomato_paste	2	0	0		t5_2r97t	False
+1309463346.0	idjp8	Marvel Universe Social Graph data set | Infochimps	winniechimp	5	3	0		t5_2r97t	False
+1307713436.0	hwd72	I'm looking for a GPS-annotated roadmap/graph of any major city. 	jfasi	2	0	4	I'd like to perform a large state space search to find optimal traffic light patterns. Basically, I'd like to try to compute a scheduling for traffic lights that would optimize traffic flow, and I'd like to have a dataset to train on. 	t5_2r97t	True
+1300474389.0	g6m6e	Bimodal benchmark sets	MeowMeowFuckingMeow	2	0	0	"Does anyone know of any benchmark datasets used to evaluate classifier performance which are easily/naturally divided into two streams of data (or come from different modalities?). What I'm using at the moment are data which divide into audio+visual features, but it'd be useful to see if [this method I'm looking at] generalises to other types of data than frontal audiovisual data of humans. 
+
+Thanks!"	t5_2r97t	True
+1271751112.0	bthbi	Historic Prices and Wages	cavedave	2	0	0		t5_2r97t	False
+1270525783.0	bmxvz	Magnatagatune - annotated music audio clips dataset	dudehasgotnomercy	2	0	0		t5_2r97t	False
+1270510966.0	bmvaq	"Business datasets (and others) in xls, csv, and xml 
+formats"	xtracare	2	0	0		t5_2r97t	False
+1270506391.0	bmuff	Infochimps Data Marketplace and Repository for data - 10,000+ datasets	kellyjosephc	9	8	1		t5_2r97t	False
+1270495752.0	bmsar	Radish:  The Robotics Data Set Repository	moyerma	2	0	0		t5_2r97t	False
+1270485417.0	bmpwn	US Census TIGER Files - Spatial data for roads, railroads, rivers, and lakes, as well as legal and statistical geographic areas in the US		3	1	0		t5_2r97t	False
+1270470121.0	bmmkd	Bureau of Labor &amp; Statistics has great data on inflation, prices, (un)employment, pay, benefits, &amp; many more	horseloverfat	2	0	0		t5_2r97t	False
+1270464239.0	bmlk0	Wikipedia/Mediawiki API - good for querying any (meta)data in Wiki projects	voltagex	2	0	1		t5_2r97t	False
+1270459345.0	bmkr5	Europeans Value Studies (EVS) Data and Downloads	NahWhatever	2	0	0		t5_2r97t	False
+1270453611.0	bmjxh	Publicly available and downloadable databases [repost from programming]	voltagex	3	1	0		t5_2r97t	False
+1270452933.0	bmjtu	Discogs API [music, requires signup/API key]	voltagex	3	1	0		t5_2r97t	False
+1371043670.0	1g6zma	I'm looking for the Economic Sanctions Reconsidered dataset.	oneohtrix	1	0	0	It's meant to be included with a CD-Rom with the book, but my library doesn't have the CD-Rom. Anyone know where else I can get it from?	t5_2r97t	True
+1359941204.0	17u765	Any datasets on Rugby?	hameaststyle	5	4	3	"Specifically the Super 15. I've had a long look around and the Fox Sports one is probably the best, but doesn't have all the stuff I want.
+
+http://www.foxsports.com.au/rugby/super-rugby"	t5_2r97t	True
+1356712665.0	15ktcs	Looking for Aggregate Demand. Where?	MyNameCouldntBeAsLon	2	1	4	Either by itself, preferably by its components. For as many years, and as many countries as possible. Anyone know any resource that might carry something like this?	t5_2r97t	True
+1347544888.0	ztll6	[Request] Time Series Data Repository	WayUpLow	1	0	4	I am looking for a data repository that specialises in any sort of time series data. Any help much appreciated!	t5_2r97t	True
+1333839411.0	rygvr	Looking for property sales and assessment data sets for property tax sales ratio study. Any ideas?	metafork	1	0	4		t5_2r97t	True
+1332368473.0	r7fc6	Looking for Diabetes Public Database.	i_314	3	2	2	"Hello, 
+Do you know about any available and public Diabetes database?
+Something similar the NCI is doing with Cancer: (http://www.cancer.gov/statistics/tools)
+I´m developing an Analytics tool (hopefully Open Source) with real data at a hospital, and I would like to compare and improve it against a more complet dataset.
+The UCI Machine Learning Repository: Pima Indians Diabetes Data Set is not suitable for my purpose.
+Thank you very much.
+"	t5_2r97t	True
+1327611772.0	oy3s4	Accessing OpenStreetMap API using R	talgalili	1	0	0		t5_2r97t	False
+1327159944.0	oq9i8	"Request: Game dataset of ""Versus type games"""	Ulvund	4	3	11	"e.g. FIFA 12 online data, League of Legends 5 vs 5 online data or any other game where 2 or more opponents battle to score some kind of points or victory
+
+I want to run some ranking methods on these types of data"	t5_2r97t	True
+1327097802.0	opfmm	In Search of Women College Graduate statistics by state	RobotCowboy	2	1	3	I am doing some economic research for a professor and can not find a data set anywhere. Anybody know of an agency that would have this data?	t5_2r97t	True
+1326993278.0	onhj8	A collection of datasets from the Dutch goverment, site is also in Dutch	srcr	1	0	0		t5_2r97t	False
+1326821345.0	ol209	1200+ resting state fMRI (brain scans) dataset	whitemailbox	1	0	0	"This seemed useful to a few people in various comments already, so I thought I would post it directly in the /r/datasets
+
+
+http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html"	t5_2r97t	True
+1325901112.0	o680n	Map Library: public domain map datasets	unquietwiki	1	0	0		t5_2r97t	False
+1322862979.0	my0ry	data on indivuals	JSmith666	3	2	2	I am looking for data that will give me basic iinformation on a per person basis such as age, education, race, gender, religion etc. it is for econometric analysis	t5_2r97t	True
+1321940161.0	ml4wt	Data Sets Used by the Treasury 		1	0	0	"I thought /r/datasets might find the following tidbit interesting:
+
+https://www.fbo.gov/index?s=opportunity&amp;mode=form&amp;id=4a19b60627a7eef4bf54145598b09517&amp;tab=core&amp;_cview=0
+
+Solicitation number: CC12HQQ0003
+
+[...]
+The system includes a one-year subscription to the following databases: USECON; USINT; USNA; ASREPGDP; CAPSTOCK; LABOR, IP; EMPL; CEW; OES; CPIDATA; PPI; PPIR; FFUNDS; SURVEYS/SURVEYW; GOVFIN; WEEKLY; DAILY; DLINQ; CBDB; BCI; REALTOR; ICI; FDIC; HOUSING; RAILSHAR; EEI; SPM; SPW/SPD; SPAH; INDUSTRY; ASM/QFR; USDA; G10+; EUDATA; RANCE; GERMANY; ITALY; SPAIN; IK; IRELAND; BENELUX; NORDIC; ALPMED; JAPAN/JAPANW; ANZ; CANSIM; CANIMR; INTDAILY; INTWEEKLY; INTSRVYS;  EMERGE; EMERGELA; EMERGEPR; EMERGECW; EMERGEMA; OECDMEI; OECDNAQ; OECDNA; OUTLOOK; OECDFDI; IFSANN; IFS; IMFBOP/IMFBOPA; IMFDOT/IMFDOTM; IMFWEO; BIS; WBPRICES; WBDEBT; WDI; INTCOMP; UNPOP; LABORR; EMPLR; EMPLC; CEWR;  BEAEMP/BEAEMPM; GSP; GDPMSA; PIQR; PIR; PIRMSA; PICOUNTY; PIRC1 - PIRC9; USPOP; USPOPC; PERMITA; PERMITY; PERMITS; PERMITC; PERMITP; MBAMTG; BANKRUPT; GOVFINR; REGIONAL/REGIONW; EXPORTSR; EXPRQ; PORTS; FDICR; ASMR: DLINQR; EULABOR; PREALTOR; CREALTOR; M4CAST; MA4CSTL; OEFQMACR; OEFAMACR; and OEFQIND. 
+[...]
+
+I'm really interested in finding the source of of several of these (BANKRUPT in particular)."	t5_2r97t	True
+1321406588.0	mdswh	LF: dataset for blog comment spam	unstoppable-force	1	0	0	i'm looking for a dataset for blog comment spam.  the latest one i can find is almost 3 years old.	t5_2r97t	True
+1313435114.0	jjms3	Million Song Dataset	chub79	2	1	0		t5_2r97t	False
+1310435394.0	imza0	~25k reddit stories with vote data; ones about meat marked	Xodarap	1	0	0		t5_2r97t	False
+1310431239.0	imxfw	Looking for a free, recent zip code database	tallbaker	1	0	0	"I am looking for a zip code database for a project I am working on - but I can't seem to find one that is free. It seems absurd that the USPS charges for this information.  
+
+All the sites I find charge or are scammy - or have data that is seven or eight years old.  Does anyone know of a place I can find the zip, city, state, lat and long for free? "	t5_2r97t	True
+1309344706.0	ic71r	List of words with affective labels	fuckitfuckitfuckitfu	1	0	0	"(anger, confusion....)
+Better if freely available.
+I m also interested if someone has an idea how to create one without manual operations.
+Thanks"	t5_2r97t	True
+1308842719.0	i77w6	Anyone have datasets from social networks which include spam?		1	0	0	"I would like to experiment with spam filters. Social networks could include Reddit, Digg, Facebook etc.
+
+Thanks for your help!"	t5_2r97t	True
+1308190016.0	i0unh	Anyone have a dataset with national median income for countries?	neolduser	1	0	0	I'm having a terrible time finding it. You'd think it'd be easy.	t5_2r97t	True
+1307998931.0	hytvn	Vaccine funds - get the data	cavedave	1	0	0		t5_2r97t	False
+1307875956.0	hxpml	Looking for: Cars Dataset	cdemi	1	0	0	"Hi guys, I'm looking for a car dataset ie. Manufacturer, Model Type, Year, Fuel Type and Transmission etc...
+
+Can anyone tell me where to find such dataset or what I have to do to obtain/buy this type of data?"	t5_2r97t	True
+1307552535.0	hur2f	SQL dump with 200+MM tweets from 13+MM users	dwdwdw2	1	0	0		t5_2r97t	False
+1307406236.0	htart	Anybody know where I can find stats on cable subscribers by age group?	jesusabdullah	1	0	0	"I've been spending time with my older relatives, and they watch TV *all the time*. Meanwhile, a lot of my friends (myself included) don't even *own* a TV.
+
+I'm wondering if I'm the only one. :)"	t5_2r97t	True
+1307403247.0	ht9jx	arXiv partners with the Data Conservancy to store data sets linked to preprints	Lors_Soren	1	0	0		t5_2r97t	False
+1305953293.0	hggr3	Sensory data from a french fries experiment	Lors_Soren	2	1	0		t5_2r97t	False
+1305944048.0	hgdwa	the R datasets package	Lors_Soren	2	1	0		t5_2r97t	False
+1305942983.0	hgdix	Bjørn Lomborg's data sets	Lors_Soren	2	1	0	"Is there a single source where one can easily download Bjørn Lomborg's various data examples from either/both of his books? I'd like to use the compendious data to practice R / ggplot with.
+
+I know he cites where each data set comes from in the book, I just wonder if there's a compendium."	t5_2r97t	True
+1305696796.0	hdzox	Where can I find a large dataset of n-grams?	jasonrosen	1	0	0	"I'm looking for a large dataset of n-grams (preferably 4-grams or 5-grams, though bigrams or trigrams might also work), in order to get some cooccurrence data. Are there any such datasets (freely) available?
+
+Sadly, it looks the Google n-grams datasets (http://googleresearch.blogspot.com/2006/08/all-our-n-gram-are-belong-to-you.html -- not the more recently released book n-grams) now cost $150 + shipping.
+
+I thought I'd heard that Bing also provided n-grams datasets (http://research.microsoft.com/en-us/collaboration/focus/cs/web-ngram.aspx), but it looks like all the access is through some limited API, so (unless I'm missing something) I can't find all the cooccurrences for a given word X.
+
+Are there any other datasets available / am I misunderstanding what Bing provides? Or is my only option to just pony up and pay for the Google data?"	t5_2r97t	True
+1305080235.0	h8m72	Library Hack - Records and images from Australian and NZ libraries	HeapsGood	1	0	1		t5_2r97t	False
+1304603109.0	h4szd	Compilation of a variety of data processing APIs as a downloadable VM or AMI		1	0	0		t5_2r97t	False
+1304534706.0	h4735	Central clearinghouse for datasets published by the City &amp; County of San Francisco	TheMunch8	1	0	0		t5_2r97t	False
+1304441808.0	h39nt	HTTP request header data sent by browsers, mobile devices, and bots	redsymbol	1	0	0		t5_2r97t	False
+1302987233.0	grnth	Reddit: Do you have any information about EHR and Meaningful Use datasets? Any information on where to get those? Thanks.	orangepotion	1	0	0		t5_2r97t	True
+1302533691.0	gnfca	Where can i download netflix database for my experiments?	Exibus	1	0	0	.	t5_2r97t	True
+1302395249.0	gmg03	Data.gov Newest Datasets -- RSS feed	zach_will	1	0	0	"I ended up writing an [RSS feed](http://pipes.yahoo.com/pipes/pipe.info?_id=4f0e59d1bb358ad9e8bf9e8b086f5ade) for the new datasets on data.gov — I'm much more likely to check Google Reader every day rather than the actual site.
+
+If you want to know how I wrote it (I just used YQL and Yahoo Pipes), then you can check out my simple [how-to blog post](http://zachwill.posterous.com/datagov-rss-feed)."	t5_2r97t	True
+1302041525.0	gjfqu	Startup Funding Data, Insider Trading, and Social Relationships between Wall St Insiders	jasonindc	1	0	0		t5_2r97t	False
+1301993696.0	gizl6	Heritage Health Prize Launched	cavedave	1	0	0		t5_2r97t	False
+1284578790.0	debt5	Linked Data - Billion Triple Challenge 2009 Dataset and Statistics	stirfry	1	0	0		t5_2r97t	False
+1283730474.0	d9zi4	London.gov.uk Datasets	voltagex	1	0	0		t5_2r97t	False
+1270491062.0	bmrak	Ask /r/datasets: good resource for National Debt feed?	dalix	3	2	0	I've been trying to find some sort of web-based feed for the national debt.  It seems that most sites simply calculate the number and don't consume any sort of up-to-date feed. Thanks in advance to anybody who can help a brotha out.	t5_2r97t	True
+1270490852.0	bmr8n	GeoCommons: Open Geo Data (KML,Shapefile, CSV)	DataMcDatarson	1	0	0	If you're looking for GeoData, try checking here first. GeoCommons has also built and opensource geocoder (http://github.com/geocommons/geocoder) at GitHub to help everyone work with geodata. hope this is useful. 	t5_2r97t	True
+1270488898.0	bmqse	City of Toronto data set catalogue 	wildmXranat	2	1	0		t5_2r97t	False
+1270486719.0	bmq8m	Webscaled - Buy data, sell data	thecoderdude	3	2	0		t5_2r97t	False
+1270480320.0	bmoqc	Comprehensive Knowledge Archive Network, CKAN	gtani7	1	0	0		t5_2r97t	False
+1270473114.0	bmn4z	Ask /r/datasets: good resource for city/town and zip data for states?	actionscripted	1	0	2	Doesn't need to be anything fancy: list of cities/towns and (if possible) ZIP codes. I've found millions of sites offering to sell this sort information but I cannot distinguish the reputable sites from the scam/crap sites.	t5_2r97t	True
+1270472609.0	bmn1v	CIA World Factbook	qwak	2	1	0		t5_2r97t	False
+1270462994.0	bmlcf	The Internet Movie Database	goky	3	2	4		t5_2r97t	False
+1270459466.0	bmkrt	Denmark's roads, locations and districts (postal, tax, church, police, conscription, administrative, etc.)	spuur	2	1	0		t5_2r97t	False
+1270457412.0	bmkh4	LBNL/ICSI Enterprise Tracing Project (Packet capture samples)	qwak	3	2	1		t5_2r97t	False
+1376320055.0	1k7kj2	★ How do you generate driver licence numbers for Europe?	vrinw_lefele	1	1	1	"I already know how to for the USA.
+http://www.highprogrammer.com/alan/numbers/dl_us_shared.html
+It is for the purpose of anonymizing existing data sets.
+Any algo, tips ressources will be welcome."	t5_2r97t	True
+1376076014.0	1k1lrx	Find datasets from governments around the world with this tool	dataremixed	2	2	0		t5_2r97t	False
+1374082879.0	1ihz5f	Where to get good data about internet users for specific regions?	derSinologe	1	1	0	"I was wondering if anyone can recommend a good site. So far I've found [statcounter](http://gs.statcounter.com/#resolution-US-yearly-2012-2013-bar) but was wondering if anyone here can recomment a better source or say if statcounter is good.
+
+I'm doing research for a paper and I need some data about browsers, users, screensizes for users from the USA, Germany and China."	t5_2r97t	True
+1372965225.0	1hne5i	Historical Bitcoin data w/API	Tammer1	3	3	1		t5_2r97t	False
+1372187076.0	1h209h	Looking for survey data (metadata on the survey as well as the results)	waxandwane	1	1	4	survey - as in opinion polls, questionnaires, etc. - thanks!	t5_2r97t	True
+1371749832.0	1gqmi8	"Looking for a data vendor that has ""Number of Customers"""	revrec	1	1	0	I'm working on a market segmentation project and i'm trying to find a data vendor that can provide me with a list of companies and the number of customers each company has.  I've looked into Hoovers, Data.com, Inside View but no luck so far.  Any suggestions?	t5_2r97t	True
+1367245671.0	1dc7l3	Hans Rosling: Let my dataset change your mindset	andrekearns	1	1	0		t5_2r97t	False
+1363206859.0	1a8lp8	High school graduation rates and college attendance rates by state, going back to 1979.	jonthawk	2	2	1	"I'm writing a paper about the effect of per capita education expenditures on these, but I've only been able to find the data for those two variables going back to '92. I'd really like to extend further back though. Any leads would be much appreciated :)
+"	t5_2r97t	True
+1361552781.0	1912g6	"New Data Mining Tool ""Enigma"" offers hundreds of thousands of hidden public datasets at your fingertips with unique API. Everything from lobbying records to toxic release inventories."	ShitTurksSay	18	20	5		t5_2r97t	False
+1361233999.0	18sagy	Data for essay	ssdsd	2	2	0	I need data on nike sales for special releases, over the course of the past 10 years. Any Clue of how I can obtain such information?	t5_2r97t	True
+1360432394.0	1878m2	New to Big Data. Thinking of doing a class room project on Memetracker dataset from the memtracker website. How should I proceed ? What patterns from this data will be useful to analyze.?	nimkarsubodh	3	3	1		t5_2r97t	True
+1360428579.0	1874tf	New to Big Data. Thinking of doing a class room project on Memetracker dataset from the memtracker website. How should I proceed ? What patterns from this data will be useful to analyze.?	nimkarsubodh	1	1	2		t5_2r97t	False
+1359505187.0	17j20o	How can one get data from facebook likes like these guys did? I want to do something similar for my country	tiagosilva	1	1	1		t5_2r97t	False
+1357331913.0	15yvuw	Looking for interesting datasets of dynamic phenomena for primary school students to explore	Djatha	1	1	0	"I am developing some educational materials for primary education on growth, growth rate, and rate of change and am looking for interesting datasets for fifth or sixth graders to explore.
+
+I've already found datasets about weather and climate, water tides, usage patterns of some websites, economic/financial (although not very interesting to younger children), and population growth/decline in the city/state the children live in as well as other historical demographic datasets.
+
+I'm looking for other interesting datasets of dynamic phenomenon for primary school students, like, for example, datasets of biological and physical systems close to the world view of primary school students. Without success I've been looking for datasets of growing plants (with different variables like temperature, water, CO2, ...), real populations of animals (and other creatures), seasonal thermal energy storage, energy of the sun throughout the year, and so on.
+
+For many of those examples I can find models (and generate data from that), but I want real, authentic, and messy data so students can explore a realistic situation and try to fit a model themselves. 
+
+If you know of any datasets that might apply or are otherwise interesting, I'd be grateful."	t5_2r97t	True
+1351792551.0	12gv57	[help] Tim Horton's Density	rflight79	1	1	3		t5_2r97t	False
+1344723719.0	y2egn	McDonald’s Nutritional Information, August 2012	cavedave	1	1	0		t5_2r97t	False
+1343088646.0	x1mv6	Red Lion Data	locationlists	1	1	0		t5_2r97t	False
+1335020578.0	slb0p	Hopefully Reddit's sleuthing abilities are better than mine.	IMetGregOden	1	1	0	"Hello all,
+
+I am looking to do a project on teen pregnancy rates, mostly on how effective abstinence programs are. I have been looking for state, county, MSA, city, any local level of data on teenage pregnancies. So far, the CDC hasn't been overly helpful so hopefully someone here knows of something that I have been unable to find.
+
+Thanks.
+
+Perhaps I should explain a bit. I received a research grant to do some research on the societal costs of abstinence only education (as it relates to teen birth rates, etc.). While I expect that it will have negative costs I don't want to jump to conclusions, anyways a little help with finding the data would be immensely helpful."	t5_2r97t	True
+1333388377.0	rps5p	Archives bends under rush for 1940 census records; share your family stories	berlinbrown	1	1	0	http://openchannel.msnbc.msn.com/_news/2012/04/02/10972767-archives-bends-under-rush-for-1940-census-records-share-your-family-stories?chromedomain=usnews	t5_2r97t	True
+1331399957.0	qqfe1	looking for web browser history	subbukambala	1	1	0	"Hi All,
+
+I am looking for web browser history of several users(around 100). Using this data, I am trying analyze user's interests.
+
+This data will be very useful for my research. Can any one provide appropriate links/data
+
+Thanks in advance.
+
+-Bala subrahmanyam Kambala"	t5_2r97t	True
+1331060879.0	qki6t	Request: game logs archive with timestamp?	melipone	2	2	0	I am looking for game logs where moves are recorded with a timestamp attached. One-person games will work too. 	t5_2r97t	True
+1327967522.0	p3qdx	Request: SMS (Text) to English Parallel Corpus		3	3	0	Is anyone aware of a publicly available parallel corpus of sms to proper english words? 	t5_2r97t	True
+1325017406.0	nsn1u	Request: Vegetables and their geographical location.	fit_napper	4	4	2	"Just a few items I've come across that are somewhat close.
+http://fera.defra.gov.uk/plants/plantVarieties/nationalListing/
+http://en.wikipedia.org/wiki/List_of_culinary_vegetables
+http://en.wikipedia.org/wiki/List_of_culinary_fruits"	t5_2r97t	True
+1322919287.0	myozw	Database of Stations, Trains and Schedules of Indian Railways	cavedave	1	1	0		t5_2r97t	False
+1320339952.0	lz638	Got an IP Address? We'll Give You Foursquare Venues, Wikipedia Articles, Census Data and Much More!	winniechimp	9	9	0		t5_2r97t	False
+1320264851.0	ly2vj	Happy (?!) 7 Billion Day!	winniechimp	5	5	0		t5_2r97t	False
+1318275293.0	l7e9s	Is it legal to datamine an entire website?	ponchedeburro	1	1	1	"Hi,
+
+I found this website containing which music was played on the given radio station a given date and time internal in hours (i.e 1-2 PM, 2-3 PM and ...). I would like to download and analyze this data, however I am considering the legality of mining the site. It has data from now back to January 2010. So that's 24*(days from January 2010 till now) queries to the server from my computer alone. 
+
+I have two cases in mind. 1) Is it legal for me to datamine a website in that way and 2) could me querying the server that many time be considered spam and therefore maybe harmful? 
+
+Thanks"	t5_2r97t	True
+1318251619.0	l70ge	A little help with a stats assignment please guys	JamacanPenguin	1	1	0	Can you please simply state your gender and age, then state, in the form of a number between 1 and 10, how mature you like your cheese. Appreciate it, cheers.	t5_2r97t	True
+1311466154.0	iy0mt	Ask r/datasets: Does anyone have a dataset of two competing social networks? Specifically where people can join two different groups and either choose to join/leave one or two groups, interact with members in the group or join the opposing group?	zitterbewegung	2	2	0		t5_2r97t	True
+1307914381.0	hy0b6	Twitter data containing questions, 436k tweets	snippetin	1	1	1		t5_2r97t	False
+1306425864.0	hkqlo	Stock prices in csv form	cavedave	1	1	0		t5_2r97t	False
+1297107032.0	fh14v	Where to find good data sets	larrydag	0	0	0		t5_2r97t	False
+1292173360.0	ekjl1	Help me enter data to build a College Football Bowl Game model!  I'm halfway there!		1	1	0	"This is a good website to get the data from (where I've been getting it from): http://www.cfbstats.com/
+
+
+Here's the spreadsheet: https://spreadsheets.google.com/ccc?key=tphrNSOKkgVHG1qgfoNddPw&amp;hl=en#gid=0"	t5_2r97t	True
+1278821992.0	co8ar	Twitter Dataset Scraping Tool - 140Kit	tibbon	4	4	0		t5_2r97t	False
+1270793903.0	boidj	OData SDK for PHP	voltagex	2	2	1		t5_2r97t	False
+1366725503.0	1cxoip	Do any of you guys know where to find a dataset pertaining to marital/long-term relationships? I'm trying to test whether there's any validity to zodiac compatibility.	MrPink09	1	2	3		t5_2r97t	True
+1366431683.0	1cq2sj	Ask r/datasets: Interesting time series data that hasn't been analyzed to death?	stattimeseries	3	4	0	"Hi all,
+
+I'm taking a time series course and have had trouble finding interesting data that hasn't been analyzed to death. I was hoping you could help me find an interesting data set :). I wouldn't ask if I hadn't looked for a really long time without finding something interesting.
+
+
+Here are some of my criteria:
+
+- Nothing from an R package
+- Not really anything finance
+- A description of how the data was collected
+- At least around 200 data points, hopefully sampled at equal intervals
+
+Here are some of the things I would ideally like/or am interested in:
+
+- Public health questions (surveillance, which unfortunately the CDC doesn't do flu surveillance year round)
+- Perhaps data from California, since that's where I'm from
+- Computational biology (unfortunately these are usually short time series)
+
+If it helps, I plan to use classical techniques which were taught in the course (ARIMA, state space models, spectral analysis, etc.)
+
+Thanks!
+
+tl;dr looking for some time series data for a project."	t5_2r97t	True
+1360216576.0	181ug5	Are Parlays Worthwhile in Sports Betting? Survey says.. Yes!	aubreyfight	4	5	0		t5_2r97t	False
+1359321660.0	17dyit	LA County Sheriff Crime &amp; Arrest Datasets	minorgoon	0	1	0		t5_2r97t	False
+1349439148.0	10zm4d	Help...statistics per second	yrvls	2	3	4	I'm doing a project for school based on statistics and its collection/building of databases. Basically I need to collect and/or represent (I'm a graphic design student) a database. I'm not sure if I'm using the right technical terms but what I need is, instead of the averages (for instance, every second x people die in the world), I need an example of the collection of that sort of data (x people died in second  1, x people died in second 2 etc etc). Is there any website with this kind of information so I can take a look at it and, either use that to represent that on an info-graphic or use that as an example to collect some data myself? Any help would be appreciated.	t5_2r97t	True
+1332834438.0	rfl8f	Request: Daily crude oil prices and price of gasoline dating back around 1990.	statslab	0	1	0	"Hi!
+Im going to work some statistical magic on refined oil prices. Does anybody know where I can find the data in a manageable format? Preferred frequency would be day to day and preferred time period would be over the past 10 years."	t5_2r97t	True

@@ -1,0 +1,1177 @@
+created_utc	id	title	author	ups	downs	num_comments	selftext	subreddit_id	is_self
+1324501669.0	nlpht	Please make some noise so we can get Broadcom to release one critical missing .c source code file for OpenWrt Linux 	RoundSparrow	80	13	2		t5_2rfd8	False
+1373095119.0	1hqmfb	Update on the Novena Open Laptop	phayzfaustyn	49	6	1		t5_2rfd8	False
+1364253564.0	1b07ur	"Novena - ""Building my Own Laptop"": a community designed ARM laptop initiative"	centx	50	4	11		t5_2rfd8	False
+1296607515.0	fdgkh	DreamPlug ARM box boosts plug computing	aperson	41	2	5		t5_2rfd8	False
+1362158986.0	19h0ee	The pcDuino	kasbah	41	0	8		t5_2rfd8	False
+1359376688.0	17fc60	So that's the way i introduce little people to linux devices	secondhirn	51	14	8		t5_2rfd8	False
+1284155558.0	dc9s7	24 core Ikea linux cluster	aperson	42	4	9		t5_2rfd8	False
+1296550535.0	fcz93	"Fanless 3-watt PC with Dual Core ARM CPU, HDMI 
+and Linux"	aperson	38	1	23		t5_2rfd8	False
+1322588206.0	mtj77	RasPi Diagram		38	5	11		t5_2rfd8	False
+1314702327.0	jyy5t	Kids today need a licence to tinker	gIowingsheep	42	6	6		t5_2rfd8	False
+1366674656.0	1cwdxk	$45 BeagleBone Linux PC goes on sale	carmichael561	40	4	1		t5_2rfd8	False
+1329438352.0	pt41a	Spark Tablet Pre-order	bincat	36	2	3		t5_2rfd8	False
+1323985664.0	neasf	Introducing Gertboard | Raspberry Pi		35	6	6		t5_2rfd8	False
+1283872949.0	danaj	DIY Linux Graphing Calculator Is Built From Open Source Hardware.	college_dropout	34	3	2		t5_2rfd8	False
+1349637253.0	113ke3	"""Android 4.0 Mini PC MK802 II Review"":  $55 gets you a usable computer the size of a USB key"	claird	35	5	6		t5_2rfd8	False
+1326539642.0	ogp3c	We’ve started manufacture! | Raspberry Pi	kimmel_	39	8	0		t5_2rfd8	False
+1284612422.0	dejhz	The Insignia Infocast 'Tablet': $170 hackable linux device	aperson	35	5	3		t5_2rfd8	False
+1327594878.0	oxpmk	HDMI plug computers are coming; they draw power from the TVs and displays they  plug into &amp; provide content to using a revised HDMI standard called MHL (mobile high-definition link) which enhances the HDMI interface with the power it needs, eliminating the need for a Micro USB charging cable.	Sailer	37	10	9		t5_2rfd8	False
+1322792843.0	mwzd5	Raspberry Pi planning incremental launch of $25 PC in December	TheKevan	36	9	1		t5_2rfd8	False
+1311527725.0	iygkd	$30 Hackable NAS Device	usualusername	36	7	9		t5_2rfd8	False
+1306871348.0	hogxj	Raspberry Pi: Tiny Computer That Runs Linux | Linux Journal	lengau	35	4	6		t5_2rfd8	False
+1323860711.0	nc9xo	CuBox	jabjoe	32	4	4		t5_2rfd8	False
+1274756919.0	c7rpi	Pandora's Linux Based Gaming Handheld Now Shipping	aperson	32	2	10		t5_2rfd8	False
+1363468360.0	1affj7	A $65 PC based on a MIPS 32/64 bit processor that runs Debian and X, can be used as a graphical X terminal.  How many do you want?	Sailer	37	10	8		t5_2rfd8	False
+1362530146.0	19qr7z	Linus Torvalds announces that his favorite new laptop is a touchscreen laptop and that he intends to get 'real' Linux properly running on it right away.	Sailer	49	22	15		t5_2rfd8	False
+1349879155.0	1193rv	Low cost ARM boards Comparison table	kasbah	33	8	11		t5_2rfd8	False
+1366306604.0	1cm9bl	BeagleBone Black Features 1GHz Texas Instruments Sitara SoC, HDMI, 512MB RAM at half the price	centx	32	5	1		t5_2rfd8	False
+1335367949.0	srvcp	CuBox		29	2	4		t5_2rfd8	False
+1332739744.0	rdt3o	OpenTablets.org	bincat	30	6	1		t5_2rfd8	False
+1326952036.0	omvn5	Can someone ELI5 what it takes to write a driver in for linux?	push_pop	28	2	23	"Well, you might not have to explain like I am 5, but I'm certainly a Linux noob.  Here's the deal: I have this USB sound card, a Focusrite Sapphire 6 to be precise that I would very much like to use. Unfortunately, I spend almost no time on Windows anymore, and also unfortunately Linux does not support it. I have looked all over for another driver/ solution with no luck.
+
+My current plan is to buy a USB DAC when I can afford it, but I was curious how one might go about writing a driver? I am a computer engineering student (undergrad) so this sort of work is actually very relevant and interesting to me, I am just not sure what it would take. I imagine it would take a ton of work at low levels, but again, would love some more info as I may be making my own devices down the road and it couldn't hurt to learn on something I would actually use personally. 
+
+Thanks for the listen and help. And if this is a totally stupid question, just downvote/ flame me accordingly, I'm just learning after all!
+
+peace"	t5_2rfd8	True
+1318484062.0	laim8	'$35' Android tablet launches in India, but it's now $61	2infinitum	32	5	12		t5_2rfd8	False
+1290294296.0	e99xw	The Geeksphone ONE is an Android-based mobile that gives you root access out of the box.	ropers	32	5	5		t5_2rfd8	False
+1365624531.0	1c3352	UDOO: Android, Linux, and Arduino in a tiny single-board computer by UDOO	ViennettaLurker	30	7	5		t5_2rfd8	False
+1357156400.0	15ube9	Ubuntu phone OS announced, first devices shipping in early 2014	andrewmin	33	9	7		t5_2rfd8	False
+1337542469.0	twcc3	Trim-Slice - fanless dual-core ARM Cortex A9	bincat	26	1	6		t5_2rfd8	False
+1314335859.0	juu05	FAQs (updated!) | Raspberry Pi	PencilAbuser	30	4	8		t5_2rfd8	False
+1282658104.0	d4ucx	Leak allegedly shows Nokia N9, could be first MeeGo phone	aperson	29	5	6		t5_2rfd8	False
+1363936225.0	1asdio	How long can a monopoly last? ARM is about to find out	wycx	32	9	12		t5_2rfd8	False
+1363262468.0	1aa2t6	"""We will open source A20 dual core and A31 quad core very soon. Therefore, you will find Linux tablet in the market developed by developers too in the future.""  --Allwinner Service"	Sailer	30	6	14		t5_2rfd8	False
+1349670310.0	114f97	$99 Raspberry Pi-sized “supercomputer” touted in Kickstarter project | Ars Technica	hackerfoo	28	4	9		t5_2rfd8	False
+1297804452.0	fm2y4	Now that Nokia is flaking out on Meego - does anyone have a suggestion for a viable N900 successor?	sqrt7744	26	3	16	There are plenty of great Android devices, but I'd prefer something along the lines of the N900 (which I already own), unless someone knows of a really compelling Android phone that they want to talk about.	t5_2rfd8	True
+1296858343.0	ffgyt	"Linux-based home NAS devices use as little as seven 
+Watts"	aperson	25	3	0		t5_2rfd8	False
+1294438172.0	ey5do	Ok, I think this is the right place for this post - Linux based device which is a netbook + a tablet + a phone + a bunch of other stuff	railmaniac	26	2	6		t5_2rfd8	False
+1275962419.0	cck0z	Beagleboard XM is official, revved to 1Ghz	singingKABOOM	24	2	3	"Digikey's product page is finally live, expect 6 week turn around as it just become official June 7th. It cost $30 over the original. The original will conintue to be sold as well. 
+
+[Beagleboard XM on beagelboard.org](http://beagleboard.org/hardware-xM)
+
+[Beagleboard XM on Linux for Devices (more details)](http://www.linuxfordevices.com/c/a/News/BeagleBoardxM/)
+
+[Digikey Product page](http://search.digikey.com/scripts/DkSearch/dksus.dll?PName?Name=296%2D25798%2DND&amp;Site=US&amp;Lang=EN)
+"	t5_2rfd8	True
+1272466599.0	bxa27	"SmartQ V7, V5: 7"" and 4.3"" Android/Linux/Windows CE tablets"	aperson	26	1	15		t5_2rfd8	False
+1365897403.0	1caq6p	MarsBoard A20 Dev Board [MarsBoard A20] - US $58.00 - Dual-core ARM Cortex-A7 CPU	AndElectrons	26	5	8		t5_2rfd8	False
+1353369859.0	13h9be	"""Cotton Candy Tested: Fastest PC on a Stick Can Take Over Any Screen"":  preview of way-cool tiny Linux device.  Check out its sandboxing, client mode, ..."	claird	31	7	1		t5_2rfd8	False
+1330645568.0	qdnx7	Raspberry Pi Preorder, delivered in USA by Newark.  $35 + $20 S&amp;H.  One month wait.	ar0cketman	23	2	3		t5_2rfd8	False
+1324652474.0	nnyi9	Populated boards: an update on where we are | Raspberry Pi		26	1	5		t5_2rfd8	False
+1301414115.0	ge00h	Linux has become the dominant choice in embedded systems with ARM processors, which pretty much is any and everything that isn't a PC or supercomputer.  Here's one of the reasons why.	Sailer	27	3	15		t5_2rfd8	False
+1284313299.0	dcv46	Hackable, Linux-based flying drone can be controlled by smartphone	aperson	30	6	7		t5_2rfd8	False
+1282037897.0	d22kr	iX - Ubuntu-based OS for iPhone / iPod Touch	aperson	24	2	5		t5_2rfd8	False
+1279417815.0	cqs27	"An Open Source 8-Bit Computer to Save the World 
+- Linux Journal - Very low $s hackable Humane 
+Reader &amp; Humane PC for developing counties from 
+Braddock Gaskill "	wonderfuldog	24	0	1	"""An Open Source 8-Bit Computer to Save the World"" - Linux Journal
+
+&gt;Braddock Gaskill gave a wonderful presentation on an open source 8-bit computer he had created.
+
+&gt;... we started to chat about both the Humane Reader &amp; Humane PC.
+
+&gt;The Humane Reader can be used as an ebook reader and comes with a 2GB SD card where you can put about 5000 ebooks or, roughly, the entire contents of Wikipedia. This allows anyone to bring a 5000 book library or all of Wikipedia into a home or school that does not have access to internet content. One of the main features he wanted was hackability.
+
+&gt;... Braddock is shooting for a price point of $20US for the Humane Reader!
+
+&gt;There is also the Humane PC which allows you to hack on a smaller scale which uses an 8-bit microcomputer.
+
+\- http://www.linuxjournal.com/content/open-source-8-bit-computer-save-world -
+
+From and more comments here -
+
+\- http://www.reddit.com/r/linux/comments/cqmx9/ -
+
+(""aperson"" suggested xposting here)"	t5_2rfd8	True
+1268778823.0	be97a	Hackable Linux clamshell goes on sale for $99	aperson	25	3	12		t5_2rfd8	False
+1373907020.0	1ickn1	[x/Ubuntu] Meet Utilite, a $99 quad-core ARM-based PC	kasbah	33	15	7		t5_2rfd8	False
+1291783795.0	ei39t	Chumby Clone on sale at BestBuy. Only $50!	waspinator	24	2	10		t5_2rfd8	False
+1350082500.0	11e1el	Why Raspberry Pi is unsuitable for education	andreasw	33	10	23		t5_2rfd8	False
+1345479535.0	yj1px	Baserock Slab - 8 node, 32 core ARM server for Linux building.	jabjoe	27	7	3		t5_2rfd8	False
+1309791779.0	igf8s	"Another Victory for the ""Linux on Anything"" Hackers"	robertskmiles	37	15	4		t5_2rfd8	False
+1285701937.0	dk556	Nanonote or SheevaPlug?		25	5	20	Just wanting something fun and inexpensive to play with, I have no specific application or major need.  I'm leaning towards the SheevaPlug due to the full-sized USB and ethernet ports.  Thoughts?	t5_2rfd8	True
+1272880198.0	bzcd7	How to install debian in the Ben NanoNote (the ultraportable Linux clamshell)	rberenguel	21	0	1		t5_2rfd8	False
+1366862022.0	1d27qy	Allwinner releases kernel source code for A31 quad-core chip	wycx	26	7	2		t5_2rfd8	False
+1357810892.0	16b2g3	You Either Die a Hero, or You Live Long Enough To See Yourself Become the Villain	erolosty	31	11	5		t5_2rfd8	False
+1353805453.0	13qlg7	Raspberry Pi vs MK802 - Tech Spec Comparison of Low Cost ARM PCs	jeffhoogland	25	6	19		t5_2rfd8	False
+1348683772.0	10ionj	New TI $199 kit derived from BeagleBone with dual-gigabit Ethernet, built-in touchscreen LCD and WiFi	kasbah	27	7	4		t5_2rfd8	False
+1322669325.0	mutx8	That rarest of creatures, the white Nokia N9, should appear before Christmas	silpol	22	2	2		t5_2rfd8	False
+1319471962.0	ln7wp	Nokia N9 review -- Engadget	junglizer	23	2	10		t5_2rfd8	False
+1311703818.0	j0d3o	Bifferboard - small keyring size CPU &amp; linux	superpointer	23	4	6		t5_2rfd8	False
+1293595333.0	eswbc	Wall mount linux pc.  Complete with POE	brbphone	25	6	3		t5_2rfd8	False
+1293055934.0	eq3wp	Adam tablet released, sells out immediately	zem	29	8	5		t5_2rfd8	False
+1290671786.0	ebjjm	[from /r/ECE] My alarm clock (Chumby), running a web server off the internal microSD card	PhirePhly	24	3	5		t5_2rfd8	False
+1277098599.0	ch7sr	The 7 inch Android tablet, about $100 on eBay, has anybody tried one of these yet?	DSLJohn	24	5	10		t5_2rfd8	False
+1262959269.0	an5hn	The $99 Cherrypal laptop - it runs Linux and you can buy it RIGHT NOW	aperson	20	0	2		t5_2rfd8	False
+1354195636.0	13zpw1	ODROID-X2 and ODROID-U2 announced: 4core Cortex A9 developer boards (U2=&gt; supersmall form factor)	BeatLeJuce	25	6	13		t5_2rfd8	False
+1352752271.0	132wml	PengPod: Android and Linux on a dual-booting tablet for $100, currently funding on Indiegogo	ViennettaLurker	37	18	2		t5_2rfd8	False
+1347576582.0	zuhlp	The Cubieboard, cortex-A8 1GHz + 512MB ram + SATA (and lots of other connectors), rumours say 49USD	centx	26	7	8		t5_2rfd8	False
+1343317499.0	x6zpp	"VIA's $49 APC ROM, Kernel and Bootloader Available for Public Download. ""We understand the desire &amp; passion that exists from the hacker &amp; developer communities and we want to allow you the freedom to experiment with installing other distributions to match your needs."	Sailer	25	6	4		t5_2rfd8	False
+1328389534.0	pb0o0	LinuxDevices website acquired	martey	25	5	2		t5_2rfd8	False
+1278985754.0	cov18	Has anyone gotten one of these yet? Any good?	rogue780	19	1	7		t5_2rfd8	False
+1278962880.0	cor0s	Even kids can design Apps, thanks to Google.	IndecisionToCallYou	21	0	0		t5_2rfd8	False
+1373536135.0	1i2ktp	MIPS is here to make sure that there is a Pepsi	wycx	24	5	7		t5_2rfd8	False
+1344931364.0	y6z2m	VIA's APC available at 55$ shipped at Newegg	ImDelicious	22	4	31		t5_2rfd8	False
+1337707990.0	tzjag	Raspberry Pi, meet your competition - a reference design available right now, worldwide.	Sailer	25	9	16		t5_2rfd8	False
+1324918596.0	nr94i	Open Hardware Devices?	Kitchen_Toaster	19	2	6	"The company I am currently working for deploy HP thin clients to our customers. We don't need much resources and these thin clients are quite expensive.
+
+I thought about the idea of building our own board. For IO we only need ethernet, RS232 and VGA/DVI. Pandaboard and Beagleboard look like great starting places but even these boards are over powered for our needs. I read that the alpha boards of the Raspberry PI had 'detailed' information released but I was unable to find it.
+
+Does anybody know other open hardware which is less complex that might be a better starting point?"	t5_2rfd8	True
+1320598911.0	m2hng	I want to hack on the command line with something as portable as the kindle	kanliot	24	7	23	this is just an dream device.  Have a laptop keyboard, very lightweight, connected to a kindle e-paper display, connected to wi-fi.   So I could walk outside, hack away on the command line, in the sun, and It would be light and portable.  Yes?	t5_2rfd8	True
+1317896635.0	l2vdb	[HOWTO] DIY OpenWrt-based Wifi Radio	s3rious_simon	18	0	0		t5_2rfd8	False
+1297383393.0	fj48l	We're over 2k subscribers!	aperson	19	3	0	"I let the 2000th subscriber pass me by!  I happy we've grown this large already.
+
+Thanks everyone who submits and comments."	t5_2rfd8	True
+1275579716.0	cb26f	ARM, Freescale, IBM, Samsung, ST-Ericsson and Texas Instruments Form New Company to Speed the Rollout of Linux-Based Devices	BauerUK	21	3	0		t5_2rfd8	False
+1274375785.0	c6de0	Google announces Android 2.2	jegrox	23	3	1		t5_2rfd8	False
+1273524812.0	c2a8s	Android ported to iPhone update - Now works with iPhone 3G	jegrox	21	3	5		t5_2rfd8	False
+1375868942.0	1jvh7z	IBM opens up Power chips, ARM-style, to take on Chipzilla • The Register	wycx	20	4	3		t5_2rfd8	False
+1371667018.0	1go6ow	Cubieboard2 Powered By AllWinner A20 is now Available for $59 (dual-core Cortex-A7, 1GB Ram, SATA)	centx	21	2	15		t5_2rfd8	False
+1340129908.0	vaba8	What is Gooseberry? | Gooseberry- An (A10, 40GBP) alternative to Raspberry Pi	agumonkey	22	7	18		t5_2rfd8	False
+1338285425.0	ua4aq	VIA's $49 Android Banana PC will be unlocked but will not support touchscreens (unless somebody figures out how to do that with mouse emulation, which should be easy, right?)	Sailer	21	3	8		t5_2rfd8	False
+1337815943.0	u1u7u	Has anybody gotten their Rasberry Pi yet?	otakugrey	21	4	27	I don't know when the pre-orders were supposed to be sent out. How do you like it? Which distro did you get it with? What's it like?	t5_2rfd8	True
+1330424654.0	q9ji5	FXITech's Cotton Candy	bincat	19	2	6		t5_2rfd8	False
+1323548790.0	n7pbn	Is there such a device that is basically the form factor and concept of an iPod Touch, but runs Linux?	otakugrey	21	4	44	"Ever since I read an article about a guy emulating a command line Linux environment on his iPod Touch and using it to install and run lighthttpd, and PHP, and Dsniff to spoof a DNS entry on a Wifi network and and setup a Facebook phishing page, I've been trying to find a small, hand held device similar to an iPod Touch but runs some form of a fast, light, .deb based Linux OS like CrunchBang but using some form of a GUI specifically *made* for that size of screen and that kind of device. So far I've come up with zip. All I want to be able to do with device is web browsing via FF Nightly or Fennec, file browsing via something like Thunar, text/code editing via something like gedit, image viewing, music playing, IRC, email client of some sort, terminal, and maybe lighthttpd. 
+
+Is there a device like this? Please, if there is, please tell me about it. Please, I beg of you.
+
+[EDIT] I forgot to mention, I want this thing to *not* be a phone. More like a MID. Thanks."	t5_2rfd8	True
+1319420721.0	lmmcb	Jumentum Introduces a Single-Chip Linux System	stimbus	19	3	4		t5_2rfd8	False
+1314477096.0	jwdww	Demo &amp;#8211; Raspberry Pi running Quake 3 | Raspberry Pi	PencilAbuser	22	3	8		t5_2rfd8	False
+1294930535.0	f1kp4	Suggestion for cheap home server?	tagghuding	18	2	29	"I'd like to have a small device connected to my network through which I can play music (or basically any sound from my laptop) on my stereo (from all over the flat) and share my external HD with my roommates. This whole setup should be hidden in a neat box with as few cables as possible to the outside. Basic requirements for the setup:
+
+* WiFi (preferably 802.11*n*): It won't be placed near our router/no possibility of pulling ethernet cables
+
+* Sound card w/ speaker or headphone out. 
+
+* USB for connecting to the HDD. 
+
+* no fan/noise
+
+* Power consumption low enough to be on 24/7 (&lt; 10W)
+
+* Suitable for general fucking around, like running a wiki for the flat or something.
+
+* (see above) preferably running an established linux distro w/ good package management
+
+I have two ideas for this: 
+
+1. Beagleboard + USB Wifi Dongle. Seem to land at ~ €200 for the whole solution (already have the HDD)
+
+2. hackable WiFi router converted to general purpose-computer, with USB sound card. Should perhaps be cheaper since most routers are &lt; €100 these days.
+
+Any ideas? It seems like SheevaPlugs are unsuited for this because of http://www.reddit.com/r/linux_devices/comments/dk556/nanonote_or_sheevaplug/ (also, no WiFi nor sound card).
+"	t5_2rfd8	True
+1283373958.0	d8dk4	Archos Announces Froyo Five-pack of Android Tablets Today	aperson	19	0	3		t5_2rfd8	False
+1282814588.0	d5n1c	$50 Stamp Android Tablet prototype spotted	aperson	18	2	8		t5_2rfd8	False
+1375817869.0	1jtyk7	Odroid-XU	PTheboss	19	4	27		t5_2rfd8	False
+1356625715.0	15iv8y	Plasma Active for Nexus 7: Running the touch-optimized Plasma Active Linux Distribution on Nexus 7	JRepin	25	7	0		t5_2rfd8	False
+1353783924.0	13q27y	"Amlogic do a new release of their source code including uboot, to allow custom linux on their devices. This includes M1, M3 and MX dual core hdmi sticks, tablets and set top boxes.
+
+This is really interesting as this brings them in line with competitors such as Allwinner."	Vae-victus	20	3	0		t5_2rfd8	False
+1351783084.0	12gl9r	New kickstart project to get a fully open Amlogic M3 box. Good news for XBMC.	Vae-victus	20	3	2		t5_2rfd8	False
+1321229986.0	mb7yx	Is the Linux Laptop dream dead?	arthursucks	24	8	56	"I've spent a few hours looking on line for a decent Linux laptop.  It seems that my choices are limited to underpowered netbooks or 30lbs laptops with a 20 minute battery life.
+
+I simply want a slick machine that looks nice, has a decent battery, and doesn't have a Windows tax."	t5_2rfd8	True
+1298681028.0	fswu2	"Atom E6xx: An atom cpu in a 89 x 60 x 16mm 
+enclosure!"	aperson	18	1	6		t5_2rfd8	False
+1289969293.0	e7ctf	Boxee Box hacking Wiki	singingKABOOM	20	2	0		t5_2rfd8	False
+1287526018.0	dtjbp	Zipit palm top, like the nanonote.	ashadocat	18	3	18		t5_2rfd8	False
+1283267125.0	d7qgm	ViewSonic ViewPad 7 Android Tablet announced	aperson	17	1	0		t5_2rfd8	False
+1275727442.0	cbpnr	Pity about the looks of this thing (a ham fisted ipad knock off from China) but check out the specks - Nvidia Tegra2!	token78	19	2	20		t5_2rfd8	False
+1271952011.0	buokw	Android running on iPhone	riek42	18	3	0		t5_2rfd8	False
+1359401886.0	17g1pp	Bodhi on MK802 and other ARM Updates	jeffhoogland	19	3	3		t5_2rfd8	False
+1357944931.0	16emd0	Open Source Gaming Handheld - on Kickstarter	voronaam	25	9	10		t5_2rfd8	False
+1325261049.0	nwcde	You can vote for N9 if you'd like to -- Nokia Community Awards 2011	silpol	18	3	0		t5_2rfd8	False
+1323200404.0	n2ukj	USB Monitor + Wall Plug Combo. Ships with squeeze 6.	pnpbios	20	5	10		t5_2rfd8	False
+1311709772.0	j0g6i	Really cheap Linux capable devices?	xevz	19	4	22	"I'm looking for really cheap devices with networking.
+The ones I've found so far is:
+
+* [alix3d2](http://pcengines.ch/alix3d2.htm) - $99
+* [ZAP-LN-86BT](http://www.dealextreme.com/p/standalone-bittorrent-bt-downloader-usb-printer-sharing-network-lan-server-57591) - $30.70
+* [Raspberry Pi](http://www.raspberrypi.org/) - $25 (not for sale yet)
+* [BeagleBoard](http://beagleboard.org/) - $149
+* [HawkBoard](http://www.hawkboard.org/) -  $94.04
+
+Btw, I'm in Europe (Sweden) so don't be afraid to post resellers over here. :)"	t5_2rfd8	True
+1310780449.0	iqy5k	Dear r/Linux_Devices, I'm looking for a netbook that I can put Linux on. May I have your suggestions?	kerrz	18	3	22	"I've been looking at the [EFIKA MX Smartbook](http://www.genesi-usa.com/products/smartbook), as a Linux netbook, but even on their own distro, they can't support all the hardware that's on the device.
+
+Does anyone have experience with this? Would you recommend it?
+
+Does anyone have any other suggestions for a solid little performer? 
+
+I'm ""upgrading"" from a Thinkpad T30 that's seen better days, so I'm not asking for much. I'm only planning on doing some writing, browsing and programming. I'd just like it to be well-supported under Linux.
+
+**EDIT**: Thanks folks! I purchased the [Asus 1015PN](http://www.asus.com/Eee/Eee_PC/Eee_PC_1015PN/#specifications) from TigerDirect.ca, and got a great deal."	t5_2rfd8	True
+1283210933.0	d7gke	10.1 Redstar linux tablet runs Shogo linux	aperson	16	1	2		t5_2rfd8	False
+1282587855.0	d4igw	Rumor: Facebook is the first to jump into ARM servers	artificialidiot	20	4	2		t5_2rfd8	False
+1376628079.0	1kgwwy	$249 Terasic SoCKit Development Kit Features Altera Cyclone V SX Dual Core A9 + FPGA SoC	wycx	14	1	0		t5_2rfd8	False
+1370014791.0	1feqc2	Thoughts on Technology: Dated Hardware, Waiting for Hardware and the Nokia N900 in 2013	jeffhoogland	18	3	18		t5_2rfd8	False
+1363818389.0	1aoyl7	Carambola - tiny, open-source and Linux friendly, easy embeddable module - 22.00€	kasbah	17	3	2		t5_2rfd8	False
+1363312242.0	1abp1t	Linux-powered soundbar also streams Internet music	JRepin	14	0	0		t5_2rfd8	False
+1354655313.0	14a5cs	Making an FSF Endorseable Mass-volume Embedded Processor	JRepin	17	2	6		t5_2rfd8	False
+1348055319.0	104que	Status of Linux on ARM - Arnd Bergmann	kasbah	17	5	1		t5_2rfd8	False
+1335500527.0	sut25	This bus runs Linux	shadyabhi	17	2	0		t5_2rfd8	False
+1333995042.0	s14lp	Can anything be done with this?		15	0	8		t5_2rfd8	False
+1325550890.0	o0flq	Richard Stallman Was Right All Along	silpol	15	0	1		t5_2rfd8	False
+1320952624.0	m7qlm	"theregister.co.uk calls for fondleslabs w/ keyboards ""Where are all the decent handheld scribbling tools?"""	kanliot	17	4	1		t5_2rfd8	False
+1316147306.0	khb2b	$30 LN-86BT NAS Review - It works, but just barely	PhirePhly	15	2	7		t5_2rfd8	False
+1302542423.0	gnixa	Atom-powered Commodore 64 has a nice spec sheet, ships with emulator for playing 8bit games &amp; an Ubuntu install CD	T618	17	2	1		t5_2rfd8	False
+1299589880.0	fzq8h	Old server died (embedded), need a new one, on a serious budget.		15	0	16	Basically, my embedded friendlyarm embedded POS just up and died (RAM, NAND and NOR all in one fell swoop). I need something pretty damn cheap that can run a webserver and perl stuff (I use pircd, have my own blogging software in perl, my own webserver for simple stuff in perl, etc). I'm currently in a crappy city in China so getting something shipped here would be like half my budget. Any suggestions of devices I might be able to find? My budget is (ideally) less than $100, but if I have to pony up a bit more to get something, I would. I'd also prefer something relatively low on power consumption and ideally a usb port and SD card slot, but if I can hack those in with some cables and whatnot, fine too.	t5_2rfd8	True
+1298345957.0	fq0rl	Linux for your car [xpost from linux]	waspinator	16	2	4		t5_2rfd8	False
+1290508062.0	eagbn	Black Friday 2010 Linux Tablet Deals	beginlinux	18	2	2		t5_2rfd8	False
+1282337758.0	d3lev	Usb dongle allows you to run linux on your PS3 (again)	aperson	18	3	2		t5_2rfd8	False
+1273599922.0	c2p2f	Ice cream vending machine runs Red Hat	aperson	17	4	4		t5_2rfd8	False
+1273339380.0	c1idw	Medallion Systems:  Offering a small range of small linux devices	aperson	16	1	0		t5_2rfd8	False
+1271241460.0	bqptp	New HTPC GuruPlug Released! Features HDMI port and HD video playback!	jingleman	17	2	7		t5_2rfd8	False
+1270733609.0	bo5cx	Hacker Geohot Restores PS3 OtherOS (install Linux) Feature, May Work on Slim Too	redsteakraw	14	1	0		t5_2rfd8	False
+1270249651.0	blt3w	I have been waiting for a worthy Ubuntu tablet. Just got this one and I can report that it works perfectly with Lucid! Full OS with touch screen. Beautiful. Freaking Beautiful. 	jswan	16	1	6		t5_2rfd8	False
+1268869873.0	ber9y	Dated but interesting review of the wholly free (=libre) 8089A Yeeloong Lemote netbook	ropers	15	1	1		t5_2rfd8	False
+1365843889.0	1c9fgv	Working samples of Allwinner A10 based EOMA68 CPU card	wycx	13	0	1		t5_2rfd8	False
+1360371904.0	18614s	Linux Experiences: A10 vs. RK3066 vs. i.MX6 ?	ViennettaLurker	17	4	19	"With the of flood Android sticks, ""mini-pcs"" and the like, I wanted to know which devices people had experience with and what Linux distros performed the best. The common chipsets I'm seeing with Linux images are A10, RK3066, and i.MX6. I know that there are issues of openness, graphics drivers, wifi issues, etc.
+
+Does anyone have real world experience with Linux on these devices? Which ones do you like the most? Which distro did you choose and why? Does it have a GUI? What is the most powerful? Most bang for the buck? Any regrets?
+
+I'm also willing to include dev boards in the discussion. Personally, I'm looking for something with horsepower that has headphone out and line/mic in.
+
+We post about new devices and OS images all the time. How about we discuss a little bit more about what we have, what we use it for, and real world performance?"	t5_2rfd8	True
+1358155571.0	16jlg6	Recommended Linux-friendly net/ultrabook that is cheap/affordable?	gm112	17	3	25	"I'm looking to replace my aging CR48 with something that's a bit more reliable. I'd rather avoid using the Intel Atom series as its just too crippled to really do anything practical on. I don't need anything too fancy with graphics. I just want something that's basic, works 100% on Linux with 0 hassles, cheap, with good battery life and hopefully a decent display.
+
+I don't care about SSDs vs HDDs. Battery life being greater than 4 hours~ is preferred. Price range, I'd rather not pay more than $600.
+
+Anyone have thoughts? Help would be MUCH appreciated.
+
+EDIT: Also if nobody replies back, I'll probably post in my own thread with results I'll find myself. I just want to see what other redditors may come up with as I look around. That way even if nobody helps me, I can potentially help someone else out who needs the same thing.
+
+EDIT #2: So I chose the  ASUS S56CA-WH31 as my new ultrabook / linuxtop. For those of you who are having issues with getting Linux to run, please update your BIOS if your bios is behind revision 208. Otherwise you're just going to hang after firing up the bootloader."	t5_2rfd8	True
+1342036804.0	wehbb	Is there a .deb/Debian based distro I can install over Android on a Samsung GalaxyS2?	otakugrey	17	5	13	"I found this phone on the side of the road, wiped, and with the service shut off. I already have a phone so basically I want to use it as a tablet.
+
+All the results I get from searching for ""installing linux on Samsung Galaxy S2"" is basically doing a sort of virtual machine with Ubuntu running within Android. But running an OS within an OS obviously would make both take a performance hit.
+
+But that is not what I want to do. I want to overwrite Android with a new .deb or Debian based distro. Or at the least, be able to dual-boot so both are not running OS'es at the same time. What is such a distro? I cannot find it! Please help."	t5_2rfd8	True
+1337739888.0	u0cko	What's an Android PC?  It's a computer that can only boot Android, version 2.3.  It's a one trick pony.  	Sailer	17	4	3		t5_2rfd8	False
+1337354555.0	ttd10	New $74 Android mini computer is slightly larger than a thumb drive | Ars Technica	bincat	15	2	1		t5_2rfd8	False
+1319819580.0	lsc0n	Interview with Eben at the ARM TechCon 2011 | Raspberry Pi		14	1	1		t5_2rfd8	False
+1312502382.0	j9cii	The Linux tablet: Your opinion is needed	vetmode	14	2	18	"I'm looking for a Linux tablet to use as a VNC ""remote"" and to watch movies on.
+ 
+The most important aspects are screen resolution and battery life, but I also need to make sure that it won't choke on downscaling streaming 1080p movies due to most (all?) tablets not being native HD resolution.
+ 
+* My first choice is the [WeTab](http://wetab.mobi/en/product/) which sports an Atom and comes with a Meego derivant installed which means I won't have to worry about drivers.
+ 
+* Next up, the [Acer Iconia W500](http://www.blitzreview.com/gadgets/acer-iconia-tab-w500.html) comes with Windows7 (argh!) and according to a google search seems to be doing pretty well with Ubuntu. An identical but two hundred dollar cheaper choice is:
+ 
+* The [Acer Iconia A500](http://www.newegg.com/Product/Product.aspx?Item=N82E16834215077) running Android with virtually the same Hardware as the W500. Some people are already getting results at [trying to make it run Ubuntu natively](http://forum.xda-developers.com/showthread.php?t=1158260), seems to be struggling with driver issues and bugs though.
+ 
+Any additions/reviews/criticism/tips are highly welcome."	t5_2rfd8	True
+1298620197.0	fsf03	Anyone running on AMD Fusion patform yet? E-350 Zacate / Radeon HD 6310?		13	0	10	"While researching for a very-long-battery-life laptop for overseas flights, I found that AMD has released a new netbook/ultraportable platform, but **information on** linux support on it is sparse at the moment. Anyone tackle it first hand?
+
+[edited for clarity]"	t5_2rfd8	True
+1294170491.0	ew5tz	Meet the SmartBook: Tablet, netbook, MID and more in one.	deusdiabolus	18	5	6		t5_2rfd8	False
+1283505328.0	d92x8	Samsung officially reveals Galaxy Tab, an Android tablet	aperson	16	3	5		t5_2rfd8	False
+1276921139.0	cgn8m	ipaq ubuntu cluster	aperson	14	2	4		t5_2rfd8	False
+1268788926.0	beaxa	Open Pandora cases begin mass production!	thantik	14	3	0		t5_2rfd8	False
+1376879298.0	1kn3t5	Tessel is an Internet-connected microcontroller for software developers. 180mhz ARM Cortex-M3, TI CC3000 Wifi.	reefab	14	1	3		t5_2rfd8	False
+1372315222.0	1h5xju	Imagination’s new MIPS CPUs will fight ARM and Intel for phones, tablets	wycx	12	0	3		t5_2rfd8	False
+1367947206.0	1dvfed	"Debian Sid now has Linux Kernel 3.8+47. My recently purchased Planar 24"" touchscreens with the new FoxLink optical sensor are now working perfectly. I am on my way to the beer emporium to celebrate."	43P04T34	18	6	8		t5_2rfd8	True
+1366748197.0	1cyj15	Pico-ITX module w/1.7GHz Quadcore Krait (S4 Pro), 2GB RAM, SATA and more for 149$ coming	centx	17	3	1		t5_2rfd8	False
+1366148962.0	1chmph	MinnowBoard, a 1ghz Atom w/1GB RAM and SATA from intel Open Source Technology center	centx	15	2	0		t5_2rfd8	False
+1364268206.0	1b0qq1	Pico-ITX board w/ARM-Cortex A9 SOC, 2GB RAM and sata	centx	14	3	2		t5_2rfd8	False
+1361110385.0	18owky	Nexus 7 with Plasma Active (KDE's Tablet UI) + Mer Linux Video	JRepin	18	5	1		t5_2rfd8	False
+1358434635.0	16r4zk	APC » Paper	YogiFiretower	15	3	5		t5_2rfd8	False
+1342195807.0	wi659	Raspberry Pi Review &amp; Rating | PCMag.com		15	5	0		t5_2rfd8	False
+1336338947.0	ta6ga	Looking for a tablet pc	ConfoundedThoughts	13	1	18	"Hey everyone, I'm looking to get some sort of relatively inexpensive tablet pc, which I would use to take notes in class (with something like Xournal), as well as possibly hook up to a projector to teach a class. Other than that, just a slight bit of internet usage. I was looking at some older lenovo x60s on ebay, and was wondering if that would do the trick, or if I need to find something a little more powerful.
+
+Do you have any suggestions?
+
+Edit: other things I've considered would be some sort of android tablet or older ipad with a stylus, but I'm not sure how well these would work for this sort of application (especially the projector part)."	t5_2rfd8	True
+1326470613.0	ofjrp	Recompute - Sustainable Cardboard Computer		19	6	5		t5_2rfd8	False
+1322127757.0	mnrms	Linux-based GameGadget wants to become the iPod of classic portable gaming (x-post r/LinuxActionShow)	lumpking69	16	5	6		t5_2rfd8	False
+1321910943.0	mklvc	what's the most hackable tv?	queBurro	13	1	3	"the clue is in the title, I'm wondering is there a tele out there that I can shell in to or flash with alt firmware? 
+"	t5_2rfd8	True
+1314686499.0	jytly	Roku 2 player instead of Raspberry Pi?	veli_joza	15	5	9	"Everyone here seems to be waiting for Raspberry Pi to start selling. Did you know that Roku 2 HD is [running on same processor?](http://www.mycablealternatives.com/2011/07/roku-2-xs-teardown/)
+
+[Roku 2](http://www.roku.com/roku-products#3) also packs WiFi, Bluetooth and IR receiver and already has a nice case. The basic HD version is $60, the $100 version has USB and a powerful remote.
+
+It's already booting linux (Roku OS) via u-boot. It shouldn't be too hard to get some other distro running on the hardware, and when people get their hands on Raspberry Pi, all development efforts will be  just as useful on this hardware."	t5_2rfd8	True
+1310023300.0	iiufp	Terminal-only handheld with slide keyboard?	FrankBro	14	1	25	"Last week I asked on the linux board for a device like that. (did not know about this board). Unfortunately, I did not really get answers I hoped for so I though I'd ask here too. Most of the suggestions were the n900, the zipit2 or find a android phone and try installing another OS on it. Any other suggestions?
+
+Following is the post made on the linux board:
+
+I know this might be a little picky since it has absolutely no mas appeal for general people but I'd though I'd ask if anyone ever came across such product.
+
+Basically some sort of really basic device that fits in the pocket with slide keyboard that linux could run on terminal only (with what's essential for building softwares). Having wireless internet also. Most of these kind of products come with touchscreen which wouldnt be a problem but the usual problem is the price.Something along the line of the N810 from nokia (way too overpriced imo tho).
+
+http://en.wikipedia.org/wiki/Nokia_N810
+
+Mostly looking to refine my terminal skills and I'd just love to carry a device like that around. Of course the processor will have to be arm for that type of device.
+
+
+ "	t5_2rfd8	True
+1306037303.0	hh3wx	AMD Fusion boards, comments and experiences?	spinwizard69	13	0	12	"I'd like to get comments from users of such boards (Zacate Fusion and better) with Linux installed.   If any body is running realtime extensions, possibly via the Linuxcnc.org Ubuntu patch all the better.   
+
+I have a couple of things I want to build up, one obviously being a CNC controller and simply need feed back as to feasibility.   That and the fact that boards seem to be scarce right now so info on boards would bee most helpful.  "	t5_2rfd8	True
+1304136784.0	h0n7u	"[Ask /r/LinuxDevices] Best &lt;10"" Linux tablet?"	name_censored_	16	4	18	"Hi /r/Linux_Devices!
+
+I'm after a &lt;10"" linux tablet (the largest it can be is 180mm/7"" x 250mm/9.5"" - interestingly, the iPad is just the right size). I don't really care about weight, price, processing power, or features/specs (GPS would be nice, but it's really not a dealmaker/dealbreaker), as long as it's not insane. What I need is reliability, good battery life and availability in Australia (online with shipping is fine).
+
+So far, I've looked at
+
+ * [Archos 70 Internet Tablet](http://www.archos.com/products/ta/archos_70it/specs.html)
+ * [Nook Color](http://www.barnesandnoble.com/nookcolor/features/techspecs/index.asp)
+ * [Dell Streak 7](http://www.dell.com/us/p/mobile-streak-7/pd)
+ * [Samsung Galaxy Tab](http://www.samsung.com/global/microsite/galaxytab/) (the 8.9 would be better, if/when it comes out)
+
+And I'm leaning towards the Galaxy Tab, because I've had good experiences with Samsung stuff - though the Archos would be nice too. Does anyone have any recommendations?"	t5_2rfd8	True
+1297444773.0	fjjwn	"The PremierWave: Linux-based Wi-Fi device server 
+offers dual-band support"	aperson	12	0	1		t5_2rfd8	False
+1287730232.0	dus1f	Has anyone been successful in putting linux on one of these or something similar?	Tofuik	16	4	25		t5_2rfd8	False
+1283353040.0	d87v2	AskLinuxDevices: What is the best tiny device for a network sniffer?	Tinidril	12	0	13	"I'm looking for a small box that I can configure as an inline network sniffer and ship out to remote offices for network troubleshooting.  Minimum requirements would be dual 1Gb interfaces (with reasonable throughput) and 16 GB of storage for captures.
+
+I was looking at the guruplug, but the heat problems have scared me away - at least for now.  I've looked at a number of DSL routers, but they all seem to have their 1Gb interfaces packaged so that the OS will never see traffic not broadcast or destined for the WAN port.
+
+Does r/linux_devices have any suggestions?"	t5_2rfd8	True
+1273141067.0	c0jfz	Modern hand-held device capable of bar code scanning?	pemboa	12	0	19	"Are there any modern* handheld Linux devices that either have a bar code scanner? For example, the ""Archos 7"" is nice, but doesn't have any optical input. I'm looking for something that could be used as a base to develop an inventory tracking device for example.
+
+* modern : by that I mean is actually an actively sold product, and not an old piece of hardware that Linux has been hacked onto."	t5_2rfd8	True
+1272583583.0	by2v3	Ubuntu Lucid Lynx ships with fast boots	jegrox	14	3	3		t5_2rfd8	False
+1272413675.0	bwzk3	Keep on submitting content!	aperson	12	0	0	"It's *you* the users that decide if this subreddit flourishes or not and I'd love to see this become a thriving community, but we can't do that without content.  So please, if you see something that linux_devices worthy, don't hesitate to submit!
+
+Whining aside, thanks for subscribing and I hope to see you all around here more!"	t5_2rfd8	True
+1268833349.0	beixe	Open Firewall Pico, Linux system on a usb device.	ashadocat	13	1	6		t5_2rfd8	False
+1268241703.0	bbos6	HTC Touch Pro2 Runs Ubuntu Linux	aperson	12	0	0		t5_2rfd8	False
+1267899306.0	ba33z	Rockbox - Open Source MP3 Player Firmware	jingleman	13	0	3		t5_2rfd8	False
+1262987753.0	anblm	This lorry runs linux	aperson	14	1	2		t5_2rfd8	False
+1374608727.0	1iwloz	Parallella-16 Pre-Order (October Delivery)	necrophcodr	11	1	0		t5_2rfd8	False
+1374602870.0	1iwcv6	Red Pitaya: Open instruments for everyone	PTheboss	11	0	1		t5_2rfd8	False
+1372688634.0	1hfdlp	SATA support on small linux box (x-post from /r/microcomputing)	unexpected_variable	13	4	7	"Hi Guys, x-posting from /r/microcomputing because I didn't realise quite how dead the community was over there.
+
+I'm looking into the feasibility of building a small linux-driven embedded system to run my companies software.
+
+
+
+One of my main hurdles is that we will need really decent SATA support (possibly SAS?), are there any COTS devices that you guys know about with GOOD SATA support. I will need to be able to use a SATA port multiplier such as the Addonics ad5esapm.
+
+
+
+I hope this is the right place for this question, but if not, I'd also appreciate being pointed to anywhere useful.
+Thanks in advance."	t5_2rfd8	True
+1372357581.0	1h6zy7	$199 Minnowboard is an Open Source Embedded Board Powered By Intel Atom E640 Processor (Angström Linux, Yocto Project)	ViennettaLurker	14	5	3		t5_2rfd8	False
+1369254257.0	1euv1p	MK810 Allwinner A31 Quad Core Cortex A7 1.5GHz MINI PC Android	derekdickerson	13	4	8		t5_2rfd8	False
+1368481348.0	1e9sja	Samsung ARM Chromebook Review	jeffhoogland	16	4	0		t5_2rfd8	False
+1367231728.0	1dbwht	iWave RainboW PicoITX iMX6 board with gigabit ethernet, miniPCIe, SATA	wycx	13	2	2		t5_2rfd8	False
+1358452737.0	16rpq0	VIA APC upgraded spec bumps, Android 4, $79 and $99 models	ViennettaLurker	17	6	2		t5_2rfd8	False
+1320698598.0	m3wwt	Nokia N9 (Unlocked, Black, 16GB) Free US Shipping from Expansys 	junglizer	12	1	21	"I desperately want one of these phones, but ordering from Europe is super expensive. About $835 from most places, not even counting the shipping. I think I will pick one up when I can, but until then, I thought I'd share some links to *slightly* more affordable deals. 
+
+http://www.expansys-usa.com/nokia-n9-smartphone-unlocked-black-16gb-220310/
+
+I also found a working code to save $20.00 on a purchase of $500 or more. Use coupon code ""20OFFLS"". 
+
+I've also found it available here for $580:
+http://www.sgbest.com/product.php?id=348 
+
+This has about a 30 dollar charge of shipping the the US, but several people have reported being billed for about $25 dollars for ""customs duties"" by the shipping company (DHL)."	t5_2rfd8	True
+1304787772.0	h65ui	Linux server + wireless router all-in-one		14	2	16	"Looking for viable hardware recommendations. I've done some searching on the web, and it appears Ubuntu and Debian have packages that will enable a linux box to act as a router. I'm just having trouble finding a forum post or article on the type of hardware setup I'm looking for: a small 2-HDD bay box enabled with wireless.
+
+I've looked at the QNAP 2-bay home NAS solutions, which are almost perfect for what I'm looking for as I've found people that have hacked Debian into them. However, I've yet to find if it can be used as a router with a USB wireless adapter.
+
+The other option is to just build a Linux box from scratch for this purpose. Having a tough time picking out the hardware for this one, though, especially if my goal is to keep it small.
+
+Any suggestions?"	t5_2rfd8	True
+1301632083.0	gg3in	Easily attainable devices with touchscreens?	pemboa	13	1	17	"Do you guys of know of any Linux devices (other than Android based tablets) that can easily be acquired and customized? I am thinking of small, programmable kiosks/terminal with touch screen displays, doesn't have to be large. The device doesn't have to be  any more portable than a desktop computer, just smaller and cheaper.
+
+Many of the similar devices seem to be aimed and industrial buyers and require going through an entire price quote request process just to find out how much it costs. Many of the cheaper Android devices have no USB hosts, and I'm not sure how device drivers work on Andorid devices."	t5_2rfd8	True
+1281469833.0	czmu9	Anybody know of a USB graphics card that works for Linux?	hVa	12	2	11	I'm wanting to hook up a third monitor to my thinkpad, and was wondering if any of you guys know if there's a usb graphics card that will work well with Linux (most of the reviews I've found so far seem negative). I use opensuse mostly.	t5_2rfd8	True
+1270443487.0	bmi5d	JooJoo turns out to be legit, gets torn down	aperson	13	2	0		t5_2rfd8	False
+1270111129.0	bl32i	Linux superbike	janw12	13	2	1		t5_2rfd8	False
+1270047708.0	bkpen	AskLinuxDevices: How much does Android vary from vendor to vendor, modell? Upgrades? Apps? Branding?	jan	11	0	4	"Android can be customized by vendors, they can include different apps, a different UI, etc. That's a OK, they are different products.
+
+But, can I expect all apps to work (and be available) on all Android phones (same Android version, sufficient hardware specs)?
+
+I've heard people discussing that some Apps would not be available on some phones. How can this be? Do they have to be approved someone?
+
+Can I overwrite the default configuration to make let's say a Vodafone branded HTC phone to look and feel just like let's say the Nexus one? Or can Vodafone force me to have a, for example, red Vodafone background image.
+
+I don't want to jailbreak my phones if this means flashing the firmware or doing other potentially dangerous operations. I don't mind cheat codes or similar tricks if they don't break anything?"	t5_2rfd8	True
+1268273601.0	bbv5z	Freescale's Sub-$200 Tablets to Be Compatible with Linux, Chromium OS, Android	aperson	12	0	0		t5_2rfd8	False
+1268133616.0	bb348	FirstView's $95 Android Tablet	jingleman	14	4	1		t5_2rfd8	False
+1268132752.0	bb2ya	Dead Badger	jingleman	13	1	1		t5_2rfd8	False
+1267891820.0	ba1z8	gumstix - tiny linux devices	jingleman	13	2	0		t5_2rfd8	False
+1265878791.0	b0qpi	100+ subscribers!  Thank you all!	aperson	12	0	0	I'm glad that this subreddit has grow to the triple digits!  I hope we can continue to grow and that the submissions pick up; I'd love to see this as a large, active subreddit.  Thank you all.	t5_2rfd8	True
+1264560498.0	aul3v	Running Nine USB-Based Displays On Linux	aperson	12	3	2		t5_2rfd8	False
+1369166834.0	1esa6i	149USD Pico-ITX SBC featuring dual-core Krait @ 1.7GHz w/2GB RAM, 1xSATA, 4GB eMMC, μSD, GbE, μHDMI and audio jack up for preorder	centx	14	3	4		t5_2rfd8	False
+1367328017.0	1deptg	How they compare: Rockchip RK3188 vs Allwinner A31	lurkerr	14	2	1		t5_2rfd8	False
+1362037179.0	19dwfl	"Pogo plug as web server. Is it a sensible option?
+"	Bulldogg658	12	3	8	"
+I used to have a website up as basically an online portfolio for my photography, which meant I didn't get nearly enough visitors to justify the $4 a month it was costing to host. I know its possible to use a pogo plug as a web server, but I only see a few how-to’s and very little else about it. Is there a reason that its not a popular option? 
+
+The second part of my question is, is this an unrealistic thing for a novice to try? I'm a little better than average at figuring things out, but have no education in programming or anything related. Even my old website was just a hack job using the photoshop slice tool (though good looking I'll have you know). I managed to get it all working before with go daddys interface but without something like that I might be lost.
+
+What say you?
+"	t5_2rfd8	True
+1356140753.0	159ctx	Now you can install Ubuntu on the UG802, MK802 III, or other RK3066 mini PCs	spartacus73	13	4	8		t5_2rfd8	False
+1326071118.0	o8m78	Anyone have the Zareason Alto 3880	commonslip	10	0	3	"I'm considering buying one, but cannot find a review _anywhere_.
+
+"	t5_2rfd8	True
+1318459619.0	la43w	Low power, extremely compact ARM boards?	dwdwdw2	11	2	5	"I was wondering if a board packing a similar punch as a modern smart phone (e.g. Nexus One, minus the LCD and swapping radio for Ethernet) could be bought individually, for prototyping purposes?
+
+Everything I can find on Google is comparatively huge and power-hungry. Don't need graphics or sound, but would like a decent chunk of RAM, networking and some kind of high speed IO (SATA or USB), in a package no larger than a 2.5"" disk."	t5_2rfd8	True
+1317928896.0	l3auf	Cheap handheld game device running Linux/Hackable for Linux?	kiaha	13	3	28	"Just looking for a cheap handheld game device that runs linux or android. Something I can run emulators such as NES, GBA, or SNES on.
+
+Is there anything?
+
+By cheap, I mean anything under $75, but i'll take whatever you give me
+
+EDIT: I'm probably gonna get a PSP and put a custom firmware on it. 
+Although has anyone checked out the Dingoo A330? Is it any good?"	t5_2rfd8	True
+1314001041.0	jqeuz	Perfect accessory for embedded machines	timschmidt	15	4	14		t5_2rfd8	False
+1310232170.0	il03h	To all the 2,287+ reader...suggest me linux arm development board with LCD (low price)	zandubalm123	13	3	6	Need to work with arm linux development... any suggestions in this regard would be greatly appreciated with upvotes :)	t5_2rfd8	True
+1296549632.0	fcz2s	GreCo - Palm sized linux computer	aperson	12	1	0		t5_2rfd8	False
+1282022733.0	d20gw	1k subscribers!  Thanks for making this possible.	aperson	12	2	10	Thanks for subscribing!  I'll try to be pushing more content in the next couple of weeks.  I'd love to hear any suggestions you guys may have.	t5_2rfd8	True
+1281874159.0	d1ded	Asus to release 300USD Linux eee tablet in October	aperson	12	2	18		t5_2rfd8	False
+1277240029.0	chvuf	Nokia: pre-alpha release of MeeGo for handsets coming June 30th	MercurialAlchemist	11	1	0		t5_2rfd8	False
+1275830053.0	cbzvo	Ask (linux_device) reddit: NSLU2 replacements - what would you recommend?	stuidge	10	1	19	"I've been running an [NSLU2](http://www.nslu2-linux.org/) for the past couple of years. It's served me well but I'm starting to feel constrained by its speed (for running Python apps, and streaming from Samba shares) and so I'm looking for something a bit faster.
+
+For a while I was considering a GuruPlug Server Plus, but now that it has been released it appears to be [poorly engineered](http://1wt.eu/articles/guruplug-slow-heater/), and suffers from appalling [overheating problems](http://plugcomputer.org/plugforum/index.php?topic=1735.0). So that's out.
+
+Can anyone recommend something around £100 (~$150)? It would be interesting to hear about self-builds as well. Thanks!"	t5_2rfd8	True
+1272555656.0	bxw6a	"Looking for cheap, x86 ""semi-embedded"" hardware"		11	0	4	"Hi everyone - first, I am not an embedded developer by any means, but more of a ""power user"" (whatever that is). That being said, I have a project that I'd like to use a very small PC for, with no keyboard/monitor/mouse. So far I've found the [fit-PC2](http://www.fit-pc.com/web/), which I really like. Are there any other small computers like this that are x86 compatible (no ARM or anything like that) that are interesting and inexpensive?
+
+Thanks Reddit!"	t5_2rfd8	True
+1272466138.0	bx9xo	"Eken M0001 - a 7"" android tablet"	aperson	10	0	2		t5_2rfd8	False
+1270471270.0	bmmsa	My first port to the Ben NanoNote (the hackable Linux palmtop clamshell): gnugo	rberenguel	10	1	0		t5_2rfd8	False
+1270449269.0	bmj61	IBM and Simmtronics launch $190 Ubuntu netbook	aperson	10	0	1		t5_2rfd8	False
+1269431326.0	bhkj1	coolest  (or scariest?)  Linux robot ever	j00p34	12	4	0		t5_2rfd8	False
+1269102809.0	bfxe6	The enTourage eDGe	aperson	11	1	5		t5_2rfd8	False
+1269056287.0	bfr09	All-in-one PC has dual-core Atom, ships with SUSE	aperson	10	1	0		t5_2rfd8	False
+1268308741.0	bc1a5	Dog House for Beagle Board - A custom metal case for Beagle Board	esawdust	11	0	0		t5_2rfd8	False
+1268133358.0	bb32l	Notion Ink ADAM (Android or Ubuntu)	jingleman	10	0	1		t5_2rfd8	False
+1267968963.0	baamw	Ubuntu on the Playstation 3	jingleman	11	1	1		t5_2rfd8	False
+1265911736.0	b0xh4	An exhaustive list of devices and gadgets that run (or can run) Linux	moghua	12	1	1		t5_2rfd8	False
+1375958543.0	1jy556	GizmoSphere vs Minnowboard – AMD and Intel x86 Embedded Boards Comparison	wycx	12	4	1		t5_2rfd8	False
+1370544342.0	1ft3mj	Look for suggestions. I want a small Linux machine that can run HD video.	mjwaters	11	3	17	"I have an SSH file server and a good upload speed. I want a low power machine for my father so he can watch movies from my machine. My ideal setup is something where my server is mounted in the style of SSHFS and he can browse it with a GUI and play files with that GUI. 
+
+The Raspberry Pi with Raspbian was so close, the GPU drivers are not really documented so there is only one media player that works at 1080p, Omxplayer. Omxplayer can only be launched from the command line.  
+
+If you can recommend a cheap device or way to get RaspBMC to mount SSHFS, I would really appreciate it.
+
+We both have very fast internet so that will not be an issue. 
+
+
+Edit: [/u/finlay_mcwalter](http://www.reddit.com/user/finlay_mcwalter) gave me the [best answer.](http://www.reddit.com/r/linux_devices/comments/1ft3mj/look_for_suggestions_i_want_a_small_linux_machine/cadzane)"	t5_2rfd8	True
+1366198167.0	1ciylv	Introducing /r/yeeloong, a subreddit for the Lemote Yeeloong, a MIPS netbook that uses a free BIOS and 100% free drivers. Oh yea, and Richard Stallman uses it.	Habstinat	18	11	3		t5_2rfd8	False
+1357677057.0	167b00	Can I install Linux on a ug007 Mini PC RockChip 3066	derekdickerson	13	5	2	"Any easy Way that I can get Linux Installed on a Rockchip UG007 MINI pc?
+
+Other than these?
+http://code.google.com/p/rk3066-linux/
+
+http://www.slatedroid.com/topic/40717-ubuntu-linux-for-the-ug802/page__st__140"	t5_2rfd8	True
+1351156970.0	1223lv	Looking for an ARM device with SATA	thugrat	11	2	15	"So I've done a fair amount of digging, and finding affordable ARM development boards with SATA is somewhat of a chore. Here is what I've found so far:
+
+http://microcontrollershop.com/product_info.php?products_id=4495 -- lower end as far as speed and memory goes but $120 pricetag is nice. 
+
+http://boundarydevices.com/products/nitrogen6x-board-imx6-arm-cortex-a9-sbc/ -- Feature packed, with a quad core 1gHz Cortex A9, gigabit ethernet, pci-e, CAN, 3xUSB for $299 or $199 without wifi.
+
+http://www.embeddedarm.com/products/board-detail.php?product=TS-7800# -- Dual SATA ports which is nice but I don't really need for my project. It's also a bit older and has been around awhile which could be a good thing. $269
+
+I'm really leaning towards the boundary devices products. They have active development with Timesys but I'm somewhat leery of Freescale as they don't seem to be as popular. 
+
+Thoughts?"	t5_2rfd8	True
+1339529556.0	uyfxw	Thoughts on Technology: Bodhi Linux ARM Alpha Release for RaspBerry Pi	jeffhoogland	13	6	1		t5_2rfd8	False
+1309714349.0	ifqvx	Are there any good eBook readers out there that have the polish of the Kindle whilst respecting users' freedoms?	mr-wizrd	14	5	23		t5_2rfd8	True
+1298411036.0	fqkek	Looking for low watt device to run email, nginx and a few other tools.  	coned88	13	2	19	"I have been doing a little bit of research and there are quite a lot of options available these days. I guess the most notable is the Sheevaplug which seems to be a good price and gives good performance.  
+
+
+I am looking for a simple network appliance in which I can run debian and facilitate my needs such as email, web hosting, dns, etc without leaving my main desktop on all the time.  I will mainly serve static stites and wll need something that will serve a small lan of around 5 users for email, dns, etc.
+
+It needs to have lower power usage, I see the Sheeva hovers from 5W to 10W which is fine.  It also must be underwritten by an organization such as UL.  There's no way I am running a device that has not been properly tested in my house 24/7.  My belongings are worth more than saving a buck.  
+
+Give there are so many options, could you please recommend good devices or is the SheevaPlug really the device to get?  If so I have to ask how bad is the power supply problem?"	t5_2rfd8	True
+1297360395.0	fivsn	what is a good, cheap, linuxable device?	seniorsassycat	9	1	8	"I'm looking for a portable device in the netbook, tablet size range that is both cheap, and a good device to hack linux or android onto.
+Price is the biggest priority, but i would like it to have wi-fi and a touch interface.
+
+I saw an article on putting android on the nook color but i was wondering if there are any cheaper alternatives."	t5_2rfd8	True
+1294107349.0	evr7f	Always Innovating: Introducing the Smart Book	Lemm	11	2	5		t5_2rfd8	False
+1290632523.0	ebayb	Lots of old cars use expensive ECU's (basically ignition system computers) made from cheap off the shelf common chips. Is there a DIY linux hacked one for substitution?	georedd	15	6	13	"Lots of old cars use expensive ECU's (basically ignition system computers) made from cheap off the shelf common chips. Is there a DIY linux hacked one for substitution?
+
+I thought about this when readign about ECU replacements and people noticing the old ones were made from common chips they used in other projects.
+
+I know there are some legal issues but tha'ts exactly WHY a DIY hacked version would be so great becuase no inspector can see inside the ECU.
+
+The problem withold ECU's and replacement sis
+
+1.They are expensive for what they are.
+2.they are programmed to not allow your mileage increasing hacks or adjustments. They actively counteract many things you do with aricher gas mixture so being able to fine tune your o2 sensor to not react as if there is incomplete complete just because your hydrogen o2 unit addon is making the tail pipe more 02 rich while lowering emissions would be a real benefit.
+
+You could also make your programmable DIY car ECU do lots of other great engine monitoring logging etc and even put other chips inside to make it a real computer with an in dash display etc.
+
+"	t5_2rfd8	True
+1281867753.0	d1cxu	Dell Streak review	aperson	10	1	5		t5_2rfd8	False
+1276056746.0	cczv6	PogoPlug II review	aperson	14	4	0		t5_2rfd8	False
+1272990906.0	bzzyu	A Linux Tablet PC: Slackware 13 on the HP Pavilion tx2500 	rberenguel	11	2	5		t5_2rfd8	False
+1272990301.0	bzzt9	The w200 and w250: rugged, wearable, linux wrist computer	aperson	10	3	6		t5_2rfd8	False
+1272968448.0	bztkn	We now have a FAQ and welcome our new moderator, jingleman	aperson	9	1	2	"First off, I'd like to welcome [jingleman](/user/jingleman) as our newest moderator!
+
+Second, I've created a base [FAQ](http://www.reddit.com/help/faqs/linux_devices) and would love to have some input on what we should include, or any changes that should be made.
+
+Thanks, and thank you for making our little community what it is today!"	t5_2rfd8	True
+1269223711.0	bgdnp	Atom-based tablet runs Android, targets publishers	aperson	12	3	2		t5_2rfd8	False
+1269057886.0	bfr8z	Debian for the N900	aperson	9	0	0		t5_2rfd8	False
+1268783032.0	be9ya	An oldie but a goodie: OpenZaurus - linux for your old Sharp Zaurus	aperson	9	1	2		t5_2rfd8	False
+1268642530.0	bdiht	Kegbot - a linux kegerator controller	aperson	9	1	2		t5_2rfd8	False
+1267974232.0	babaw	CERN Large Hadron Collider (LHC)	jingleman	12	1	0		t5_2rfd8	False
+1374502050.0	1it90d	CompuLab unveils the Utilite miniature computer - up to 4GB of ram, quad core ARM 1.2 gHz alongside a video processing unit capable of supporting multi-stream 1080p H.264 video, with graphics API support in the shape of OpenGL ES 1.1 and 2.0, OpenVG 1.1 and OpenCL EP.	Guardian_452	8	1	1		t5_2rfd8	False
+1369435925.0	1f0026	Linux board for SSH/NAS?	Binsky89	9	2	14	"**SOLVED:** I decided to just go for it and bought a [Linksys EA6300 Advanced Multimedia AC1200](http://store.linksys.com/Routers/Linksys-EA6300-App-Enabled-AC-Dual-Band-Wireless-Router-with-Gigabit_stcVVproductId153081404VVcatId551966VVviewprod.htm) for less that $100 (ebay). It has a USB 3.0 port, Wireless AC draft (not that I need it). Sadly, it's not yet compatible with Tomato or DD-WRT.
+
+Hello everyone. Even though I'm a CS major and keep an eye on several different technologies, the single board computers have slipped by. Since I lack the knowledge, and there are hundreds of different boards out there, I have come to you for help.
+
+What I want to do is set up my external hard drives so that they can be accessed via my network and by SSH. I have 2x external drives totaling 2.5 TB and one of those is USB 3.0. I have a wireless cable modem that is unfortunately only 10/100 Mb/s without a USB port, and I have a gigabit switch connecting my laptop and desktop. Both computers are dual booted Ubuntu/Win 7.
+
+I looked into the Raspberry Pi and was told that even if I purchased a USB gigabit adapter, the Pi couldn't handle the full 480 Mb/s. 
+
+I realize that I can't break 100 Mb/s through SSH, which is fine with me, but I want to be able to access my storage without having to boot up my PC while at home. It wouldn't be a problem if running my desktop didn't raise the temperature in my tiny apartment by ~5° F.
+
+Does anyone have any ideas for a board under $200 that could do this?
+
+Thanks everyone. Feel free to ask for clarification on anything."	t5_2rfd8	True
+1368442146.0	1e8kip	Aaeon EPIC footprint ATOM board with DDR3 SODIMM, SATA, dual gigabit ethernet, miniPCIe, etc.	wycx	15	6	9		t5_2rfd8	False
+1361822665.0	197kk9	Noob here: can I use a linux image developped for a certain dev board on a different dev board with the exact same CPU, or a CPU of the same family (e.g. OMAP3), or a CPU with the same architecture (e.g. Cortex A-8). 	dexores	10	2	13	So, the question is mostly in the title. I've got 2 high end Qseven ARM dev boards from Seco (one is a Quadmo747-X/OMAP3 and the other one is a uadmo747-X/i.MX6), and as I couldn't find any 3rd party Linux images for them, I was wondering if I could use images built for different dev boards with similar CPUs. Any help would be appreciated. 	t5_2rfd8	True
+1352143554.0	12okjj	True Linux tablets available for preorder with working XBMC and Plasma	drachensun	12	3	0		t5_2rfd8	False
+1320082746.0	lvdno	In search of an open document reader	theviking10	9	1	7	"I currently have a lot of my textbooks in PDF format, and I was thinking of investing in a portable reader. Do any of the mainstream readers play nice with Linux? (Nook, Kindle, etc.).
+
+Are there any devices on the market that run linux?"	t5_2rfd8	True
+1311133077.0	iuhdy	Looking for linux wireless router but.....	alexj212	15	7	22	"I am looking for a powerful wireless router i can run openwrt on but also run things like tcpdump and has a decent processor / ram. I have a fonera 2100 but its a little limited in ram and power. It can be slow to bring up administration pages, and sometime gets OOM errors. 
+
+Any ideas i want to be able to connect via serial and usb is a plus, I would like to have multiple nic GB eth ports, wireless a/b/g/n with an atheros chipset preferable cf or sd storage a plus also along with flash for os. Thanks in advance"	t5_2rfd8	True
+1288201123.0	dx9v6	Maverick on OMAP3/4 - quick and easy! Now if I just had an OMAP4 device...	thestick01	10	3	5		t5_2rfd8	False
+1282798411.0	d5km4	Borders now offering pre-orders for Android Cruz Readers/Tablets	aperson	8	0	2		t5_2rfd8	False
+1279597076.0	crgwa	Ubuntu Bluetooth 		8	0	19	"Hi guys. I have a bluetooth enabled Laptop, which came with Vista. I changed it out for Ubuntu, but I can't get the bluetooth to work. I have a tmobile TAP phone and have tried BlueWho but I get an error message:
+
+""No Local Devices Found During Detection.""
+
+So how can I get this to work or to test my local hardware? I have built in bluetooth with no type of indicator when I press the button.
+
+I'm running Lucid.
+
+Thanks in advance.
+
+Edit: Typo"	t5_2rfd8	True
+1273876173.0	c49bv	"Cherry Pal Asia 7"" &amp; 10"" Android Netbooks $99 &amp; $148 respectively. "	singingKABOOM	8	0	3	"I'm definetly interested in the 7"" model.
+
+Cherry Pal Asia 7"":
+http://www.cherrypal.com/secure/product_info.php?products_id=13
+
+Cherry Pal Asia 10"":
+http://www.cherrypal.com/secure/product_info.php?cPath=2&amp;products_id=14"	t5_2rfd8	True
+1273282566.0	c1anj	Alex eReader rooted	aperson	8	1	0		t5_2rfd8	False
+1271839842.0	bu0cw	Sharp updates NetWalker to be Linux tablet	aperson	9	1	0		t5_2rfd8	False
+1271838781.0	bu05u	Cray Releases Highly Scalable, More Inclusive Super-Linux	aperson	8	1	1		t5_2rfd8	False
+1270976059.0	bpbxa	"Enso contacts German newspaper; alleviates fears 
+that zenPad was a scam. It appears it's real after 
+all - woo!"		8	1	2		t5_2rfd8	False
+1269975569.0	bkbqp	Androids sorted by physical size: Find the phone that suits (into) your pocket	jan	9	1	1		t5_2rfd8	False
+1269953208.0	bk63u	Cool portable linux music studio	j00p34	9	1	0		t5_2rfd8	False
+1269028805.0	bfmkc	Cool linux wheelchair	j00p34	9	1	0		t5_2rfd8	False
+1268133534.0	bb33u	"Freescale 7"" Tablet (Android, Chromium OS or other Linux)"	jingleman	11	1	1		t5_2rfd8	False
+1268133015.0	bb30b	BeagleBoard (USB Powered Fanless PC)	jingleman	10	2	0		t5_2rfd8	False
+1267968489.0	baakv	Dear Linux_Devices Admins...	jingleman	9	2	10	"I have a UK domain ""www.linux-devices.co.uk"", which I am not currently using. I will happily donate this domain name as the main domain for this sub-reddit. 
+
+If you want to, you can change the domain options from your sub-reddit administrator area. Let me know when you've done this, and I'll update my DNS settings.
+
+Cheers,
+
+JingleManSweep"	t5_2rfd8	True
+1267296251.0	b798w	Installing Debian on a Linksys NSLU2 NAS Device	jingleman	8	1	1		t5_2rfd8	False
+1267286075.0	b77pd	"My iPod touch just died, any recommendations for an OSS 
+PMP? : linux"	sohierc	9	0	3		t5_2rfd8	False
+1263233074.0	aoahm	"DealExtreme: $151.51 SmartDevices SmartQ 5 4.3"" 800 x 480 Touchscreen Linux MID (667MHz ARM CPU/WiFi/Bluetooth/1G Flash)"	ashadocat	8	0	5		t5_2rfd8	False
+1375029284.0	1j7z1k	Chromecast: Exploiting the Newest Device By Google.	ouyawei	12	7	0		t5_2rfd8	False
+1370203839.0	1fjb90	Looking for an open source ARM base board	taterbase	8	1	8	"Apologies if this is not the correct subreddit.
+
+I am looking for a nice ARM base board for building a computer and would like the whole thing to be open source. Discovering the GPU was still partially locked down turned me away from Raspberry Pi so now I am looking at the [OLinuXino](https://www.olimex.com/Products/OLinuXino/) as a good solution but it seems it uses the Mali 400 which is still a bit closed (but has a great community driver).
+
+Other than these do you guys know of or have a preference for another ARM board? This whole area is new to me so any help is appreciated."	t5_2rfd8	True
+1369876123.0	1fb2i0	Linux strong, Android surging says embedded market survey	DeviceGuru	9	2	1		t5_2rfd8	False
+1368245236.0	1e42ah	Neagix' excellent (and unofficial) Debian Wheezy Development&amp;Emulation SD image (ODROID-U2 image w/ HW acceleration)	dmaho123	9	2	0		t5_2rfd8	False
+1366065510.0	1cf5e2	Allwinner shows A31S, A20, A31 tablets, HDMI sticks, game pads, projectors and development boards	AndElectrons	11	3	0		t5_2rfd8	False
+1354475063.0	145snw	Smallest device with Firewire?	AaronOpfer	8	1	3	"What would the smallest device for using the [Inception Tool](http://www.breaknenter.org/projects/inception/) be? I'm interested in developing as a pentesting tool and I think putting that tool into a small form-factor would be a very powerful asset for it.
+
+I think the coolest thing for it would be to make it pen-sized."	t5_2rfd8	True
+1354087887.0	13x9wb	Low consumption and cheap device as webserver? (no  GPU, HDMI, etc)	ferk	10	5	41	"I'm looking for some cheap computer that I can keep running 24h with low power consumption as a http server in my home.
+
+The connection would most likely be wired, so it doesn't need wifi. I would connect at least 1 hard disk to it (maybe through usb, so the more usb ports the better).
+
+Most likely, I will control it through ssh so I won't be using any screen and I wouldn't make much use of a GPU or hdmi port or anything like that, I'd rather have a better CPU.
+
+Any currently available device you could recomend?"	t5_2rfd8	True
+1354060839.0	13wikb	Any recommendations for a tiny Linux PC with USB and Ethernet with root access that I can buy right away (no pre-order)?	chime	11	3	16	"Need:
+
+1. Sub $100 wall-wart-sized low-powered linux PCs.
+2. At least one USB1, one Ethernet 10mbps port
+3. Preloaded Linux (any flavor) with root access
+4. Persistent storage (any: Flash/SD/HDD/SSD) - 16MB free
+5. Ability to login remotely via SSH/telnet so I can setup startup scripts.
+6. Housing/casing so I don't have to build my own case for it.
+7. In-stock now, can't wait for pre-order
+8. Power-adapter would be nice to have.
+
+Don't need:
+
+1. USB2 or above
+2. Fast CPU/GPU
+3. More than 128MB RAM
+4. HDMI/DVI/VGA
+5. Wifi
+
+The entire job of each PC is to run: ""nc -l -p 8000"" so that data from stdin fed by a keyboard wedge (USB) device can be read by a remote app. The data will be a few bytes per second and would be no different than a human typing away on a USB keyboard.
+
+I went through [this list](http://raymii.org/cms/p_Small_Linux_PCs_overview) and am not sure if any of them will work. SheevaPlug doesn't seem to have wired Ethernet and I don't want to get into custom JTAG development stuff. Raspberry PI and [ODROID](http://www.hardkernel.com/renewal_2011/products/prdt_info.php?g_code=G133999328931) don't have cases, don't come pre-installed, don't have persistent storage, and are on back-order. I don't want to go Arduino low-level on this and write USB HID driver code. CottonCandy, Gooseberry don't have Ethernet. I've seen a few MK802/3 devices on AliExpress.com but don't know how reliable they are.
+
+[CuBox](http://solid-run.com/cubox) appears to be the closest match to my requirements but it has lot more CPU/RAM/graphics than I need and goes over $100. I would rather give up on these features that aren't necessary for my usage and get a lower price. I might end up buying 10-20 of these devices in the next month and maybe a lot more in the future.
+
+I appreciate any suggestions. Thanks!"	t5_2rfd8	True
+1352861157.0	135rpb	Anyone care to share store *name* ideas, for a store selling MK808 devices?	anarkhosy	10	3	37	"**UPDATE**: name chosen, but not from these suggestions.  I love all these suggestions!  Well done all!  If you want to open a boutique, feel free to grab one of these fine names, **but please reward the contributor**!!
+
+Hello all.  I'm not quite sure if this post is appropriate for this forum, as I am not sharing new of anything, but am instead asking for feedback.  I'm looking for cloud naming for a MK808 store, selling [these](http://i.imgur.com/iCokx.jpg).  (*These are **unbranded**, and I have a shipment on the way from a factory in China.*)  
+
+If you can pick out a name that we end up using, I would be very happy to send you one of these great little devices as a small token of thanks, or PayPal you the cost if that is what you'd prefer.
+
+In any case, please allow me to first describe this product, and then my future store.  I am looking to sell these striking devices for a bit less than what you'd find elsewhere.  I live in San Diego, and would take advantage of inexpensive USPS priority shipping to allow me to offer free shipping within the US.  I plan to sell the devices for between $60 and $65, delivered.
+
+Here are the specs, if you are curious:
+
+***
+
+**Hardware**								
+CPU	RockChip 3066, up to 1.6GHz, Cortex A9, dual-core CPU + four-core GPU							
+Memory	 1G DDR3							
+Flash	Nand Flash 8GB  							
+WiFi	 802.11 b/g /n							
+**Bluetooth	 BT2.1**	&lt;-- hard to find in a MK808 today!						
+Mould	Metal: Silver, black or red (samples random)							
+I/O	1*HDMI 1.3		up to 1920x1080 resolution					
+	1*USB OTG		one OTG port to support USB device					
+	1*USB HOST		Host USB port 					
+	1*USB 		USB Power supply 					
+	1*TF card reader		Micro SD card interface, max to 32GB					
+Power	                   100~220V AC Input, 5V 2A DC Output 							
+Accessories	HDMI cable							
+	Power adapter							
+	BT / 2.4G wireless Keyboard &amp; Mouse (optional)							
+
+**Software**								
+OS	Google Android 4.1							
+Video	RM/RMVB, MPEG, MKV, AVI, MP4, MOV, FLV, H.263, H.264, VC-1, DivX, Xvid, TS, RealVideo, VP6, VP8  up to 1080P support							
+Audio	AAC-LC/HEAAC/HE-AAC v2, AC3, AMR-NB, DTS, MP3, OGG, RA_COOK, WMA, WMA, LPCM/PCM/ADPCM, FLA							
+
+***
+
+By the way, I've been told the aluminum case conducts heat excellently, so that no vents are required. 
+
+I'm looking for store name which is **fun** and almost childish, and appeals especially to young men and young women.  The kind of people who frequent Reddit and ICHC.  Eventually, I will probably beg [Dilraj Mann](http://dilrajmann.blogspot.com/) for more custom work for the theme, as I love his work and his style.  We'll see how that goes.  But as you can imagine, the site would not resemble a Linux ARM boutique than you've seen before.  I am very concerned about hitting the female (and adventurous men) market with new pink MK808's, for example.
+
+SO, in any case.  I'd love to hear your thoughts.  And thanks for your time all.
+
+**EDIT: just to be clear, I am not promising that I will choose an idea below as a winner.  I have my own ideas, and if I don't hear an idea that I like better, then my idea will be what I stay with.  I hope I haven't misled anyone.**
+"	t5_2rfd8	True
+1351479964.0	12972u	Looking for validation for Ecommerce specialty store, selling Android Mini Computers	anarkhosy	9	1	16	"Hi all,
+
+I'd like to briefly describe a product for you, and I'd love to know whether you feel that you would be interested in purchasing this product.  Using your valuable feedback, I would have a much better feel for the viability of a planned Ecommerce store.
+
+I don't know if this question is appropriate for this subreddit.  If it isn't, please let me know I will remove this thread.  If you can also direct me to the appropriate location, I would appreciate that a lot.
+
+The flagship product would be an Android Mini PC, specifically [this MK808](http://www.amazon.com/MK808-Android-Rockchip-RK3066-Cortex-A9/dp/B009OX22B4).  I would be reselling this product (*and similar*) after purchasing large quantities direct from the manufacturer **China**.  In addition, I'd sell common attachments such as a USB-to-LAN adapter, USB-to-SATA adapter, HDMI-to-DVI-D custom Android ROM flashing, pre-installed Linux distros on SD cards, micro keyboards, remote/mouse,  etc.
+
+Why MK808?  This particular product is great for home theater, desktop, and server usage.  It is a great tool, and very inexpensive.  It draws very little power.  A great computer for the masses.
+
+Allow me to restate the specifications on this product and give a price:
+
+* Processor: 1.6GHz Rockchip RK3066 Cortex-A9 dual core (*perhaps Amlogic as its more open, or Allwinner later, but definitely dual or quad core*)
+* GPU: Quad core Mali-400MP
+* RAM: 1GB DDR3
+* Storage: Nand Flash 8GB
+* Video Out: micro HDMI
+* WiFi: 150M 802.11 b/g/n (internal antenna)
+* Ethernet: no
+* Memory card reader: microSD (Linux bootable)
+* System on a Chip: Android 4.1 (Jelly Bean)
+* Size: 4.0 in. x 1.5 in.
+* Audio: Integrated
+* Ports: 1 x USB 2.0 Host, 1 X HDMI1.3 Output, 1 x Micro-SD card slot, 1 X charger(mini USB) interface
+* Power: 90-230V,50/60Hz input, max. power: 30W, Output: 5V/2A
+* Price (free USPS Priority shipping in US): **$58.99** (7.75% tax in CA)
+
+So, do you feel that you would want to purchase that product at the price quoted?  Do you have ideas for upsells that you would like to share?   Are there low-cost &amp; fun enhancements that you would like to see from such a store that you are not seeing in other stores selling a MK80x product?
+
+Thank you for your time."	t5_2rfd8	True
+1351209921.0	123h6g	Would it be possible to run anything on this older Mac? Details inside.	emsowns	9	2	21	"Hey guys, I'm kinda new here so I have a few questions. I just got an old Macbook from a friend and I'd like to know if I could install Ubuntu or anything on it. I've never tried anything like it but I feel like I could if the computer could support it. It's a MacBook (13-inch Early 2008) with a 2.1 GHz Intel Core 2 Duo and 1 GB 667 MHz DDR2 SDRAM. Any help would be great!
+
+
+EDIT: I have installed Linux Mint 13 and I absolutely love it! No problems at all! Thanks for all your help!"	t5_2rfd8	True
+1343351837.0	x81d6	Suggestions for backwoods coding platform	thameslink	11	2	10	"I'm going to spending a lot of time out in the woods and I'm looking for a device I can hack around on. Something that can run a local LAMP server and bash/perl/python low spec and low power consumption ideally.
+Maybe a rooted ebook reader or a tiny mips notebook.
+Does anyone know a device that might fit that description?"	t5_2rfd8	True
+1343057844.0	x0pu2	Help Choosing a Device	Shuttrking	10	3	11	"Hey all,
+
+I'm looking to build a small computer for my little brothers that I'm going to wall mount in their room. I need help deciding what to get:
+
+I would like something similar to the Cotton Candy or Raspberry Pi, but it needs more power than the Pi.
+
+Would like to be able to:
+Display 720P through HDMI
+2 USB ports
+Ethernet connection
+Run UBUNTU 
+Browse internet comfortably
+
+Under 150 dollars please
+
+-
+I play on mounting the device to the back of the 19"" 720P TV I have, connecting it with HDMI, and then using a Logitech MK320 Keyboard/Mouse wireless set up for them.
+Any ideas?"	t5_2rfd8	True
+1304279080.0	h1ju7	Has anyone used a ZoTac motherboard on linux?	lor4x	10	3	10	I'm thinking about getting a [ZoTac motherboard](http://www.newegg.com/Product/Product.aspx?Item=N82E16813500056) and I was wondering if anyone has experience with support on linux.  Alternatively, does anyone recommend a better motherboard at comparable price?  My main concern is the number of SATA ports.	t5_2rfd8	True
+1298900837.0	fuaiv	FreedomBox foundation	silpol	8	1	0		t5_2rfd8	False
+1294172566.0	ew6hs	MeeGo's Community Woes: Improvement in 2011?	silpol	9	2	0		t5_2rfd8	False
+1293549475.0	eskl1	Indamixx.com - makers of high performance portable Linux-based systems for audio production and performance.	deusdiabolus	12	6	5		t5_2rfd8	False
+1280788697.0	cwlbn	So I'm getting bored of having a stock G1.		8	0	8	What OSes can I install on it? How do I root it? Can you point me to a step-by-step on what I can do with it? maybe i'm not Googling the right keywords, but I can't find anything specific.	t5_2rfd8	True
+1276059084.0	cd07d	Hands-on With Dell Streak	aperson	10	2	2		t5_2rfd8	False
+1268133146.0	bb312	LINUTOP: Small PC - Linux Computer - Internet Kiosk	jingleman	9	1	0		t5_2rfd8	False
+1267971884.0	baayx	WiFi Robot (Linksys WRT54GL / Linux)	jingleman	8	2	0		t5_2rfd8	False
+1267899081.0	ba32n	ASRock ION 330 NetTop PC (Nvidia Ion supporting 1080p playback using Linux/XBMC)	jingleman	7	1	0		t5_2rfd8	False
+1265485218.0	aywsc	Gadget Lab Hardware News and Reviews UK Company Launches iTablet	m0o	9	0	1		t5_2rfd8	False
+1263656849.0	aqea8	"DealExtreme: $195.66 SmartQ V5 4.3"" Touchscreen Windows CE 6.0/Linux/Android MID Internet Tablet (600MHz CPU/WiFi/2GB)"	ashadocat	8	1	0		t5_2rfd8	False
+1263398732.0	ap5ga	This grill runs linux	aperson	9	2	2		t5_2rfd8	False
+1375852822.0	1jv604	Are there any ARMv8 boards in the pipeline at the moment?	Oxidopamine	8	2	1		t5_2rfd8	True
+1373993937.0	1if9j3	Linux-Rockchip Developers Community Up, Rockchip Development Boards Coming Soon?	wycx	8	3	0		t5_2rfd8	False
+1368224566.0	1e3hf1	OpenPhoenux is asking to Help to grow The Independent Mobile Tool Community! Independent from big players watching you. (xpost from /r/linux)	slyon	8	3	1		t5_2rfd8	False
+1365958554.0	1cbz3r	Cubieboard vs OlinuXino A13 WiFi vs Beaglebone - A comparative review	AndElectrons	14	6	0		t5_2rfd8	False
+1362520754.0	19qeqh	LinuxGizmos.com is an independent website focused on the use of Linux in embedded and mobile devices and applications	JRepin	7	1	0		t5_2rfd8	False
+1358122563.0	16ipr4	Has anyone flashed a newer GNU/Linux distro onto an Omniflash board?	phayzfaustyn	8	2	2	"I've inherited an [OmniFlash board](http://www.jkmicro.com/OmniFlash.html) from JK Microsystems and am looking to put a newer version of Linux on there, as it's running 2.4 right now.
+
+As for support, they're forums are all dead and/or filled with spam. Documentation is lacking and Google reveals almost no helpful information. Does anyone here have experience with these boards?"	t5_2rfd8	True
+1345754531.0	yprg3	Great Wall U310 packs an Ubuntu desktop PC into a keyboard		7	1	2		t5_2rfd8	False
+1317463874.0	kxe2e	The Nokia N9 - The Nexus One That Became a Nexus 6	silpol	8	0	1		t5_2rfd8	False
+1317138402.0	kt18u	Having a problem with a Pogoplug running lighttpd.	MikeyToo	7	2	8	I am still running the stock OS modified with information from the [NSLU2-Linux](http://www.nslu2-linux.org/) website.  I have installed samba and lighttpd but lighttpd won't run from the rcS file.  It will run if I call the S80lighttpd file from the command line, but doesn't work in the rcS file.  The error log for lighttpd doesn't show any errors and samba works fine starting from rcS.  Any help you can give would be greatly appreciated.	t5_2rfd8	True
+1316678948.0	knppq	Powerful NAS with Debian support?	maleadt	9	1	9	"Hi all,
+
+For a project at an NPO, I need to take care of a server hosting some data (100Gb Subversion repo + some Java application). As I need a relatively cheap yet durable solution, I had been looking to popular Linux-powered NAS solutions. Is this a good choice, or should I spend the extra money and go for a full-blown server?
+
+As a test I've been playing with a Synology DS207+, which was quite nice (apart from having died on me). One issue however was that Synology's Linux isn't all that flexible, and ipkg didn't fulfil all my needs either. Hence my question, which (relatively recent) NAS can I run Debian on? Apart from the NSLU2 (which is too old and has no internal drive), I've found that some of the QNAP Turbo Stations support Debian, but there might be others that you guys know of.
+
+Thanks!
+
+EDIT: added some details on the data size."	t5_2rfd8	True
+1312653070.0	jax2s	pogoplug alternative distro?	waspinator	7	2	10	what's the best alternative ready-to-use distro available for a pogoplug? I don't like the idea of being connected to their servers, but don't want to mess around too much setting it up.	t5_2rfd8	True
+1308952489.0	i8g72	Boot a Kernel over Serial with U-Boot and Kermit	emezeske	8	2	1		t5_2rfd8	False
+1301265101.0	gcpoq	Recommendations On A Physically Small Computer To Connect To My TV	therascalking	6	0	18	"I am looking for some recommendations on hardware to connect to my TV. I am looking for something that is fairly small and has video and audio outputs (obviously). I don't need anything super high end like HDMI though it would be cool if it did.
+
+I won't need a huge hard drive since my main desktop would be doing the torrenting. At most it would hold a season's worth of shows.
+
+I plan to install Ubuntu or something similar and play shows with VLC. I will control things with the VLC remote on my iPhone.
+
+Bottom line is I'm looking for hardware with a small footprint since space is limited around my tv.
+
+Thoughts?"	t5_2rfd8	True
+1298481454.0	fr5e9	"ViewSonic ViewPad 7: the perfect compromise on 
+price &amp; performance?"	aperson	7	0	11		t5_2rfd8	False
+1294283051.0	ex020	Wubble : Broadcom CrystalHD Decoder support for FFmpeg and MPlayer	singingKABOOM	8	3	0		t5_2rfd8	False
+1281868313.0	d1cze	Linux tablet runs Windows and Mac OS X	aperson	9	2	0		t5_2rfd8	False
+1272574262.0	by148	T-Mobile Pulse (Huawei U8220) finally hacked to run Ubuntu with LXDE	jingleman	7	1	0		t5_2rfd8	False
+1272463799.0	bx9d2	Via Artigo A1100: A great, mini server for your home	aperson	7	1	4		t5_2rfd8	False
+1270882638.0	bozja	Full-blown linux apps to come to the Palm Pre	aperson	7	1	1		t5_2rfd8	False
+1269404856.0	bhfr0	roboat: linux powered autonomous sailboat	aperson	8	1	1		t5_2rfd8	False
+1268670855.0	bdnzs	Huawei announces SmaKit S7 Android tablet -- Engadget	jingleman	6	1	0		t5_2rfd8	False
+1268242388.0	bboye	System 76 Lemur Review	aperson	8	2	1		t5_2rfd8	False
+1268241221.0	bboo7	How to Install Debian Linux on an Embedded System (PPC440EPx)	aperson	8	0	0		t5_2rfd8	False
+1268135675.0	bb3hi	Ok, we have a domain, any thoughts on what we should do for the css?	aperson	10	4	12	I'd like to do a custom css, does anyone have input on a color scheme, layout, etc?  And how about a logo?	t5_2rfd8	True
+1268021835.0	bai6o	Open-source hardware takes baby steps toward the gadget mainstream	aperson	6	0	0		t5_2rfd8	False
+1268021601.0	bai4w	Rugged railroad computer runs Linux	aperson	7	1	0		t5_2rfd8	False
+1267969154.0	baann	Zotac Zbox Mini PC with Ion 2 Graphics, Dual Core Atom CPU: $210 / £140	jingleman	8	0	0		t5_2rfd8	False
+1267898793.0	ba31i	Logitech Squeezebox Duet (Controller runs Linux)	jingleman	8	2	1		t5_2rfd8	False
+1266462375.0	b3ehj	MBX/3D drivers out for N8x0 (and other OMAP2)	pyrofool	6	0	0		t5_2rfd8	False
+1266135475.0	b1vgp	Review: Archos 5 Internet Tablet	aperson	8	1	0		t5_2rfd8	False
+1265057231.0	awtqt	Leapfrog Didj: Handheld Linux on the Cheap  - Hack a Day	ashadocat	7	3	0		t5_2rfd8	False
+1264011652.0	as0u1	China's Homemade Supercomputer to Run Linux	aperson	7	1	0		t5_2rfd8	False
+1263398236.0	ap5bm	5 Special Devices from CES 2010 that Run on Linux	aperson	8	2	1		t5_2rfd8	False
+1370614003.0	1fv185	"New Mali open source driver code. ARM management ""seriously dislikes"" it."	kasbah	7	3	1		t5_2rfd8	False
+1369440536.0	1f04rn	Pepper Pad on craigslist	soulwarp	6	1	0	[This person on craigslist is selling two pepper pads for 50bucks](http://lakeland.craigslist.org/sys/3826177317.html). I was thinking about buying them for a xbmc remote via network or playing NES emulators. Is there any documentation on how to install linux on these? I couldn't find any.	t5_2rfd8	True
+1364494210.0	1b6vh3	ODROID &amp; IOIO Game Controller... Need help!	adv3nture	7	2	4	"So, I am thinking of building a simple NES style game controller (d-pad, A, B, select, start) for playing retro games on my ODROID.
+
+I have two questions really;
+
+How would I bind a button press? So if I pressed up on my d-pad, how would it would simulate pressing the up arrow on a keyboard?
+
+Secondly, I understand that Android/IOIO apps are written in Java. From what I have seen, the IOIO will only do what is required when the users app is running. How could I make sure that the controller always passes input to the ODROID? Is this even possible?
+
+Thanks
+
+EDIT: If I'm asking in the wrong place, please just say!"	t5_2rfd8	True
+1359215506.0	17bgli	Building CM10.1 for the MK808B. Have CWM and and CM10.1 booting but I am having a hard time finding resources.	Step1Mark	8	2	2	"Sorry if this is the wrong place to ask this but it is a Linux device. Point me in the right direction if I can't get help here.  
+
+Where can I find resources that will help me do this right?  
+  
+###EDIT###
+The company hasn't released source for the MK808 series. I guess this will be harder than planned."	t5_2rfd8	True
+1354861311.0	14fkfj	Im looking to make a proxy/vpn server with a firewall. What would be the right thing for me?	CableHermit	6	2	2		t5_2rfd8	True
+1353301075.0	13fpbv	How long until Linux runs on the Wii U?	baconOclock	17	11	13	"I got Linux running on the original Wii but the very little amount of Ram severely limited performance. 
+
+Now that the new Wii U has a more decent amount of Ram it could be nice to install Linux on it. 
+
+Is there any project of running Linux on the Wii U and how difficult will it be to circumvent protection?"	t5_2rfd8	True
+1347379944.0	zppvb	looking for arm board with at least 2 sata ports	galtthedestroyer	9	3	2	"I want to build a low power server with at least 2 sata ports for mirroring.  I'm open to arm, atom, and whatever amd is calling their embedded chip (?).  
+
+arm would be preferable for it's low power requirements.  power / # cores / speed are not issues.  I can't find any arm.  I've been googling for days to no avail.  any suggestions would be great!"	t5_2rfd8	True
+1340433576.0	vh3kq	What programs will be available for the Vivaldi tablet?	otakugrey	9	4	10	"I was thinking about how I could run Midori and Thunderbird on it, but then I realized it's ARM based, so I can't.
+
+But now I wonder, what programs *are* going to be available on the thing?"	t5_2rfd8	True
+1324598156.0	nn9hx	Someone explain this to me.  Is this more or less awesome than other media center boards?	kanliot	7	2	3		t5_2rfd8	False
+1313702878.0	jn6mk	Question about compatibility of the Raspberry PI.		8	4	16	"Which distros support ArmV6 processors? I was excited to purchase this when it comes out, but I could not find any of the usual distros that are working on anything before ArmV7(e.g., Ubuntu, MeeGo).
+
+http://www.raspberrypi.org/?p=78#more-78"	t5_2rfd8	True
+1311624047.0	izh2t	Whiteboard Substitute (twitter), need help	PolitelyOwned	8	2	3	"Basically, instead of using a whiteboard, we (3 roommates) will @reply a twitter account made for the house we share. Obviously, I can just have the guys hop online and check online. 
+BUUUT I want to see if there is a cheap way to create a device that can fetch any @reply's to the house, and any tweets from the house, then display them on a cheap/small display.
+
+So I'm asking you guys to
+A) Tell me if its possible within a $35-45 price range
+B) What product(s) I want
+C) Any other suggestions you have.
+
+Thanks"	t5_2rfd8	True
+1273283004.0	c1apu	Wifi and bluetooth sniffing rifle runs linux	aperson	6	0	0		t5_2rfd8	False
+1270541298.0	bn0q3	Toughest Linux box ever	aperson	6	1	0		t5_2rfd8	False
+1269023188.0	bflbl	NVIDIA ION vs. Radeon HD 4330 Graphics	aperson	5	1	0		t5_2rfd8	False
+1268338673.0	bc7qs	Embedded Linux Conference 2010 Program is available	aperson	7	2	0		t5_2rfd8	False
+1268242737.0	bbp1o	Is this the smallest ever CPU core running Linux?	aperson	6	2	1		t5_2rfd8	False
+1268132487.0	bb2wh	Linux on the Nintendo Wii	jingleman	8	2	0		t5_2rfd8	False
+1267973848.0	bab8s	Airbus A320 (Just kidding, but the in-flight multimedia system runs Linux)	jingleman	6	2	0		t5_2rfd8	False
+1267971297.0	baawa	"X2 Linux compatible ""iTablet"" (iPad)"	jingleman	8	3	0		t5_2rfd8	False
+1264613803.0	auubj	"Android/Linux ""wifi boombox"" exist?"	riddley	5	0	1	"I'm looking for a DNLA/UPnP boombox for my bed/bathroom and can't find anything that doesn't look like 5 year old tech in a new box with a new price. Squeezebox/Logitech I'm talking to you.
+
+Does such a thing exist or can such a thing be easily and cheaply hacked together?
+
+Ideally it has its own speakers, wifi b/g and a decent interface for a large collection."	t5_2rfd8	True
+1263435908.0	apd6k	cheap cellphone with ssh?	ashadocat	6	0	7	I want a very cheap cellphone that's ssh capable, does such a thing exist?	t5_2rfd8	True
+1373520016.0	1i29hs	I need a 10+ channel CCTV DVR that is capable of cross-platform network streaming	deadsoldier	5	2	9	"The current system setup here is a no-name dedicated DVR box running Linux, but some genius has hard-wrapped the output inside an ActiveX plugin so it's as good as useless for most users unless they are coming from Windows with IE.
+
+I've been tasked with acquiring and setting up the new system. The only requirements are that is be capable of 10+ camera inputs and able to output an open protocol stream that any device can view/interact with.
+
+I've had a look at all the usual online stores but can never find specs on what the output streams are, only that the data is usually H.264.
+
+Where can I find a Linux DVR that will output an open protocol without proprietary plugin wrappers?"	t5_2rfd8	True
+1371043475.0	1g6zfk	Mele A2000/A1000 again	feerk55	9	4	9	I just read something about the Mele A2000. Geographically a neighbour of ODROID; they must come from far. Look [here](http://www.cnx-software.com/2012/06/22/ubuntu-12-04-server-armhf-image-for-mele-a1000a2000/ for server installation) for a nice article to build a ubuntu based server.	t5_2rfd8	True
+1369230051.0	1eu014	[x/linuxaudio] Introducing MOD, Linux-based hardware sound FX processor	kasbah	6	1	0		t5_2rfd8	False
+1365196328.0	1brc45	Has anyone got CUPS working on a Pogoplug v2 without installing Arch Linux ?	Mitch_Taylor	5	1	3	"Hi,
+
+I'm just getting to grips with debian on my pi and I don't want to start learning Arch at the same time. I have already got samba working on the Pogoplug 'vanilla' linux, but I'd really like to get CUPS working. Has anyone got this working ?
+
+I have installed CUPS, Gutenprint and avahi from ipkg but I dont know how to start anything. "	t5_2rfd8	True
+1353277483.0	13f1je	Cheap, fanless, low power Linux desktop?	spartacus73	8	4	18	"1. I'd considered the MK802 and Raspberry Pi, but from most reports I've read, these are too slow for the web.
+
+2. I think the new Samsung ARM Chromebook ($250) might be a good solution, but it's not available yet and it seems getting Ubuntu installed is [possible but complicated] (http://www.androidauthority.com/ubuntu-linux-arm-samsung-chromebook-125087/). The small SSD doesn't seem like an issue though, I think I could probably use an SD card for storage if needed.
+
+3. The Ouya console looks like a good bet ($100, quad-core Tegra 3), but it won't be available until March.
+
+4. There are also a new set of faster ARM-based USB dongles based on the Rockchip RK3066, the UG802 ($50-60) and MK808. There is a [developer] (http://liliputing.com/2012/11/developers-porting-ubuntu-linux-to-devices-with-rockchip-rk3066-processors.html) working on porting Linux for it, but it's not ready yet.
+
+5. I might consider a x86 based system. I've been considering a barebones eeeBox style computer, but I'm not sure which one to go with. I'd prefer the system to be fanless, I'm not sure which x86 systems this is feasible on. Intel Atom seems to have an edge in terms of lower power consumption, but I'm not sure by how much."	t5_2rfd8	True
+1317544928.0	ky86a	Anyone have one of these?  ZyXEL NSA210 Diskless System Digital Media Server	kanliot	5	1	0	"I was going to buy one when it was on sale for $69.  Decided I didn't know anything about it.
+I need a linux server to play with, run torrents, and maybe run dropbox.
+http://www.newegg.com/Product/Product.aspx?Item=N82E16822336012"	t5_2rfd8	True
+1316356549.0	kjiv8	Open source Set-top box in the UK?	Beegee7730	4	0	2	"I was wondering, are there any open-source set-top boxes that can receive digital TV through an aerial that are running an open source software? Many of the ones I have used are very restrictive in what they allow and I would find it easier if there was one that allowed custom software.
+Thanks!"	t5_2rfd8	True
+1304656948.0	h5duv	Unboxing Ben NanoNote	547	7	2	1		t5_2rfd8	False
+1282658299.0	d4uek	HP confirms WebOS tablet for 2011	aperson	6	1	0		t5_2rfd8	False
+1282629043.0	d4q4y	Android 'Froyo', coming soon on newbuilt Samsung Galaxy tablets.	dave_L	6	2	0		t5_2rfd8	False
+1280443139.0	cv9gx	bored this summer? make your devices obey your commands. not limited to linux		5	2	3		t5_2rfd8	False
+1275960884.0	ccjsr	Has anyone here installed ipod-linux recently?	frogger8675309	4	1	2	I have a 4th gen 20 gig ipod and I have exhausted every possible resource trying to install this. It seems the installers that were made for this model have been lost to time. I'm running ubuntu lucid on my pc. Any help you can offer would be great.	t5_2rfd8	True
+1272414572.0	bwzqb	Linux Foundation 2010 Collaboration Summit. Keynotes about MeeGo, Android and more	jegrox	4	0	0		t5_2rfd8	False
+1270582208.0	bn9w6	VIA M'SERV: the Perfect Little Linux Box?	aperson	4	1	0		t5_2rfd8	False
+1270514938.0	bmvzj	Zotac MAG HD-ND01 Nettop review	aperson	5	2	0		t5_2rfd8	False
+1268132913.0	bb2zf	Sony DSC-G3 Camera (Wi-Fi and BusyBox/Linux)	jingleman	5	2	0		t5_2rfd8	False
+1268132407.0	bb2vt	Custom Linux Bootloader for AppleTV Devices	jingleman	5	1	0		t5_2rfd8	False
+1268132098.0	bb2ur	picotux - smallest Linux computer in the World	jingleman	5	0	1		t5_2rfd8	False
+1267893357.0	ba27r	Small nice looking Linux device: Fit PC	jingleman	5	1	0		t5_2rfd8	False
+1267610258.0	b8mvs	Acer Aspire One AOD250 review	aperson	6	2	0		t5_2rfd8	False
+1263397885.0	ap58m	ASRock ION 330HT-BD Blu-ray NetTop Review	aperson	4	0	0		t5_2rfd8	False
+1262887598.0	amsi3	The Open Pandora gets it's a final case	aperson	5	2	0		t5_2rfd8	False
+1357336243.0	15z0qr	Looking for a lightweight laptop with good power management. 		7	3	8	"I'm moving from an old thinkpad with xubuntu to a some flavor of linux desktop and either a chromebook or a light laptop that can server a similar need. Highest priority for me is that it will hold a charge for a long time. Power management is one of my biggest issues that I've come across. 
+
+I've heard you can put ubuntu on a chromebook. Any idea what that does to the battery life?"	t5_2rfd8	True
+1352149622.0	12orph	How doable would it be to get some form of Wifi working on the Ben Nanonote?	otakugrey	4	3	9		t5_2rfd8	False
+1349892078.0	119hay	Plug computer for NAS and FreedomBox?	Xephyrous	4	1	1	"I'm looking for a small, cheap, low-power computer tor the following purposes:
+
+* Network-Attached Storage
+* Install and play around with [FreedomBox](https://freedomboxfoundation.org/)
+* Run my own (very very low volume) webserver.  Just for personal stuff and development, never more than say, 10 hits a day.
+
+The [Globalscale plug computers](https://www.globalscaletechnologies.com/p-49-guruplug-server-standard.aspx) of course look like a great option (FreedomBox Foundation lists [the dream plug](https://www.globalscaletechnologies.com/t-dreamplugdetails.aspx) as their development platform.), but I'd also like to be able to use it as an external hard drive or NAS for backups and storing media I don't have space for on my laptop.  Is there a way to attach a 1 or 2 TB HDD to one of those?  I have a WD2500B015 External drive (with enclosure, fan, external power source... it's a beast.  Think I could take the drive out of that?  Or at least just plug it in to the server?
+
+I'm pretty new to a lot of this (I want to get something to hack and learn), so I've got some questions about how it works.  Do I ssh into the computer and configure it that way?  How could I set it up as a drive accessible from the local network or internet?  Does anyone have any recommendations for hardware or for tutorials I should read through?"	t5_2rfd8	True
+1344371509.0	xubfe	Thoughts on Technology: Bodhi's ARM Branch Moves to ARMHF	jeffhoogland	5	2	0		t5_2rfd8	False
+1333693650.0	rvydz	Devaamo Summit 2012 Call for Presentations - submit your proposals by 24th April. Spread the word! #devaamo2012	silpol	4	1	0		t5_2rfd8	False
+1332667171.0	rcj74	Does a King Jim PSS10 Scanner (Japanese) work with Linux?		3	0	0	"http://www.kingjim.co.jp/news/newproducts/detail/_id_16003
+
+Looks like it supports SD in case the USB interface doesn't work, but I was wondering if anyone had any experience with these devices and how to use them with linux.
+
+Thanks in advance... "	t5_2rfd8	True
+1329518208.0	puht7	Whatever happened to the lemote macbook clone?	_hank	3	0	2		t5_2rfd8	False
+1327930547.0	p2yxt	7-inch Linux tablet to come with KDE's Plasma Active interface	JRepin	4	1	0		t5_2rfd8	False
+1313014016.0	jf1m8	Using the Dockstar as a full Home Theater Replacement - Part 1	huntergdavis	4	2	2		t5_2rfd8	False
+1304634136.0	h55v6	Ionics Plug computers - are they available/good?		3	0	1		t5_2rfd8	False
+1302311724.0	glw9b	Is anyone going to the Embedded Linux Conference in SF next week?	ReverseMentat	3	0	2	"[2011 Embedded Linux Conference (ELC)](http://events.linuxfoundation.org/events/embedded-linux-conference) 
+
+They will have [Pandaboard](http://groups.google.com/group/pandaboard/browse_thread/thread/f76c5e0eb8286a9d)s there! I'm in the area, but i can't go. :( I would be forever grateful if someone would pick one up for me."	t5_2rfd8	True
+1302279746.0	glk1l	Device for Quick Booting project	Darkfiremp3	3	0	3	I am making a device that where I want to be able to run a small (10mb) java or mono program that interacts with a micro controller. What devices will give me quick boot time, and be relatively cheap? And/Or on a x86 system, what linux distro would be fastest headless	t5_2rfd8	True
+1278627152.0	cngre	MeeGo 1.0 update for Netbooks  [LWN.net]	jegrox	3	0	0		t5_2rfd8	False
+1270887815.0	bp0ak	The Dream Machine	aperson	4	1	1		t5_2rfd8	False
+1267974083.0	baba0	ASUS WL-500G Deluxe Wireless Router (great for OpenWRT/DD-WRT)	jingleman	4	2	0		t5_2rfd8	False
+1267971086.0	baav4	Neuros LINK (HTPC / Ubuntu / MythTV)	jingleman	4	3	0		t5_2rfd8	False
+1266929622.0	b5fyf	UBUNTU 8.04 for X1	aperson	5	1	1		t5_2rfd8	False
+1264704519.0	avcg3	"Are there any good, cheap, SSD drives for 
+ExpressCard slot's (lgt example)"		3	0	1		t5_2rfd8	False
+1262988412.0	anbpl	LG GW990: Moblin Linux on x86 smartphone	aperson	3	0	0		t5_2rfd8	False
+1370949884.0	1g44j9	Allwinner SoC Still Unlikely For Upstream Linux Kernel	kasbah	7	4	1		t5_2rfd8	False
+1368923751.0	1elt4w	Radio Shack Unveils the New Delta Series Mini PC Board at Maker Faire	ViennettaLurker	5	4	2		t5_2rfd8	False
+1365138004.0	1bprmm	Imagination dumps MIPS Chinese sales team	wycx	4	2	0		t5_2rfd8	False
+1357825831.0	16ba5y	Install Ubuntu Linux on the $100 Zealz Freescale quad-core mini PC	spartacus73	2	0	0		t5_2rfd8	False
+1355725509.0	14zdaz	Bodhi ARMHF Alpha for Samsung Chromebook	jeffhoogland	6	5	0		t5_2rfd8	False
+1340927424.0	vrogy	MK802 - Android/Ubuntu on a stick	waspinator	5	3	2		t5_2rfd8	False
+1282056137.0	d25j0	Linux wall warts small on size, big on possibilities	mgdmw	2	0	0		t5_2rfd8	False
+1267899654.0	ba362	Linksys WRT54GL Wireless Router (runs OpenWRT/DD-WRT Linux firmwares)	jingleman	3	1	0		t5_2rfd8	False
+1263421848.0	apapt	Marvell's EBOX: Ridiculously tiny computer running Ubuntu that does 1080p	aperson	2	0	0		t5_2rfd8	False
+1263315721.0	aoq19	HP Mini 5102 to come with SUSE option	aperson	2	0	0		t5_2rfd8	False
+1263242746.0	aoclv	New Toys: Interesting Mobile Linux Devices at CES	aperson	2	0	0		t5_2rfd8	False
+1263241975.0	aocg8	Pico: the projector that runs linux to serve up web apps	aperson	2	0	0		t5_2rfd8	False
+1263160670.0	anxpe	The Backflip: Motorola's Innovative Android Phone	aperson	2	0	0		t5_2rfd8	False
+1262926871.0	amzyp	Splashtop 2.0 gets official	aperson	2	0	0		t5_2rfd8	False
+1262849110.0	amkl1	Gateway LT2030u Review	aperson	2	0	1		t5_2rfd8	False
+1262615853.0	ale3o	Move Over BoxeeBox, Here Comes PopBox	aperson	2	0	0		t5_2rfd8	False
+1370066907.0	1fgb3z	port source code examples in linux device drivers third edition to linux 3.x	duxing2007	2	1	0		t5_2rfd8	False
+1369167168.0	1esan1	$329 TI OMAP5432 Dual Cortex A15/Dual Cortex M4 dev board w/2GB, 4GB eMMC and USB3 apparently silently released	centx	3	2	1		t5_2rfd8	False
+1366570899.0	1ctav8	Any ideas for a super cheap ownCloud box?	GreatBigPig	3	2	1	"My family needs ownCloud at home. I use Sugarsync for online storage, but I think I might switch to a cheap home solution. I am new here, but looked around /r/rlinux_devices a bit already. There is a lot of info to digest.  
+  
+Here's what I was considering:  
+* Size doesn't matter.  
+*  USB for external HDD storage.  
+* RJ-45 preferred.  
+* Connect to the router and access via SSH.  
+* Run Debian based OS.  
+* Run ownCloud.  
+* Run light webserver.  
+* Run web-based scripts such as file explorers, notes (like Evernote), and bookmarks.  
+* Really, really cheap (My wife is limiting me on this. the cheapest the better). Something cheap like the Pi or slightly more perhaps.  
+* Available now.  
+  
+I have messed with Linux for years, but have zero experience with the awesome devices available now, with the exception of my MK808B providing us television.
+
+Thanks."	t5_2rfd8	True
+1365366627.0	1bve26	shout out to squeezers re scanner	availableuserid	3	2	1	"Running Debian/Squeeze - can anyone vouch for compatability with this scanner?
+
+Canon LiDE210 flatbed scanner 8.5x11.7"	t5_2rfd8	True
+1364503948.0	1b77cz	Hardware suggestion for environmental research equipment?	nevereven	3	2	0	"I've recently deployed a floating research platform which integrates a bunch of sensors and instruments to record water quality. This system was built around a headless PC/104+ stack with an atom Z530 processor. We're looking to improve upon what I now know for the next generation and a different processor may work better. Not knowing much about the alternatives, I thought I'd ask here.
+
+Power consumption is a big issue. We run 24/7 and it adds up over time, especially on cloudy days. While the atom doesn't draw much, it's much more powerful than we need. It is almost always running at 800 Mhz (it's lowest speed) with &lt; 10 % load. While PC/104+ is nice, it may not be the cheapest way to go. Here are our requirements:
+
+Hardware:
+
+* 8+ serial ports. RS422 support a plus. Most ports will be at 9600 baud.
+* Ethernet (for connecting 3G modem with its own I/O)
+* USB for WiFI, GPS, perhaps a webcam
+* Analog and Digital I/O (14+ DO, 4+ DI, 4+ AI) (An Arduino?)
+* 8GB+ onboard storage. We're using a SSD with a PCI-104 SATA controller card.  We tried a CF card on the PC/104 bus but it slowed down the ISA bus too much.
+* Currently have 2GB RAM with no swap setup. Typically use 1.5 GB
+
+Software:
+Currently running Debian Squeeze and the following software:
+
+* Python 2.6
+* PostgreSQL 8.4 &amp; londiste(python)
+* Java
+
+I was looking at the Raspberry Pi which looks like it would work, but may be too much of step down in performance. It also has a bunch of things we don't need. I know there are other ARM solutions, but with fair Linux skills and no C knowledge, I wan't sure how feasible this would be given our software requirements."	t5_2rfd8	True
+1363929748.0	1as917	Anyone here using Cheap ARM computer as a NAS?	Step1Mark	2	1	0	"I was just looking into getting a cheap Mini Android HDMI stick for my brother's home business. I am looking into loading a light Linux desktop on it and hook up a external HDD and map other computers on the network to it.  
+
+Has anyone here tried doing something along these lines?  Another thing I was thinking about doing was setting up SpiderOak or JungleDisk to backup the files offsite for when the drive fails."	t5_2rfd8	True
+1363905201.0	1arged	galaxy tab 2	chicken_lantern	2	1	0	I have my galaxy tab rooted and i have backtrack linux on my card. The problem is that when i try to run it through a virtual terminal it keeps coming up as failed, anyone got experience with this?	t5_2rfd8	True
+1363696722.0	1al81h	linux on a lenovo B590 with win8?	The_Nephie	2	1	0	"I'm looking for an affordable laptop (for my parents actually) and i'm quite liking the price/specs i'm seeing for this particular laptop (I5-3210M/4GB/500GB/15,6/Intel HD 4000 for € 550)
+
+The problem is that it comes with Windows 8 pre-installed. I'm not completely up to speed on the deal with win8 and UEFI and linux. I know it is possible on some devices, or that you can disable UEFI on other devices or something ... but i don't quite know what's up.
+
+Do any of you know if i could install linux (i'd prefer Mint) on this particular laptop on any way?"	t5_2rfd8	True
+1363095705.0	1a59yc	Ubuntu on dell latitude 10?	Dudephatal	2	1	0	Ima give this a shot here. Ive been trying to install side by side Ubuntu with my windows 8 tablet but I've had issues with booting up. I can install it but I get an error. I try to boot up off a live cd so I can fix the error but the tablet doesn't like to boot from disc nor USB. Even though the secure boot is disabled. Any one have ideas to share? Any luck?	t5_2rfd8	True
+1363001497.0	1a2rvg	illuminated keyboard?	jhooly	2	1	6	"looking for something that is Linux-friendly (obviously) and has the key characters lighted rather than just light around opaque keys. budget is US$100-ish.
+
+any recommendations?"	t5_2rfd8	True
+1362312044.0	19knn3	new linux box &lt;$500	jhooly	2	1	2	"I'm a bit of a n00b to the linux scene -- Ubuntu for the past year and now Mint 14 Xfce -- and I'm about ready to buy some new gear. I've been limited to ""old computer"" versions of linux because I've been using an old P4 system since trees started to grow. Now that I'm convinced that the linux world is the place to be i'd like to try some full-monty distros, etc.
+
+So, I've got 500 bucks to spend. What should I get? I don't game much though a little RPG time would not be unwelcome. My wife does a bit of graphics work, basic webmastering stuff. FWIW whatever we watch we watch on the computer. I like to test run various linux distros so a linux-friendly system is pretty much required.  We've got pretty much all the peripherals we need, lots of external storage sitting around as well.
+
+Looking forward to hearing what folks might suggest. And yes, I can spend more if necessary, just thought 500 was a good place to start."	t5_2rfd8	True
+1362105486.0	19fsbs	Advice for a tablet\netbook\phone for linux, programming, and pentesting	BulletSponge51	4	3	0	Howdy gents, as stated in the title I'm looking for a tablet, netbook, or phone that takes well to linux and has enough power to allow me to do minor coding (learning a language), as well as some network stuff and pentesting.  This is a project for me. I'll be using this machine to learn and practice many of the skills I seek. I understand this will take me a long time to accrue the skills but I'm in it for the long haul. I'd prefer there be some ability to use an external keyboard (usb or bluetooth) and have sd card storage. If this is the wrong place for a question like this I apologize and ask you direct me to a better place to ask. Thanks!	t5_2rfd8	True
+1359474317.0	17hzup	Need simple RDP terminals for classroom - device suggestions?	JTurtle	2	1	7	"----If you don't care about a back story, look for the next ----- below
+
+A friend of mine runs a non profit educational foundation teaching computing skills to people that don't have easy access to such things (mainly elderly and young women from rural areas).  Against my advice, she setup a classroom with old dells that are now dilapidated and barely limping along.  The machines came with XP pre-installed (I assume illegally) and she doesn't have the software to rebuild them.  Spec-wise, they are at or below Windows 8 minimum requirements.  Long story made somewhat shorter (sorry), I've convinced her that putting everything on a single server, farming out easily clone-able/restorable VMs will make life much easier.  I'm building the server this week, and for now the existing machines will serve as RDP clients.  Two of her existing computers have network-related issues, and are pretty much goners, but the other two should work for this purpose.
+
+----- BEGIN HERE IF YOU DON'T CARE TO READ THE SOB STORY -----
+
+What I would like is a small device that will simply support wifi, wired keyboard, wired mouse, monitor, and be able to connect to a VirtualBox instance via RDP at minimum.  Since there will need to be at least 4 devices, I would like to do this as economically as possible.  Any suggestions would be greatly appreciated."	t5_2rfd8	True
+1358359149.0	16p209	Disable Optimus	novasharp	2	1	0	Hi, earlier last year, I got a Dell Inspiron 15R (N5110). At that time, I did not know what Optimus was or what exactly it did. To put it plainly, it has made Linux miserable. I cannot get the NVIDIA card reliably working without spending days twiddling with bumblebee. Is there any way to just use the NVIDIA card as a dedicated graphics card? I tried looking in the bios for the setting to disable Optimus, but I could not find that. Thanks.	t5_2rfd8	True
+1356652215.0	15jm1a	VIA APC 8750, 800MHz, 512MB, 2GB NAND, 4x USB now available for order. Can it run Linux? XBMC?	waffl	5	4	6		t5_2rfd8	False
+1354458466.0	145g2q	Freeing the Device Spectrum with KDE Plasma Active	JRepin	3	2	0		t5_2rfd8	False
+1319035692.0	lhio4	Another #chance to #win a Nokia #N9 !	silpol	1	0	0		t5_2rfd8	False
+1311341075.0	iws75	Best tablet to install Linux on?	msp3k	1	0	0	My greatest fear for our tech future is a world where all devices are locked up tighter than a tick's sphincter.  I want a tablet that I actually *own*, that I can install my own OS on, update myself, and hack to my heart's content, just as I do my home computer and laptop now.  Is there anything that /r/linux_devices can suggest?	t5_2rfd8	True
+1296348398.0	fbkpv	Processor Architecture, Linux, and the Future	jeffhoogland	4	3	0		t5_2rfd8	False
+1294625792.0	ez9ev	How to sign a .self file with PSL1GHT and Fail0verflow tools on the PS3	DiggFtw	1	0	1		t5_2rfd8	False
+1294601351.0	ez2xd	Is 2011 The Year of the Android Honeycomb? Android tablet videos inside.	Justsomefool77	1	0	0		t5_2rfd8	False
+1283306877.0	d7zqb	Bigger is Better... Right?	jeffhoogland	4	3	0		t5_2rfd8	False
+1282656110.0	d4u0e	Pocketbook 302 eBook Reader review	aperson	1	0	0		t5_2rfd8	False
+1282311133.0	d3fqx	DIN Mount?	lokal	3	2	1	"I'm looking for a router that I can mount on a DIN rail but I'm having a hard time finding anything I can load openvpn on to.
+
+Price is not really a factor if I can find something that will work; pretty much the only other thing it needs is two Ethernet ports.
+
+Any suggestions?
+
+ps. oh, and it should be available in North America; I have just under two weeks."	t5_2rfd8	True
+1282157151.0	d2ovi	Anyone know where to get a FirstView PC607V tablet?	rogue780	1	0	0	I've seen [this](http://www.technowae.com/2010/03/firstview-pc607v-tablet-priced-at-95-for-android-or-windows-ce/) for a while now, but I have yet to see where to buy one from, or even a website for FirstView. Does anyone have any news about this? I'd love to try one.	t5_2rfd8	True
+1272896454.0	bzfaj	Video of the Joojoo in action	aperson	3	2	0		t5_2rfd8	False
+1263395304.0	ap4nq	ICD announces Vega android tablet	aperson	1	0	0		t5_2rfd8	False
+1263161000.0	anxqv	$199 Freescale Tablet Design Runs Chromium OS/Android/Ubuntu	aperson	1	0	1		t5_2rfd8	False
+1263160905.0	anxqb	iConnect Wireless Data Station: a Linux powered NAS from Iomega	aperson	1	0	1		t5_2rfd8	False
+1262970855.0	an83d	Lenovo unveils ARM-based smartbooks	aperson	1	0	1		t5_2rfd8	False
+1262941019.0	an2ge	Encore 802.11n PCI - A works 'out of the box' wireless adapter 	aperson	1	0	0		t5_2rfd8	False
+1262849583.0	amko0	14 Comments Buying a Dell Ubuntu Netbook	aperson	3	2	2		t5_2rfd8	False
+1375999113.0	1jzho6	Technical writer here (not software, not code). I have a question about keyboards.	traverlaw	3	3	4	"I've been using an IBM Model M for many years.  It's time for a change.  Suggestions for a great keyboard for writing (not gaming) that has some extra nice features that will make it fun and easy to use.  (USB required).  Thanks!    
+    
+Edit:  It appears I forgot to write the word ""Linux."""	t5_2rfd8	True
+1371069970.0	1g7ytv	What to buy for Ubuntu Phone/Tablet	feerk55	2	2	0	"Ubuntu has planned to lounge the Ubuntu Phone and Ubuntu Tablet
+It can be used on a variety of hardware, they say.
+But whit which phone are you capable of using it also as a desktop computer? Are there dockingstations available or phones whit HDMI connectors? I prefer for example a dockingstation with an extra harddisk (USB3), mouse, and/or tough-screen."	t5_2rfd8	True
+1367462604.0	1diz80	Want to try out an Android stick computer with your television? Use this 10% off coupon code for an *amazing* deal at our store.	EngelCom	7	6	2	"For a limited time, you can use this coupon code **VLBH08V898F4X** for 10% off your purchase at **[www.engel.com](http://www.engel.com/mx3?ref=red_ld)**. (*This can be applied to the cart at ""Step 5: Order Confirmation""*)
+
+Right now we're having a brief sale on the **Engel MX3**.  This is a stable Android 4.1.1, dual core Rockchip, with 1GB of RAM.  In addition, it has the following highly unique features:
+
+* 2.0 mega pixel *video* camera
+* built-in microphone
+* optional external Wi-Fi antenna (*antenna included*)
+
+Alternatively, you can find this product at [eBay](http://www.ebay.com/itm/171034000334) and [Amazon](http://www.amazon.com/gp/product/B00C85NT26).  
+
+We are a US based seller--*not* in Hong Kong.  Let me know if you have any questions."	t5_2rfd8	True
+1357624078.0	1663j5	Radeon HD3200 and Xorg overheating.	Faryshta	2	2	0	"[xpost](http://www.reddit.com/r/linuxquestions/comments/165c0p/radeon_hd3200_and_xorg_overheating/)
+
+Hi, I have an HD3200 Radeon graphic card, it works excellent on ubuntu 11.10 with the fglrx_pci driver.
+
+Last month I tried to upgrade to 12.10 or Fedora 17 and tried them both.
+The driver used by default is xorg radeon which makes my computer overheats and very energy consuming, the battery last half it used to last.
+
+So I tried to install fglrx only to find that it doesn't support the new version of xorg so I was given the options to downgrade xorg or keep the xorg driver.
+
+I tried to downgrade xorg and install fglrx_legacy, doesn't heats that much (although heats more than with fglrx_pci) but it randomly crash. Some pages look like shit since the downgrade and it randomly crashes making the screen black and the keyboard unresponsive.
+
+So I had to go back to U11.10.
+
+Is there a solution for this? Or a solution being worked on?"	t5_2rfd8	True
+1354829999.0	14emby	NEED IMMEDIATE HELP - Briocked my Macbook Pro trying to install Linux Backtrack 5	Cznielsen	4	4	9	"As in title.
+
+I tried to partition my harddrive with bootcamp, went pretty well. Used rEFIt on my mac to switch between the systems once I got them working.
+
+Tried to install Backtrack 5 R3 with a LiveCD, went mostly smooth except an error in the end claiming that Grub 2 could not be installed or something like that.
+
+After the restart I can't boot into either Backtrack or OSX. I plop in the OSX install cd and try to see if I can save something. The patitions cannot be formatted. I mess around a bit with the disk utility tool and with restarting with both the OSX DVD and the Backtrack LIVECD. I then notice that my harddrive (The main partition that was there when I got my mac), has been replaced with some other one named disk01 or something. I made sure that I DID NOT format my main drive.
+
+I have been searching everywhere on the internet, but can't seem to find a solution. Nothing works. (Tried all the safe boot bullshit, Don't know shit about Linux AT ALL.) Basically I've given up on getting my old mac back, and am now focusing on saving my School data if possible (2½ years of IMPORTANT NOTES i need for my finals)
+
+My only possible idea left, is taking out the hard drive and putting it into my desktop to see if I can salvage any data. If not I'm just going to do a fresh reinstall of OSX and cry myself to sleep.
+
+
+Is there anything you can help me do? If someone can make me get it as it used to be, I will be willing to pay you some over paypal.
+
+
+I know I'm an idiot for not taking backups, but please help me.
+
+Sincerely
+
+an idiot.
+
+
+
+By the way, running snow leopard."	t5_2rfd8	True
+1350825870.0	11uce5	Driver mod HowTo	omgitsjustausername	1	1	0	"Hello All,
+
+Just seeking for some guidelines here... I have a creative labs X-Fi Platinum with the external module that I use all the time in Windows for the optical in. With linux the open source driver clearly state that the external module is not supported.
+
+How could I find out how to enable it???
+
+I really don't mind getting my hands dirty but I don't know where to start... Can I do some mining in linux. Can I retrieve some valuable information while running windows?
+
+Thanks guys/gals"	t5_2rfd8	True
+1349194688.0	10tm26	Help picking a small form factor device	darknight90020	1	1	0	"Use cases:
+- NAS: must support multiple USB ports (3.0 is a plus).  Must also support multiple few terabytes harddrives.
+- Entertainment system: must support HDMI and be able to play in mediocre resolution resolution at least
+- Music server
+- Torrent server
+
+
+I could easily go with a standard desktop machine but would like to try a small form factor like CuBox.  However, my knowledge of Linux is intermediate at best and in the past I have gotten quite frustrated with devices like gumstix because of the complexities and poor Linux support as compared to standard desktops.
+
+
+Can someone please recommend a good small form factor device that has pretty good Linux support so that installing, booting, upgrading, maintaining, etc. aren't a nightmare?  Preferably the distro is also fairly mainstream.  I mainly have experience with Debian and RHEL flavors.
+"	t5_2rfd8	True
+1343849278.0	xis6f	OUYA: A New Kind of Video Game Console by OUYA	PencilAbuser	3	3	0		t5_2rfd8	False
+1343440160.0	xa2bo	Anyone here with a beaglebone willling to help me out?	CptCheese	1	1	0	"I'm wondering if any of you people here with beaglebones could help me out. I'm interested in making an arm mounted computer with the beaglebone and [this cape.](http://circuitco.com/support/index.php?title=BeagleBone_LCD3 ""called the Pip Bone"") I'm working on a 3D model for the case, to be printed, but I need some more information. If any of you happen to be able to, can I get a hight measurement? There's not one on the website for the bone, so I'm sort of in the dark here. (Also if any of you happen to own that cape too, and can give me some more measurements than just the wxd, that'd be brilliant too!)"	t5_2rfd8	True
+1343221841.0	x4nwa	Tutorial: How to install Ubuntu 12.04 Precise, Xubuntu-desktop and Open JDK-7 on Beagleboard Rev. C2	chtef	2	2	0		t5_2rfd8	False
+1343158707.0	x380l	q: recommendation for a usb to serial (jtag?) cable please?	queBurro	1	1	2	hi, I'm after a cable with which to talk to my new (orange brightbox) router. I don't have one and I'm not sure which one to get. cheers	t5_2rfd8	True
+1340465191.0	vhgx5	Currently what is the cheapest raspberry pi like device I can get in North America, reasonably soon	seniorsassycat	2	2	1	"I'm looking to make a headless mp3 boombox that will play music from a usb, and maybe streamed from another computer. The rasp pi would be perfect for this due to its size, price, and feature set but it isn't available here at this time.
+What I'm looking for:
+
+* small form factor, book, pi, or wall wart are all fine
+* audio out
+* usb hub
+* under $120
+
+Other good features would be:
+
+* sd card reader
+* wireless networking
+* under $60"	t5_2rfd8	True
+1340290911.0	vdtpy	AllInOne-PC with full Linux-Support out of the box ?(preferred Debian Squeeze, other Distros might be ok too)	alvinxx	1	1	3	"I'm searching for an AllInOne-PC with full Linux-Support out of the box ?
+
+- preferred Debian Squeeze (other Distros might be ok too)
+
+- should be available/buyable now (June 2012), no outdated hardware
+
+- I don't want too much driver hassle, especially no Intel-HD2000-Sandybridge-problems like on Dell Vostro 360
+
+- no Atom-based like the Shuttle
+
+
+Any suggestions ?
+"	t5_2rfd8	True
+1338280636.0	ua2gl	"Game Design Careers
+"	marniawaugh	1	1	1		t5_2rfd8	False
+1337741469.0	u0e0w	Genesi - 5W, ARM powered, Linux goodness.	chzbacon	1	1	0		t5_2rfd8	False
+1326369256.0	odte0	possible cheaper, faster, more open, competitor to Raspberry Pi	jabjoe	2	2	0		t5_2rfd8	False
+1325614631.0	o1c48	Helping a friend revive his old PC, it's not working!	danlthemanl	2	2	0	"It's an old Aptiva E Series 240, it's got a AMD-K6-2 350mhz and 64mb of ram. I've tried booting into Puppy Linux and PCLinuxOS but both times I get this error: ""The kernel requires features not present on the CPU: cmov""
+
+I tried figuring out what cmov is and some places say that I need the i586 architecture, but isn't that on PuppyLinux and PCLinuxOS? I'm at a loss... 
+"	t5_2rfd8	True
+1323989294.0	nedlx	Given that the Pi isn't out yet, would you go with a Arduino or NerdKit?		3	3	3	"Granted the NerdKit isn't linux per se, but the Arduino is(?!?!?!?).  What would you buy?  If there's a better reddit to post this to, point me that way.
+
+Thanks!
+
+EDIT: Boy was I wrong, the Arduino isn't Linux at all, sorry for the error.  Please move along, nothing to see here..."	t5_2rfd8	True
+1322628961.0	mucof	Paperbd.com|News Today|Bangladeshi news paper|Daily news paper	murtoza06	1	1	0		t5_2rfd8	False
+1303838868.0	gxwvj	Asus Eee Pad Transformer Update - sold out in the US and Canada at $399 for 16GB tablet version.	jbsurv	2	2	0		t5_2rfd8	False
+1290632057.0	ebat7	"Does any one know if this linked linux speed patch will work on an ( linux based) android phone like the G1? (all android phones are linux based with android running on top of linux so this speed up would be a boon.)
+
+"	georedd	9	9	19		t5_2rfd8	False
+1282289863.0	d3cs7	Arista AMS Display PCs	aperson	2	2	0		t5_2rfd8	False
+1282089718.0	d2cv8	Hands-on: MeeGo for Smartphones	aperson	1	1	1		t5_2rfd8	False
+1339426449.0	uw7dy	APC » Pre-order		3	4	1		t5_2rfd8	False
+1338949728.0	un8ec	"I always loved ""Sixteen Tons"", but I never knew any of Tennessee Ernie Ford's other songs. This collection, which is in chronological order, was terri"	dupsahagsio	1	2	0		t5_2rfd8	False
+1282657211.0	d4u75	Motorola Milestone  XT720 review	aperson	1	2	1		t5_2rfd8	False

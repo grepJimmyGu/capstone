@@ -1,0 +1,7 @@
+#! /usr/bin/env python
+import csv, sys, os
+a = open('Name')
+b = a.read()
+name = b.split('\n')
+
+print name
