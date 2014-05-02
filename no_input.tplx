@@ -1,0 +1,6 @@
+% extend the article template
+((* extends "article.tplx" *))
+ 
+% disable input
+((* block input scoped *))
+((* endblock input *))
