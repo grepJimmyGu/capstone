@@ -1,6 +1,48 @@
 
 # coding: utf-8
 
+# #Background
+
+# Reddit is one of the largest social news and entertainment website and it provides a platform for people to communicate and share information across different subjects. The data we used comes from a github respository with 2.5 million posts of 2498 subreddits (custom-made subforum/category). 
+# 
+# In total, we have 2498 CSV files with each one containing information on the top 1000 posts within a subreddit, selected based on their karma scores. Viewers can vote up/down posts, and the difference between up votes and down votes generates a score called Karma. Posts within each subreddit are ranked based on their karma values. The data was pulled between Aug 15-20, 2013. Note that although the data was retrieved during that time, posts were not necessarily generated within that time range.
+
+# #Motivation
+
+# **Questions**
+# 
+# We are interested in user behaviors and characteristics of popular posts. Specifically, we want to find out
+# 1) When do users post actively online? Do user act differently on weekdays and weekends? 
+# 2) What elements of titles/content characterize a popular post? Is there a difference between the most popular posts and the least popular posts? 
+# 
+# **Variables Selected**
+# 
+# Based on the questions raised above, we selected the following variables to run our analysis: Time(when the post was generated), Subreddit, Number of Up Vote, Number of Down Vote, Title, Selt Text(content of a post). 
+# 
+# **More on the variables**
+# 
+# The time is stored in Epoch time (seconds elapsed since 00:00:00 on 1977, 1, 1). We will transform the time into a standard format and extract the hour and the day of week when each post was created. For self text, it could be texts as well as links the author posted, or empty.
+
+# # Method
+
+# To answer question 1):
+# 
+# We create two variables, karma value and care value, based on the number of up/down votes to measure popularity of each post. Because a post with a low karma value could possibaly have high popularity (i.e., a post with 1000 up votes and 999 down votes will only have a karma score of 1, but that doesn't mean it is unpopular). Thus, care value is calculated from the sum of up and down votes, and serves as a measure of total views for each post. Overall, karma value indicates the "reputation" of a post, while care value captures how much attention each post draws. User activity is measured using total number of posts generated within each hour/day of week for all the posts.
+# 
+# Plots are generated to observe how user activity behaves. Also, comparison of karma scores and care values are plotted to show how the trend changes with time.
+# 
+# To answer question 2):
+# 
+# We decide to use text mining techniques to analyze titles and contents of the most popular posts and the least popular posts across all subreddit. Two measures of popularity serve as selection criteria for picking the most/least popular posts. To be more clear, the post with highest/lowest karma/care value will be selected within each subreddit, which will result in four datasets (i.e, posts with highest karma values, lowest karma values, highest care values and lowest care values), each containning 2498 selected posts and their titles and contents.
+# 
+# The package NLTK is used to analyze texts. Stop words like "I, you, and, the" are filtered out. For the remaining words, frequency of each word is calculated and used to generate word cloud.
+
+# # Guideline of the Report
+
+# This report is generated as a pdf from our ipython notebook. All data and files shown below can be found on github at https://............ The report contains annotated code, test functions and methods used to run our analysis and everything should be replicatable.
+# 
+# For summary of our analysis, please refer to the "Result" section at the end of this report.
+
 # # Preparation: Import the useful packages that I need
 
 # In[1]:
@@ -14,19 +56,16 @@ import pandas as pd
 import numpy as np
 import datetime
 import nltk 
-from nltk.book import *
 from __future__ import division
 
 
-# I have a file containing all of the Name information
+# I have a file containing all of the Name information, the and a sample is as follows
 
 # In[3]:
 
 name = pd.read_table("Name", sep = ",", header = None)
-name.head()
+#name.head()
 
-
-# Test: test function which would be used by nose package, and it is used to make sure all names have been imported properly
 
 # In[4]:
 
@@ -68,11 +107,9 @@ for i in name[0][0:2500]:  #should it be 0 to 2499?????
         Time_care[original] = temp_care.groupby('Time', as_index = False).max()['care_value']
         #group by hour, calculate the max care value within each hour
     except: continue
-Time_karma.drop('Time', axis = 1)
-Time_care.drop('Time', axis = 1)
+#Time_karma.drop('Time', axis = 1)
+#Time_care.drop('Time', axis = 1)
 
-
-# Test: test function which would be used by nose package to make sure our cleaned file is correct
 
 # In[6]:
 
@@ -92,22 +129,18 @@ def test_3():
         assert True
 
 
-# Test: The previous code works fairly well since the result is the same compared with the original data file "2007scapeClean.csv". Note: this is not run by nose
-
 # In[8]:
 
 Test = pd.read_table("2007scapeClean.csv")
 # A sample of the cleaned data file
-Test.head(10)
+#Test.head(10)
 
-
-# # A sample of the data frame that we created 
 
 # In[9]:
 
-print Time_care['0x10c'].head(5)
-print Time_karma['30ROCK'].head(5)
-print Time_count['zelda'].head(5)
+#print Time_care['0x10c'].head(5)
+#print Time_karma['30ROCK'].head(5)
+#print Time_count['zelda'].head(5)
 
 
 # # Data Extraction and Initial Plots 
@@ -268,7 +301,7 @@ axes.set_title('Comparison of Different Karma Values Over 24 Hours')
 
 # As we can see from the bottom plot, it seems the karma trend does not follow the user's activity trend closely. Compared with the the previous plot 'Standardized Posting Counts & Care Value', which indicates that the number of views is closely related to the number of active users online. On the other hand, since karma represents the difference of uppost and downpost and it directly influence the position of a post under a subreddit. Thus, it seems posting post during the active time does not necessarily lead to a better rank for your post.
 
-# In[37]:
+# In[19]:
 
 fig1 = plt.figure()
 axes = fig1.add_axes([0.2,0.2,1.5,1.5])
@@ -352,7 +385,7 @@ def test_6():
 
 # We defined a function called wordclouds to create wordcloud for the input word information
 
-# In[218]:
+# In[24]:
 
 from os import path
 import sys
@@ -366,24 +399,24 @@ def wordclouds(x):
     return Image(filename='/Users/MrG/Capstone/WC.png', height= 1000, width= 618)
 
 
-# In[219]:
+# In[26]:
 
 wordclouds(Top_Title)
 
 
-# In[220]:
+# In[27]:
 
 wordclouds(Top_rank_Title)
 
 
 ##### Compare the content of mostly viewed post with highest ranked view
 
-# In[221]:
+# In[28]:
 
 wordclouds(Top_Content)
 
 
-# In[222]:
+# In[29]:
 
 wordclouds(Top_rank_Content)
 
@@ -394,7 +427,7 @@ wordclouds(Top_rank_Content)
 
 # Here we define a function to do text cleaning. Basically, The function will be used several times to extract useful information from the title and content of a post.
 
-# In[181]:
+# In[30]:
 
 import nltk
 import nltk.data
@@ -415,16 +448,16 @@ def getword(x):
 
 # Test: an example to see how the function works
 
-# In[182]:
+# In[1]:
 
 # See if the function works well. Note: this is checked by ourselves rather than by nose
 test_word = ['nan','http://www.hao123.com','www is the life','xe is useless','This','\nThe word//: http','com','I know this is the life','remember the name','one 21 guns','no body has any idea']
-getword(test_word)
+# getword(test_word)
 
 
-# All the cleaned word pool available("Add more detail")
+# Then, All the cleaned words are put into 'word pool', which are available for further steps
 
-# In[183]:
+# In[2]:
 
 word_pool_top_title = getword(Top_Title)
 word_pool_bottom_title = getword(Bottom_Title)
@@ -434,12 +467,12 @@ word_pool_top_content = getword(Top_Content)
 word_pool_bottom_content = getword(Bottom_Content)
 word_pool_top_rank_content = getword(Top_rank_Content)
 word_pool_bottom_rank_content = getword(Bottom_rank_Content)
-print word_pool_top_content[:100]
+# print word_pool_top_content[:100]
 
 
-# Tag words with its property. The function addtag is used to add the property of words to the tag
+# Next step is to tag words with its property. The function addtag is used to add the property of words to the tag
 
-# In[184]:
+# In[33]:
 
 def addtag(x):
     tagged=[]
@@ -457,107 +490,7 @@ def addtag(x):
     return(pd.DataFrame(tagged))
 
 
-# Now we tag the four word pools that we have drawn previously. We need to say more about it
-
-# In[185]:
-
-tagged_top_content = addtag(word_pool_top_content)
-tagged_bottom_content = addtag(word_pool_bottom_content)
-tagged_top_title = addtag(word_pool_top_title)
-tagged_bottom_title = addtag(word_pool_bottom_title)
-
-
-# In[186]:
-
-tagged_top_rank_content = addtag(word_pool_top_rank_content)
-tagged_bottom_rank_content = addtag(word_pool_bottom_rank_content)
-tagged_top_rank_title = addtag(word_pool_top_rank_title)
-tagged_bottom_rank_title = addtag(word_pool_bottom_rank_title)
-
-
-# # Graphs from Deeper Analysis
-
-# Write out word_pool so that we can read them into R where we use a more mature wordcloud package to create our word cloud Notice the word_pool2.csv is the name of the output file. We use this output chunk several times but we did not repeatedly writeit in several chunks.
-# Note: we have found an alternative way to create word cloud using python package, the sample is in the bottom of the ipython notebook
-
-# In[204]:
-
-tagged_top_content.columns = ["word","class"]
-tagged_bottom_content.columns = ["word","class"]
-tagged_top_title.columns = ["word","class"]
-tagged_bottom_title.columns = ["word","class"]
-tagged_top_rank_content.columns = ["word","class"]
-tagged_bottom_rank_content.columns = ["word","class"]
-tagged_top_rank_title.columns = ["word","class"]
-tagged_bottom_rank_title.columns = ["word","class"]
-
-
-# In[254]:
-
-def noun(x):
-    noun_list = x.loc[x['class'] == ('NNP' or 'NN' or 'NNPS' or 'NNS'), 'word'].tolist()
-    return(noun_list)
-def verb(x):
-    verb_list = x.loc[x['class'] == 'VB', 'word'].tolist()
-    return(noun_list)
-
-
-# In[244]:
-
-wordclouds(str(noun(tagged_top_content)))
-
-
-# In[245]:
-
-wordclouds(str(noun(tagged_top_rank_content)))
-
-
-# In[246]:
-
-wordclouds(str(noun(tagged_bottom_content)))
-
-
-# In[247]:
-
-wordclouds(str(noun(tagged_bottom_rank_content)))
-
-
-# The output program :
-# You can change Top_tag to whatever name that indicate the tag file you created before. Anyway, we use the code several times for creating different csv files to generate word cloud plots.
-
-# In[248]:
-
-wordclouds(str(noun(tagged_top_title)))
-
-
-# In[249]:
-
-wordclouds(str(noun(tagged_top_rank_title)))
-
-
-# In[252]:
-
-wordclouds(str(noun(tagged_bottom_title)))
-
-
-# In[251]:
-
-wordclouds(str(noun(tagged_bottom_rank_title)))
-
-
-# In[255]:
-
-wordclouds(str(verb(tagged_top_content)))
-
-
-# In[256]:
-
-wordclouds(str(verb(tagged_top_rank_content)))
-
-
-# Also we want to create a distribution plot of the top used words in the title of most popular posts. Similarly, we can create many kinds of similar plot if we are interested in.
-
-# In[273]:
+# In[41]:
 
 def freqPlot(x, y):
     Title_token = nltk.wordpunct_tokenize(str(x))
@@ -571,39 +504,149 @@ def freqPlot(x, y):
     return Title_key_dist.plot(y)
 
 
-# In[274]:
+# Now we tag the four word pools that we have drawn previously. We need to say more about it
 
-freqPlot(Top_rank_Content, 30)
+# In[34]:
+
+tagged_top_content = addtag(word_pool_top_content)
+tagged_bottom_content = addtag(word_pool_bottom_content)
+tagged_top_title = addtag(word_pool_top_title)
+tagged_bottom_title = addtag(word_pool_bottom_title)
 
 
-# In[275]:
+# In[35]:
+
+tagged_top_rank_content = addtag(word_pool_top_rank_content)
+tagged_bottom_rank_content = addtag(word_pool_bottom_rank_content)
+tagged_top_rank_title = addtag(word_pool_top_rank_title)
+tagged_bottom_rank_title = addtag(word_pool_bottom_rank_title)
+
+
+# # Graphs from Deeper Analysis
+
+# Write out word_pool so that we can read them into R where we use a more mature wordcloud package to create our word cloud Notice the word_pool2.csv is the name of the output file. We use this output chunk several times but we did not repeatedly writeit in several chunks.
+# Note: we have found an alternative way to create word cloud using python package, the sample is in the bottom of the ipython notebook
+
+# In[36]:
+
+tagged_top_content.columns = ["word","class"]
+tagged_bottom_content.columns = ["word","class"]
+tagged_top_title.columns = ["word","class"]
+tagged_bottom_title.columns = ["word","class"]
+tagged_top_rank_content.columns = ["word","class"]
+tagged_bottom_rank_content.columns = ["word","class"]
+tagged_top_rank_title.columns = ["word","class"]
+tagged_bottom_rank_title.columns = ["word","class"]
+
+
+# In[67]:
+
+def noun(x):
+    noun_list = x.loc[x['class'] == ('NNP' or 'NN'), 'word'].tolist()
+    return(noun_list)
+def verb(x):
+    verb_list = x.loc[x['class'] == 'VB', 'word'].tolist()
+    return(verb_list)
+
+
+# In[68]:
+
+wordclouds(str(noun(tagged_top_content)))
+
+
+# In[71]:
 
 freqPlot(Top_Content, 30)
 
 
-# In[278]:
+# In[43]:
 
-freqPlot(Top_rank_Title, 30)
-
-
-# In[277]:
-
-freqPlot(Top_Title, 20)
+wordclouds(str(noun(tagged_top_rank_content)))
 
 
-# In[280]:
+# In[44]:
+
+freqPlot(Top_rank_Content, 30)
+
+
+# In[45]:
+
+wordclouds(str(noun(tagged_bottom_content)))
+
+
+# In[46]:
 
 freqPlot(Bottom_Content, 30)
 
 
-# In[281]:
+# In[47]:
+
+wordclouds(str(noun(tagged_bottom_rank_content)))
+
+
+# In[49]:
+
+freqPlot(Bottom_rank_Content, 30)
+
+
+# The output program :
+# You can change Top_tag to whatever name that indicate the tag file you created before. Anyway, we use the code several times for creating different csv files to generate word cloud plots.
+
+# In[50]:
+
+wordclouds(str(noun(tagged_top_title)))
+
+
+# In[51]:
+
+freqPlot(Top_Title, 30)
+
+
+# In[52]:
+
+wordclouds(str(noun(tagged_top_rank_title)))
+
+
+# In[53]:
+
+freqPlot(Top_rank_Title, 30)
+
+
+# In[54]:
+
+wordclouds(str(noun(tagged_bottom_title)))
+
+
+# In[55]:
 
 freqPlot(Bottom_Title, 30)
 
 
-# #Test Function:
+# In[56]:
 
-# In[259]:
+wordclouds(str(noun(tagged_bottom_rank_title)))
+
+
+# In[57]:
+
+freqPlot(Bottom_rank_Title, 30)
+
+
+# In[65]:
+
+wordclouds(str(verb(tagged_top_content)))
+
+
+# In[66]:
+
+wordclouds(str(verb(tagged_bottom_content)))
+
+
+# Also we want to create a distribution plot of the top used words in the title of most popular posts. Similarly, we can create many kinds of similar plot if we are interested in.
+
+# #Test Function Used to Validate Analysi:
+
+# In[62]:
 
 cd ~/Capstone/Nose_extension/
 
@@ -611,8 +654,13 @@ cd ~/Capstone/Nose_extension/
 # Basically this is the chunk used to run the test function. 
 # If your computer has installed extension of nose, then you can just run. Or you can clone the Nose_ipython document in my github and run the following code in the next two cells, it shouldwork if you can download/clone the nose_extension document successfully.
 
-# In[260]:
+# In[63]:
 
 get_ipython().magic(u'load_ext ipython_nose')
 get_ipython().magic(u'nose -v -x')
+
+
+# In[ ]:
+
+
 
