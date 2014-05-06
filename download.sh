@@ -7,6 +7,6 @@ function dl(){
      do 
        curl -O -k https://raw2.github.com/umbrae/reddit-top-2.5-million/master/data/$i
        echo "You Have downloaded "$i
-       mv $i ~/Capstone/MetaData/$i
+       mv $i ~/Capstone/$i
      done
 }
