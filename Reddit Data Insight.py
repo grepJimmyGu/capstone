@@ -7,50 +7,59 @@
 # 
 # In total, we have 2498 CSV files with each one containing information on the top 1000 posts within a subreddit, selected based on their karma scores. Viewers can vote up/down posts, and the difference between up votes and down votes generates a score called Karma. Posts within each subreddit are ranked based on their karma values. The data was pulled between Aug 15-20, 2013. Note that although the data was retrieved during that time, posts were not necessarily generated within that time range.
 
-# #Motivation
-
-# **Questions**
-# 
-# We are interested in user behaviors and characteristics of popular posts. Specifically, we want to find out
-# 1) When do users post actively online? Do user act differently on weekdays and weekends? 
-# 2) What elements of titles/content characterize a popular post? Is there a difference between the most popular posts and the least popular posts? 
-# 
-# **Variables Selected**
-# 
-# Based on the questions raised above, we selected the following variables to run our analysis: Time(when the post was generated), Subreddit, Number of Up Vote, Number of Down Vote, Title, Selt Text(content of a post). 
-# 
-# **More on the variables**
-# 
-# The time is stored in Epoch time (seconds elapsed since 00:00:00 on 1977, 1, 1). We will transform the time into a standard format and extract the hour and the day of week when each post was created. For self text, it could be texts as well as links the author posted, or empty.
-
-# # Method
-
-# To answer question 1):
-# 
-# We create two variables, karma value and care value, based on the number of up/down votes to measure popularity of each post. Because a post with a low karma value could possibaly have high popularity (i.e., a post with 1000 up votes and 999 down votes will only have a karma score of 1, but that doesn't mean it is unpopular). Thus, care value is calculated from the sum of up and down votes, and serves as a measure of total views for each post. Overall, karma value indicates the "reputation" of a post, while care value captures how much attention each post draws. User activity is measured using total number of posts generated within each hour/day of week for all the posts.
-# 
-# Plots are generated to observe how user activity behaves. Also, comparison of karma scores and care values are plotted to show how the trend changes with time.
-# 
-# To answer question 2):
-# 
-# We decide to use text mining techniques to analyze titles and contents of the most popular posts and the least popular posts across all subreddit. Two measures of popularity serve as selection criteria for picking the most/least popular posts. To be more clear, the post with highest/lowest karma/care value will be selected within each subreddit, which will result in four datasets (i.e, posts with highest karma values, lowest karma values, highest care values and lowest care values), each containning 2498 selected posts and their titles and contents.
-# 
-# The package NLTK is used to analyze texts. Stop words like "I, you, and, the" are filtered out. For the remaining words, frequency of each word is calculated and used to generate word cloud.
-
-# # Guideline of the Report
+# **Guideline of the Report**
 
 # This report is generated as a pdf from our ipython notebook. All data and files shown below can be found on github at https://............ The report contains annotated code, test functions and methods used to run our analysis and everything should be replicatable.
 # 
 # For summary of our analysis, please refer to the "Result" section at the end of this report.
 
-# # Preparation: Import the useful packages that I need
+# #Whose Mind We Are Going To Change
 
-# In[1]:
+# **Questions**
+
+# We are interested in user behaviors and characteristics of popular posts. Specifically, we want to find out: 
+# 
+# 1) When do users post actively online? Do user act differently on weekdays and weekends? 
+# 
+# 2) What elements of titles/content characterize a popular post? Is there a difference between the most popular posts and the least popular posts? 
+
+# $$\noindent$$**Motivation**
+
+# By answering these questions, we hope to inform Reddit community of user behaviour in general and suggest them on how to post effectively in order to gain more attention. 
+
+# # Method
+
+# **To answer question one**
+
+# We create two variables, karma value and care value, based on the number of up/down votes to measure popularity of each post. Because a post with a low karma value could possibaly have high popularity (i.e., a post with 1000 up votes and 999 down votes will only have a karma score of 1, but that doesn't mean it is unpopular). Thus, care value is calculated from the sum of up and down votes, and serves as a measure of total views for each post. Overall, karma value indicates the "reputation" of a post, while care value captures how much attention each post draws. User activity is measured using total number of posts generated within each hour/day of week for all the posts.
+# 
+# Plots are generated to observe how user activity behaves. Also, comparison of karma scores and care values are plotted to show how the trend changes with time.
+# 
+
+# $$\noindent$$**To answer question two**
+
+# We decide to use text mining techniques to analyze titles and contents of the most popular posts and the least popular posts across all subreddit. Two measures of popularity serve as selection criteria for picking the most/least popular posts. To be more clear, the post with highest/lowest karma/care value will be selected within each subreddit, which will result in four datasets (i.e, posts with highest karma values, lowest karma values, highest care values and lowest care values), each containning 2498 selected posts and their titles and contents.
+# 
+# The package NLTK is used to analyze texts. Stop words like "I, you, and, the" are filtered out. For the remaining words, frequency of each word is calculated and used to generate word cloud.
+
+# $$\noindent$$**Variables Selected**
+
+# Based on the questions raised above, we selected the following variables to run our analysis: Time(when the post was generated), Subreddit, Number of Up Vote, Number of Down Vote, Title, Selt Text(content of a post). 
+
+# $$\noindent$$**More on the variables**
+
+# The time is stored in Epoch time (seconds elapsed since 00:00:00 on 01/01/1977). We will transform the time into a standard format and extract the hour and the day of week when each post was created. For self text, it could be texts as well as links the author posted, or empty.
+
+# # Preparation
+
+# ##Import packages used
+
+# In[4]:
 
 cd ~/Capstone/Meta/MetaData/
 
 
-# In[2]:
+# In[5]:
 
 import pandas as pd
 import numpy as np
@@ -59,27 +68,24 @@ import nltk
 from __future__ import division
 
 
-# I have a file containing all of the Name information, the and a sample is as follows
-
-# In[3]:
+# In[6]:
 
 name = pd.read_table("Name", sep = ",", header = None)
-#name.head()
 
 
-# In[4]:
+# In[7]:
 
 def test_1():
     assert len(name[0])==2500
 
 
-# #Data Cleaning:
+# ## Data Cleaning
 
-# The data cleaning part includes two part of codes, the first part is the UNIX shell command used to download the data from website and preprocess the information so that they can be read into python to do further analysis. The second part is python code used to extract the useful information from the preprocessed data. As we all know, data cleaning is a process weaved in the whole analytic project, so this part does not necessarity include all the data cleaning efforts. 
+# The data cleaning part includes two parts: The first part is the UNIX shell command used to download the data from website and preprocess the information, so that they can be read into python to do further analysis. The second part is python code used to extract useful information from the preprocessed data. As we all know, data cleaning is a process weaved within the entire project, so this part does not necessarily include all the data cleaning efforts.
 
-# The following chunk is used to select out the useful information and store them in the dataframe we have created such as Time_count, Time_karma and Time_care. Basically, those are the dataframe containing the number of posts, karma values and care values(the number of uppost + the number of down downpost) over 24 hours.
+# The following chunk is used to select out variables that we are interested in and store them in the dataframe we have created such as Time_count, Time_karma and Time_care. Basically, those are the dataframes containing post counts, karma values and care values over 24 hours.
 
-# In[5]:
+# In[8]:
 
 pd.set_option('display.mpl_style', 'default')
 Time_count = pd.DataFrame({'Time': range(24)})
@@ -102,7 +108,7 @@ for i in name[0][0:2500]:  #should it be 0 to 2499?????
         #store hour and karma into a data frame
         temp_care = pd.DataFrame({'Time': a['created_utc'],'care_value': a['care_value']})
         #store hour and care value to a data frame
-        Time_karma[original] = temp_karma.groupby('Time', as_index = False).mean()['karma']
+        Time_karma[original] = temp_karma.groupby('Time', as_index = False).max()['karma']
         #group by hour, calculate the mean karma value within each hour
         Time_care[original] = temp_care.groupby('Time', as_index = False).max()['care_value']
         #group by hour, calculate the max care value within each hour
@@ -111,7 +117,7 @@ for i in name[0][0:2500]:  #should it be 0 to 2499?????
 #Time_care.drop('Time', axis = 1)
 
 
-# In[6]:
+# In[9]:
 
 def test_2():
     assert len(Time_karma.columns)==2499
@@ -120,7 +126,7 @@ def test_2():
         assert True
 
 
-# In[7]:
+# In[10]:
 
 def test_3():
     assert len(Time_care.columns)==2499
@@ -129,25 +135,25 @@ def test_3():
         assert True
 
 
-# In[8]:
+# In[11]:
 
 Test = pd.read_table("2007scapeClean.csv")
 # A sample of the cleaned data file
 #Test.head(10)
 
 
-# In[9]:
+# In[12]:
 
 #print Time_care['0x10c'].head(5)
 #print Time_karma['30ROCK'].head(5)
 #print Time_count['zelda'].head(5)
 
 
-# # Data Extraction and Initial Plots 
+# ## Data Extraction
 
-# Date_count is the dataframe we used to count the number of posts over different weekdays over different subreddit, and we want use this information to figure out the active time of Reddit's users. To be specific, we want to know if they are more active on posting during weekdays or weekends.
+# Date_count is the dataframe we used to count the number of posts over different weekdays over all subreddits, and we use this information to explore user activity on Reddit. To be specific, we want to know if they are more active on posting during weekdays or weekends.
 
-# In[10]:
+# In[13]:
 
 Date_count = pd.DataFrame({'Time': range(7)})
 def g(x):
@@ -164,17 +170,15 @@ for i in name[0][0:2500]:
     except: continue
 
 
-# # Sample:
+# $$\noindent$$**Sample**:
 
-# In[11]:
+# In[14]:
 
 print Date_count['0x10c']
 print Date_count['backpacking']
 
 
-# Test: test function which would be used by nose package to guarantee the data we extracted is correct
-
-# In[12]:
+# In[15]:
 
 def test_4():
     assert Date_count.shape==(7, 2501) 
@@ -182,12 +186,17 @@ def test_4():
         assert True
 
 
-##### Plot: Users Active Hours(Unfinished)
+# # Result
 
-# Based on the posting time 2.5 million posts which are posted before August 20 2013, we have created the plot of users' posting hours in the range of 0 to 23. For example, if there are 40000 posts between 1:00 to 2:00, then these posts are classified as the posts with a tag 1. As we can see from the plot, the users involvment in Reddit keeps increasing from 2:00 am to 10:00 am and reachs its peak, then the activity keeps decreasing progressively. If we treat 100000 posts per hour as a benchmark, 6:00 am to 7:00 pm would be the period during which users are more active. 
-# Conclusion and trend
+# ##Care Value Analysis
 
-# In[13]:
+# **Plot: Users Active Hours** 
+
+# Based on the posting time of 2.5 million posts (all created before August 20 2013), we created the plot of total post counts vs. users' posting hours. For example, if there are 40000 posts created between 1:00 to 1:59:59, then these posts are classified as the posts with a tag 1, and the data point corresponds to a y value of 40000. As we can see from the plot, the users involvment keeps increasing from 2:00 am to 10:00 am and reachs its peak at 10:00 am, then dies down progressively. If we treat 100000 posts per hour as a benchmark, 6:00 am to 7:00 pm would be the period during which users are more active.
+# 
+# The fact that most posts were created in the morning contradicts our assumption that users are more active during their free time. The truth is most people are posting online during working hours.
+
+# In[16]:
 
 get_ipython().magic(u'matplotlib inline')
 import matplotlib
@@ -203,11 +212,11 @@ axes.set_ylabel('Counts')
 axes.set_title('Comparison Among Different Hours Every Day')
 
 
-##### Plot: Users Active Dates
+# $$\noindent$$**Plot: Users Active Dates** 
 
 # Using the same logic as the previous plot, we come up with another plot indicating the active dates of users on Reddit. Surprisingly, users are less active on weekends, which is different with my previous expectation. Obviously, users are more active from Monday to Thursday and starts to be less involved on Reddit from Thursday, then the decreasing trend continues until next Monday.
 
-# In[14]:
+# In[17]:
 
 get_ipython().magic(u'matplotlib inline')
 import matplotlib
@@ -224,11 +233,11 @@ axes.set_ylabel('Counts')
 axes.set_title('Comparison Among Different Week Days')
 
 
-##### Plot: Care Values Comparison Among Different Posting Time 
+# $$\noindent$$**Plot: Care Values Comparison Among Different Posting Time** 
 
-# Basically, I want to figure out the relationship between the Care Value and Posting time and I hope there will be some inditation between the changing trend of Care Value and the changing trend of Posting Time. Notice that for each posting time, I chose the maximum care value achieved over 2500 subreddits, which is more representative and robust than mean. It turns out I have the same trend as indicated in the plot 'Comparison Among Different Hours Every Day'.
+# Basically, I want to figure out the relationship between the care value and posting time and I hope there will be some indication between the changing trend of care value and the changing trend of posting Time. Notice that for each posting time, I chose the maximum care value achieved over 2500 subreddits, which is more representative and robust than mean. It turns out I have the same trend as indicated in the plot 'Comparison Among Different Hours Every Day'.
 
-# In[15]:
+# In[18]:
 
 get_ipython().magic(u'matplotlib inline')
 import matplotlib
@@ -245,11 +254,15 @@ axes.set_ylabel('Counts')
 axes.set_title('The Relationship between Care Values and Posting Hour')
 
 
-##### Intermediate Conclusion:
+# $$\noindent$$**Intermediate Conclusion** 
 
 # We can conclude that the care value, which is the indication of number of views the post would receive is closely correlated with the users' active time on Reddit. Thus, if you want to put a post looking for quick answer, it is recommended to post it during 7:00 to 14:00 during which Reddit users are more active.
 
-# In[16]:
+# $$\noindent$$**Plot: Comparison between Care Value and Post Counts** 
+
+# In order to compare the two trends shown above, we standardize care values and post counts, and plot them over different hours. The blue line indicates post counts, and the red indicates care values. We can see the two trends overlap most of the time.
+
+# In[19]:
 
 fig_count = plt.gcf()
 axes = fig_count.add_axes([0.2,0.2,1.5,1.5])
@@ -265,9 +278,15 @@ axes.set_title('Standardized Posting Counts & Care Value')
 plt.legend(('post_time','care_value'))
 
 
-##### Plot: What do I want to say?
+# ##Karma Value Analysis
 
-# In[17]:
+# **Plot: Karma Value Over Different Subreddit** 
+
+# Since karma valuse is the standard used for Reddit to rank all of the post, we are interested in knowing if karma value varies over different subreddit. However, each subreddit contains a number of posts with different karma values, we need to find out the representatives. Thus, we decided to pick out the median and max among all of karma values belonging to the same subreddit and draw them in the same graph. 
+# 
+# The Histogram below shows the karma max with red line and karma median with blue line over 2498 subreddits. Although the obvious information is not obvious, we still want to point out that for most of subreddits: the difference between karma max and karma median is comparably large indicating that most of posts have a really low karma value. We think it is intuitively true since seldom do we have really popular post on website and most of posts are pretty much trash.
+
+# In[21]:
 
 get_ipython().magic(u'matplotlib inline')
 import matplotlib
@@ -284,9 +303,11 @@ axes.set_title('Karma Value Over Different Subreddit')
 plt.legend(('karma max', 'karma median'))
 
 
-##### Plot: Karma Value Comparison Among Different Posting Hours
+# $$\noindent$$**Plot: Karma Value Comparison Among Different Posting Hours**
 
-# In[18]:
+# Out of similar intention, we are interested in finding out the 'active hours' during which users are more likely to enjoy 'good post'. Suprprisingly, we have similar trend compared with the previous 'Care Value Over 24 Hours' plot, that is, karma values are higher during working hours. 
+
+# In[22]:
 
 fig3 = plt.figure()
 axes = fig3.add_axes([0.2,0.2,1.5,1.5])
@@ -297,9 +318,9 @@ axes.set_ylabel('Karma')
 axes.set_title('Comparison of Different Karma Values Over 24 Hours')
 
 
-##### Plot: The Relationship of Posting Time and Karma Value
+# $$\noindent$$**Plot: The Relationship of Posting Time and Karma Value** 
 
-# As we can see from the bottom plot, it seems the karma trend does not follow the user's activity trend closely. Compared with the the previous plot 'Standardized Posting Counts & Care Value', which indicates that the number of views is closely related to the number of active users online. On the other hand, since karma represents the difference of uppost and downpost and it directly influence the position of a post under a subreddit. Thus, it seems posting post during the active time does not necessarily lead to a better rank for your post.
+# As we can see from the bottom plot, it seems that karma trend does not follow the user's activity trend closely. Compared with the the previous plot 'Standardized Posting Counts & Care Value', which indicates that the number of views is closely related to the number of active users online. On the other hand, since karma represents the difference of uppost and downpost and it directly influence the position of a post under a subreddit. Thus, it seems posting post during the active time does not necessarily lead to a better rank for your post.
 
 # In[19]:
 
@@ -315,15 +336,15 @@ axes.set_ylabel('Karma Value')
 axes.set_title('Standardized Posting Counts and Karma Values')
 
 
-# # Text Mining
+# ## Text Mining
 
-### General Analysis
+# ###General Analysis
 
-##### From the perspective of care value:
+# **From two perspectives: care value & karma value**
 
-# The function below is used to extract the title and content parts that in most popular(evaluated by care value) and least popular (evaluated by care value)posts over 2498 subreddits.
+# Through out our whole project, we have been interested in comparing or extracting information based on two benchmarks: care value and karma value. Undoubtedly, we are going to use both of the benchmarks to do text mining, thus we are going to do every following step from two perspectives.
 
-# In[20]:
+# In[23]:
 
 Top_Title = []
 Top_Content = []
@@ -343,11 +364,7 @@ for i in name[0][0:2500]:
     except:continue
 
 
-##### From the perspective of care value:
-
-# The function below is used to extract the title and content parts that in most popular(evaluated by karma value) and least popular (evaluated by karma value)posts over 2498 subreddits.
-
-# In[21]:
+# In[27]:
 
 Top_rank_Title = []
 Top_rank_Content = []
@@ -367,25 +384,23 @@ for i in name[0][0:2500]:
     except:continue
 
 
-# Test: test function which would be used by nose package to check if the extrcated information is correct
-
-# In[22]:
+# In[28]:
 
 def test_5():
     assert len(Top_Title)==len(Top_Content)==len(Bottom_Title)==len(Bottom_Content)==2498
 
 
-# In[23]:
+# In[29]:
 
 def test_6():
     assert len(Top_rank_Title)==len(Top_rank_Content)==len(Bottom_rank_Title)==len(Bottom_rank_Content)==2498
 
 
-##### Compare the title of mostly viewed post with highest ranked view
+# $$\noindent$$**Compare the title of mostly viewed post (care value) with highest ranked view (karma value)**
 
-# We defined a function called wordclouds to create wordcloud for the input word information
+# We used word cloud package to generate the following two wordclouds in order to find out the trend conceived in the title of different posts. However, it seems that we have a lot of meaningless words showing up in the wordcloud, which is due to the fact that we have not cleaned the text data in a deeper level. Despite of the fact that the text data are not cleaned very well, we still find some generally used words such as 'post','upvote', but we can hardly draw any conclusion based on the information.
 
-# In[24]:
+# In[49]:
 
 from os import path
 import sys
@@ -399,42 +414,60 @@ def wordclouds(x):
     return Image(filename='/Users/MrG/Capstone/WC.png', height= 1000, width= 618)
 
 
-# In[26]:
+# $$\noindent$$**Top title from the perspective of care value**
+
+# In[50]:
 
 wordclouds(Top_Title)
 
 
-# In[27]:
+# $$\noindent$$**Top title from the perspective of karma value**
+
+# In[51]:
 
 wordclouds(Top_rank_Title)
 
 
-##### Compare the content of mostly viewed post with highest ranked view
+# $$\noindent$$**Compare the content of mostly viewed post with highest ranked view** 
 
-# In[28]:
+# Similarly, we have more meaningless information showing up here, and we even can not find some meaningful words
+
+# $$\noindent$$**Top content from the perspective of care value**
+
+# In[47]:
 
 wordclouds(Top_Content)
 
 
-# In[29]:
+# $$\noindent$$**Top content from the perspective of karma value**
+
+# In[48]:
 
 wordclouds(Top_rank_Content)
 
 
-# Conclusion: It seems the general analysis does not produce enough useful information since it contains too much useless information that should be cleaned from the word pool. Thus, the next step of our research is to conduct a deeper analysis.
+# $$\noindent$$**Intermediate Conclusion ** 
 
-### Deeper Analysis
+# It seems the general analysis does not produce enough useful information since it contains too much useless information that should be cleaned from the word pool. Thus, the next step of our research is to conduct a deep analysis.
 
-# Here we define a function to do text cleaning. Basically, The function will be used several times to extract useful information from the title and content of a post.
+# ###Deep Analysis
 
-# In[30]:
+# In this part, we used nltk package to do a deep text mining:
+# 
+# Firstly, we cleaned the raw text information using regular expression in order to eliminate some useless marks and meaningless messy codes. For example, words like 'https','nan','www' and 'com' are eliminated. Besides, we removed some stop words based on the stop words dictionary from nltk package, which includes 'the','I','you' and so on. After the cleaning part, we are left with more meaningful words.
+# 
+# Then, we used the pos_tag function from nltk package to tag the word with its property, for example, 'like' is tagged as verb, 'night' us tagged as noun and 'America' is tagged as proper noun. Although it is possible to use a training text data set to make the tag process more accurate and relevant with the background of our project, we did not attempt to contruct a training text data set due to time and knowledge constraint. Note that we do have word like 'start' which can be hardly categorized as noun or verb.
+# 
+# Finally, we will have the cleaned version of data and we can use them to derive further conclusions.
+
+# In[1]:
 
 import nltk
 import nltk.data
 from nltk.corpus import stopwords
 import re
 stop = stopwords.words('english')
-stop = stop + ['nan','http','www','xe','com','The','the','WWW','When','Where','\n','\nThe','\nThis','nThe','nthe','nThis','nthis']
+stop = stop + ['nan','http','www','xe','com','The','the','WWW','When','Where']
 def getword(x):
     Important_word = []
     title_token = nltk.regexp_tokenize(str(x), pattern = "\w+(?:[-']\w+)*|'|[-.(]+|\S\w*")
@@ -446,16 +479,26 @@ def getword(x):
     return(word)
 
 
-# Test: an example to see how the function works
-
-# In[1]:
+# In[2]:
 
 # See if the function works well. Note: this is checked by ourselves rather than by nose
-test_word = ['nan','http://www.hao123.com','www is the life','xe is useless','This','\nThe word//: http','com','I know this is the life','remember the name','one 21 guns','no body has any idea']
+test_word = ['nan','http://www.hao123.com','www is the life','xe is useless','This']
 # getword(test_word)
 
 
-# Then, All the cleaned words are put into 'word pool', which are available for further steps
+# All the cleaned words are put into a 'word pool', which makes them available for further steps. Since we are interested in the popularity of posts and characteristics of their texts, we created 8 word pools ( 4 categories):
+# 
+# 1. Titles from the most/least viewed posts (Top_Title and Bottom_Title below)
+# 
+# 
+# 2. Contents from the most/least viewed posts (Top_Content and Bottom_Content below)
+# 
+# 
+# 3. Titles from the highest/lowest ranking posts (Top_rank_Title and Bottom_rank_Title)
+# 
+# 
+# 4. Contents from the highest/lowest ranking posts (Top_rank_Content and Bottom_rank_Content)
+# 
 
 # In[2]:
 
@@ -467,12 +510,10 @@ word_pool_top_content = getword(Top_Content)
 word_pool_bottom_content = getword(Bottom_Content)
 word_pool_top_rank_content = getword(Top_rank_Content)
 word_pool_bottom_rank_content = getword(Bottom_rank_Content)
-# print word_pool_top_content[:100]
+print word_pool_top_content[:100]
 
 
-# Next step is to tag words with its property. The function addtag is used to add the property of words to the tag
-
-# In[33]:
+# In[3]:
 
 def addtag(x):
     tagged=[]
@@ -484,7 +525,6 @@ def addtag(x):
             words = nltk.pos_tag(x[num:])
             tagged +=words
         else:
-            print num, end
             words = nltk.pos_tag(x[num:end])
             tagged +=words
     return(pd.DataFrame(tagged))
@@ -504,8 +544,6 @@ def freqPlot(x, y):
     return Title_key_dist.plot(y)
 
 
-# Now we tag the four word pools that we have drawn previously. We need to say more about it
-
 # In[34]:
 
 tagged_top_content = addtag(word_pool_top_content)
@@ -522,10 +560,15 @@ tagged_top_rank_title = addtag(word_pool_top_rank_title)
 tagged_bottom_rank_title = addtag(word_pool_bottom_rank_title)
 
 
-# # Graphs from Deeper Analysis
+# ### WordCloud
 
-# Write out word_pool so that we can read them into R where we use a more mature wordcloud package to create our word cloud Notice the word_pool2.csv is the name of the output file. We use this output chunk several times but we did not repeatedly writeit in several chunks.
-# Note: we have found an alternative way to create word cloud using python package, the sample is in the bottom of the ipython notebook
+# In order to explore the characterictics of different posts, we decide to use wordcloud and frequency plots to present the 8 word pools that we extracted in previous steps.
+# 
+# Since the tags are generated automatically using the NLTK package, the tags ("class" below) contain different parts of speech that we need to choose from. Each word cloud will contain at most 500 words for the sake of clarity, and the size of each word is proportional to its frequency. To better reflect the contents of texts, we decide to choose "NN" and "NNP" to generate word clouds. "NN" indicates nouns, and "NNP" indicates proper nouns like " Alison" or "Washington". Frequency plots are generated using the word pool without differencing among parts of speech, which gives us a broader look on the texts.
+
+# **Note**
+
+# We also define a function verb to extract verbs from word pools in order to have a peek on the comparison between verbs and nouns.
 
 # In[36]:
 
@@ -549,6 +592,16 @@ def verb(x):
     return(verb_list)
 
 
+# $$\noindent$$**Contents from the Most Viewed Posts**
+
+# For top contents, the word "start" is used most frequently and displayed as the largest, probably because the dictionary treats "start" both as verb and noun, but does not separate the frequency accordingly. 
+# 
+# "YouTube" has a high frequency because many users are posting youtube links on Reddit. The link itself becomes the content.
+
+# $$\noindent$$**Note**
+
+# It's reasonable that the frequency plot does not correspond to the wordcloud, due to the mechanism of different dictionaries used by the NLTK package.
+
 # In[68]:
 
 wordclouds(str(noun(tagged_top_content)))
@@ -558,6 +611,10 @@ wordclouds(str(noun(tagged_top_content)))
 
 freqPlot(Top_Content, 30)
 
+
+# $$\noindent$$**Contents from the Highest Ranked Posts**
+
+# The word cloud below is very similar to the most viewed posts, as there might be a large overlap between the most viewed and the highest ranked posts. Some topic-specific words show up such as "Remix" and "Update".
 
 # In[43]:
 
@@ -569,6 +626,10 @@ wordclouds(str(noun(tagged_top_rank_content)))
 freqPlot(Top_rank_Content, 30)
 
 
+# $$\noindent$$**Contents from the Least Viewed Posts**
+
+# Some frequently used words such as "Start" and "Google" also appear in the least viewed posts. Besides that, most high frequency nouns appeared below do not relate to a specific topic. 
+
 # In[45]:
 
 wordclouds(str(noun(tagged_bottom_content)))
@@ -578,6 +639,10 @@ wordclouds(str(noun(tagged_bottom_content)))
 
 freqPlot(Bottom_Content, 30)
 
+
+# $$\noindent$$**Contents from the Lowest Ranked Posts**
+
+# Different from the least viewed posts, the lowest ranked posts have some words that are more frequently used than the others, such as "Unusual", "Round" and "Wonka". Our interpretation for this difference is that lowest ranked posts have some common features which distinguish themselves from those on the least viewed side.
 
 # In[47]:
 
@@ -589,8 +654,11 @@ wordclouds(str(noun(tagged_bottom_rank_content)))
 freqPlot(Bottom_rank_Content, 30)
 
 
-# The output program :
-# You can change Top_tag to whatever name that indicate the tag file you created before. Anyway, we use the code several times for creating different csv files to generate word cloud plots.
+# $$\noindent$$**Titles from the Most Viewed Posts** 
+
+# It's not surprising to see "Reddit" here as lot of posts are related to the site itself. For example, a typical post could have a title like "Just a quick question on using Reddit, please don't upvote". We also see some other interesting words like "Boston" or "Obama", which might come from heated discussion on the Boston Marathon Bombings and the Presidential Election.
+# 
+# Another big part of high frequency words is social media and gaming. "Facebook" and "Youtube" appear quite frequently. It's also interesting to see "North" and "Korea" show up as two words. Again, this might be a result from our untrained dictionary.
 
 # In[50]:
 
@@ -602,6 +670,8 @@ wordclouds(str(noun(tagged_top_title)))
 freqPlot(Top_Title, 30)
 
 
+# $$\noindent$$**Titles from the Highest Ranked Posts**
+
 # In[52]:
 
 wordclouds(str(noun(tagged_top_rank_title)))
@@ -611,6 +681,8 @@ wordclouds(str(noun(tagged_top_rank_title)))
 
 freqPlot(Top_rank_Title, 30)
 
+
+# $$\noindent$$**Titles from the Least Viewed Posts**
 
 # In[54]:
 
@@ -622,6 +694,8 @@ wordclouds(str(noun(tagged_bottom_title)))
 freqPlot(Bottom_Title, 30)
 
 
+# $$\noindent$$**Titles from the Lowest Ranked Posts**
+
 # In[56]:
 
 wordclouds(str(noun(tagged_bottom_rank_title)))
@@ -632,10 +706,14 @@ wordclouds(str(noun(tagged_bottom_rank_title)))
 freqPlot(Bottom_rank_Title, 30)
 
 
+# $$\noindent$$**Verb Analysis from Most Viewed Post**
+
 # In[65]:
 
 wordclouds(str(verb(tagged_top_content)))
 
+
+# $$\noindent$$**Verb Analysis from Least Viewed Post**
 
 # In[66]:
 
@@ -644,7 +722,7 @@ wordclouds(str(verb(tagged_bottom_content)))
 
 # Also we want to create a distribution plot of the top used words in the title of most popular posts. Similarly, we can create many kinds of similar plot if we are interested in.
 
-# #Test Function Used to Validate Analysi:
+# #Test Function Used to Validate Analysis
 
 # In[62]:
 
@@ -659,6 +737,8 @@ cd ~/Capstone/Nose_extension/
 get_ipython().magic(u'load_ext ipython_nose')
 get_ipython().magic(u'nose -v -x')
 
+
+# #Conclusion
 
 # In[ ]:
 
